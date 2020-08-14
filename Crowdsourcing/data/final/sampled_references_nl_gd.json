@@ -1,0 +1,646 @@
+[
+  {
+    "reference_id": "255eabd22af785718d19bed8bfcacc93db98aaa8",
+    "url": "https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=be-bru&srlanguage=nl&srid=2003-0022/0",
+    "ref_node_pairs": {
+      "publication date": "time:>+2017-10-30T00:00:00Z",
+      "reference URL": "url:>https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=be-bru&srlanguage=nl&srid=2003-0022/0",
+      "stated in": "wikibase-item:>Monuments database->Q28563569"
+    },
+    "language_crawl": "nl",
+    "statement_node": "Q66974704-9e6a162e-4ca1-a6c7-56bb-bf865fd399a7",
+    "subject": "Erasmustuin",
+    "predicate": "is een",
+    "object": "park",
+    "g_id": 0
+  },
+  {
+    "reference_id": "661a20bbfc157c7d32200aef7dda210db7f97160",
+    "url": "https://viaf.org/viaf/280808699",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>280808699"
+    },
+    "language_crawl": "nl",
+    "statement_node": "Q2084349-DFE9C100-64FD-4607-9056-9E409D6A9B83",
+    "subject": "Kees Ivens",
+    "predicate": "WorldCat Identities-identificatiecode",
+    "object": "viaf-280808699",
+    "g_id": 0
+  },
+  {
+    "reference_id": "b89e63e7c62e9498e7c6781599f9852237e40eb1",
+    "url": "https://inventaris.onroerenderfgoed.be/erfgoedobjecten/206600",
+    "ref_node_pairs": {
+      "reference URL": "url:>https://inventaris.onroerenderfgoed.be/erfgoedobjecten/206600"
+    },
+    "language_crawl": "nl",
+    "statement_node": "Q89466383-cc5d062b-4a1c-d224-93f0-23cb10c233c0",
+    "subject": "Vaartstraat 47, Leuven",
+    "predicate": "monumentstatus",
+    "object": "beschermd erfgoed",
+    "g_id": 0
+  },
+  {
+    "reference_id": "5f3bdf17ec1abb74420a616c6d0ccd8d9ce52183",
+    "url": "https://rkd.nl/explore/artists/64426",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>RKDartists->Q17299517",
+      "retrieved": "time:>+2018-03-03T00:00:00Z",
+      "reference URL": "url:>https://rkd.nl/explore/artists/64426"
+    },
+    "language_crawl": "nl",
+    "statement_node": "Q41274534-399DEA7F-AEB7-4282-9184-FCDED4321776",
+    "subject": "Peter Martinus Post",
+    "predicate": "werklocatie",
+    "object": "Amsterdam",
+    "g_id": 0
+  },
+  {
+    "reference_id": "cbcc9509f6e07c01d6e755ecc6c2346fd4e7be88",
+    "url": "https://nl.wikipedia.org/w/index.php?title=Gedaanteverwisselingen_(Harry_Potter)&oldid=42488934",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Dutch Wikipedia->Q10000",
+      "Wikimedia import URL": "url:>https://nl.wikipedia.org/w/index.php?title=Gedaanteverwisselingen_(Harry_Potter)&oldid=42488934"
+    },
+    "language_crawl": "nl",
+    "statement_node": "Q10384139-A7D88223-72DD-4ABD-89DC-E9DE98531A42",
+    "subject": "Transfiguratie",
+    "predicate": "gesproken tekst",
+    "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Transfiguratie%20%28Harry%20Potter%29-article.ogg",
+    "g_id": 0
+  },
+  {
+    "reference_id": "66e1017528268e131de2b2f9a39909da9daf5e68",
+    "url": "https://rkd.nl/explore/artists/43009",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>RKDartists->Q17299517",
+      "retrieved": "time:>+2017-08-27T00:00:00Z",
+      "reference URL": "url:>https://rkd.nl/explore/artists/43009"
+    },
+    "language_crawl": "nl",
+    "statement_node": "Q26214520-940f309e-43f8-46f9-ae9e-1a1f999f5e84",
+    "subject": "Pierre Samuel Louis Joyeux",
+    "predicate": "sekse of geslacht",
+    "object": "mannelijk",
+    "g_id": 0
+  },
+  {
+    "reference_id": "5bc92ed8ce14ca626cbfdae5c899abc3555651c3",
+    "url": "https://data.collectienederland.nl/resource/aggregation/rijkscollectie-rce/AB13140",
+    "ref_node_pairs": {
+      "retrieved": "time:>+2019-04-05T00:00:00Z",
+      "reference URL": "url:>https://data.collectienederland.nl/resource/aggregation/rijkscollectie-rce/AB13140"
+    },
+    "language_crawl": "nl",
+    "statement_node": "Q28100139-059e5c89-660a-443d-a54f-74a232ba283f",
+    "subject": "Het oordeel",
+    "predicate": "titel",
+    "object": "Het oordeel",
+    "g_id": 0
+  },
+  {
+    "reference_id": "5f61104d556b31ff3e793a64472f68d75d731ad0",
+    "url": "http://www.biografischportaal.nl/persoon/12599935",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://www.dbnl.org/auteurs/auteur.php?id=geur003"
+    },
+    "language_crawl": "nl",
+    "statement_node": "Q89352252-D3E09703-0F43-4254-90DB-8CAD8622C69D",
+    "subject": "Jozef Geurts",
+    "predicate": "overlijdensdatum",
+    "object": "1946-01-01T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "de7843937e4c002d0600946e98f44b14c8bbf2c0",
+    "url": "https://rkd.nl/explore/artists/464032",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>RKDartists->Q17299517",
+      "retrieved": "time:>+2019-07-22T00:00:00Z",
+      "reference URL": "url:>https://rkd.nl/explore/artists/464032"
+    },
+    "language_crawl": "nl",
+    "statement_node": "Q60257772-324cf781-a70f-4dcd-b3a5-5c588d80a655",
+    "subject": "Engelbert Gerhard Kluvers",
+    "predicate": "land van nationaliteit",
+    "object": "Koninkrijk der Nederlanden",
+    "g_id": 0
+  },
+  {
+    "reference_id": "9076bbbe372b189d0e8c1e99d2db2e85832cb708",
+    "url": "https://rkd.nl/explore/artists/97825",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>RKDartists->Q17299517",
+      "retrieved": "time:>+2017-08-26T00:00:00Z",
+      "reference URL": "url:>https://rkd.nl/explore/artists/97825"
+    },
+    "language_crawl": "nl",
+    "statement_node": "q1920946-BFBCD921-0272-4F7E-A767-D8784F1A8381",
+    "subject": "George Sugarman",
+    "predicate": "sekse of geslacht",
+    "object": "mannelijk",
+    "g_id": 0
+  },
+  {
+    "reference_id": "c431c873f3576f8c78ad5ff5e39b23d4613cfdd1",
+    "url": "https://rkd.nl/explore/artists/572",
+    "ref_node_pairs": {
+      "retrieved": "time:>+2016-10-15T00:00:00Z",
+      "reference URL": "url:>https://rkd.nl/explore/artists/572"
+    },
+    "language_crawl": "nl",
+    "statement_node": "Q2349057-0218D221-F886-4067-80F1-F1F91BFD7E7D",
+    "subject": "Robert Aerens",
+    "predicate": "geboorteplaats",
+    "object": "Gent",
+    "g_id": 0
+  },
+  {
+    "reference_id": "cac85b741ed6811fd0cd6d157530bfe178e5fb8b",
+    "url": "https://cultureelerfgoed.nl/monumenten/27230",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Dutch register of monuments->Q7477362",
+      "reference URL": "url:>https://cultureelerfgoed.nl/monumenten/27230",
+      "language of work or name": "wikibase-item:>Dutch->Q7411",
+      "retrieved": "time:>+2018-11-06T00:00:00Z"
+    },
+    "language_crawl": "nl",
+    "statement_node": "Q17419783-4F63640D-FDD0-47F9-8C20-42CB3F846DAF",
+    "subject": "Huis met lijstgevel.",
+    "predicate": "postcode",
+    "object": "6211EE",
+    "g_id": 0
+  },
+  {
+    "reference_id": "aaa830f61dd52269a5ad121fac4e47a324c7c6be",
+    "url": "https://viaf.org/viaf/48042712",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+      "VIAF ID": "value:>48042712",
+      "retrieved": "time:>+2018-10-07T00:00:00Z"
+    },
+    "language_crawl": "nl",
+    "statement_node": "Q15452113-54467262-610E-4A8F-AB35-FC50F1D26DBB",
+    "subject": "Paul de Vree",
+    "predicate": "SUDOC-identificatiecode",
+    "object": "080155928",
+    "g_id": 0
+  },
+  {
+    "reference_id": "a40a127cdeec5f6ff0b53ee256253add524dc211",
+    "url": "https://cultureelerfgoed.nl/monumenten/26566",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Dutch register of monuments->Q7477362",
+      "reference URL": "url:>https://cultureelerfgoed.nl/monumenten/26566",
+      "language of work or name": "wikibase-item:>Dutch->Q7411",
+      "retrieved": "time:>+2018-11-06T00:00:00Z"
+    },
+    "language_crawl": "nl",
+    "statement_node": "Q17418369-11717957-981E-49DD-86C8-52A7C5A1DF91",
+    "subject": "Pand met hoog, aan de voorzijde afgewolfd zadeldak en gewitte, ingezwenkte gevel onder getande lijst",
+    "predicate": "postcode",
+    "object": "3155AB",
+    "g_id": 0
+  },
+  {
+    "reference_id": "824a480793019bddf7e22536ffd8ee2dc231bd66",
+    "url": "https://www.rijksmuseum.nl/nl/collectie/SK-A-1773",
+    "ref_node_pairs": {
+      "retrieved": "time:>+2016-09-24T00:00:00Z",
+      "reference URL": "url:>https://www.rijksmuseum.nl/nl/collectie/SK-A-1773"
+    },
+    "language_crawl": "nl",
+    "statement_node": "Q17324785-6148B712-6080-41D2-8789-D95D2215ECA3",
+    "subject": "Herfst",
+    "predicate": "hoogte",
+    "object": "14.6",
+    "g_id": 0
+  },
+  {
+    "reference_id": "07ff60dfd01c9c70dd93e6041b1d11a4766b9dc0",
+    "url": "https://rkd.nl/explore/artists/14866",
+    "ref_node_pairs": {
+      "retrieved": "time:>+2016-10-15T00:00:00Z",
+      "reference URL": "url:>https://rkd.nl/explore/artists/14866"
+    },
+    "language_crawl": "nl",
+    "statement_node": "Q21465097-E0CCE552-7C2A-4AEB-81DE-96743D652B93",
+    "subject": "Claude Andrew Calthrop",
+    "predicate": "overlijdensplaats",
+    "object": "Londen",
+    "g_id": 0
+  },
+  {
+    "reference_id": "4a3fca873ada82d3d570bf96fbca5005b6b6102c",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:6923670%20AND%20SRC:MED&resulttype=core&format=json",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>6923670",
+      "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:6923670%20AND%20SRC:MED&resulttype=core&format=json",
+      "retrieved": "time:>+2019-10-22T00:00:00Z"
+    },
+    "language_crawl": "nl",
+    "statement_node": "Q71962186-FBC4614C-F243-4457-BD2F-ADCD5A3050C6",
+    "subject": "[A patient with hypothermia]",
+    "predicate": "datum van uitgave",
+    "object": "1982-10-01T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "29255124a9355d2d075fdc64c63b1213854faab5",
+    "url": "https://rkd.nl/explore/artists/43108",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>RKDartists->Q17299517",
+      "retrieved": "time:>+2017-08-27T00:00:00Z",
+      "reference URL": "url:>https://rkd.nl/explore/artists/43108"
+    },
+    "language_crawl": "nl",
+    "statement_node": "Q21033945-D5C1DABD-C5B2-456D-8C49-51B5DE499BBB",
+    "subject": "Carl Jungheim",
+    "predicate": "sekse of geslacht",
+    "object": "mannelijk",
+    "g_id": 0
+  },
+  {
+    "reference_id": "fb127153a96465f602cda950eb25f6f7d8493601",
+    "url": "https://www.ecal.nu/?title=archief&mivast=26&mizig=210&miadt=26&micode=0263&miview=inv2",
+    "ref_node_pairs": {
+      "reference URL": "url:>https://www.ecal.nu/?title=archief&mivast=26&mizig=210&miadt=26&micode=0263&miview=inv2"
+    },
+    "language_crawl": "nl",
+    "statement_node": "Q72974-95d5ce62-4b2f-91ee-560b-79b959d42d68",
+    "subject": "Winterswijk",
+    "predicate": "archieflocatie",
+    "object": "Erfgoedcentrum Achterhoek en Liemers",
+    "g_id": 0
+  },
+  {
+    "reference_id": "0e20c34c43b8128ee64bcd98ce75cda3b001c213",
+    "url": "https://rkd.nl/explore/artists/18669",
+    "ref_node_pairs": {
+      "retrieved": "time:>+2016-10-16T00:00:00Z",
+      "reference URL": "url:>https://rkd.nl/explore/artists/18669"
+    },
+    "language_crawl": "nl",
+    "statement_node": "Q6851378-59AE1BB1-3A54-4286-B136-62B8629DF365",
+    "subject": "Miles Edmund Cotman",
+    "predicate": "geboorteplaats",
+    "object": "Norwich",
+    "g_id": 0
+  },
+  {
+    "reference_id": "1da9e43f786cf0cbc9997f3c196a85ce54e4ae4e",
+    "url": "https://rkd.nl/explore/artists/463883",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>RKDartists->Q17299517",
+      "retrieved": "time:>+2019-07-22T00:00:00Z",
+      "reference URL": "url:>https://rkd.nl/explore/artists/463883"
+    },
+    "language_crawl": "nl",
+    "statement_node": "Q60236879-47ca2efe-7e88-4e38-a4a2-140388a05390",
+    "subject": "Willem Herman Andries Kampfraath",
+    "predicate": "land van nationaliteit",
+    "object": "Koninkrijk der Nederlanden",
+    "g_id": 0
+  },
+  {
+    "reference_id": "7966a8e4a839aa6c3e556d32de8d9ba2d561de1c",
+    "url": "https://nl.wikipedia.org/w/index.php?title=Ferdinand_Le_Grelle&oldid=53834975",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Dutch Wikipedia->Q10000",
+      "Wikimedia import URL": "url:>https://nl.wikipedia.org/w/index.php?title=Ferdinand_Le_Grelle&oldid=53834975"
+    },
+    "language_crawl": "nl",
+    "statement_node": "Q17153842-7B29594E-3EAD-49CF-B33A-425E670A976B",
+    "subject": "Ferdinand Le Grelle",
+    "predicate": "geboorteplaats",
+    "object": "Antwerpen",
+    "g_id": 0
+  },
+  {
+    "reference_id": "817d7a725ee6d8bf1ec9e2e39c57668124d2f106",
+    "url": "https://www.rijksmuseum.nl/nl/collectie/SK-A-466",
+    "ref_node_pairs": {
+      "reference URL": "url:>https://www.rijksmuseum.nl/nl/collectie/SK-A-466"
+    },
+    "language_crawl": "nl",
+    "statement_node": "Q17320953-CDC7862B-5B98-401D-9BA5-3F512E93E0D2",
+    "subject": "Venus door Amor gekust",
+    "predicate": "inventarisnummer",
+    "object": "SK-A-466",
+    "g_id": 0
+  },
+  {
+    "reference_id": "f409eb9cf69a9aeb2c3d99f2e592bb67f6413b7b",
+    "url": "http://www.ugentmemorialis.be/catalog/000008016",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://www.ugentmemorialis.be/catalog/000008016",
+      "retrieved": "time:>+2018-06-27T00:00:00Z"
+    },
+    "language_crawl": "nl",
+    "statement_node": "Q55233145-D8A74598-1FEB-448B-BDEA-CFD25A2918B2",
+    "subject": "Joke Baeck",
+    "predicate": "UGentMemorialis-identificatiecode",
+    "object": "000008016",
+    "g_id": 0
+  },
+  {
+    "reference_id": "f3dfe1a42e5fe1e293d2d6f1769074d3afc3b9a4",
+    "url": "https://viaf.org/viaf/73552155",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>73552155"
+    },
+    "language_crawl": "nl",
+    "statement_node": "Q61693474-9C34FB08-1EDA-4957-B4A7-6A579C891EEC",
+    "subject": "Evert Louis Smelik",
+    "predicate": "WorldCat Identities-identificatiecode",
+    "object": "lccn-no2003106639",
+    "g_id": 0
+  },
+  {
+    "reference_id": "c7838565248d79a72705b4e98f05a3d31c0db5c3",
+    "url": "https://rkd.nl/explore/artists/61704",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>RKDartists->Q17299517",
+      "retrieved": "time:>+2017-08-23T00:00:00Z",
+      "reference URL": "url:>https://rkd.nl/explore/artists/61704"
+    },
+    "language_crawl": "nl",
+    "statement_node": "Q2486261-8EB5D334-D3D1-4475-8E13-226220FD0F26",
+    "subject": "Willem Panneels",
+    "predicate": "overlijdensdatum",
+    "object": "1634-07-01T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "7560e9489bc62dcb183cbbb240db938338ebecf5",
+    "url": "https://nl.wikipedia.org/w/index.php?title=Gebouw_Vivaldi&oldid=54356550",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Dutch Wikipedia->Q10000",
+      "Wikimedia import URL": "url:>https://nl.wikipedia.org/w/index.php?title=Gebouw_Vivaldi&oldid=54356550"
+    },
+    "language_crawl": "nl",
+    "statement_node": "Q66224175-7852AD9F-7F2E-432F-851B-E857FAA88562",
+    "subject": "Gebouw Vivaldi",
+    "predicate": "architect",
+    "object": "Peter de Clercq Zubli",
+    "g_id": 0
+  },
+  {
+    "reference_id": "cc38c729f5a11a620edd66dc25bb67427d2d6105",
+    "url": "http://mskgent.be/collection/work/id/1982-K-72",
+    "ref_node_pairs": {
+      "retrieved": "time:>+2016-01-24T00:00:00Z",
+      "reference URL": "url:>http://mskgent.be/collection/work/id/1982-K-72"
+    },
+    "language_crawl": "nl",
+    "statement_node": "Q22243353-FB02AECF-9891-42C0-97BE-D3D96F8BF941",
+    "subject": "Schetsblad uit Schetsboek met figuurstudies",
+    "predicate": "inventarisnummer",
+    "object": "1982-K-72",
+    "g_id": 0
+  },
+  {
+    "reference_id": "9866fa1ad221132c61423783d2bb0af25bc42398",
+    "url": "https://rkd.nl/explore/artists/41971",
+    "ref_node_pairs": {
+      "retrieved": "time:>+2016-10-15T00:00:00Z",
+      "reference URL": "url:>https://rkd.nl/explore/artists/41971"
+    },
+    "language_crawl": "nl",
+    "statement_node": "Q4502554-49D87B07-E92F-479F-8D64-84286FABDC3A",
+    "subject": "Leendert Janzee",
+    "predicate": "overlijdensplaats",
+    "object": "Rotterdam",
+    "g_id": 0
+  },
+  {
+    "reference_id": "5b0778ac80a31c5742c586a33b5a2963ef12bf48",
+    "url": "https://www.nd.nl",
+    "ref_node_pairs": {
+      "retrieved": "time:>+2020-03-12T00:00:00Z",
+      "reference URL": "url:>https://www.nd.nl"
+    },
+    "language_crawl": "nl",
+    "statement_node": "Q689481-E1422CE8-7B50-4068-A8C7-6979137ACF9D",
+    "subject": "Nederlands Dagblad",
+    "predicate": "Twitter-gebruikersnaam",
+    "object": "ndnl",
+    "g_id": 0
+  },
+  {
+    "reference_id": "d13e13bd0bf95e6afa15416297246bb68b014c4e",
+    "url": "http://data.kunsten.be/productions/430511",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://data.kunsten.be/productions/430511"
+    },
+    "language_crawl": "nl",
+    "statement_node": "Q57512389-7D5BE22D-2A9E-411E-A16E-508B79F9EC10",
+    "subject": "Vlaamse Zeep (1995-1996)",
+    "predicate": "datum van eerste uitvoering",
+    "object": "1995-09-24T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "d6ea4b7c880f6f6c83e06edb5b1b249e4aff01e9",
+    "url": "http://albumacademicum.uva.nl/id/id001876",
+    "ref_node_pairs": {
+      "inferred from": "wikibase-item:>Album Academicum->Q63962284",
+      "University of Amsterdam Album Academicum ID": "value:>id001876",
+      "retrieved": "time:>+2019-09-09T00:00:00Z"
+    },
+    "language_crawl": "nl",
+    "statement_node": "q2203823-7A1BBC63-F4D1-4F42-AA43-A412D75F0679",
+    "subject": "Johannes Faber",
+    "predicate": "land van nationaliteit",
+    "object": "Koninkrijk der Nederlanden",
+    "g_id": 0
+  },
+  {
+    "reference_id": "56df3a4b8574c3267e7deab8d7d03973fbc2a3b2",
+    "url": "http://mleuven.be/collection/work/data/C_420",
+    "ref_node_pairs": {
+      "retrieved": "time:>+2016-01-24T00:00:00Z",
+      "reference URL": "url:>http://mleuven.be/collection/work/data/C_420"
+    },
+    "language_crawl": "nl",
+    "statement_node": "Q22255057-A2B620BC-A8A5-4EED-B46B-DE7C46815101",
+    "subject": "Putto met de hoed van de heilige Jacobus de Meerdere",
+    "predicate": "is een",
+    "object": "sculptuur",
+    "g_id": 0
+  },
+  {
+    "reference_id": "3a3d8194d108d034cdc2a771257e99362472f08b",
+    "url": "http://search.museumplantinmoretus.be/Details/collect/217191",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://search.museumplantinmoretus.be/Details/collect/217191"
+    },
+    "language_crawl": "nl",
+    "statement_node": "Q59097321-0F3362B2-3FAB-48D4-996B-B11919BAEBBC",
+    "subject": "Ontwerp voor een kandelaar",
+    "predicate": "inventarisnummer",
+    "object": "CVH.0150.b",
+    "g_id": 0
+  },
+  {
+    "reference_id": "a85633ed8c8fa89a4a3200ca7a8618cc82674414",
+    "url": "https://rkd.nl/explore/artists/26225",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>RKDartists->Q17299517",
+      "retrieved": "time:>+2017-08-27T00:00:00Z",
+      "reference URL": "url:>https://rkd.nl/explore/artists/26225"
+    },
+    "language_crawl": "nl",
+    "statement_node": "Q18225124-7CE9E9BF-FB3A-4B5D-9AB8-D36A1819ED3E",
+    "subject": "Jaap van den Ende",
+    "predicate": "sekse of geslacht",
+    "object": "mannelijk",
+    "g_id": 0
+  },
+  {
+    "reference_id": "4c271bea9140d9999a76f66a7e8c809a7b1ce62c",
+    "url": "https://rkd.nl/explore/artists/8719",
+    "ref_node_pairs": {
+      "retrieved": "time:>+2016-10-01T00:00:00Z",
+      "reference URL": "url:>https://rkd.nl/explore/artists/8719"
+    },
+    "language_crawl": "nl",
+    "statement_node": "Q21543914-71F4A4CF-1E07-4476-B086-4322EA77F670",
+    "subject": "Carlos Blaaker",
+    "predicate": "land van nationaliteit",
+    "object": "Koninkrijk der Nederlanden",
+    "g_id": 0
+  },
+  {
+    "reference_id": "020c7ada045ca75debeb7d7438af1ac96f37fd2b",
+    "url": "http://collectie.nederlandsfotomuseum.nl/fotografen/detail/8f5e3c43-e6fe-1b66-7db7-7a0f1f0fff61",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>online image library Nederlands Fotomuseum->Q78518158",
+      "Nederlands Fotomuseum photographer ID": "value:>8f5e3c43-e6fe-1b66-7db7-7a0f1f0fff61",
+      "retrieved": "time:>+2020-02-20T00:00:00Z"
+    },
+    "language_crawl": "nl",
+    "statement_node": "Q85724975-35B13277-2117-4CFF-B467-A37883BA0EF9",
+    "subject": "Photo. W.M. Notman & Son",
+    "predicate": "werken in collectie",
+    "object": "Nederlands Fotomuseum",
+    "g_id": 0
+  },
+  {
+    "reference_id": "556bf51b820a7b4c4a211d8403900971f3371797",
+    "url": "http://mskgent.be/collection/work/data/1978-M",
+    "ref_node_pairs": {
+      "retrieved": "time:>+2016-01-24T00:00:00Z",
+      "reference URL": "url:>http://mskgent.be/collection/work/data/1978-M"
+    },
+    "language_crawl": "nl",
+    "statement_node": "Q22240855-C52835B8-C658-472A-A9BE-B9A436B20993",
+    "subject": "Het steegje",
+    "predicate": "datum van oprichting of creatie",
+    "object": "1906-01-01T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "699d9384831fcd45d994907cca04db3fa5e0d337",
+    "url": "http://www.biografischportaal.nl/persoon/42767824",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Biografisch Portaal->Q1868372",
+      "Biografisch Portaal van Nederland ID": "value:>42767824",
+      "named as": "value:>Willem Cornelis Alexander Elout van Soeterwoude"
+    },
+    "language_crawl": "nl",
+    "statement_node": "Q76246989-79937D9E-7B59-40C1-90A8-C5D35DA243DA",
+    "subject": "Jonkheer Willem Cornelis Alexander Elout van Soeterwoude",
+    "predicate": "overlijdensdatum",
+    "object": "1903-05-12T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "f675701cec87f8647f11d6434f811b7119a0f5a6",
+    "url": "https://rkd.nl/explore/artists/24099",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>RKDartists->Q17299517",
+      "retrieved": "time:>+2017-08-26T00:00:00Z",
+      "reference URL": "url:>https://rkd.nl/explore/artists/24099"
+    },
+    "language_crawl": "nl",
+    "statement_node": "Q3121175-5DF14AEE-EA6E-4D59-8E6A-9B582CD098E7",
+    "subject": "Gustave Doyen",
+    "predicate": "sekse of geslacht",
+    "object": "mannelijk",
+    "g_id": 0
+  },
+  {
+    "reference_id": "f10194e50e9de01313c3cd336057fde208708e10",
+    "url": "http://www.lakenhal.nl/nl/collectie/s-749",
+    "ref_node_pairs": {
+      "retrieved": "time:>+2016-10-15T00:00:00Z",
+      "reference URL": "url:>http://www.lakenhal.nl/nl/collectie/s-749"
+    },
+    "language_crawl": "nl",
+    "statement_node": "Q27305408-885AA6B2-7F24-451C-9EA6-279001B29E72",
+    "subject": "Wapenschild met zaag en bijl",
+    "predicate": "inventarisnummer",
+    "object": "S 749",
+    "g_id": 0
+  },
+  {
+    "reference_id": "9bad258dab60244de7efde1a1c2677abd14e490e",
+    "url": "https://cultureelerfgoed.nl/monumenten/7322",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Dutch register of monuments->Q7477362",
+      "reference URL": "url:>https://cultureelerfgoed.nl/monumenten/7322",
+      "language of work or name": "wikibase-item:>Dutch->Q7411",
+      "retrieved": "time:>+2018-11-06T00:00:00Z"
+    },
+    "language_crawl": "nl",
+    "statement_node": "Q17319572-94A330EA-6C0C-4250-9D6A-BF3DF6E66B73",
+    "subject": "Pand met lijstgevel",
+    "predicate": "postcode",
+    "object": "1811NB",
+    "g_id": 0
+  },
+  {
+    "reference_id": "662a71845f12430ce5051983dbdfc9e4af1f3393",
+    "url": "http://catteau.collectionkbf.be/nl/cilindervaas-met-ingesnoerde-hals-1?position=233&list=VsIKK-fYXW4G8DiNSYYfW4ASr1aSvh7KLOSEK1e2Cb0",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://catteau.collectionkbf.be/nl/cilindervaas-met-ingesnoerde-hals-1?position=233&list=VsIKK-fYXW4G8DiNSYYfW4ASr1aSvh7KLOSEK1e2Cb0"
+    },
+    "language_crawl": "nl",
+    "statement_node": "Q59417395-F4934BBF-8248-421E-9B5B-A0EC244B1C08",
+    "subject": "Cilindervaas met ingesnoerde hals  (DP 0234)",
+    "predicate": "onderdeel van",
+    "object": "Collectie Charles Catteau",
+    "g_id": 0
+  },
+  {
+    "reference_id": "0af0b378d242c2b28df4cb60fc9400e59005bc0a",
+    "url": "https://rkd.nl/explore/artists/458849",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>RKDartists->Q17299517",
+      "retrieved": "time:>+2017-08-23T00:00:00Z",
+      "reference URL": "url:>https://rkd.nl/explore/artists/458849"
+    },
+    "language_crawl": "nl",
+    "statement_node": "Q4020051-B5848B8C-CE27-4945-A339-F116196625FE",
+    "subject": "William Holl",
+    "predicate": "overlijdensplaats",
+    "object": "Londen",
+    "g_id": 0
+  },
+  {
+    "reference_id": "fff80fe11d01d28f718bd11782ad5e865394fa61",
+    "url": "https://www.rijksmuseum.nl/nl/collectie/SK-C-204",
+    "ref_node_pairs": {
+      "retrieved": "time:>+2019-04-04T00:00:00Z",
+      "reference URL": "url:>https://www.rijksmuseum.nl/nl/collectie/SK-C-204"
+    },
+    "language_crawl": "nl",
+    "statement_node": "Q17342160-7c06fdba-53f2-4c01-bcad-32c8836de4e0",
+    "subject": "Vanitas stilleven",
+    "predicate": "titel",
+    "object": "Vanitas Still Life",
+    "g_id": 0
+  }
+]

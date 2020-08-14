@@ -1,0 +1,996 @@
+[
+  {
+    "reference_id": "85dcf140270f6368791ecd16b1b443cf7a736a91",
+    "url": "https://www.city.osaka.lg.jp/kensetsu/page/0000029256.html",
+    "ref_node_pairs": {
+      "reference URL": "url:>https://www.city.osaka.lg.jp/kensetsu/page/0000029256.html"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q52169279-FC0C3192-7A75-4654-801A-D37387382E22",
+    "subject": "日和橋",
+    "predicate": "全幅",
+    "object": "18",
+    "g_id": 0
+  },
+  {
+    "reference_id": "20eac75700983545ce05a68b9616282222db575a",
+    "url": "http://fukuoka-prize.org/en/laureate/prize/gra/yunus.php",
+    "ref_node_pairs": {
+      "publisher": "wikibase-item:>Fukuoka Asian Culture Prize->Q1323284",
+      "reference URL": "url:>http://fukuoka-prize.org/en/laureate/prize/gra/yunus.php",
+      "title": "value:>Muhammad YUNUS [ Grand Prize 2001 ]"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q43969-55134a6f-4d34-f533-1e62-e57fcef2104c",
+    "subject": "ムハマド・ユヌス",
+    "predicate": "受賞",
+    "object": "福岡アジア文化賞",
+    "g_id": 0
+  },
+  {
+    "reference_id": "8b76793a7fc39c0a012083b159747eb00d858857",
+    "url": "https://www.iri-net.org/loy/loy2009/",
+    "ref_node_pairs": {
+      "reference URL": "url:>https://www.iri-net.org/loy/loy2009/",
+      "retrieved": "time:>+2019-08-20T00:00:00Z"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11440289-4061d96f-4ada-adf9-bb32-47f1609866c0",
+    "subject": "大阪市立中央図書館",
+    "predicate": "受賞",
+    "object": "Library of the Year",
+    "g_id": 0
+  },
+  {
+    "reference_id": "34b4c4d9b13bbfebb0be7de600e9d6a8ddfb88bf",
+    "url": "http://kanji.jitenon.jp/kanjib/747.html",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://kanji.jitenon.jp/kanjib/747.html"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q54901462-126E6545-E68A-485E-B184-656C5550D02D",
+    "subject": "制",
+    "predicate": "画数",
+    "object": "8",
+    "g_id": 0
+  },
+  {
+    "reference_id": "606f61f6fb0c96ababd753fe27f9836568131a41",
+    "url": "http://www.pref.yamagata.jp/ou/kikakushinko/020052/tokei/copy_of_jinkm.html",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Japanese Wikipedia->Q177837",
+      "reference URL": "url:>http://www.pref.yamagata.jp/ou/kikakushinko/020052/tokei/copy_of_jinkm.html",
+      "original language of film or TV show": "wikibase-item:>Japanese->Q5287",
+      "retrieved": "time:>+2019-10-31T00:00:00Z",
+      "title": "value:>山形県の人口と世帯数（推計）（令和元年10月1日現在）について        —        山形県ホームページ"
+    },
+    "language_crawl": "ja",
+    "statement_node": "q1347481-bdbc74fd-2bae-45dd-bf68-42d19a71f101",
+    "subject": "遊佐町",
+    "predicate": "人口",
+    "object": "13250",
+    "g_id": 0
+  },
+  {
+    "reference_id": "7fd5ee06d0c750aefec4f895374746e21ca57b10",
+    "url": "https://ci.nii.ac.jp/books/author?count=20&sortorder=2&name=%E5%88%A5%E5%BA%9C%E6%A1%82",
+    "ref_node_pairs": {
+      "reference URL": "url:>https://ci.nii.ac.jp/books/author?count=20&sortorder=2&name=%E5%88%A5%E5%BA%9C%E6%A1%82",
+      "retrieved": "time:>+2018-03-19T00:00:00Z"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q47500469-071cbea8-43bc-6678-7463-9ca6d545e451",
+    "subject": "別府 桂",
+    "predicate": "CiNii著者識別子",
+    "object": "DA1853154X",
+    "g_id": 0
+  },
+  {
+    "reference_id": "0287903b6ecd8764fc0b06115176025370e9bfc7",
+    "url": "http://npb.jp/bis/players/21723801.html",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://npb.jp/bis/players/21723801.html",
+      "named as": "value:>大島 信雄",
+      "language of work or name": "wikibase-item:>Japanese->Q5287",
+      "retrieved": "time:>+2018-11-25T00:00:00Z"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q7046217-6FC7D468-3C78-4202-8690-4DDD118B46CE",
+    "subject": "大島信雄",
+    "predicate": "質量",
+    "object": "64",
+    "g_id": 0
+  },
+  {
+    "reference_id": "708a18c82187af3d37e1119d837a5cfa106eaa45",
+    "url": "https://web.archive.org/web/20030624093925/http://www.mint.ac/",
+    "ref_node_pairs": {
+      "reference URL": "url:>https://web.archive.org/web/20030624093925/http://www.mint.ac/"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q42844592-d2092ed7-477b-375e-3686-6188c2168815",
+    "subject": "平沢道也",
+    "predicate": "死亡年月日",
+    "object": "2003-06-19T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "a786eebd778987f8cc7969dc11dd9c789cf289ff",
+    "url": "http://npb.jp/bis/players/73375134.html",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://npb.jp/bis/players/73375134.html",
+      "named as": "value:>吉川 尚輝",
+      "language of work or name": "wikibase-item:>Japanese->Q5287",
+      "retrieved": "time:>+2018-11-25T00:00:00Z"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q27920883-7CD628A6-DCEB-4B57-89A9-FB5530C6B64C",
+    "subject": "吉川尚輝",
+    "predicate": "生年月日",
+    "object": "1995-02-08T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "3503148813999dd9bfbd02ddcd55b8078e9faa52",
+    "url": "http://talent.yahoo.co.jp/pf/detail/pp242286",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Nihon Tarento Meikan->Q11506585",
+      "reference URL": "url:>http://talent.yahoo.co.jp/pf/detail/pp242286",
+      "retrieved": "time:>+2016-03-05T00:00:00Z"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11510858-6B1F07A4-0F45-402F-BDFE-9884F9F12942",
+    "subject": "日高薫",
+    "predicate": "血液型",
+    "object": "O型",
+    "g_id": 0
+  },
+  {
+    "reference_id": "a13c65cd749fa684b4125289ac0890810bc1b5aa",
+    "url": "http://talent.yahoo.co.jp/pf/detail/pp201611",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Nihon Tarento Meikan->Q11506585",
+      "reference URL": "url:>http://talent.yahoo.co.jp/pf/detail/pp201611",
+      "retrieved": "time:>+2016-03-05T00:00:00Z"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11475432-8626CD65-8221-4BA8-8C58-C11B8E5F5AB3",
+    "subject": "岩田ゆい",
+    "predicate": "血液型",
+    "object": "AB型",
+    "g_id": 0
+  },
+  {
+    "reference_id": "bcd9ef725404b0bb51f383a37d34f7a1c9c60689",
+    "url": "https://viaf.org/viaf/253351577",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>253351577"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q766580-BDF10C41-5BC0-4FBB-9977-5407702B43DF",
+    "subject": "Adon",
+    "predicate": "WorldCat 識別ID",
+    "object": "lccn-no2001017021",
+    "g_id": 0
+  },
+  {
+    "reference_id": "a829110444400b6c07a348189796857bc0972f5e",
+    "url": "http://www.city.taito.lg.jp/index/kurashi/kotsu/doro/tsushomei.html",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://www.city.taito.lg.jp/index/kurashi/kotsu/doro/tsushomei.html"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q47509842-099798D3-A020-4084-81D5-61B04F7A9B9D",
+    "subject": "蔵前神社通り",
+    "predicate": "読み仮名",
+    "object": "くらまえじんじゃどおり",
+    "g_id": 0
+  },
+  {
+    "reference_id": "a919fc8a2fbbf3740c7dd0f471f4a56e030e217c",
+    "url": "https://www.sie.com/corporate/history/2003_2012.html",
+    "ref_node_pairs": {
+      "reference URL": "url:>https://www.sie.com/corporate/history/2003_2012.html"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q41187-722dba9d-4781-cb49-ac4c-5aef30e732b3",
+    "subject": "ソニー",
+    "predicate": "本部所在地",
+    "object": "港区",
+    "g_id": 0
+  },
+  {
+    "reference_id": "58d0cf508922ae51cf8d7a57975a719a5e7d0355",
+    "url": "http://www.clair.or.jp/j/exchange/shimai/data/detail/1468",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://www.clair.or.jp/j/exchange/shimai/data/detail/1468"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q123376-7c47ec54-4494-4414-b301-3ee78d85aa13",
+    "subject": "愛媛県",
+    "predicate": "姉妹都市",
+    "object": "陝西省",
+    "g_id": 0
+  },
+  {
+    "reference_id": "ed313cdde87a2e2dd54a3eed6605be242796c5e6",
+    "url": "http://www.pref.kagoshima.jp/aa02/pr/gaiyou/shimaitoshi/gihu.html",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://www.pref.kagoshima.jp/aa02/pr/gaiyou/shimaitoshi/gihu.html"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q15701-9dd1fd0f-401d-3a27-a745-cda5a8eac91f",
+    "subject": "鹿児島県",
+    "predicate": "姉妹都市",
+    "object": "岐阜県",
+    "g_id": 0
+  },
+  {
+    "reference_id": "df58362893a3b035853713dfc197426e78d2c840",
+    "url": "http://npb.jp/bis/players/11913846.html",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://npb.jp/bis/players/11913846.html",
+      "named as": "value:>藤本 昌治",
+      "language of work or name": "wikibase-item:>Japanese->Q5287",
+      "retrieved": "time:>+2018-11-24T00:00:00Z"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11459738-444D5034-7D6F-4FE4-B6B4-B39AB1C3FF52",
+    "subject": "小寺昌治",
+    "predicate": "質量",
+    "object": "80",
+    "g_id": 0
+  },
+  {
+    "reference_id": "83c4edac648485fadf67543767fe5a579eda126e",
+    "url": "http://talent.yahoo.co.jp/pf/detail/pp234365",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Nihon Tarento Meikan->Q11506585",
+      "reference URL": "url:>http://talent.yahoo.co.jp/pf/detail/pp234365",
+      "retrieved": "time:>+2016-03-05T00:00:00Z"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q3549496-8388F8F0-2157-4378-9BF6-AC70FF746D03",
+    "subject": "遠野あすか",
+    "predicate": "血液型",
+    "object": "AB型",
+    "g_id": 0
+  },
+  {
+    "reference_id": "d5f470f0888628d19c7e613607876e3d4a0ab3ce",
+    "url": "http://kanji.jitenon.jp/kanjib/981.html",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://kanji.jitenon.jp/kanjib/981.html"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q54918686-4D3F99D0-B544-4868-9D90-2CACC1D95231",
+    "subject": "宝",
+    "predicate": "漢字のレベル",
+    "object": "教育漢字 第6学年",
+    "g_id": 0
+  },
+  {
+    "reference_id": "7baf6cce6fb954b7564392d3dd50f88403a9609a",
+    "url": "http://talent.yahoo.co.jp/pf/detail/pp932",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Nihon Tarento Meikan->Q11506585",
+      "reference URL": "url:>http://talent.yahoo.co.jp/pf/detail/pp932",
+      "retrieved": "time:>+2016-03-05T00:00:00Z"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11619880-56E21798-21A0-4EFB-8C93-BE913B799C97",
+    "subject": "菊池麻衣子",
+    "predicate": "血液型",
+    "object": "O型",
+    "g_id": 0
+  },
+  {
+    "reference_id": "529dbf40adb4a5e8f2ddcf2f495af589ad676c59",
+    "url": "http://www.nanbyou.or.jp/entry/4889",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://www.nanbyou.or.jp/entry/4889",
+      "retrieved": "time:>+2018-12-06T00:00:00Z"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q1544884-9AA52D66-FCE2-4365-A0F0-10C2E4882037",
+    "subject": "レノックス・ガストー症候群",
+    "predicate": "分類",
+    "object": "指定難病",
+    "g_id": 0
+  },
+  {
+    "reference_id": "5ea4df90137da50a351721f5cbc14565acf4d099",
+    "url": "http://talent.yahoo.co.jp/pf/detail/pp203257",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Nihon Tarento Meikan->Q11506585",
+      "reference URL": "url:>http://talent.yahoo.co.jp/pf/detail/pp203257",
+      "retrieved": "time:>+2016-03-05T00:00:00Z"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11363189-0B86B9A3-5017-42F9-9C16-BF6A10B87D39",
+    "subject": "中原裕也",
+    "predicate": "血液型",
+    "object": "O型",
+    "g_id": 0
+  },
+  {
+    "reference_id": "13b74e24d766aeb0397ae497066b611357edf12c",
+    "url": "http://www.isfdb.org/cgi-bin/ea.cgi?233171",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Internet Speculative Fiction Database->Q2629164",
+      "Internet Speculative Fiction Database author ID": "value:>233171",
+      "named as": "value:>岬兄悟",
+      "retrieved": "time:>+2017-10-09T00:00:00Z"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11475725-A8C40B25-C990-411F-89B7-EDC8D34591B0",
+    "subject": "岬兄悟",
+    "predicate": "生年月日",
+    "object": "1954-12-30T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "afd963e98e92dd89338c02b2d379769ee05730b5",
+    "url": "http://talent.yahoo.co.jp/pf/detail/pp169519",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Nihon Tarento Meikan->Q11506585",
+      "reference URL": "url:>http://talent.yahoo.co.jp/pf/detail/pp169519",
+      "retrieved": "time:>+2016-03-05T00:00:00Z"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11521893-C7B736CA-7187-46B8-9E73-AD212FABB2BE",
+    "subject": "杉山彩子",
+    "predicate": "血液型",
+    "object": "O型",
+    "g_id": 0
+  },
+  {
+    "reference_id": "2d22374f9d486c395fd98d724ccf577a997d98a2",
+    "url": "http://www.isfdb.org/cgi-bin/ea.cgi?254524",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Internet Speculative Fiction Database->Q2629164",
+      "Internet Speculative Fiction Database author ID": "value:>254524",
+      "named as": "value:>津原泰水",
+      "retrieved": "time:>+2017-10-09T00:00:00Z"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11555961-29E1B9A8-EE72-41EC-8965-85E1881787C4",
+    "subject": "津原泰水",
+    "predicate": "生年月日",
+    "object": "1964-09-04T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "61070225a5390d7d62e5330e5a9a15ced3e75cde",
+    "url": "http://talent.yahoo.co.jp/pf/detail/pp315692",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Nihon Tarento Meikan->Q11506585",
+      "reference URL": "url:>http://talent.yahoo.co.jp/pf/detail/pp315692",
+      "retrieved": "time:>+2016-03-05T00:00:00Z"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11399444-93062545-1F65-4F6A-9B2C-C00F913A9CED",
+    "subject": "加藤祐子",
+    "predicate": "血液型",
+    "object": "O型",
+    "g_id": 0
+  },
+  {
+    "reference_id": "0155d2dc3678bacd241692b606b4086e89594f91",
+    "url": "http://talent.yahoo.co.jp/pf/detail/pp832",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Nihon Tarento Meikan->Q11506585",
+      "reference URL": "url:>http://talent.yahoo.co.jp/pf/detail/pp832",
+      "retrieved": "time:>+2016-03-05T00:00:00Z"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11473482-A81CCF8C-B590-4A3B-9908-DB6C23D67ED8",
+    "subject": "岡田和子",
+    "predicate": "血液型",
+    "object": "A型",
+    "g_id": 0
+  },
+  {
+    "reference_id": "68d701fd35eddf6618bfc81736b0dbf9fd2627bd",
+    "url": "http://npb.jp/bis/players/03305115.html",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://npb.jp/bis/players/03305115.html",
+      "named as": "value:>Ｏ．リナレス",
+      "language of work or name": "wikibase-item:>Japanese->Q5287",
+      "retrieved": "time:>+2018-11-25T00:00:00Z"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q1385026-B808BA67-36F0-4C19-8C1D-9A7E3288BE5F",
+    "subject": "オマール・リナレス",
+    "predicate": "生年月日",
+    "object": "1967-10-23T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "31b26f496ee9fef0b40e79725f5cc0a1a5e90c91",
+    "url": "https://headlines.yahoo.co.jp/hl?a=20190903-00000151-kyodonews-socc",
+    "ref_node_pairs": {
+      "reference URL": "url:>https://headlines.yahoo.co.jp/hl?a=20190903-00000151-kyodonews-socc",
+      "title": "value:>高校サッカー、松本暁司氏が死去　「赤き血のイレブン」モデル",
+      "language of work or name": "wikibase-item:>Japanese->Q5287"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q1919797-b50df85f-4058-fb16-3e2b-63cc3f66e49f",
+    "subject": "松本暁司",
+    "predicate": "死亡年月日",
+    "object": "2019-09-02T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "56007d3477035f05e2f18be2eafebf41ec68c164",
+    "url": "https://www.nihonkiin.or.jp/player/htm/ki000361.htm",
+    "ref_node_pairs": {
+      "reference URL": "url:>https://www.nihonkiin.or.jp/player/htm/ki000361.htm"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q56348704-5f57c047-494a-1a0c-cfea-124883719bdf",
+    "subject": "羽根しげ子",
+    "predicate": "出生地",
+    "object": "愛知県",
+    "g_id": 0
+  },
+  {
+    "reference_id": "b14cd9aefee9df5f68e29a0f970ba37aa7f767cb",
+    "url": "http://kanji.jitenon.jp/kanji/203.html",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://kanji.jitenon.jp/kanji/203.html"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q54553275-80067194-E88C-412D-97EE-E75D3F39D4D8",
+    "subject": "道",
+    "predicate": "漢字のレベル",
+    "object": "教育漢字 第2学年",
+    "g_id": 0
+  },
+  {
+    "reference_id": "c2daa59a83f999989251bf9507d7c46b84004088",
+    "url": "https://ci.nii.ac.jp/naid/500000357453",
+    "ref_node_pairs": {
+      "reference URL": "url:>https://ci.nii.ac.jp/naid/500000357453",
+      "retrieved": "time:>+2018-05-12T00:00:00Z"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11542185-71d1a51b-468a-1b75-74c2-85b99f188480",
+    "subject": "樋渡雅人",
+    "predicate": "CiNii著者識別子 (論文)",
+    "object": "8000000358584",
+    "g_id": 0
+  },
+  {
+    "reference_id": "9dae30dd5aecf55fa57fa4e27135bd96d0df73c0",
+    "url": "https://www.wjbl.org/player/?pi=844",
+    "ref_node_pairs": {
+      "reference URL": "url:>https://www.wjbl.org/player/?pi=844",
+      "named as": "value:>糸井貴子",
+      "language of work or name": "wikibase-item:>Japanese->Q5287",
+      "retrieved": "time:>+2018-11-25T00:00:00Z"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11604796-4ECC7F34-86B1-4FEB-B593-E65CC47ECF59",
+    "subject": "糸井貴子",
+    "predicate": "ニックネーム",
+    "object": "サン",
+    "g_id": 0
+  },
+  {
+    "reference_id": "6b92c7edcfe10a92a2f6c89a7b63f8d2cc65f271",
+    "url": "http://talent.yahoo.co.jp/pf/detail/pp246352",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Nihon Tarento Meikan->Q11506585",
+      "reference URL": "url:>http://talent.yahoo.co.jp/pf/detail/pp246352",
+      "retrieved": "time:>+2016-03-05T00:00:00Z"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11670906-7AF24090-F825-4FB7-8AB3-A49B9611FC2A",
+    "subject": "高橋ゆかり",
+    "predicate": "血液型",
+    "object": "O型",
+    "g_id": 0
+  },
+  {
+    "reference_id": "6e2e2dec48d9dd11e88ae8acb39a09bd07f9c4f6",
+    "url": "http://www.morioka-u.ac.jp",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://www.morioka-u.ac.jp",
+      "retrieved": "time:>+2019-05-22T00:00:00Z"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11581363-FBFEC473-EB5A-4650-93C3-55A85B7C3290",
+    "subject": "盛岡大学",
+    "predicate": "インスタグラムのユーザー名",
+    "object": "moriokauniversity",
+    "g_id": 0
+  },
+  {
+    "reference_id": "5b9483a99c53ad1cb97b06c179b252dda45920d0",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/25327186",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>25327186",
+      "retrieved": "time:>+2017-08-04T00:00:00Z"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q34766073-01141AC6-5751-4C0B-BDB3-CAD2B5D45F3D",
+    "subject": "Maternal smoking during pregnancy and growth in infancy: a covariance structure analysis.",
+    "predicate": "著者名（文字列）",
+    "object": "Zentaro Yamagata",
+    "g_id": 0
+  },
+  {
+    "reference_id": "ef4f27236bc71733747a1bab010fcf42d6569422",
+    "url": "http://kanji.jitenon.jp/kanjic/1044.html",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://kanji.jitenon.jp/kanjic/1044.html"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q55814754-E4D5E601-3177-49EE-9CF6-AA3F412769D5",
+    "subject": "鑑",
+    "predicate": "漢字のレベル",
+    "object": "常用漢字",
+    "g_id": 0
+  },
+  {
+    "reference_id": "fc269bdd22d6d43e09099e106cd203dd65659143",
+    "url": "https://cbdb.fas.harvard.edu/cbdbapi/person.php?id=0093347",
+    "ref_node_pairs": {
+      "reference URL": "url:>https://cbdb.fas.harvard.edu/cbdbapi/person.php?id=0093347"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q8249793-984beaaa-43e6-9fbf-0738-6e14ce1a244a",
+    "subject": "宋若昭",
+    "predicate": "父親",
+    "object": "宋庭芬",
+    "g_id": 0
+  },
+  {
+    "reference_id": "c8e99be9d2cbebfe22525ca1ce75699bc01414d2",
+    "url": "http://talent.yahoo.co.jp/pf/detail/pp13199",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Nihon Tarento Meikan->Q11506585",
+      "reference URL": "url:>http://talent.yahoo.co.jp/pf/detail/pp13199",
+      "retrieved": "time:>+2016-03-05T00:00:00Z"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11458297-AC711714-4331-411A-BA36-94428ABB0B83",
+    "subject": "寿一実",
+    "predicate": "血液型",
+    "object": "A型",
+    "g_id": 0
+  },
+  {
+    "reference_id": "011e35335271a8c2569a934878e907a942ad5829",
+    "url": "http://npb.jp/bis/players/01703844.html",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://npb.jp/bis/players/01703844.html",
+      "named as": "value:>二宮 至",
+      "language of work or name": "wikibase-item:>Japanese->Q5287",
+      "retrieved": "time:>+2018-11-24T00:00:00Z"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11371513-C123EC03-3D3D-4D67-B042-767087FDC9AD",
+    "subject": "二宮至",
+    "predicate": "生年月日",
+    "object": "1953-11-15T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "c5659cebfb531f4c9efd3c0397a6fa374ab0d411",
+    "url": "http://npb.jp/bis/players/21723825.html",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://npb.jp/bis/players/21723825.html",
+      "named as": "value:>小泉 恒美",
+      "language of work or name": "wikibase-item:>Japanese->Q5287",
+      "retrieved": "time:>+2018-11-24T00:00:00Z"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11462513-0F681F76-5B84-4CF5-BE0D-48348879BF16",
+    "subject": "小泉恒美",
+    "predicate": "質量",
+    "object": "72",
+    "g_id": 0
+  },
+  {
+    "reference_id": "854041c9fd6e7a78aa0ec28ad99eeaaab0e69551",
+    "url": "http://talent.yahoo.co.jp/pf/detail/pp11116",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Nihon Tarento Meikan->Q11506585",
+      "reference URL": "url:>http://talent.yahoo.co.jp/pf/detail/pp11116",
+      "retrieved": "time:>+2016-03-05T00:00:00Z"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q10394580-E416EAD9-4264-4A1F-A976-F5959039012A",
+    "subject": "徳山靖彦",
+    "predicate": "血液型",
+    "object": "A型",
+    "g_id": 0
+  },
+  {
+    "reference_id": "c6ff931bee8f8e3a4c1e50ba2b5a4739661288d9",
+    "url": "http://npb.jp/bis/players/61363842.html",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://npb.jp/bis/players/61363842.html",
+      "named as": "value:>佐藤 博正",
+      "language of work or name": "wikibase-item:>Japanese->Q5287",
+      "retrieved": "time:>+2018-11-24T00:00:00Z"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11383792-5CE5C75A-36E2-4714-BF69-30AE0BA10B2E",
+    "subject": "佐藤博正",
+    "predicate": "全高",
+    "object": "178",
+    "g_id": 0
+  },
+  {
+    "reference_id": "44e86c1c4d428ea655c5c73188a12229b578a194",
+    "url": "http://www.azumi-ghp.jp/about/history/",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://www.azumi-ghp.jp/about/history/"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11450767-26915152-47f8-196f-592f-1c25b9ce24c6",
+    "subject": "北アルプス医療センターあづみ病院",
+    "predicate": "設立日",
+    "object": "1947-08-01T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "ee26c183bfb6dcc731ff670ab1e37cc003d6a6fa",
+    "url": "http://talent.yahoo.co.jp/pf/detail/pp280474",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Nihon Tarento Meikan->Q11506585",
+      "reference URL": "url:>http://talent.yahoo.co.jp/pf/detail/pp280474",
+      "retrieved": "time:>+2016-03-05T00:00:00Z"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q1192587-18E67087-B616-470B-AB46-21AB0ED2CAEA",
+    "subject": "藤江れいな",
+    "predicate": "血液型",
+    "object": "B型",
+    "g_id": 0
+  },
+  {
+    "reference_id": "070a0b045ca0e41a5a7b33e113a0dc8df5eed470",
+    "url": "http://kanji.jitenon.jp/kanjic/1238.html",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://kanji.jitenon.jp/kanjic/1238.html"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q55814503-B108F9D8-8A9F-409D-814C-C70AB72CF2A6",
+    "subject": "範",
+    "predicate": "画数",
+    "object": "15",
+    "g_id": 0
+  },
+  {
+    "reference_id": "fb7518c33caa81e7cc9ffd5b5183086a9a049f46",
+    "url": "http://ja.wikipedia.org/wiki/index.html?oldid=73666029",
+    "ref_node_pairs": {
+      "Wikimedia import URL": "url:>http://ja.wikipedia.org/wiki/index.html?oldid=73666029"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11395574-D99A901A-E960-433B-BEB1-F86EE0206326",
+    "subject": "出口治明",
+    "predicate": "出生地",
+    "object": "津市",
+    "g_id": 0
+  },
+  {
+    "reference_id": "658ffeaa5ee8d1df59efef0a328afc2e39b6bba8",
+    "url": "http://talent.yahoo.co.jp/pf/detail/pp4524",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Nihon Tarento Meikan->Q11506585",
+      "reference URL": "url:>http://talent.yahoo.co.jp/pf/detail/pp4524",
+      "retrieved": "time:>+2016-03-05T00:00:00Z"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11531923-161CBD4D-71A0-4B22-AE38-1A88321E0980",
+    "subject": "松澤重雄",
+    "predicate": "血液型",
+    "object": "AB型",
+    "g_id": 0
+  },
+  {
+    "reference_id": "2d1b699a1a6efcfd25ec8f8e3b7fb60555c8a116",
+    "url": "http://kanji.jitenon.jp/kanjic/1009.html",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://kanji.jitenon.jp/kanjic/1009.html"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q55814906-4CF274E1-7BFD-488C-9C6B-880439502249",
+    "subject": "違",
+    "predicate": "漢字のレベル",
+    "object": "常用漢字",
+    "g_id": 0
+  },
+  {
+    "reference_id": "2cb123743a9ea4ed32f53cef68c836ba7adedc2a",
+    "url": "https://www.asahi.com/articles/ASN445QZXN44UCVL004.html",
+    "ref_node_pairs": {
+      "reference URL": "url:>https://www.asahi.com/articles/ASN445QZXN44UCVL004.html"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q1102013-5f5736e4-42b9-d672-87a0-14f599d5c412",
+    "subject": "C・W・ニコル",
+    "predicate": "死亡地",
+    "object": "長野市",
+    "g_id": 0
+  },
+  {
+    "reference_id": "9e1046022f34fc69bb2c031feb65e4cb9ac25c9a",
+    "url": "http://talent.yahoo.co.jp/pf/detail/pp4735",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Nihon Tarento Meikan->Q11506585",
+      "reference URL": "url:>http://talent.yahoo.co.jp/pf/detail/pp4735",
+      "retrieved": "time:>+2016-03-05T00:00:00Z"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11627123-80289AE2-3507-4600-8EE4-AF8D034B2781",
+    "subject": "西中節也",
+    "predicate": "血液型",
+    "object": "AB型",
+    "g_id": 0
+  },
+  {
+    "reference_id": "ddea1da4e602382ad6b06f5406f16d987f9e3a7a",
+    "url": "https://www.tv-asahi.co.jp/figure-wtt2019/results/",
+    "ref_node_pairs": {
+      "reference URL": "url:>https://www.tv-asahi.co.jp/figure-wtt2019/results/",
+      "retrieved": "time:>+2019-09-23T00:00:00Z"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q68281002-FD93AA13-C65D-48BC-BB70-591CE299DF48",
+    "subject": "2019 ISU World Team Trophy in Figure Skating - ladies' singles",
+    "predicate": "参加者",
+    "object": "ブラディー・テネル",
+    "g_id": 0
+  },
+  {
+    "reference_id": "7767fe1413e944ab21e388095b6c7f55a67358b9",
+    "url": "https://s.maho.jp/profile/629be1g88c08789d/",
+    "ref_node_pairs": {
+      "reference URL": "url:>https://s.maho.jp/profile/629be1g88c08789d/"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q73902009-7421782c-42a0-ef79-e461-2c80df6b8335",
+    "subject": "なっつ",
+    "predicate": "全高",
+    "object": "168",
+    "g_id": 0
+  },
+  {
+    "reference_id": "667051790cf0f3b029df5d570fce0b9cea3770a5",
+    "url": "http://talent.yahoo.co.jp/pf/detail/pp276773",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Nihon Tarento Meikan->Q11506585",
+      "reference URL": "url:>http://talent.yahoo.co.jp/pf/detail/pp276773",
+      "retrieved": "time:>+2016-03-05T00:00:00Z"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11520086-467C924E-4CFC-4987-843C-C069D29D0DB0",
+    "subject": "本多裕香",
+    "predicate": "血液型",
+    "object": "O型",
+    "g_id": 0
+  },
+  {
+    "reference_id": "a8b1babc86a26bb925727e9d155a4d9647988fd6",
+    "url": "http://npb.jp/bis/players/43143802.html",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://npb.jp/bis/players/43143802.html",
+      "named as": "value:>山本 八郎",
+      "language of work or name": "wikibase-item:>Japanese->Q5287",
+      "retrieved": "time:>+2018-11-24T00:00:00Z"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11468883-842B2BF9-5703-41FD-B6BB-B6C8A0AE94C5",
+    "subject": "山本八郎",
+    "predicate": "全高",
+    "object": "174",
+    "g_id": 0
+  },
+  {
+    "reference_id": "dd3f55b45339d2cc55ed3284277c2a17efcbbb45",
+    "url": "http://talent.yahoo.co.jp/pf/detail/pp3195",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Nihon Tarento Meikan->Q11506585",
+      "reference URL": "url:>http://talent.yahoo.co.jp/pf/detail/pp3195",
+      "retrieved": "time:>+2016-03-05T00:00:00Z"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q3482797-2F998DDC-B8AB-48EA-9B30-377B53A1916E",
+    "subject": "森山周一郎",
+    "predicate": "血液型",
+    "object": "A型",
+    "g_id": 0
+  },
+  {
+    "reference_id": "3fd4e16e10e0dcf78984270893b456d18e6c9d99",
+    "url": "https://uma-furusato.com/i_search/detail_horse/_id_0000262926",
+    "ref_node_pairs": {
+      "reference URL": "url:>https://uma-furusato.com/i_search/detail_horse/_id_0000262926",
+      "language of work or name": "wikibase-item:>Japanese->Q5287",
+      "retrieved": "time:>+2018-12-23T00:00:00Z"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11345214-01094f7c-4cf1-fa46-caf6-9b8c7bb352da",
+    "subject": "ヤマニンパラダイス",
+    "predicate": "死亡年月日",
+    "object": "2018-12-07T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "29e2396bcf972c880d7c4c257222d2a1f25e1280",
+    "url": "https://toukei-labo.com/2010/?tdfk=23&city=23106&id=26",
+    "ref_node_pairs": {
+      "reference URL": "url:>https://toukei-labo.com/2010/?tdfk=23&city=23106&id=26"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q64538898-7b8c885f-4dca-32b9-b76e-5dc253e3bf70",
+    "subject": "栄一丁目",
+    "predicate": "位置座標",
+    "object": "Point(136.89507 35.16533)",
+    "g_id": 0
+  },
+  {
+    "reference_id": "83050ff43468066d8cac51b58271781ad9d8fe0f",
+    "url": "http://ja.wikipedia.org/wiki/index.html?oldid=71451753",
+    "ref_node_pairs": {
+      "Wikimedia import URL": "url:>http://ja.wikipedia.org/wiki/index.html?oldid=71451753"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q12588520-DDB9D46C-2CF5-49A0-940C-5C745EA8A4C3",
+    "subject": "金點坤",
+    "predicate": "出生地",
+    "object": "光州広域市",
+    "g_id": 0
+  },
+  {
+    "reference_id": "43a1455e231f247818137723d71116df5d029805",
+    "url": "https://web.archive.org/web/20170330183441/http://www.city.kobe.lg.jp:80/information/municipal/giinnmeibo/sennkyoku/giin_meibo-higashinada.html",
+    "ref_node_pairs": {
+      "reference URL": "url:>https://web.archive.org/web/20170330183441/http://www.city.kobe.lg.jp:80/information/municipal/giinnmeibo/sennkyoku/giin_meibo-higashinada.html"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q50317871-bf6eacd2-474e-ba40-0585-a38188b87090",
+    "subject": "西ただす",
+    "predicate": "読み仮名",
+    "object": "にし ただす",
+    "g_id": 0
+  },
+  {
+    "reference_id": "7bf0b4290f616e4ad01ad520d5732102824cdbe1",
+    "url": "http://talent.yahoo.co.jp/pf/detail/pp16393",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Nihon Tarento Meikan->Q11506585",
+      "reference URL": "url:>http://talent.yahoo.co.jp/pf/detail/pp16393",
+      "retrieved": "time:>+2016-03-05T00:00:00Z"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q3074322-ABD56E9B-E56E-4957-8AE4-7E7248E469F2",
+    "subject": "水野久美",
+    "predicate": "血液型",
+    "object": "A型",
+    "g_id": 0
+  },
+  {
+    "reference_id": "b63324f821857021dd443adb6a8514600a09d95c",
+    "url": "http://germanyinnyc.org/index.php?section=catevent&cat_evt_id=1795&cat_id=9",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://germanyinnyc.org/index.php?section=catevent&cat_evt_id=1795&cat_id=9"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q114012-E12CF26A-2B42-4202-85B2-74463C43F053",
+    "subject": "フェオ・アラダグ",
+    "predicate": "職業",
+    "object": "映画プロデューサー",
+    "g_id": 0
+  },
+  {
+    "reference_id": "5a67432ae06fabbcbbfb76c3090a24c81352a05f",
+    "url": "https://mangaseek.net/person/6876.html",
+    "ref_node_pairs": {
+      "reference URL": "url:>https://mangaseek.net/person/6876.html"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11431717-F5FBE631-5271-423B-91E8-9143CE4492A2",
+    "subject": "夢野れい",
+    "predicate": "性別",
+    "object": "男性",
+    "g_id": 0
+  },
+  {
+    "reference_id": "6211f13064646bc744548f3dcbe2b7c1526308b9",
+    "url": "http://npb.jp/bis/players/61165119.html",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://npb.jp/bis/players/61165119.html",
+      "named as": "value:>内 竜也",
+      "language of work or name": "wikibase-item:>Japanese->Q5287",
+      "retrieved": "time:>+2018-11-25T00:00:00Z"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q7688373-2EE00787-CC75-4745-A21A-5B239A7C8513",
+    "subject": "内竜也",
+    "predicate": "質量",
+    "object": "87",
+    "g_id": 0
+  },
+  {
+    "reference_id": "f305dd7377ff7924e7b4cc182226110bc635c1e6",
+    "url": "http://npb.jp/bis/players/81885137.html",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://npb.jp/bis/players/81885137.html",
+      "named as": "value:>Ｂ．ラヘア",
+      "language of work or name": "wikibase-item:>Japanese->Q5287",
+      "retrieved": "time:>+2018-11-25T00:00:00Z"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q2927165-CF90AF85-C0CC-45FD-ABFA-9DCA0605D58E",
+    "subject": "ブライアン・ラヘアー",
+    "predicate": "質量",
+    "object": "109",
+    "g_id": 0
+  },
+  {
+    "reference_id": "ac0b8a08135cd8fc291746caa611336c265817eb",
+    "url": "http://npb.jp/bis/players/61263820.html",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://npb.jp/bis/players/61263820.html",
+      "named as": "value:>森本 潔",
+      "language of work or name": "wikibase-item:>Japanese->Q5287",
+      "retrieved": "time:>+2018-11-25T00:00:00Z"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11539818-B1FF4F00-12D1-456C-A7BE-E8FE08F698F6",
+    "subject": "森本潔",
+    "predicate": "生年月日",
+    "object": "1942-04-13T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "2003cb1d8a0b8cad7e67aa6cb4da1c6f05eff6b9",
+    "url": "http://talent.yahoo.co.jp/pf/detail/pp213709",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Nihon Tarento Meikan->Q11506585",
+      "reference URL": "url:>http://talent.yahoo.co.jp/pf/detail/pp213709",
+      "retrieved": "time:>+2016-03-05T00:00:00Z"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11454927-9E02A039-850A-4F92-B10E-0A4B4E311731",
+    "subject": "宮本隆治",
+    "predicate": "血液型",
+    "object": "AB型",
+    "g_id": 0
+  },
+  {
+    "reference_id": "e3952e924ee3a50a9c52fc5ecd3c81a675c3d130",
+    "url": "http://www.sdk.co.jp/about/corporate/outline.html",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://www.sdk.co.jp/about/corporate/outline.html"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q905412-193AA407-32E0-48C1-8AB4-8D2A57000CE0",
+    "subject": "昭和電工",
+    "predicate": "従業員数",
+    "object": "10864",
+    "g_id": 0
+  },
+  {
+    "reference_id": "5ec737fd4b02c0833c01f58f5437343408a8ab86",
+    "url": "http://www.city.matsudo.chiba.jp/shisei/senkyo/kekka/261116_shigi.html",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://www.city.matsudo.chiba.jp/shisei/senkyo/kekka/261116_shigi.html",
+      "retrieved": "time:>+2018-10-13T00:00:00Z"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q29592118-c59f761c-49c2-f855-c18d-c51a25731c5f",
+    "subject": "小沢暁民",
+    "predicate": "公職",
+    "object": "日本の地方議会議員",
+    "g_id": 0
+  }
+]

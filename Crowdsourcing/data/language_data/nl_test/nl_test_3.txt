@@ -1,0 +1,100 @@
+    {
+        "question": "___ we een pizza bestellen?",
+        "options": [
+            "Zullen",
+            "Zallen",
+            "Worden",
+            "Werden"
+        ],
+        "answer": -1
+    },
+    {
+        "question": "Hier de eerste straat rechts en dan bent u ___ al.",
+        "options": [
+            "daar",
+            "er",
+            "het",
+            "die"
+        ],
+        "answer": -1
+    },
+    {
+        "question": "Wij gaan met de trein ___ het goedkoper is.",
+        "options": [
+            "hoewel",
+            "want",
+            "maar",
+            "omdat"
+        ],
+        "answer": -1
+    },
+    {
+        "question": "Wij ___ volgend jaar verhuizen.",
+        "options": [
+            "gaan",
+            "zijn",
+            "hebben",
+            "hoeven"
+        ],
+        "answer": -1
+    },
+    {
+        "question": "Wat ben je nu ___ plan?",
+        "options": [
+            "voor",
+            "van",
+            "met",
+            "aan"
+        ],
+        "answer": -1
+    },
+    {
+        "question": "Wat is ze ___ het doen?",
+        "options": [
+            "aan",
+            "in",
+            "met",
+            "voor"
+        ],
+        "answer": -1
+    },
+    {
+        "question": "Kon je al lezen ___ je vijf was?",
+        "options": [
+            "toen",
+            "als",
+            "want",
+            "dan"
+        ],
+        "answer": -1
+    },
+    {
+        "question": "Heleen ___ piano te spelen.",
+        "options": [
+            "gaat",
+            "loopt",
+            "zit",
+            "staat"
+        ],
+        "answer": -1
+    },
+    {
+        "question": "Wanneer ___ je ___?",
+        "options": [
+            "heb / jarig  .",
+            "ben / jarig",
+            "heb / verjaardag",
+            "ben / verjaardag"
+        ],
+        "answer": -1
+    },
+    {
+        "question": "Die ___ je helemaal niet op te bellen!",
+        "options": [
+            "moet",
+            "hoef",
+            "wil",
+            "mag"
+        ],
+        "answer": -1
+    }

@@ -1,0 +1,4503 @@
+[
+  {
+    "_id": "8446b3cd-6e7e-41cf-a30f-515ca9f007c9",
+    "taskSet": [
+      {
+        "reference_id": "86c422ffab4ce2f61165427a0a47ed4b13605380",
+        "url": "http://resolver.smak.be/collection/work/data/3289",
+        "ref_node_pairs": {
+          "retrieved": "time:>+2016-01-25T00:00:00Z",
+          "reference URL": "url:>http://resolver.smak.be/collection/work/data/3289"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q22262052-D9CBA97E-DA5C-4C93-83E0-D2E0B290DF99",
+        "subject": "Nimba",
+        "predicate": "creador",
+        "object": "Hugo Debaere",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              0
+            ],
+            "difficulty": -1,
+            "reason": [
+              0,
+              2,
+              3,
+              5,
+              6
+            ]
+          },
+          "authorit": {
+            "author": -1,
+            "publisher": -1,
+            "sub_publisher": -1
+          }
+        }
+      },
+      {
+        "reference_id": "ea809a8762b379d8926a5c1a77f05f8b884caf47",
+        "url": "http://www.congreso.es/portal/page/portal/Congreso/Congreso/Iniciativas?_piref73_2148295_73_1335437_1335437.next_page=/wc/servidorCGI&CMD=VERLST&BASE=DIPH&FMT=DIPHXD1S.fmt&DOCS=3-3&DOCORDER=FIFO&OPDEF=Y&NUM1=&DES1=&QUERY=%28104670%29.NDIP.",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://www.congreso.es/portal/page/portal/Congreso/Congreso/Iniciativas?_piref73_2148295_73_1335437_1335437.next_page=/wc/servidorCGI&CMD=VERLST&BASE=DIPH&FMT=DIPHXD1S.fmt&DOCS=3-3&DOCORDER=FIFO&OPDEF=Y&NUM1=&DES1=&QUERY=%28104670%29.NDIP.",
+          "retrieved": "time:>+2020-01-20T00:00:00Z"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q86929298-A9798AFB-0E5D-420A-8564-1C41CD42C9B6",
+        "subject": "Miguel Sanchez Ca\u00f1ete Salazar",
+        "predicate": "lugar de nacimiento",
+        "object": "Alcal\u00e1 la Real",
+        "g_id": 0
+      },
+      {
+        "reference_id": "a428461a8ad2471ba88c7e9e133dc21b51410e7e",
+        "url": "https://www.museodelprado.es/coleccion/obra-de-arte/marina/13a947d7-65d6-4046-9790-e384a8253389",
+        "ref_node_pairs": {
+          "reference URL": "url:>https://www.museodelprado.es/coleccion/obra-de-arte/marina/13a947d7-65d6-4046-9790-e384a8253389",
+          "retrieved": "time:>+2018-12-19T00:00:00Z"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q59858866-22E1B5C0-D0A4-4B00-8AB0-2DB90FBE35F6",
+        "subject": "Marina",
+        "predicate": "c\u00f3digo del cat\u00e1logo",
+        "object": "57V",
+        "g_id": 0
+      },
+      {
+        "reference_id": "4ab88c997a2c0e8836db98f15fbc73a3017f30be",
+        "url": "http://sedici.unlp.edu.ar/handle/10915/79453",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Institutional repository of the University of La Plata->Q6126111",
+          "reference URL": "url:>http://sedici.unlp.edu.ar/handle/10915/79453"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q80713507-7421D05F-07C1-4DB7-B758-FF7ACDE83DFD",
+        "subject": "Ensambles de peces en los bosques de kelp de Macrocystis pyrifera en el Canal Beagle, Tierra del Fuego: estructura comunitaria y variaci\u00f3n espacio-temporal",
+        "predicate": "t\u00edtulo",
+        "object": "Ensambles de peces en los bosques de kelp de Macrocystis pyrifera en el Canal Beagle, Tierra del Fuego: estructura comunitaria y variaci\u00f3n espacio-temporal",
+        "g_id": 0
+      },
+      {
+        "reference_id": "71e6b8db044c12fb527356bdaa832771d62b47dc",
+        "url": "http://www.congreso.es/portal/page/portal/Congreso/Congreso/Iniciativas?_piref73_2148295_73_1335437_1335437.next_page=/wc/servidorCGI&CMD=VERLST&BASE=DIPH&FMT=DIPHXD1S.fmt&DOCS=1-1&DOCORDER=FIFO&OPDEF=Y&NUM1=&DES1=&QUERY=%28110990%29.NDIP.",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://www.congreso.es/portal/page/portal/Congreso/Congreso/Iniciativas?_piref73_2148295_73_1335437_1335437.next_page=/wc/servidorCGI&CMD=VERLST&BASE=DIPH&FMT=DIPHXD1S.fmt&DOCS=1-1&DOCORDER=FIFO&OPDEF=Y&NUM1=&DES1=&QUERY=%28110990%29.NDIP.",
+          "retrieved": "time:>+2020-01-20T00:00:00Z"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q86930432-3C2F1FD6-1F87-4629-8C08-FB99117C7C83",
+        "subject": "Luis Soriano Rodriguez",
+        "predicate": "lugar de trabajo",
+        "object": "Madrid",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              0,
+              1
+            ],
+            "difficulty": -1,
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              0,1
+            ],
+            "publisher": [
+              2,4
+            ],
+            "sub_publisher": -1
+          }
+        }
+      },
+      {
+        "reference_id": "4e9b4ea51a1792a1653e7843505660a0cf5a4657",
+        "url": "https://www.museodelprado.es/coleccion/obra-de-arte/diana-y-sus-ninfas-sorprendidas-en-el-bao-por/a2bd1734-7f19-47ca-b0e3-78c0eeef2d34",
+        "ref_node_pairs": {
+          "reference URL": "url:>https://www.museodelprado.es/coleccion/obra-de-arte/diana-y-sus-ninfas-sorprendidas-en-el-bao-por/a2bd1734-7f19-47ca-b0e3-78c0eeef2d34",
+          "retrieved": "time:>+2018-12-15T00:00:00Z"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q59770915-1CC77A4D-E070-4D91-B4AB-3E9ACD570F34",
+        "subject": "Diana y sus ninfas sorprendidas en el ba\u00f1o por Acte\u00f3n",
+        "predicate": "c\u00f3digo del cat\u00e1logo",
+        "object": "13",
+        "g_id": 0
+      }
+    ]
+  },
+  {
+    "_id": "6d7c8225-c479-43b1-bf08-d96dff8cb39c",
+    "taskSet": [
+      {
+        "reference_id": "e681fb75c15115e8479a745238f2ab277596165c",
+        "url": "http://datos.bne.es/resource/XX1526218",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Biblioteca Nacional de Espa\u00f1a->Q750403",
+          "Biblioteca Nacional de Espa\u00f1a ID": "value:>XX1526218",
+          "named as": "value:>Arsenio Linares y Pombo"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q4796482-B6567FAB-BA35-4AB0-B95B-95A992539150",
+        "subject": "Arsenio Linares y Pombo",
+        "predicate": "fecha de fallecimiento",
+        "object": "1914-01-01T00:00:00Z",
+        "g_id": 0
+      },
+      {
+        "reference_id": "0d1d83c3cc5183f6733a472e72d74328ed6ad34b",
+        "url": "https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=es&srlang=es&srid=RI-55-0000418",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Monuments database->Q28563569",
+          "publication date": "time:>+2017-11-13T00:00:00Z",
+          "reference URL": "url:>https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=es&srlang=es&srid=RI-55-0000418"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q43177410-A6C5D86C-7215-4048-97FA-BF604D7D6731",
+        "subject": "Zona Arqueol\u00f3gica Roque de Tenegu\u00eda",
+        "predicate": "coordenadas",
+        "object": "Point(-17.856454 28.480969)",
+        "g_id": 0
+      },
+      {
+        "reference_id": "571ee2d19a4a7fbb94a1dab5fd81eefa04d93c30",
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:5989072%20AND%20SRC:MED&resulttype=core&format=json",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+          "PubMed ID": "value:>5989072",
+          "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:5989072%20AND%20SRC:MED&resulttype=core&format=json",
+          "retrieved": "time:>+2019-10-30T00:00:00Z"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q72958988-ED106DCF-7C8F-403E-96FB-5B6959939A94",
+        "subject": "[Treatment of mesenteric venous thrombosis]",
+        "predicate": "publicado en",
+        "object": "Cirug\u00eda y cirujanos",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              1
+            ],
+            "difficulty": [
+              3,
+              4
+            ],
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              1
+            ],
+            "publisher": [
+              0,1,2
+            ],
+            "sub_publisher": -1
+          }
+        }
+      },
+      {
+        "reference_id": "42d41848d8614366f4d6c51d75223725abe945d7",
+        "url": "http://autores.uy/autor/14673",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://autores.uy/autor/14673"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q56671096-335787D8-8233-42EB-970B-91697367B16A",
+        "subject": "Rosario Pita Barbotto",
+        "predicate": "lugar de nacimiento",
+        "object": "Uruguay",
+        "g_id": 0
+      },
+      {
+        "reference_id": "0b5368d9d6cda8afa5308b1e3e7deaae30b99ec8",
+        "url": "https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=es&srlang=es&srid=RI-51-0008096",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Monuments database->Q28563569",
+          "publication date": "time:>+2017-11-13T00:00:00Z",
+          "reference URL": "url:>https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=es&srlang=es&srid=RI-51-0008096"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q23649195-2FE89E22-81EE-46D0-ACD7-17E3D44F9455",
+        "subject": "Restos de la Torre del Castillo de Almayate",
+        "predicate": "estatus patrimonial",
+        "object": "Bien de Inter\u00e9s Cultural",
+        "g_id": 0
+      },
+      {
+        "reference_id": "4f563cf36255c085f625ee5467627b1700fe2b5f",
+        "url": "http://eduwp.edu.gva.es/patrimonio-cultural/ficha-inmueble.php?id=2927&lang=es",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://eduwp.edu.gva.es/patrimonio-cultural/ficha-inmueble.php?id=2927&lang=es"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q9007628-5FCA830E-EAF9-4DA1-8950-FF383BD9209F",
+        "subject": "iglesia de la Asunci\u00f3n de la Virgen (Cervera del Maestre)",
+        "predicate": "estatus patrimonial",
+        "object": "Bien de Relevancia Local",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              1
+            ],
+            "difficulty": [
+              2,
+              3,
+              4
+            ],
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              0,1
+            ],
+            "publisher": [
+              0,1,
+              2,4
+            ],
+            "sub_publisher": -1
+          }
+        }
+      }
+    ]
+  },
+  {
+    "_id": "c194c1c8-6fb1-44ca-92ab-9b2db9ae5dfe",
+    "taskSet": [
+      {
+        "reference_id": "da5be3f9b27fbd29a226c1a8692f05fa3c485b83",
+        "url": "https://es.wikipedia.org/w/index.php?title=Azumi_Asakura&oldid=114132230",
+        "ref_node_pairs": {
+          "imported from Wikimedia project": "wikibase-item:>Spanish Wikipedia->Q8449",
+          "Wikimedia import URL": "url:>https://es.wikipedia.org/w/index.php?title=Azumi_Asakura&oldid=114132230"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q8191313-EC86EBF2-2993-4679-BE59-7BBAF2B9E9DA",
+        "subject": "Azumi Asakura",
+        "predicate": "nombre de usuario en Ameblo",
+        "object": "asakura-azumi",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              0,
+              1
+            ],
+            "difficulty": -1,
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              1,2
+            ],
+            "publisher": [
+              1,
+              4
+            ],
+            "sub_publisher": -1
+          }
+        }
+      },
+      {
+        "reference_id": "bec6c6ed1429155f6f04c4ee946d3891c6a29ef1",
+        "url": "https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=cl&srlang=es&srid=749",
+        "ref_node_pairs": {
+          "reference URL": "url:>https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=cl&srlang=es&srid=749",
+          "stated in": "wikibase-item:>Monuments database->Q28563569",
+          "publication date": "time:>+2017-11-10T00:00:00Z"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q42898389-77C76643-94B9-47C4-BCC7-723DEAD49236",
+        "subject": "Casona Mardones",
+        "predicate": "ID Wiki Loves Monuments",
+        "object": "CL-749",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              0,
+              1
+            ],
+            "difficulty": -1,
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              1,
+              2
+            ],
+            "publisher": [
+              1,
+              4
+            ],
+            "sub_publisher": -1
+          }
+        }
+      },
+      {
+        "reference_id": "c066c8b491702dd9e9fe9e570138ce45b814810b",
+        "url": "https://www.museodelprado.es/en/the-collection/art-work/departure-of-charles-of-bourbon-for-spain-seen/952abb29-c741-4ba1-88d2-6b87092dc1b1",
+        "ref_node_pairs": {
+          "retrieved": "time:>+2020-03-03T00:00:00Z",
+          "reference URL": "url:>https://www.museodelprado.es/en/the-collection/art-work/departure-of-charles-of-bourbon-for-spain-seen/952abb29-c741-4ba1-88d2-6b87092dc1b1"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q19904766-81BB3070-97E5-45F5-A6D9-B97043C0DFD5",
+        "subject": "Carlos III leaving the Port of Naples, as Seen from the Land",
+        "predicate": "representa a",
+        "object": "transporte naval",
+        "g_id": 0
+      },
+      {
+        "reference_id": "78dea3692b86b5eed34f3b066c49ff2ee323f2bf",
+        "url": "https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=es&srlang=es&srid=RI-51-0001819",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Monuments database->Q28563569",
+          "publication date": "time:>+2017-11-13T00:00:00Z",
+          "reference URL": "url:>https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=es&srlang=es&srid=RI-51-0001819"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q43096116-5FB94A66-4E3B-43C4-B62F-28D857C2B32D",
+        "subject": "Talayot de Sa Terra Grossa (Can Marilla)",
+        "predicate": "situado en la entidad territorial administrativa",
+        "object": "Binisalem",
+        "g_id": 0
+      },
+      {
+        "reference_id": "e788c741e4c9d9c7c419d8782e499eb4e9de7821",
+        "url": "http://datos.bne.es/resource/XX1055059",
+        "ref_node_pairs": {
+          "Biblioteca Nacional de Espa\u00f1a ID": "value:>XX1055059",
+          "named as": "value:>Francesc Mariner",
+          "retrieved": "time:>+2017-10-09T00:00:00Z"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q3080852-0BC3ABC1-B16B-4C50-8100-289FA1A85FDE",
+        "subject": "Francesc Mariner",
+        "predicate": "fecha de nacimiento",
+        "object": "1720-01-01T00:00:00Z",
+        "g_id": 0
+      },
+      {
+        "reference_id": "f0269687f861e707aa4893632b35bb1ae720571e",
+        "url": "https://wikidata-externalid-url.toolforge.org/?p=4638&url_prefix=http://www.thepeerage.com/&id=p9370.htm#i93693",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>The Peerage->Q21401824",
+          "The Peerage person ID": "value:>p9370.htm#i93693",
+          "named as": "value:>Maria Amparo de los Desamparados Mu\u00f1oz y de Borb\u00f3n, Condessa de Viste Allegre"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q2701890-5C34851B-14D9-49E3-B9E8-3D8BB67A8308",
+        "subject": "Mar\u00eda Amparo Mu\u00f1oz y Borb\u00f3n",
+        "predicate": "fecha de nacimiento",
+        "object": "1834-11-17T00:00:00Z",
+        "g_id": 0
+      }
+    ]
+  },
+  {
+    "_id": "b28bb4ba-7de2-40cb-b28a-e49226f41566",
+    "taskSet": [
+      {
+        "reference_id": "eb7e1589022663fadb32a267a09708754ff058b1",
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:19658110%20AND%20SRC:MED&resulttype=core&format=json",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+          "PubMed ID": "value:>19658110",
+          "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:19658110%20AND%20SRC:MED&resulttype=core&format=json",
+          "retrieved": "time:>+2020-02-04T00:00:00Z"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q63346795-615EE940-D08F-405A-ADD9-B68ADDB23440",
+        "subject": "Noninvasive ventilation with high pressures in children with acute respiratory failure",
+        "predicate": "identificador PubMed",
+        "object": "19658110",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              1
+            ],
+            "difficulty": [
+              3,
+              4
+            ],
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              1
+            ],
+            "publisher": [
+              0,1,2
+            ],
+            "sub_publisher": -1
+          }
+        }
+      },
+      {
+        "reference_id": "673a3c5c0b91acd1d60e48fcc5257a2b4c8f36e3",
+        "url": "http://sedici.unlp.edu.ar/handle/10915/19948",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Institutional repository of the University of La Plata->Q6126111",
+          "reference URL": "url:>http://sedici.unlp.edu.ar/handle/10915/19948"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q80719091-5587B62C-2E6E-4859-8BD8-C8C3DF8FDFE1",
+        "subject": "Calidad panadera de variedades de trigo puras y sus mezclas",
+        "predicate": "subt\u00edtulo",
+        "object": "Influencia del agregado de aditivos",
+        "g_id": 0
+      },
+      {
+        "reference_id": "c176d6a1f398a0c5c805faa88e125887d832cd7a",
+        "url": "http://autores.uy/autor/14686",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://autores.uy/autor/14686"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q56671064-750708EA-52D7-473E-848E-27E189F719B4",
+        "subject": "Amelia Merladett",
+        "predicate": "fecha de nacimiento",
+        "object": "1939-11-22T00:00:00Z",
+        "g_id": 0
+      },
+      {
+        "reference_id": "dc9041bd7458f2c1a1b56fc8e7b3476681333fd8",
+        "url": "https://es.wikipedia.org/w/index.php?title=Banco_de_Tierra_del_Fuego&oldid=112597822",
+        "ref_node_pairs": {
+          "imported from Wikimedia project": "wikibase-item:>Spanish Wikipedia->Q8449",
+          "Wikimedia import URL": "url:>https://es.wikipedia.org/w/index.php?title=Banco_de_Tierra_del_Fuego&oldid=112597822"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q8241361-1D52037F-EB6E-4D88-96C1-F018B96D45BF",
+        "subject": "Banco de Tierra del Fuego",
+        "predicate": "p\u00e1gina web oficial",
+        "object": "http://www.btf.com.ar/",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              1
+            ],
+            "difficulty": [
+              2,
+              3,
+              4
+            ],
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              1,2
+            ],
+            "publisher": [
+              1,
+              4
+            ],
+            "sub_publisher": -1
+          }
+        }
+      },
+      {
+        "reference_id": "aea06c175f137a1736523dbf6ca170caf4d8b4c7",
+        "url": "https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=es&srlang=es&srid=RI-51-0001519",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Monuments database->Q28563569",
+          "publication date": "time:>+2017-11-13T00:00:00Z",
+          "reference URL": "url:>https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=es&srlang=es&srid=RI-51-0001519"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q42567541-52C78967-032D-4F4C-9CFE-2D2D2403104C",
+        "subject": "Pilar San Juan Harri",
+        "predicate": "pa\u00eds",
+        "object": "Espa\u00f1a",
+        "g_id": 0
+      },
+      {
+        "reference_id": "c3966397bb985d092d26e822f1c41153a4eff090",
+        "url": "http://calificaciones.incaa.gob.ar",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://calificaciones.incaa.gob.ar"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q284949-c505ce76-459c-72ac-2a0a-5333ec39dfdb",
+        "subject": "Ciudad en celo",
+        "predicate": "calificaci\u00f3n INCAA",
+        "object": "+13",
+        "g_id": 0
+      }
+    ]
+  },
+  {
+    "_id": "188366d3-cd08-4673-948c-339dc27b6153",
+    "taskSet": [
+      {
+        "reference_id": "cd5a154e98778edafc84e5a9e0e8ed1a8b900b0f",
+        "url": "http://www.boe.es/buscar/act.php?id=BOE-A-1925-2317",
+        "ref_node_pairs": {
+          "BOE ID": "value:>BOE-A-1925-2317"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q20014607-6e2430b7-45f7-3055-f0ae-48f4ca5e20f7",
+        "subject": "Domingo de Orueta y Duarte",
+        "predicate": "cargo ocupado",
+        "object": "Director del Instituto Geol\u00f3gico y Minero de Espa\u00f1a",
+        "g_id": 0
+      },
+      {
+        "reference_id": "14bc084c0f6fd785bc1fa71e97277d0f349915cd",
+        "url": "https://www.cuitonline.com/detalle/27223718677/grinspan-javier-mauro-isaac.html",
+        "ref_node_pairs": {
+          "reference URL": "url:>https://www.cuitonline.com/detalle/27223718677/grinspan-javier-mauro-isaac.html"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q3301723-680e4e1a-4cd5-ccc0-88ed-cb5f7102397d",
+        "subject": "Mauro Cabral",
+        "predicate": "nombre en el idioma nativo",
+        "object": "Javier Mauro Isaac Grinspan Siriczman",
+        "g_id": 0
+      },
+      {
+        "reference_id": "e888fb73b17c8efe45c96660837221d1b24492a1",
+        "url": "http://datos.bne.es/persona/XX852194.html",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://datos.bne.es/persona/XX852194.html",
+          "retrieved": "time:>+2018-07-21T00:00:00Z"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q55688274-1F77EBDC-0AA8-4E36-8DF1-CE3AC966BF10",
+        "subject": "Germ\u00e1n Belmonte Machado",
+        "predicate": "identificador BNE",
+        "object": "XX852194",
+        "g_id": 0
+      },
+      {
+        "reference_id": "eb7fb12ed8e3156462d422dbd84d947d969f95ea",
+        "url": "https://viaf.org/viaf/59031134",
+        "ref_node_pairs": {
+          "VIAF ID": "value:>59031134"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q6458691-C0BFBB96-F1A7-45BF-8DEA-2FA1821190BD",
+        "subject": "Kike Turr\u00f3n",
+        "predicate": "ID WorldCat de identidades",
+        "object": "lccn-nr2004005394",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              1
+            ],
+            "difficulty": [
+              2,
+              3,
+              4
+            ],
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              1
+            ],
+            "publisher": [
+              0,1,2,
+              4
+            ],
+            "sub_publisher": -1
+          }
+        }
+      },
+      {
+        "reference_id": "7c01f6c96309dafae624b9c4489f40bf2430069e",
+        "url": "https://www.museodelprado.es/coleccion/obra-de-arte/parabola-de-la-cizaa/c1ff1bb6-1205-4ae8-a428-7e6bdbe05d6a",
+        "ref_node_pairs": {
+          "reference URL": "url:>https://www.museodelprado.es/coleccion/obra-de-arte/parabola-de-la-cizaa/c1ff1bb6-1205-4ae8-a428-7e6bdbe05d6a",
+          "retrieved": "time:>+2018-12-15T00:00:00Z"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q59771181-1E4C10D6-5CAB-41C3-92E5-BF10EA0D8C14",
+        "subject": "Par\u00e1bola de la ciza\u00f1a",
+        "predicate": "c\u00f3digo del cat\u00e1logo",
+        "object": "196",
+        "g_id": 0
+      },
+      {
+        "reference_id": "bec6c6ed1429155f6f04c4ee946d3891c6a29ef1",
+        "url": "https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=cl&srlang=es&srid=749",
+        "ref_node_pairs": {
+          "reference URL": "url:>https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=cl&srlang=es&srid=749",
+          "stated in": "wikibase-item:>Monuments database->Q28563569",
+          "publication date": "time:>+2017-11-10T00:00:00Z"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q42898389-77C76643-94B9-47C4-BCC7-723DEAD49236",
+        "subject": "Casona Mardones",
+        "predicate": "ID Wiki Loves Monuments",
+        "object": "CL-749",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              0,
+              1
+            ],
+            "difficulty": -1,
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              1,
+              2
+            ],
+            "publisher": [
+              1,
+              4
+            ],
+            "sub_publisher": -1
+          }
+        }
+      }
+    ]
+  },
+  {
+    "_id": "66fe7ff6-552f-44ee-8241-ff43fc6a6144",
+    "taskSet": [
+      {
+        "reference_id": "dce51e44b9fe5a79f9a500c678c06426904f5665",
+        "url": "http://sedici.unlp.edu.ar/handle/10915/50999",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Institutional repository of the University of La Plata->Q6126111",
+          "reference URL": "url:>http://sedici.unlp.edu.ar/handle/10915/50999"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q80714131-58C29B1F-805A-4B57-AC71-0E0B8527EE57",
+        "subject": "Efecto del agonista de GnRH acetato de deslorelina en felinos dom\u00e9sticos (<i>Felis catus</i>) prep\u00faberes",
+        "predicate": "instancia de",
+        "object": "tesis doctoral",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              1
+            ],
+            "difficulty": [
+              3,
+              4
+            ],
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              1
+            ],
+            "publisher": [
+              0,1,
+              2
+            ],
+            "sub_publisher": -1
+          }
+        }
+      },
+      {
+        "reference_id": "1c423619603253e5541dbd3ae87155ab7e5b3990",
+        "url": "https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=bo&srlang=es&srid=S/00-014",
+        "ref_node_pairs": {
+          "publication date": "time:>+2017-11-07T00:00:00Z",
+          "stated in": "wikibase-item:>Monuments database->Q28563569",
+          "reference URL": "url:>https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=bo&srlang=es&srid=S/00-014"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q42837405-56F53EB8-93B4-422D-A03A-AD13B90675EA",
+        "subject": "Familia Chiquitana",
+        "predicate": "localizaci\u00f3n informal",
+        "object": "Intersecci\u00f3n de las avenidas Chiquitania, Santa Cruz, Su\u00e1rez Arana y Crist\u00f3bal de Mendoza (sobre el segundo anillo de circunvalaci\u00f3n).",
+        "g_id": 0
+      },
+      {
+        "reference_id": "cb12680fbcfc4baf011876fd803beb170962b23b",
+        "url": "https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=es&srlang=es&srid=RI-51-0008043",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Monuments database->Q28563569",
+          "publication date": "time:>+2017-11-13T00:00:00Z",
+          "reference URL": "url:>https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=es&srlang=es&srid=RI-51-0008043"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q43138127-76843E42-FB67-4D8B-9720-A8345DD9C371",
+        "subject": "Torre de Sala Vieja",
+        "predicate": "estatus patrimonial",
+        "object": "Bien de Inter\u00e9s Cultural",
+        "g_id": 0
+      },
+      {
+        "reference_id": "4d04b115183c07938b4d079541706c38a487aabb",
+        "url": "http://www.congreso.es/portal/page/portal/Congreso/Congreso/Iniciativas?_piref73_2148295_73_1335437_1335437.next_page=/wc/servidorCGI&CMD=VERLST&BASE=DIPH&FMT=DIPHXD1S.fmt&DOCS=2-2&DOCORDER=FIFO&OPDEF=Y&NUM1=&DES1=&QUERY=%2880040%29.NDIP.",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://www.congreso.es/portal/page/portal/Congreso/Congreso/Iniciativas?_piref73_2148295_73_1335437_1335437.next_page=/wc/servidorCGI&CMD=VERLST&BASE=DIPH&FMT=DIPHXD1S.fmt&DOCS=2-2&DOCORDER=FIFO&OPDEF=Y&NUM1=&DES1=&QUERY=%2880040%29.NDIP.",
+          "retrieved": "time:>+2020-01-20T00:00:00Z"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q2817300-67E9B232-D663-4FC5-B8B3-BC17681FDAE7",
+        "subject": "Margarita Nelken",
+        "predicate": "lugar de nacimiento",
+        "object": "Madrid",
+        "g_id": 0
+      },
+      {
+        "reference_id": "b7d5e363c5f4e8e99c73a511fdb302eae6607163",
+        "url": "http://www.filmaffinity.com/es/film929982.html",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://www.filmaffinity.com/es/film929982.html",
+          "retrieved": "time:>+2016-05-21T00:00:00Z"
+        },
+        "language_crawl": "es",
+        "statement_node": "q2215067-66DB9973-2879-43E5-AEA6-6D65C54E0D0E",
+        "subject": "Ishtar",
+        "predicate": "miembro del reparto",
+        "object": "Dustin Hoffman",
+        "g_id": 0
+      },
+      {
+        "reference_id": "5463002e7e20b5f620cb8875c55ca98215a814f8",
+        "url": "https://viaf.org/viaf/84248519",
+        "ref_node_pairs": {
+          "VIAF ID": "value:>84248519",
+          "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+          "retrieved": "time:>+2018-12-16T00:00:00Z"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q6165545-A9B7B615-0907-4CD3-9AF1-C259103CB957",
+        "subject": "V\u00edctor Hugo Rasc\u00f3n Banda",
+        "predicate": "identificador NKC",
+        "object": "js20060414016",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              1
+            ],
+            "difficulty": [
+              2,
+              3,
+              4
+            ],
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              1
+            ],
+            "publisher": [
+              0,1,2,
+              4
+            ],
+            "sub_publisher": -1
+          }
+        }
+      }
+    ]
+  },
+  {
+    "_id": "0f1fba64-b08d-4c75-8f2b-36fafeedb72b",
+    "taskSet": [
+      {
+        "reference_id": "fe230de986c107e32103789cd6b65de1061e1021",
+        "url": "https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=co&srlang=es&srid=05-089",
+        "ref_node_pairs": {
+          "reference URL": "url:>https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=co&srlang=es&srid=05-089",
+          "publication date": "time:>+2017-11-07T00:00:00Z",
+          "stated in": "wikibase-item:>Monuments database->Q28563569"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q42803061-CA8C9852-A858-4303-AE4E-9020685C2077",
+        "subject": "Plaza de Toros de La Serrezuela",
+        "predicate": "pa\u00eds",
+        "object": "Colombia",
+        "g_id": 0
+      },
+      {
+        "reference_id": "eb7fb12ed8e3156462d422dbd84d947d969f95ea",
+        "url": "https://viaf.org/viaf/59031134",
+        "ref_node_pairs": {
+          "VIAF ID": "value:>59031134"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q6458691-C0BFBB96-F1A7-45BF-8DEA-2FA1821190BD",
+        "subject": "Kike Turr\u00f3n",
+        "predicate": "ID WorldCat de identidades",
+        "object": "lccn-nr2004005394",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              1
+            ],
+            "difficulty": [
+              2,
+              3,
+              4
+            ],
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              1
+            ],
+            "publisher": [
+              0,1,2,
+              4
+            ],
+            "sub_publisher": -1
+          }
+        }
+      },
+      {
+        "reference_id": "9f3a9016bff943d6137e871465e7ee6af558a951",
+        "url": "https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=sv&srlang=es&srid=02100012",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Monuments database->Q28563569",
+          "publication date": "time:>+2017-11-07T00:00:00Z",
+          "reference URL": "url:>https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=sv&srlang=es&srid=02100012"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q42793833-62DE54E3-2F0C-4FAB-AF72-AD12E62080AF",
+        "subject": "MONUMENTO NACIONAL EL TEATRO NACIONAL DE SANTA ANA",
+        "predicate": "instancia de",
+        "object": "bien cultural",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              0,
+              1
+            ],
+            "difficulty": -1,
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              1,
+              2
+            ],
+            "publisher": [
+              1,
+              4
+            ],
+            "sub_publisher": -1
+          }
+        }
+      },
+      {
+        "reference_id": "098d84b8485b45bb7e953c0e9029fab97f2b8141",
+        "url": "http://www.todotango.com/creadores/ficha/3533/-",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>todotango.com->Q27883405",
+          "Todotango[dot]com person ID": "value:>3533",
+          "named as": "value:>Roberto Siri",
+          "retrieved": "time:>+2017-10-09T00:00:00Z"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q55470207-2110FE8F-597C-4D2D-A71E-A1306A8FCFB4",
+        "subject": "Roberto Siri",
+        "predicate": "fecha de nacimiento",
+        "object": "1939-03-16T00:00:00Z",
+        "g_id": 0
+      },
+      {
+        "reference_id": "f1eee8ae7ef71ca5ef4be8ce1d67a2f7ce70bac6",
+        "url": "https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=es&srlang=es&srid=RI-51-0004952",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Monuments database->Q28563569",
+          "publication date": "time:>+2017-11-13T00:00:00Z",
+          "reference URL": "url:>https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=es&srlang=es&srid=RI-51-0004952"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q5785943-C4EF3389-D4EE-49C8-9F5E-8D95FB3A4FA7",
+        "subject": "Convento de la Encarnaci\u00f3n (\u00c1vila)",
+        "predicate": "situado en la entidad territorial administrativa",
+        "object": "\u00c1vila",
+        "g_id": 0
+      },
+      {
+        "reference_id": "cfe28a7d6078ffeda0fa81d7e7b7ba07d372cef1",
+        "url": "http://www.isni.org/isni/000000003677085X",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://www.isni.org/isni/000000003677085X"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q5947481-c96a2b00-4bd8-d383-958f-a67cc2fcb5fc",
+        "subject": "Juan Antonio Y\u00e1\u00f1ez-Barnuevo",
+        "predicate": "ISNI",
+        "object": "0000 0000 3677 085X",
+        "g_id": 0
+      }
+    ]
+  },
+  {
+    "_id": "5b4bbf8e-421e-4f1f-877e-8ef2d857a042",
+    "taskSet": [
+      {
+        "reference_id": "72e4b301eac60fa03499784f58dfb48e18f9de31",
+        "url": "https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=ve&srlang=es&srid=LARMON-0540",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Monuments database->Q28563569",
+          "publication date": "time:>+2017-11-11T00:00:00Z",
+          "reference URL": "url:>https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=ve&srlang=es&srid=LARMON-0540"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q42988158-A512FE0A-5A10-47E4-B1B2-6915D4C5744B",
+        "subject": "Estadio Rafael Escalona de Guar\u00edco",
+        "predicate": "pa\u00eds",
+        "object": "Venezuela",
+        "g_id": 0
+      },
+      {
+        "reference_id": "153a1c7fdb8539a5197f9a58c3972109e8629d4d",
+        "url": "http://data.cervantesvirtual.com/person/74265",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://data.cervantesvirtual.com/person/74265",
+          "retrieved": "time:>+2018-06-27T00:00:00Z"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q55229449-82EAD1BD-34E2-44E6-9C2B-1D79870C9D70",
+        "subject": "Gene R. Pendleton",
+        "predicate": "identificador BVMC de autor",
+        "object": "74265",
+        "g_id": 0
+      },
+      {
+        "reference_id": "924d3a9218f0049aac36956b468ec39bce92e1e8",
+        "url": "https://www.csfd.cz/tvurce/78078",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>\u010cSFD->Q3561957",
+          "\u010cSFD person ID": "value:>78078",
+          "named as": "value:>Elena Furiase"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q918335-86E53A4C-3357-45DE-9A19-061BB9AADF6D",
+        "subject": "Elena Furiase",
+        "predicate": "fecha de nacimiento",
+        "object": "1988-03-09T00:00:00Z",
+        "g_id": 0
+      },
+      {
+        "reference_id": "626a7c8c016c27b686e58f484ff467049fb3d3df",
+        "url": "http://datos.bne.es/persona/XX841803.html",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://datos.bne.es/persona/XX841803.html",
+          "retrieved": "time:>+2018-07-21T00:00:00Z"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q55687856-4DEE1077-7F35-4D55-B360-D69F22C282A9",
+        "subject": "Vicent Ortega",
+        "predicate": "fecha de nacimiento",
+        "object": "1957-01-01T00:00:00Z",
+        "g_id": 0
+      },
+      {
+        "reference_id": "d59c5acc1f4fb3ec6c2f2a11bf67f8d268e0fd21",
+        "url": "https://es.wikipedia.org/w/index.php?title=Balneario_de_la_Alameda&oldid=119443329",
+        "ref_node_pairs": {
+          "imported from Wikimedia project": "wikibase-item:>Spanish Wikipedia->Q8449",
+          "Wikimedia import URL": "url:>https://es.wikipedia.org/w/index.php?title=Balneario_de_la_Alameda&oldid=119443329"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q50292549-8235901E-984C-4415-8822-4B24DA5950BE",
+        "subject": "Balneario de la Alameda",
+        "predicate": "estatus patrimonial",
+        "object": "Bien de Relevancia Local",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              1
+            ],
+            "difficulty": [
+              3,
+              4
+            ],
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              1,2
+            ],
+            "publisher": [
+              1,
+              4
+            ],
+            "sub_publisher": -1
+          }
+        }
+      },
+      {
+        "reference_id": "2a169f3084d7e29ddba4f29a81bed34c49009df3",
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:11900691%20AND%20SRC:MED&resulttype=core&format=json",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+          "PubMed ID": "value:>11900691",
+          "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:11900691%20AND%20SRC:MED&resulttype=core&format=json",
+          "retrieved": "time:>+2019-12-08T00:00:00Z"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q77784930-EA6BF164-82F8-4AEF-BE2D-7A6DF642A4D7",
+        "subject": "[Function of respiratory muscles in malnutrition and in the critically ill patient]",
+        "predicate": "t\u00edtulo",
+        "object": "[Function of respiratory muscles in malnutrition and in the critically ill patient]",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              1
+            ],
+            "difficulty": [
+              3,
+              4
+            ],
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              1
+            ],
+            "publisher": [
+              0,1,2
+            ],
+            "sub_publisher": -1
+          }
+        }
+      }
+    ]
+  },
+  {
+    "_id": "5bf88907-d4cc-4088-b1e0-738f7c74b8af",
+    "taskSet": [
+      {
+        "reference_id": "e48fdfa02d20179377ac1a9787af666091c84fe4",
+        "url": "http://dbe.rah.es/biografias/67026/manuel-cantos",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://dbe.rah.es/biografias/67026/manuel-cantos"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q85671765-B3A4DF6F-7188-4BA0-A4FE-E8B009CAF112",
+        "subject": "Manuel Cantos",
+        "predicate": "identificador del Diccionario Biogr\u00e1fico Espa\u00f1ol",
+        "object": "67026/manuel-cantos",
+        "g_id": 0
+      },
+      {
+        "reference_id": "c263ffa3606ab9e903d2c32cc785ad72f6afc74a",
+        "url": "http://www.boe.es/buscar/act.php?id=BOE-A-2017-2633",
+        "ref_node_pairs": {
+          "BOE ID": "value:>BOE-A-2017-2633"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q29048679-2dd32e0f-42d6-6183-f2a0-5516820280d4",
+        "subject": "Alfredo Montoya Melgar",
+        "predicate": "miembro de",
+        "object": "Tribunal Constitucional",
+        "g_id": 0
+      },
+      {
+        "reference_id": "0278a86f541ed5fc33c93c9fc45512b74252127d",
+        "url": "http://catalogo.bne.es/uhtbin/authoritybrowse.cgi?action=display&authority_id=XX4963180",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://catalogo.bne.es/uhtbin/authoritybrowse.cgi?action=display&authority_id=XX4963180",
+          "retrieved": "time:>+2017-07-14T00:00:00Z"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q5661906-cf1ebd13-4054-d3d9-398c-c3131bf18f3a",
+        "subject": "Jos\u00e9 Mar\u00eda Jurado",
+        "predicate": "identificador BNE",
+        "object": "XX4963180",
+        "g_id": 0
+      },
+      {
+        "reference_id": "8176eea746284500a8cdb2a7d78b1ed3ab6d0f43",
+        "url": "http://datos.bne.es/resource/XX1423586",
+        "ref_node_pairs": {
+          "Biblioteca Nacional de Espa\u00f1a ID": "value:>XX1423586",
+          "named as": "value:>Giovanni Bernardino Nanino",
+          "retrieved": "time:>+2017-10-09T00:00:00Z"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q723537-70CF2BD9-9D06-47F5-8052-49EE59BCB683",
+        "subject": "Giovanni Bernardino Nanino",
+        "predicate": "fecha de fallecimiento",
+        "object": "1623-01-01T00:00:00Z",
+        "g_id": 0
+      },
+      {
+        "reference_id": "71e6b8db044c12fb527356bdaa832771d62b47dc",
+        "url": "http://www.congreso.es/portal/page/portal/Congreso/Congreso/Iniciativas?_piref73_2148295_73_1335437_1335437.next_page=/wc/servidorCGI&CMD=VERLST&BASE=DIPH&FMT=DIPHXD1S.fmt&DOCS=1-1&DOCORDER=FIFO&OPDEF=Y&NUM1=&DES1=&QUERY=%28110990%29.NDIP.",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://www.congreso.es/portal/page/portal/Congreso/Congreso/Iniciativas?_piref73_2148295_73_1335437_1335437.next_page=/wc/servidorCGI&CMD=VERLST&BASE=DIPH&FMT=DIPHXD1S.fmt&DOCS=1-1&DOCORDER=FIFO&OPDEF=Y&NUM1=&DES1=&QUERY=%28110990%29.NDIP.",
+          "retrieved": "time:>+2020-01-20T00:00:00Z"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q86930432-3C2F1FD6-1F87-4629-8C08-FB99117C7C83",
+        "subject": "Luis Soriano Rodriguez",
+        "predicate": "lugar de trabajo",
+        "object": "Madrid",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              0,
+              1
+            ],
+            "difficulty": -1,
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              0,1
+            ],
+            "publisher": [
+              1,2
+            ],
+            "sub_publisher": -1
+          }
+        }
+      },
+      {
+        "reference_id": "0b3f2e15c5357aa80de9a6576db38303a50e10f9",
+        "url": "https://viaf.org/viaf/169275592",
+        "ref_node_pairs": {
+          "VIAF ID": "value:>169275592"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q5668781-B8F5B385-FA92-4A21-ACAD-E0A853F2FF36",
+        "subject": "Los Negativos",
+        "predicate": "ID WorldCat de identidades",
+        "object": "viaf-169275592",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              1
+            ],
+            "difficulty": [
+              2,
+              3,
+              4
+            ],
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              1
+            ],
+            "publisher": [
+              1,
+              4
+            ],
+            "sub_publisher": -1
+          }
+        }
+      }
+    ]
+  },
+  {
+    "_id": "922160aa-8ec5-4e11-84fa-d9f449af8c3d",
+    "taskSet": [
+      {
+        "reference_id": "ba033f0052dd6fce392d1ced936457594ee23c85",
+        "url": "http://www.ejercitodelaire.mde.es/EA/ejercitodelaire/es/organizacion/unidades/unidad/42-Grupo-de-Fuerzas-Aereas/",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://www.ejercitodelaire.mde.es/EA/ejercitodelaire/es/organizacion/unidades/unidad/42-Grupo-de-Fuerzas-Aereas/"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q62502917-48a140ec-4f60-b3a6-d60e-076a427d7be6",
+        "subject": "Escuadr\u00f3n 901",
+        "predicate": "forma parte de",
+        "object": "42 Grupo de Fuerzas A\u00e9reas",
+        "g_id": 0
+      },
+      {
+        "reference_id": "5ce1ba9c0c88f4bbe1a973420d01bebfec17f324",
+        "url": "https://www.transfermarkt.com/transfermarkt/profil/spieler/131237",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Transfermarkt->Q2449070",
+          "Transfermarkt player ID": "value:>131237",
+          "named as": "value:>C\u00e9sar Valenzuela",
+          "retrieved": "time:>+2017-10-09T00:00:00Z"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q5796439-2E5DB5B3-A50B-499B-9500-D3670CBF5714",
+        "subject": "C\u00e9sar Valenzuela",
+        "predicate": "fecha de nacimiento",
+        "object": "1992-09-04T00:00:00Z",
+        "g_id": 0
+      },
+      {
+        "reference_id": "71e4b81e1561de63220ac0d9c3eaa84840ac6b88",
+        "url": "http://www.rtc.gob.mx/NuevoSitio/cine_clasif_35mm.php?cd=418",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://www.rtc.gob.mx/NuevoSitio/cine_clasif_35mm.php?cd=418"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q28840386-BE1F0747-03CD-491B-B065-E9D553188495",
+        "subject": "Phantom Thread",
+        "predicate": "clasificaci\u00f3n de RTC",
+        "object": "B",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              1
+            ],
+            "difficulty": [
+              3,
+              4
+            ],
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              0,1
+            ],
+            "publisher": [
+              1,2,4
+            ],
+            "sub_publisher": -1
+          }
+        }
+      },
+      {
+        "reference_id": "f4cf05ad2e5cc8e54de3f998308f36aad061d7ce",
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:10491904%20AND%20SRC:MED&resulttype=core&format=json",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+          "PubMed ID": "value:>10491904",
+          "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:10491904%20AND%20SRC:MED&resulttype=core&format=json",
+          "retrieved": "time:>+2019-10-31T00:00:00Z"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q73006151-7AFC5D63-76D7-4661-BF29-E948206C7DD7",
+        "subject": "[New outlooks in the treatment of diabetes]",
+        "predicate": "identificador PubMed",
+        "object": "10491904",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              1
+            ],
+            "difficulty": [
+              3,
+              4
+            ],
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              1
+            ],
+            "publisher": [
+              0,1,2
+            ],
+            "sub_publisher": -1
+          }
+        }
+      },
+      {
+        "reference_id": "c7d8cf0c00fac4ece00c38e14acb1f1d5fc806d6",
+        "url": "https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=es&srlang=es&srid=RI-51-0003846",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Monuments database->Q28563569",
+          "publication date": "time:>+2017-11-13T00:00:00Z",
+          "reference URL": "url:>https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=es&srlang=es&srid=RI-51-0003846"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q43111003-952AEA5C-C045-41B1-A8D6-374C16E89164",
+        "subject": "Complejo de Cuevas \"Ojo Guare\u00f1a\"",
+        "predicate": "situado en la entidad territorial administrativa",
+        "object": "Merindad de Sotoscueva",
+        "g_id": 0
+      },
+      {
+        "reference_id": "6312bd36c3b0db5a41361516730ce9367265e728",
+        "url": "http://www.bellasartes.gob.ar/coleccion/obra/2250",
+        "ref_node_pairs": {
+          "retrieved": "time:>+2016-12-04T00:00:00Z",
+          "reference URL": "url:>http://www.bellasartes.gob.ar/coleccion/obra/2250"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q27954855-CC8241B7-DFE7-4419-BB6B-18B4B8DB9D37",
+        "subject": "Puesta de sol (Marina)",
+        "predicate": "altura",
+        "object": "27",
+        "g_id": 0
+      }
+    ]
+  },
+  {
+    "_id": "7fc72a7a-b4ad-4a44-96ef-d3d74e52ad34",
+    "taskSet": [
+      {
+        "reference_id": "a1a9124d689d742f560532133ce95387acb36109",
+        "url": "https://es.wikipedia.org/w/index.php?title=Austin_(l\u00ednea_Azul)&oldid=99013812",
+        "ref_node_pairs": {
+          "imported from Wikimedia project": "wikibase-item:>Spanish Wikipedia->Q8449",
+          "Wikimedia import URL": "url:>https://es.wikipedia.org/w/index.php?title=Austin_(l\u00ednea_Azul)&oldid=99013812"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q2872109-C7F5CFFC-FA19-4E7F-9D8A-57EB8830B0FC",
+        "subject": "Austin (l\u00ednea Azul)",
+        "predicate": "n\u00famero de v\u00edas con and\u00e9n",
+        "object": "2",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              1
+            ],
+            "difficulty": [
+              3,
+              4
+            ],
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              1,2
+            ],
+            "publisher": [
+              1,
+              4
+            ],
+            "sub_publisher": -1
+          }
+        }
+      },
+      {
+        "reference_id": "46fea2d19a8a416b34fbd96e028e4d0ad268b73f",
+        "url": "http://datos.bne.es/resource/XX1720439",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Biblioteca Nacional de Espa\u00f1a->Q750403",
+          "Biblioteca Nacional de Espa\u00f1a ID": "value:>XX1720439",
+          "named as": "value:>Delf\u00edn Carbonell Basset"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q5253673-E5A43459-30BC-4F3F-A6E7-335A7072E88C",
+        "subject": "Delf\u00edn Carbonell Basset",
+        "predicate": "fecha de nacimiento",
+        "object": "1938-01-01T00:00:00Z",
+        "g_id": 0
+      },
+      {
+        "reference_id": "dc9041bd7458f2c1a1b56fc8e7b3476681333fd8",
+        "url": "https://es.wikipedia.org/w/index.php?title=Banco_de_Tierra_del_Fuego&oldid=112597822",
+        "ref_node_pairs": {
+          "imported from Wikimedia project": "wikibase-item:>Spanish Wikipedia->Q8449",
+          "Wikimedia import URL": "url:>https://es.wikipedia.org/w/index.php?title=Banco_de_Tierra_del_Fuego&oldid=112597822"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q8241361-1D52037F-EB6E-4D88-96C1-F018B96D45BF",
+        "subject": "Banco de Tierra del Fuego",
+        "predicate": "p\u00e1gina web oficial",
+        "object": "http://www.btf.com.ar/",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              1
+            ],
+            "difficulty": [
+              2,
+              3,
+              4
+            ],
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              1,2
+            ],
+            "publisher": [
+              1,
+              4
+            ],
+            "sub_publisher": -1
+          }
+        }
+      },
+      {
+        "reference_id": "2d893396e179c90b167ec9465c85533518a2dd2d",
+        "url": "http://docm.jccm.es/portaldocm/detalleDocumento.do?idDisposicion=123061495336721070",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Diario Oficial de Castilla-La Mancha->Q5805325",
+          "publication date": "time:>+1993-02-12T00:00:00Z",
+          "issue": "value:>11",
+          "page(s)": "value:>629\u2013631",
+          "section, verse, paragraph, or clause": "value:>Decreto 184/1992, de 22 de diciembre, por el que se declara Bien de Inter\u00e9s Cultural con la categor\u00eda de Monumento el inmueble correspondiente a la Iglesia Parroquial de San Bartolom\u00e9 en Tarazona de la Mancha (Albacete)",
+          "reference URL": "url:>http://docm.jccm.es/portaldocm/detalleDocumento.do?idDisposicion=123061495336721070",
+          "signatory": "wikibase-item:>Juan Sisinio P\u00e9rez Garz\u00f3n->Q19358396"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q42296503-e88dd9ae-4c0e-2edf-80e6-439a57a53cf6",
+        "subject": "iglesia de San Bartolom\u00e9",
+        "predicate": "instancia de",
+        "object": "iglesia",
+        "g_id": 0
+      },
+      {
+        "reference_id": "d16d5e78b9abfd53ef61c749f2b49a5efa6b1d6b",
+        "url": "http://dbe.rah.es/biografias/25192/juan-amezqueta-quijano",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://dbe.rah.es/biografias/25192/juan-amezqueta-quijano"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q84090627-F528FDA9-44EB-4DE3-966B-DA07468EE0E2",
+        "subject": "Juan Amezqueta Quijano",
+        "predicate": "identificador del Diccionario Biogr\u00e1fico Espa\u00f1ol",
+        "object": "25192/juan-amezqueta-quijano",
+        "g_id": 0
+      },
+      {
+        "reference_id": "abb88aa3cfcda2e12329bdfcbf8aa6530ebd8554",
+        "url": "http://acervo.mnav.gub.uy/obras.php?q=na:1536",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>National Museum of Visual Arts->Q1786577",
+          "MNAV artist ID": "value:>1536",
+          "named as": "value:>Ana Mercedes Hoyos",
+          "retrieved": "time:>+2017-10-09T00:00:00Z"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q5674012-63a6faad-4125-cb1a-2ff6-9ed7ddd6945f",
+        "subject": "Ana Mercedes Hoyos",
+        "predicate": "fecha de fallecimiento",
+        "object": "2014-09-05T00:00:00Z",
+        "g_id": 0
+      }
+    ]
+  },
+  {
+    "_id": "db25ffc5-44b3-40e8-b01b-51de9c76de57",
+    "taskSet": [
+      {
+        "reference_id": "6f91f83baa78a8a4e7095170df16a77e95f6a578",
+        "url": "https://es.wikipedia.org/w/index.php?title=Historias_de_amor,_de_locura_y_de_muerte&oldid=119152578",
+        "ref_node_pairs": {
+          "imported from Wikimedia project": "wikibase-item:>Spanish Wikipedia->Q8449",
+          "Wikimedia import URL": "url:>https://es.wikipedia.org/w/index.php?title=Historias_de_amor,_de_locura_y_de_muerte&oldid=119152578"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q27703689-48C19082-D8D7-451F-A63B-9BE0847D679A",
+        "subject": "Historias de amor, de locura y de muerte",
+        "predicate": "escen\u00f3grafo",
+        "object": "Mar\u00eda Julia Bertotto",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              1
+            ],
+            "difficulty": [
+              3,
+              4
+            ],
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              1,2
+            ],
+            "publisher": [
+              1,
+              4
+            ],
+            "sub_publisher": -1
+          }
+        }
+      },
+      {
+        "reference_id": "91a20af0d76ed9d1f257867d649652c3b80df573",
+        "url": "https://listarojapatrimonio.org/ficha/iglesia_de_san_martin_de_guerguitiain/",
+        "ref_node_pairs": {
+          "reference URL": "url:>https://listarojapatrimonio.org/ficha/iglesia_de_san_martin_de_guerguitiain/"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q16577761-292BC033-2298-485D-B09A-EBBB5B30813C",
+        "subject": "iglesia de San Mart\u00edn de Guerguiti\u00e1in",
+        "predicate": "estatus patrimonial",
+        "object": "elemento de la Lista Roja del Patrimonio",
+        "g_id": 0
+      },
+      {
+        "reference_id": "03c4890b856a0356756b8367ee83c582d2d4bf41",
+        "url": "http://www.todotango.com/creadores/ficha/51/-",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>todotango.com->Q27883405",
+          "Todotango[dot]com person ID": "value:>51",
+          "named as": "value:>Armando Pontier",
+          "retrieved": "time:>+2017-10-09T00:00:00Z"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q8204606-6B6554D9-EA45-4FA8-84C3-681366F5B915",
+        "subject": "Armando Pontier",
+        "predicate": "fecha de fallecimiento",
+        "object": "1983-12-25T00:00:00Z",
+        "g_id": 0
+      },
+      {
+        "reference_id": "2a169f3084d7e29ddba4f29a81bed34c49009df3",
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:11900691%20AND%20SRC:MED&resulttype=core&format=json",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+          "PubMed ID": "value:>11900691",
+          "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:11900691%20AND%20SRC:MED&resulttype=core&format=json",
+          "retrieved": "time:>+2019-12-08T00:00:00Z"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q77784930-EA6BF164-82F8-4AEF-BE2D-7A6DF642A4D7",
+        "subject": "[Function of respiratory muscles in malnutrition and in the critically ill patient]",
+        "predicate": "t\u00edtulo",
+        "object": "[Function of respiratory muscles in malnutrition and in the critically ill patient]",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              1
+            ],
+            "difficulty": [
+              3,
+              4
+            ],
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              1
+            ],
+            "publisher": [
+              0,1,2
+            ],
+            "sub_publisher": -1
+          }
+        }
+      },
+      {
+        "reference_id": "6aed1ed5ecc3a280ccef2078092959237b58f1f5",
+        "url": "https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=ve&srlang=es&srid=DELANS-0021",
+        "ref_node_pairs": {
+          "publication date": "time:>+2017-11-10T00:00:00Z",
+          "reference URL": "url:>https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=ve&srlang=es&srid=DELANS-0021",
+          "stated in": "wikibase-item:>Monuments database->Q28563569"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q42902125-43F34552-70D1-4515-AA75-A02AD3135D7E",
+        "subject": "Centro de Rehabilitaci\u00f3n Integral de Sacupana del Cerro",
+        "predicate": "situado en la entidad territorial administrativa",
+        "object": "Municipio Antonio D\u00edaz (Delta Amacuro)",
+        "g_id": 0
+      },
+      {
+        "reference_id": "4c30f12b10e52d4f7639b57e9f305a904493c61f",
+        "url": "https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=es&srlang=es&srid=RI-51-0007685",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Monuments database->Q28563569",
+          "publication date": "time:>+2017-11-13T00:00:00Z",
+          "reference URL": "url:>https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=es&srlang=es&srid=RI-51-0007685"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q43134859-56EC1F09-28EC-43D1-8F71-2FA4DE9ACA10",
+        "subject": "Castillo Medieval",
+        "predicate": "estatus patrimonial",
+        "object": "Bien de Inter\u00e9s Cultural",
+        "g_id": 0
+      }
+    ]
+  },
+  {
+    "_id": "9c0a62b3-cac0-4443-b73e-8cb033a2cc91",
+    "taskSet": [
+      {
+        "reference_id": "ccdabdcdecce1cf6e4f401a52e540ddf906fe7a0",
+        "url": "http://www.filmaffinity.com/es/film148217.html",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://www.filmaffinity.com/es/film148217.html",
+          "retrieved": "time:>+2016-04-19T00:00:00Z"
+        },
+        "language_crawl": "es",
+        "statement_node": "q758585-3020DE40-1970-4A06-AC35-F2C99CBB3E1D",
+        "subject": "Los verdugos tambi\u00e9n mueren",
+        "predicate": "director",
+        "object": "Fritz Lang",
+        "g_id": 0
+      },
+      {
+        "reference_id": "dc9041bd7458f2c1a1b56fc8e7b3476681333fd8",
+        "url": "https://es.wikipedia.org/w/index.php?title=Banco_de_Tierra_del_Fuego&oldid=112597822",
+        "ref_node_pairs": {
+          "imported from Wikimedia project": "wikibase-item:>Spanish Wikipedia->Q8449",
+          "Wikimedia import URL": "url:>https://es.wikipedia.org/w/index.php?title=Banco_de_Tierra_del_Fuego&oldid=112597822"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q8241361-1D52037F-EB6E-4D88-96C1-F018B96D45BF",
+        "subject": "Banco de Tierra del Fuego",
+        "predicate": "p\u00e1gina web oficial",
+        "object": "http://www.btf.com.ar/",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              1
+            ],
+            "difficulty": [
+              2,
+              3,
+              4
+            ],
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              1,2
+            ],
+            "publisher": [
+              1,
+              4
+            ],
+            "sub_publisher": -1
+          }
+        }
+      },
+      {
+        "reference_id": "8c02e11924fd25abddf8ee228454c7e743257214",
+        "url": "https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=ve&srlang=es&srid=MERLIR-0343",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Monuments database->Q28563569",
+          "publication date": "time:>+2017-11-11T00:00:00Z",
+          "reference URL": "url:>https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=ve&srlang=es&srid=MERLIR-0343"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q43003430-C5F3ACFE-B3B4-499C-BA56-27470F3516BC",
+        "subject": "Viviendas unifamiliares de valor patrimonial",
+        "predicate": "situado en la entidad territorial administrativa",
+        "object": "Municipio Libertador",
+        "g_id": 0
+      },
+      {
+        "reference_id": "4ffe5919fdd3a3530a16b113cf7486fe27b0abf2",
+        "url": "http://www.boe.es/buscar/act.php?id=BOE-A-1873-1587",
+        "ref_node_pairs": {
+          "BOE ID": "value:>BOE-A-1873-1587"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q3773729-959c1176-4df3-d1ea-498c-a7a5eb6bb663",
+        "subject": "Alberto Aguilera",
+        "predicate": "cargo ocupado",
+        "object": "gobernador civil de la provincia de La Coru\u00f1a",
+        "g_id": 0
+      },
+      {
+        "reference_id": "2b1801d4759e30c1be4f3bf9ef906f1080069078",
+        "url": "https://www.valenciaport.com/nota-legal/",
+        "ref_node_pairs": {
+          "reference URL": "url:>https://www.valenciaport.com/nota-legal/",
+          "retrieved": "time:>+2017-10-18T00:00:00Z"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q30593227-E06920B9-5C1F-4868-B255-2A6056F9C724",
+        "subject": "Autoridad Portuaria de Valencia",
+        "predicate": "ubicaci\u00f3n de la sede",
+        "object": "Valencia",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              1
+            ],
+            "difficulty": [
+              2,
+              3,
+              4
+            ],
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              1,2
+            ],
+            "publisher": [
+              1,
+              2,3,
+              4
+            ],
+            "sub_publisher": -1
+          }
+        }
+      },
+      {
+        "reference_id": "c94410bb517e5d69d05dbdd567861052b36f0514",
+        "url": "http://datos.bne.es/persona/XX1119654.html",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://datos.bne.es/persona/XX1119654.html",
+          "retrieved": "time:>+2019-06-10T00:00:00Z"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q64009172-A27C55F7-13E5-4347-B473-680DDC6DCA14",
+        "subject": "Ferm\u00edn Miranda Garc\u00eda",
+        "predicate": "identificador GND",
+        "object": "1056659734",
+        "g_id": 0
+      }
+    ]
+  },
+  {
+    "_id": "ebdc5831-3c42-4d1e-9462-eaa78c5910cd",
+    "taskSet": [
+      {
+        "reference_id": "6e257c76e60e9b75b0cbe6424a5377b599f92803",
+        "url": "https://www.museodelprado.es/coleccion/obra-de-arte/el-salon-gasparini-del-palacio-real-de-madrid/65f32e90-cbaf-4bf6-8004-93edbcc9b6b8",
+        "ref_node_pairs": {
+          "retrieved": "time:>+2020-02-26T00:00:00Z",
+          "reference URL": "url:>https://www.museodelprado.es/coleccion/obra-de-arte/el-salon-gasparini-del-palacio-real-de-madrid/65f32e90-cbaf-4bf6-8004-93edbcc9b6b8"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q60036831-A175CC0E-F713-4B9E-9B9B-13C4832B9454",
+        "subject": "El Sal\u00f3n Gasparini del Palacio Real de Madrid",
+        "predicate": "fecha de fundaci\u00f3n o creaci\u00f3n",
+        "object": "1875-01-01T00:00:00Z",
+        "g_id": 0
+      },
+      {
+        "reference_id": "8639c11ce2d2108b1ea0ab00616c9dd44a2a9f3c",
+        "url": "http://www.congreso.es/portal/page/portal/Congreso/Congreso/Iniciativas?_piref73_2148295_73_1335437_1335437.next_page=/wc/servidorCGI&CMD=VERLST&BASE=DIPH&FMT=DIPHXD1S.fmt&DOCS=2-2&DOCORDER=FIFO&OPDEF=Y&NUM1=&DES1=&QUERY=%2841230%29.NDIP.",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://www.congreso.es/portal/page/portal/Congreso/Congreso/Iniciativas?_piref73_2148295_73_1335437_1335437.next_page=/wc/servidorCGI&CMD=VERLST&BASE=DIPH&FMT=DIPHXD1S.fmt&DOCS=2-2&DOCORDER=FIFO&OPDEF=Y&NUM1=&DES1=&QUERY=%2841230%29.NDIP."
+        },
+        "language_crawl": "es",
+        "statement_node": "Q16488344-B1B32A7F-5195-4C68-8B9E-3E21625E9020",
+        "subject": "Alfonso de la Fuente Chaos",
+        "predicate": "cargo ocupado",
+        "object": "procurador en Cortes (1943-1977)",
+        "g_id": 0
+      },
+      {
+        "reference_id": "61b582b67a040e83d97d16d1aa10f72084950f80",
+        "url": "https://wikidata-externalid-url.toolforge.org/?p=345&url_prefix=https://www.imdb.com/&id=nm0884455",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Internet Movie Database->Q37312",
+          "IMDb ID": "value:>nm0884455",
+          "retrieved": "time:>+2015-10-13T00:00:00Z"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q462422-800905E8-2C2B-4235-BEC4-4B0710C68ECF",
+        "subject": "Laura Valenzuela",
+        "predicate": "fecha de nacimiento",
+        "object": "1931-02-18T00:00:00Z",
+        "g_id": 0
+      },
+      {
+        "reference_id": "df693ac8d3e26a19a27f848264c345e1a66b820a",
+        "url": "http://sedici.unlp.edu.ar/handle/10915/65654",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Institutional repository of the University of La Plata->Q6126111",
+          "reference URL": "url:>http://sedici.unlp.edu.ar/handle/10915/65654"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q80713761-B9C4E20D-F81A-4305-A682-193780EEEA6D",
+        "subject": "La construcci\u00f3n social de pol\u00edticas p\u00fablicas en salud: la participaci\u00f3n comunitaria asociada a la Atenci\u00f3n Primaria de la Salud desde la perspectiva de los agentes de salud",
+        "predicate": "t\u00edtulo",
+        "object": "La construcci\u00f3n social de pol\u00edticas p\u00fablicas en salud: la participaci\u00f3n comunitaria asociada a la Atenci\u00f3n Primaria de la Salud desde la perspectiva de los agentes de salud",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              1
+            ],
+            "difficulty": [
+              3,
+              4
+            ],
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              0,1
+            ],
+            "publisher": [
+              0,1,
+              2
+            ],
+            "sub_publisher": -1
+          }
+        }
+      },
+      {
+        "reference_id": "24b7f81d39b618db51d15ec14289a1a3beb47a90",
+        "url": "http://www.boe.es/buscar/act.php?id=BOE-A-1915-4434",
+        "ref_node_pairs": {
+          "BOE ID": "value:>BOE-A-1915-4434"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q6700808-4fd42e88-4bdd-58da-c91d-659d55ee01ff",
+        "subject": "Luis Manuel de Pando y S\u00e1nchez",
+        "predicate": "premio recibido",
+        "object": "Gran Cruz de la Orden Civil de Beneficencia",
+        "g_id": 0
+      },
+      {
+        "reference_id": "86c422ffab4ce2f61165427a0a47ed4b13605380",
+        "url": "http://resolver.smak.be/collection/work/data/3289",
+        "ref_node_pairs": {
+          "retrieved": "time:>+2016-01-25T00:00:00Z",
+          "reference URL": "url:>http://resolver.smak.be/collection/work/data/3289"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q22262052-D9CBA97E-DA5C-4C93-83E0-D2E0B290DF99",
+        "subject": "Nimba",
+        "predicate": "creador",
+        "object": "Hugo Debaere",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              0
+            ],
+            "difficulty": -1,
+            "reason": [
+              0,
+              2,
+              3,
+              5,
+              6
+            ]
+          },
+          "authorit": {
+            "author": -1,
+            "publisher": -1,
+            "sub_publisher": -1
+          }
+        }
+      }
+    ]
+  },
+  {
+    "_id": "b5ba5dfc-4104-4d57-9615-b631fba3cc9e",
+    "taskSet": [
+      {
+        "reference_id": "e9d56885472d6491aa886e7ba0ab38e1426557fd",
+        "url": "http://abacus.universidadeuropea.es/handle/11268/6336",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://abacus.universidadeuropea.es/handle/11268/6336",
+          "page(s)": "value:>20"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q9014595-2bbdbe52-400b-1933-6410-ed8042cfdde4",
+        "subject": "Jos\u00e9 Mongrell Torrent",
+        "predicate": "hijo o hija",
+        "object": "Arturo Mongrell",
+        "g_id": 0
+      },
+      {
+        "reference_id": "b7061bdedba0a7be7e25f1b025e8be9ff6ea7a8c",
+        "url": "http://www.museoreinasofia.es/en/collection/artwork/bretonne-woman-brittany",
+        "ref_node_pairs": {
+          "retrieved": "time:>+2016-10-31T00:00:00Z",
+          "reference URL": "url:>http://www.museoreinasofia.es/en/collection/artwork/bretonne-woman-brittany"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q27655884-AF030418-E140-475F-A575-5C86775A5367",
+        "subject": "La Bretonne (La bretona)",
+        "predicate": "ancho",
+        "object": "73",
+        "g_id": 0
+      },
+      {
+        "reference_id": "4f7a7f9168ead5bee6f9c857c35c19d39207bbf8",
+        "url": "https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=es&srlang=es&srid=RI-51-0003465",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Monuments database->Q28563569",
+          "publication date": "time:>+2017-11-13T00:00:00Z",
+          "reference URL": "url:>https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=es&srlang=es&srid=RI-51-0003465"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q43108444-2E3B39C4-D607-47DE-927B-B0988510A0DE",
+        "subject": "Necr\u00f3polis de Calaf\u00ed Vell",
+        "predicate": "pa\u00eds",
+        "object": "Espa\u00f1a",
+        "g_id": 0
+      },
+      {
+        "reference_id": "869b6d7a6c5c03c3d3a57cd896ed4ffbe318ae82",
+        "url": "https://es.wikipedia.org/w/index.php?title=Copa_de_Andaluc\u00eda_de_F\u00fatbol_Sala_2018&oldid=118575405",
+        "ref_node_pairs": {
+          "imported from Wikimedia project": "wikibase-item:>Spanish Wikipedia->Q8449",
+          "Wikimedia import URL": "url:>https://es.wikipedia.org/w/index.php?title=Copa_de_Andaluc\u00eda_de_F\u00fatbol_Sala_2018&oldid=118575405"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q60823639-196F536A-A294-4287-BE62-DC4B42D0D8C6",
+        "subject": "Copa de Andaluc\u00eda de F\u00fatbol Sala 2018",
+        "predicate": "n\u00famero de puntos/goles marcados",
+        "object": "12",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              1
+            ],
+            "difficulty": [
+              3,
+              4
+            ],
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              1,2
+            ],
+            "publisher": [
+              1,
+              4
+            ],
+            "sub_publisher": -1
+          }
+        }
+      },
+      {
+        "reference_id": "de4e405553abe46941afbb80ff19cad6f08038ed",
+        "url": "https://www.cdc.gov/niosh/nioshtic-2/20043874.html",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>NIOSHTIC-2->Q26822184",
+          "NIOSHTIC-2 ID": "value:>20043874",
+          "retrieved": "time:>+2017-07-19T00:00:00Z"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q25892542-2DC0FA24-59C3-4164-876B-29A05E6E8910",
+        "subject": "Trabajador hispano muere cuando un \u00e1rbol de sesenta pies cae sobre la excavadora hidr\u00e1ulica con la que estaba despejando un terreno en Tennessee",
+        "predicate": "instancia de",
+        "object": "estudio de campo",
+        "g_id": 0
+      },
+      {
+        "reference_id": "47a15251722a216d0f58a9476228c8749d5c5c6e",
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:9214896%20AND%20SRC:MED&resulttype=core&format=json",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+          "PubMed ID": "value:>9214896",
+          "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:9214896%20AND%20SRC:MED&resulttype=core&format=json",
+          "retrieved": "time:>+2019-11-04T00:00:00Z"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q73492817-7FE80A96-2790-4566-BB44-68D564E6C815",
+        "subject": "[Calculation of the amount of specimen necessary to estimate a proportion and a medium]",
+        "predicate": "fecha de publicaci\u00f3n",
+        "object": "1996-10-01T00:00:00Z",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              1
+            ],
+            "difficulty": [
+              3,
+              4
+            ],
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              1
+            ],
+            "publisher": [
+              0,1,2
+            ],
+            "sub_publisher": -1
+          }
+        }
+      }
+    ]
+  },
+  {
+    "_id": "4725bea4-a295-4d3d-9809-74e904f87f19",
+    "taskSet": [
+      {
+        "reference_id": "e5306d9479aa701f7a3ed5f298a910165ff324d2",
+        "url": "https://es.wikipedia.org/w/index.php?title=Mart\u00edn_de_Soure&oldid=87749432",
+        "ref_node_pairs": {
+          "imported from Wikimedia project": "wikibase-item:>Spanish Wikipedia->Q8449",
+          "Wikimedia import URL": "url:>https://es.wikipedia.org/w/index.php?title=Mart\u00edn_de_Soure&oldid=87749432"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q4253474-8BBDF58C-B978-433D-8936-1C44E4563C60",
+        "subject": "Mart\u00edn de Soure",
+        "predicate": "d\u00eda de festividad",
+        "object": "31 de enero",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              1
+            ],
+            "difficulty": [
+              3,
+              4
+            ],
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              1,2
+            ],
+            "publisher": [
+              1,
+              4
+            ],
+            "sub_publisher": -1
+          }
+        }
+      },
+      {
+        "reference_id": "bec991625c8112b07df6574aaea706e84b17c1d5",
+        "url": "http://www.congreso.es/portal/page/portal/Congreso/Congreso/Iniciativas?_piref73_2148295_73_1335437_1335437.next_page=/wc/servidorCGI&CMD=VERLST&BASE=DIPH&FMT=DIPHXD1S.fmt&DOCS=1-1&DOCORDER=FIFO&OPDEF=Y&NUM1=&DES1=&QUERY=%28107770%29.NDIP.",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://www.congreso.es/portal/page/portal/Congreso/Congreso/Iniciativas?_piref73_2148295_73_1335437_1335437.next_page=/wc/servidorCGI&CMD=VERLST&BASE=DIPH&FMT=DIPHXD1S.fmt&DOCS=1-1&DOCORDER=FIFO&OPDEF=Y&NUM1=&DES1=&QUERY=%28107770%29.NDIP.",
+          "retrieved": "time:>+2020-01-20T00:00:00Z"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q86929774-0C4F4B11-600B-47AA-95C3-F7CC5C5DFBC7",
+        "subject": "Diego Sayago Ramirez",
+        "predicate": "fecha de nacimiento",
+        "object": "1925-12-09T00:00:00Z",
+        "g_id": 0
+      },
+      {
+        "reference_id": "a0a90f0705de500bcd108586446df703152ab259",
+        "url": "http://datos.bne.es/persona/XX1124522.html",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://datos.bne.es/persona/XX1124522.html",
+          "Biblioteca Nacional de Espa\u00f1a ID": "value:>XX1124522",
+          "retrieved": "time:>+2019-05-24T00:00:00Z"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q64006973-7C245735-C3B7-4B5E-8932-22F2156F0FE4",
+        "subject": "David Paul Ewing",
+        "predicate": "ID autoridades Biblioteca del Congreso de EE. UU.",
+        "object": "n85047731",
+        "g_id": 0
+      },
+      {
+        "reference_id": "fafeb5bca657086effc423234c028b0b51db56dc",
+        "url": "https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=es&srlang=es&srid=RI-51-0001804",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Monuments database->Q28563569",
+          "publication date": "time:>+2017-11-13T00:00:00Z",
+          "reference URL": "url:>https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=es&srlang=es&srid=RI-51-0001804"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q43095949-4F958B7C-82FC-4C3B-8D99-60DFA5425AD1",
+        "subject": "Talayote de Son Catiu Claperot des Clot Fiol)''",
+        "predicate": "estatus patrimonial",
+        "object": "Bien de Inter\u00e9s Cultural",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              0,
+              1
+            ],
+            "difficulty": -1,
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              1,
+              2
+            ],
+            "publisher": [
+              1,
+              4
+            ],
+            "sub_publisher": -1
+          }
+        }
+      },
+      {
+        "reference_id": "79f221f2f9d6bb7a4de6dbadb70894439042b02e",
+        "url": "http://hemeroteca.abc.es/nav/Navigate.exe/hemeroteca/madrid/abc/2003/03/04/062.html",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://hemeroteca.abc.es/nav/Navigate.exe/hemeroteca/madrid/abc/2003/03/04/062.html"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q43778298-9e5c2bb0-42aa-0fd3-dae4-1cf252a5eec4",
+        "subject": "\u00c1ngeles Chamorro",
+        "predicate": "fecha de fallecimiento",
+        "object": "2003-02-11T00:00:00Z",
+        "g_id": 0
+      },
+      {
+        "reference_id": "ecfcd3852e80582133a35ee433a81120a6c6aa4a",
+        "url": "http://www.magrama.gob.es/es/prensa/noticias/derribada-la-presa-de-robledo-de-chavela-(madrid)-sobre-el-r%C3%ADo-cofio-la-m%C3%A1s-alta-desmantelada-en-espa%C3%B1a-con-casi-23-metros-de-altura/tcm7-345305-16",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://www.magrama.gob.es/es/prensa/noticias/derribada-la-presa-de-robledo-de-chavela-(madrid)-sobre-el-r%C3%ADo-cofio-la-m%C3%A1s-alta-desmantelada-en-espa%C3%B1a-con-casi-23-metros-de-altura/tcm7-345305-16"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q5830555-897822a6-4764-d1fb-181d-b9fe1f0fee97",
+        "subject": "embalse de Robledo de Chavela",
+        "predicate": "fecha de fin",
+        "object": "2014-01-01T00:00:00Z",
+        "g_id": 0
+      }
+    ]
+  },
+  {
+    "_id": "afff5eca-0282-4aa3-a8b5-5a77a61efbaf",
+    "taskSet": [
+      {
+        "reference_id": "dce51e44b9fe5a79f9a500c678c06426904f5665",
+        "url": "http://sedici.unlp.edu.ar/handle/10915/50999",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Institutional repository of the University of La Plata->Q6126111",
+          "reference URL": "url:>http://sedici.unlp.edu.ar/handle/10915/50999"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q80714131-58C29B1F-805A-4B57-AC71-0E0B8527EE57",
+        "subject": "Efecto del agonista de GnRH acetato de deslorelina en felinos dom\u00e9sticos (<i>Felis catus</i>) prep\u00faberes",
+        "predicate": "instancia de",
+        "object": "tesis doctoral",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              1
+            ],
+            "difficulty": [
+              3,
+              4
+            ],
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              1,2
+            ],
+            "publisher": [
+              0,1,
+              2
+            ],
+            "sub_publisher": -1
+          }
+        }
+      },
+      {
+        "reference_id": "8649c4225f70a98544ab7f62277df8660053e88b",
+        "url": "https://www.museodelprado.es/coleccion/obra-de-arte/paisaje-la-caida-de-la-tarde/47f79865-994c-4bd7-9d15-8d0ca41be3db",
+        "ref_node_pairs": {
+          "reference URL": "url:>https://www.museodelprado.es/coleccion/obra-de-arte/paisaje-la-caida-de-la-tarde/47f79865-994c-4bd7-9d15-8d0ca41be3db",
+          "retrieved": "time:>+2018-12-22T00:00:00Z"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q60036734-9E63985B-4960-420B-95D8-51EC39C57D3A",
+        "subject": "Paisaje (La ca\u00edda de la tarde)",
+        "predicate": "ancho",
+        "object": "62",
+        "g_id": 0
+      },
+      {
+        "reference_id": "4a59aa8f8113a36610327fdc419ddf688ce8b86c",
+        "url": "http://www.enciclopedianavarra.com/?page_id=10505",
+        "ref_node_pairs": {
+          "Great Encyclopedia of Navarre ID": "value:>10505",
+          "named as": "value:>Enrique GIL ROBLES",
+          "retrieved": "time:>+2017-10-09T00:00:00Z"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q2891108-B5147E46-B5F2-4D6C-812C-D077C60948CB",
+        "subject": "Enrique Gil Robles",
+        "predicate": "fecha de fallecimiento",
+        "object": "1908-01-01T00:00:00Z",
+        "g_id": 0
+      },
+      {
+        "reference_id": "b95eba7fab43166672e04fc4de7a1abd6cefcee0",
+        "url": "http://datos.bne.es/persona/XX1360738.html",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://id.worldcat.org/fast/314385",
+          "retrieved": "time:>+2018-08-03T00:00:00Z"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q55946380-F05A9F67-7927-4BA9-A9D2-030981E34412",
+        "subject": "Juan Vicente Rivera Viera",
+        "predicate": "fecha de fallecimiento",
+        "object": "1953-01-01T00:00:00Z",
+        "g_id": 0
+      },
+      {
+        "reference_id": "b2f671d9644e57811763470da32a0d42ebd05aa8",
+        "url": "https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=ve&srlang=es&srid=AMAAUA-0099",
+        "ref_node_pairs": {
+          "publication date": "time:>+2017-11-10T00:00:00Z",
+          "reference URL": "url:>https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=ve&srlang=es&srid=AMAAUA-0099",
+          "stated in": "wikibase-item:>Monuments database->Q28563569"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q42899324-8502FFDF-8861-403A-A707-F9DB36D17835",
+        "subject": "Restaurante Brisas Del Torbes",
+        "predicate": "pa\u00eds",
+        "object": "Venezuela",
+        "g_id": 0
+      },
+      {
+        "reference_id": "acad386b71470743b5e9d942e260bb836816770f",
+        "url": "https://es.wikipedia.org/w/index.php?title=Miguel_\u00c1ngel_Bord\u00f3n&oldid=116591605",
+        "ref_node_pairs": {
+          "imported from Wikimedia project": "wikibase-item:>Spanish Wikipedia->Q8449",
+          "Wikimedia import URL": "url:>https://es.wikipedia.org/w/index.php?title=Miguel_\u00c1ngel_Bord\u00f3n&oldid=116591605"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q3857289-A55D2086-489D-46A1-854D-535AA7E0FF16",
+        "subject": "Miguel \u00c1ngel Bord\u00f3n",
+        "predicate": "inicio del periodo de actividad",
+        "object": "1971-01-01T00:00:00Z",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              1
+            ],
+            "difficulty": [
+              3,
+              4
+            ],
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              1,2
+            ],
+            "publisher": [
+              1,
+              4
+            ],
+            "sub_publisher": -1
+          }
+        }
+      }
+    ]
+  },
+  {
+    "_id": "13e5164a-c0ef-4608-9f46-4138ea393117",
+    "taskSet": [
+      {
+        "reference_id": "6e13a36b1076660286af0bd2f2cab1b9eafd0603",
+        "url": "http://datos.bne.es/resource/XX1004722",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Biblioteca Nacional de Espa\u00f1a->Q750403",
+          "Biblioteca Nacional de Espa\u00f1a ID": "value:>XX1004722",
+          "named as": "value:>Antonello Moroni",
+          "retrieved": "time:>+2017-10-09T00:00:00Z"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q3618964-56A06DBB-1CFD-43B9-BED7-073D0A75CFAD",
+        "subject": "Antonello Moroni",
+        "predicate": "fecha de nacimiento",
+        "object": "1889-01-01T00:00:00Z",
+        "g_id": 0
+      },
+      {
+        "reference_id": "71e4b81e1561de63220ac0d9c3eaa84840ac6b88",
+        "url": "http://www.rtc.gob.mx/NuevoSitio/cine_clasif_35mm.php?cd=418",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://www.rtc.gob.mx/NuevoSitio/cine_clasif_35mm.php?cd=418"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q28840386-BE1F0747-03CD-491B-B065-E9D553188495",
+        "subject": "Phantom Thread",
+        "predicate": "clasificaci\u00f3n de RTC",
+        "object": "B",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              1
+            ],
+            "difficulty": [
+              3,
+              4
+            ],
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              1,2
+            ],
+            "publisher": [
+              1,2,3,4
+            ],
+            "sub_publisher": -1
+          }
+        }
+      },
+      {
+        "reference_id": "adde15640bf2159fe274129e1c7e778f2be42356",
+        "url": "http://www.biodiversitylibrary.org/bibliography/139004",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Biodiversity Heritage Library->Q172266",
+          "BHL bibliography ID": "value:>139004"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q51412767-9BAD843E-0099-4956-B1F8-D0F5978D710A",
+        "subject": "Curso elemental de zoolog\u00eda",
+        "predicate": "editorial",
+        "object": "t1021325110",
+        "g_id": 0
+      },
+      {
+        "reference_id": "0b8d430a3103f2a0c2695e4dae13a62f5c3e0f6d",
+        "url": "http://ceres.mcu.es/pages/ResultSearch?Museo=MANT&txtSimpleSearch=%CDdolo%20de%20Extremadura&simpleSearch=0&hipertextSearch=1&search=advancedSelection&MuseumsSearch=MANT%7C&MuseumsRolSearch=36&listaMuseos=%5BMuseo%20Arqueol%F3gico%20Nacional%20(Colecci%F3n%20Tesoros%20del%20MAN)%5D",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://ceres.mcu.es/pages/ResultSearch?Museo=MANT&txtSimpleSearch=%CDdolo%20de%20Extremadura&simpleSearch=0&hipertextSearch=1&search=advancedSelection&MuseumsSearch=MANT%7C&MuseumsRolSearch=36&listaMuseos=%5BMuseo%20Arqueol%F3gico%20Nacional%20(Colecci%F3n%20Tesoros%20del%20MAN)%5D",
+          "retrieved": "time:>+2015-12-24T00:00:00Z"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q5792465-13956206-4c7f-9119-65c1-a6d9233cb9af",
+        "subject": "\u00cddolo de Extremadura",
+        "predicate": "material empleado",
+        "object": "alabastro",
+        "g_id": 0
+      },
+      {
+        "reference_id": "e1da4ceb34585d6269fa07d1f1188b18fff8204c",
+        "url": "https://www.museodelprado.es/coleccion/obra-de-arte/el-martirio-de-santa-catalina/90fafc0a-12d5-4125-a21c-04bb3d40f898",
+        "ref_node_pairs": {
+          "retrieved": "time:>+2020-03-03T00:00:00Z",
+          "reference URL": "url:>https://www.museodelprado.es/coleccion/obra-de-arte/el-martirio-de-santa-catalina/90fafc0a-12d5-4125-a21c-04bb3d40f898"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q59780098-A9E58A2E-7B87-459B-91BB-0AA8F75E3C12",
+        "subject": "El martirio de santa Catalina",
+        "predicate": "fecha de fundaci\u00f3n o creaci\u00f3n",
+        "object": "1500-01-01T00:00:00Z",
+        "g_id": 0
+      },
+      {
+        "reference_id": "da6f188c6f02138c66147e5cebba486755bffd72",
+        "url": "https://es.wikipedia.org/w/index.php?title=Blind_in_Texas&oldid=119437158",
+        "ref_node_pairs": {
+          "imported from Wikimedia project": "wikibase-item:>Spanish Wikipedia->Q8449",
+          "Wikimedia import URL": "url:>https://es.wikipedia.org/w/index.php?title=Blind_in_Texas&oldid=119437158"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q599815-801CAA3D-3FC5-4192-BE23-8C479451F28A",
+        "subject": "Blind in Texas",
+        "predicate": "forma parte de",
+        "object": "The Last Command",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              1
+            ],
+            "difficulty": [
+              3,
+              4
+            ],
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              1,2
+            ],
+            "publisher": [
+              1,
+              4
+            ],
+            "sub_publisher": -1
+          }
+        }
+      }
+    ]
+  },
+  {
+    "_id": "340d4d06-e782-4654-9961-38c7cc69b144",
+    "taskSet": [
+      {
+        "reference_id": "9e5b8399c55c9ac0e24138b2ee1899e3f91a9aa1",
+        "url": "https://indiancine.ma/MF",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Indiancine.ma->Q57313411",
+          "reference URL": "url:>https://indiancine.ma/MF"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q58428983-ECF071D1-E967-40F5-A7F6-0EF6BF532E72",
+        "subject": "Vinchucha Dansh",
+        "predicate": "instancia de",
+        "object": "pel\u00edcula",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              0,
+              1
+            ],
+            "difficulty": -1,
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              1,
+              2
+            ],
+            "publisher": [
+              1,3,
+              4
+            ],
+            "sub_publisher": -1
+          }
+        }
+      },
+      {
+        "reference_id": "046cf6b1523df55bac5edca3073bde8285745a0d",
+        "url": "https://www.cdc.gov/niosh/nioshtic-2/20039827.html",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>NIOSHTIC-2->Q26822184",
+          "NIOSHTIC-2 ID": "value:>20039827",
+          "retrieved": "time:>+2017-03-23T00:00:00Z"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q29009499-BBD088C4-47D1-47BA-BE29-2130D45BD273",
+        "subject": "Operaci\u00f3n de equipo pesado: advertencia de peligro",
+        "predicate": "identificador NIOSHTIC-2",
+        "object": "20039827",
+        "g_id": 0
+      },
+      {
+        "reference_id": "a9e56331ebca912288c2c86b0d37c2a3b34889d6",
+        "url": "https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=es&srlang=es&srid=RI-51-0009885",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Monuments database->Q28563569",
+          "publication date": "time:>+2017-11-13T00:00:00Z",
+          "reference URL": "url:>https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=es&srlang=es&srid=RI-51-0009885"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q43152518-D2E1DF7E-913D-4C4F-8BAF-AB7BFDF5D7DD",
+        "subject": "Centelles (Abrigo I)",
+        "predicate": "c\u00f3digo de Bien de Inter\u00e9s Cultural",
+        "object": "RI-51-0009885",
+        "g_id": 0
+      },
+      {
+        "reference_id": "c5c96ee84c246f364827abf70e2238d6063bfe1b",
+        "url": "https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=ve&srlang=es&srid=LARTOS-0757",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Monuments database->Q28563569",
+          "publication date": "time:>+2017-11-11T00:00:00Z",
+          "reference URL": "url:>https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=ve&srlang=es&srid=LARTOS-0757"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q42994997-D2A5881C-3E19-411A-8D22-01656961DD8C",
+        "subject": "Primer terminal de pasajeros La 109",
+        "predicate": "ubicaci\u00f3n",
+        "object": "Carora",
+        "g_id": 0
+      },
+      {
+        "reference_id": "71e6b8db044c12fb527356bdaa832771d62b47dc",
+        "url": "http://www.congreso.es/portal/page/portal/Congreso/Congreso/Iniciativas?_piref73_2148295_73_1335437_1335437.next_page=/wc/servidorCGI&CMD=VERLST&BASE=DIPH&FMT=DIPHXD1S.fmt&DOCS=1-1&DOCORDER=FIFO&OPDEF=Y&NUM1=&DES1=&QUERY=%28110990%29.NDIP.",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://www.congreso.es/portal/page/portal/Congreso/Congreso/Iniciativas?_piref73_2148295_73_1335437_1335437.next_page=/wc/servidorCGI&CMD=VERLST&BASE=DIPH&FMT=DIPHXD1S.fmt&DOCS=1-1&DOCORDER=FIFO&OPDEF=Y&NUM1=&DES1=&QUERY=%28110990%29.NDIP.",
+          "retrieved": "time:>+2020-01-20T00:00:00Z"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q86930432-3C2F1FD6-1F87-4629-8C08-FB99117C7C83",
+        "subject": "Luis Soriano Rodriguez",
+        "predicate": "lugar de trabajo",
+        "object": "Madrid",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              0,
+              1
+            ],
+            "difficulty": -1,
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              0,1
+            ],
+            "publisher": [
+              1,2,3,4
+            ],
+            "sub_publisher": -1
+          }
+        }
+      },
+      {
+        "reference_id": "6c1a1724c1e0f1407591096d227ed6eb1d03cf62",
+        "url": "https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=ve&srlang=es&srid=FALCOA-0276",
+        "ref_node_pairs": {
+          "publication date": "time:>+2017-11-10T00:00:00Z",
+          "reference URL": "url:>https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=ve&srlang=es&srid=FALCOA-0276",
+          "stated in": "wikibase-item:>Monuments database->Q28563569"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q42903281-0A79E4F8-A415-4DAD-9F8D-F047FB92341A",
+        "subject": "Puente de Las Calderas",
+        "predicate": "situado en la entidad territorial administrativa",
+        "object": "Municipio Colina",
+        "g_id": 0
+      }
+    ]
+  },
+  {
+    "_id": "c70e6688-501d-4102-9021-977ee03ce261",
+    "taskSet": [
+      {
+        "reference_id": "740b98f3f7811e4e2c75a15b4893990135c383d3",
+        "url": "http://datos.bne.es/resource/XX1297174",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Biblioteca Nacional de Espa\u00f1a->Q750403",
+          "Biblioteca Nacional de Espa\u00f1a ID": "value:>XX1297174",
+          "named as": "value:>Evan Jones"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q3735170-C794B57F-BF07-4453-A296-2B4A10514BE7",
+        "subject": "Evan Jones",
+        "predicate": "fecha de nacimiento",
+        "object": "1927-01-01T00:00:00Z",
+        "g_id": 0
+      },
+      {
+        "reference_id": "8a93622e779ebb1bc3b591c649274d34d52c9e33",
+        "url": "https://viaf.org/viaf/28681023",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+          "retrieved": "time:>+2018-08-26T00:00:00Z",
+          "VIAF ID": "value:>28681023"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q6745016-275C2203-9432-4CA9-8A9C-E935BDEF3950",
+        "subject": "Malva Flores",
+        "predicate": "identificador NTA",
+        "object": "205409326",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              1
+            ],
+            "difficulty": [
+              2,
+              3,
+              4
+            ],
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              1,2
+            ],
+            "publisher": [
+              0,1,2,
+              4
+            ],
+            "sub_publisher": -1
+          }
+        }
+      },
+      {
+        "reference_id": "2c310962fb314d225c71849537cf1c9d3662b080",
+        "url": "http://datos.bne.es/resource/XX5629625",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Biblioteca Nacional de Espa\u00f1a->Q750403",
+          "Biblioteca Nacional de Espa\u00f1a ID": "value:>XX5629625",
+          "named as": "value:>Edoardo Albinati",
+          "retrieved": "time:>+2017-10-09T00:00:00Z"
+        },
+        "language_crawl": "es",
+        "statement_node": "q3719524-F3756524-9A25-4381-B2D6-D80EFB69B4B8",
+        "subject": "Edoardo Albinati",
+        "predicate": "fecha de nacimiento",
+        "object": "1956-01-01T00:00:00Z",
+        "g_id": 0
+      },
+      {
+        "reference_id": "cb9da3a57bb8ef5bb56fa14f907920b12703a95c",
+        "url": "https://www.museodelprado.es/coleccion/obra-de-arte/paisaje/bfd452ee-fac5-4b75-92ec-19ddd8501df6",
+        "ref_node_pairs": {
+          "retrieved": "time:>+2020-03-03T00:00:00Z",
+          "reference URL": "url:>https://www.museodelprado.es/coleccion/obra-de-arte/paisaje/bfd452ee-fac5-4b75-92ec-19ddd8501df6"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q59828301-ECE2EC39-4461-4E3C-943A-FADF13584943",
+        "subject": "Paisaje",
+        "predicate": "fecha de fundaci\u00f3n o creaci\u00f3n",
+        "object": "1865-01-01T00:00:00Z",
+        "g_id": 0
+      },
+      {
+        "reference_id": "a1a9124d689d742f560532133ce95387acb36109",
+        "url": "https://es.wikipedia.org/w/index.php?title=Austin_(l\u00ednea_Azul)&oldid=99013812",
+        "ref_node_pairs": {
+          "imported from Wikimedia project": "wikibase-item:>Spanish Wikipedia->Q8449",
+          "Wikimedia import URL": "url:>https://es.wikipedia.org/w/index.php?title=Austin_(l\u00ednea_Azul)&oldid=99013812"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q2872109-C7F5CFFC-FA19-4E7F-9D8A-57EB8830B0FC",
+        "subject": "Austin (l\u00ednea Azul)",
+        "predicate": "n\u00famero de v\u00edas con and\u00e9n",
+        "object": "2",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              1
+            ],
+            "difficulty": [
+              3,
+              4
+            ],
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              1,2
+            ],
+            "publisher": [
+              1,
+              4
+            ],
+            "sub_publisher": -1
+          }
+        }
+      },
+      {
+        "reference_id": "f6f3781e78a19526928026d4f3487f8db606b873",
+        "url": "https://www.museodelprado.es/coleccion/obra-de-arte/un-ciudadano-mas/621560ea-af33-4eb0-a980-ff2967b1600f",
+        "ref_node_pairs": {
+          "reference URL": "url:>https://www.museodelprado.es/coleccion/obra-de-arte/un-ciudadano-mas/621560ea-af33-4eb0-a980-ff2967b1600f",
+          "retrieved": "time:>+2018-12-23T00:00:00Z"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q60036709-771C2ED0-2CED-4CBE-9D71-43051B9280E4",
+        "subject": "Un ciudadano m\u00e1s",
+        "predicate": "c\u00f3digo del cat\u00e1logo",
+        "object": "1047",
+        "g_id": 0
+      }
+    ]
+  },
+  {
+    "_id": "eef6afd4-87fa-457d-bbc1-bd0ed3ea0ded",
+    "taskSet": [
+      {
+        "reference_id": "d808cf9d32b54addaf4896a165f25c6d2c6786ea",
+        "url": "https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=es&srlang=es&srid=RI-51-0005852",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Monuments database->Q28563569",
+          "publication date": "time:>+2017-11-13T00:00:00Z",
+          "reference URL": "url:>https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=es&srlang=es&srid=RI-51-0005852"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q43122633-9A9EC2C9-9784-4D5E-897D-9432AF7450F8",
+        "subject": "Torre Seguera",
+        "predicate": "c\u00f3digo de Bien de Inter\u00e9s Cultural",
+        "object": "RI-51-0005852",
+        "g_id": 0
+      },
+      {
+        "reference_id": "79423c027b8474604f17c41be6ef5ceae975e2ca",
+        "url": "https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=cl&srlang=es&srid=357",
+        "ref_node_pairs": {
+          "reference URL": "url:>https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=cl&srlang=es&srid=357",
+          "stated in": "wikibase-item:>Monuments database->Q28563569",
+          "publication date": "time:>+2017-11-10T00:00:00Z"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q16608822-E62DAB08-81FF-4B11-A2BD-3FF740827EB1",
+        "subject": "Montegrande",
+        "predicate": "estatus patrimonial",
+        "object": "Zona T\u00edpica",
+        "g_id": 0
+      },
+      {
+        "reference_id": "9cfeb61a26df2ba00b306f72db68cf39cbc85518",
+        "url": "http://www.congreso.es/portal/page/portal/Congreso/Congreso/Diputados/BusqForm?_piref73_1333155_73_1333154_1333154.next_page=/wc/fichaDiputado?idDiputado=7&idLegislatura=7",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://www.congreso.es/portal/page/portal/Congreso/Congreso/Diputados/BusqForm?_piref73_1333155_73_1333154_1333154.next_page=/wc/fichaDiputado?idDiputado=7&idLegislatura=7",
+          "retrieved": "time:>+2017-11-23T00:00:00Z"
+        },
+        "language_crawl": "es",
+        "statement_node": "q44587054-ebe96bc2-df6f-4037-b4b2-9a8c206feb98",
+        "subject": "Jos\u00e9 Antonio Gallego L\u00f3pez",
+        "predicate": "candidato en la elecci\u00f3n",
+        "object": "elecciones generales de Espa\u00f1a de 2000",
+        "g_id": 0
+      },
+      {
+        "reference_id": "3cf075e6b717a40833efeb06fb3cfa86f0eb45f6",
+        "url": "https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=es&srlang=es&srid=RI-51-0008022",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Monuments database->Q28563569",
+          "publication date": "time:>+2017-11-13T00:00:00Z",
+          "reference URL": "url:>https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=es&srlang=es&srid=RI-51-0008022"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q43137893-F1CF93BA-96AE-4AF1-804D-39A4D69272E6",
+        "subject": "Castillo",
+        "predicate": "estatus patrimonial",
+        "object": "Bien de Inter\u00e9s Cultural",
+        "g_id": 0
+      },
+      {
+        "reference_id": "86c422ffab4ce2f61165427a0a47ed4b13605380",
+        "url": "http://resolver.smak.be/collection/work/data/3289",
+        "ref_node_pairs": {
+          "retrieved": "time:>+2016-01-25T00:00:00Z",
+          "reference URL": "url:>http://resolver.smak.be/collection/work/data/3289"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q22262052-D9CBA97E-DA5C-4C93-83E0-D2E0B290DF99",
+        "subject": "Nimba",
+        "predicate": "creador",
+        "object": "Hugo Debaere",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              0
+            ],
+            "difficulty": -1,
+            "reason": [
+              0,
+              2,
+              3,
+              5,
+              6
+            ]
+          },
+          "authorit": {
+            "author": -1,
+            "publisher": -1,
+            "sub_publisher": -1
+          }
+        }
+      },
+      {
+        "reference_id": "f4cf05ad2e5cc8e54de3f998308f36aad061d7ce",
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:10491904%20AND%20SRC:MED&resulttype=core&format=json",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+          "PubMed ID": "value:>10491904",
+          "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:10491904%20AND%20SRC:MED&resulttype=core&format=json",
+          "retrieved": "time:>+2019-10-31T00:00:00Z"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q73006151-7AFC5D63-76D7-4661-BF29-E948206C7DD7",
+        "subject": "[New outlooks in the treatment of diabetes]",
+        "predicate": "identificador PubMed",
+        "object": "10491904",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              1
+            ],
+            "difficulty": [
+              3,
+              4
+            ],
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              1
+            ],
+            "publisher": [
+              0,1,2
+            ],
+            "sub_publisher": -1
+          }
+        }
+      }
+    ]
+  },
+  {
+    "_id": "ac5dd58e-43b8-496a-aba4-12ae01ad12e9",
+    "taskSet": [
+      {
+        "reference_id": "5ae5e17885586aa023715d53c8ccb0a08fec250c",
+        "url": "https://id.loc.gov/authorities/n88026327",
+        "ref_node_pairs": {
+          "Library of Congress authority ID": "value:>n88026327",
+          "stated in": "wikibase-item:>Library of Congress Control Number->Q620946",
+          "retrieved": "time:>+2020-03-25T00:00:00Z"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q5664711-37C82ECE-6EB0-42B2-A8FC-04A5804D89F8",
+        "subject": "Luis de Miranda de Villafa\u00f1a",
+        "predicate": "identificador FAST",
+        "object": "1835190",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              0,
+              1
+            ],
+            "difficulty": -1,
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              1,2
+            ],
+            "publisher": [
+              1,
+              2,4
+            ],
+            "sub_publisher": -1
+          }
+        }
+      },
+      {
+        "reference_id": "d59c5acc1f4fb3ec6c2f2a11bf67f8d268e0fd21",
+        "url": "https://es.wikipedia.org/w/index.php?title=Balneario_de_la_Alameda&oldid=119443329",
+        "ref_node_pairs": {
+          "imported from Wikimedia project": "wikibase-item:>Spanish Wikipedia->Q8449",
+          "Wikimedia import URL": "url:>https://es.wikipedia.org/w/index.php?title=Balneario_de_la_Alameda&oldid=119443329"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q50292549-8235901E-984C-4415-8822-4B24DA5950BE",
+        "subject": "Balneario de la Alameda",
+        "predicate": "estatus patrimonial",
+        "object": "Bien de Relevancia Local",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              1
+            ],
+            "difficulty": [
+              3,
+              4
+            ],
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              1,2
+            ],
+            "publisher": [
+              1,
+              4
+            ],
+            "sub_publisher": -1
+          }
+        }
+      },
+      {
+        "reference_id": "af644d41821cbdb510a5f209ef5fab52577c1fee",
+        "url": "https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=es&srlang=es&srid=RI-55-0000240",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Monuments database->Q28563569",
+          "publication date": "time:>+2017-11-13T00:00:00Z",
+          "reference URL": "url:>https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=es&srlang=es&srid=RI-55-0000240"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q5562219-C49B7C33-AD5D-45B2-AE47-339ED3A28C09",
+        "subject": "Ob\u00falcula",
+        "predicate": "situado en la entidad territorial administrativa",
+        "object": "Fuentes de Andaluc\u00eda",
+        "g_id": 0
+      },
+      {
+        "reference_id": "1213b1696ac6bfd68b34e24da3cd360215a40020",
+        "url": "https://www.transfermarkt.com/transfermarkt/profil/spieler/149231",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Transfermarkt->Q2449070",
+          "Transfermarkt player ID": "value:>149231",
+          "named as": "value:>Fidel",
+          "retrieved": "time:>+2017-10-09T00:00:00Z"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q5446728-9E6E55C9-9B97-4005-B5AD-3C071A2EB811",
+        "subject": "Fidel Chaves",
+        "predicate": "fecha de nacimiento",
+        "object": "1989-10-27T00:00:00Z",
+        "g_id": 0
+      },
+      {
+        "reference_id": "4b21646b12401d16908733d9d2d36a581b9c23be",
+        "url": "http://www.filmaffinity.com/es/film752277.html",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://www.filmaffinity.com/es/film752277.html",
+          "retrieved": "time:>+2016-05-13T00:00:00Z"
+        },
+        "language_crawl": "es",
+        "statement_node": "q147068-3D0F0AB0-7045-4C3B-8FBF-8E2189FF349C",
+        "subject": "Funny Face",
+        "predicate": "miembro del reparto",
+        "object": "Audrey Hepburn",
+        "g_id": 0
+      },
+      {
+        "reference_id": "a365bb82a36312c4273fa1b522c90039d1873306",
+        "url": "https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=sv&srlang=es&srid=05170001",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Monuments database->Q28563569",
+          "publication date": "time:>+2017-11-07T00:00:00Z",
+          "reference URL": "url:>https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=sv&srlang=es&srid=05170001"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q42800362-DF66A5E1-8AF0-4799-9456-A27505BA1066",
+        "subject": "Calles, fachadas de edificios y contexto urbano del centro hist\u00f3rico de San Pablo Tacachico",
+        "predicate": "situado en la entidad territorial administrativa",
+        "object": "San Pablo Tacachico",
+        "g_id": 0
+      }
+    ]
+  },
+  {
+    "_id": "00479e07-6761-432b-9521-ead9e799f2c0",
+    "taskSet": [
+      {
+        "reference_id": "d5d0aef32ed5e6f00faa2b3bd58181273b139999",
+        "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=2691318",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>El arquitecto Manuel Serrano->Q43013015",
+          "page(s)": "value:>473"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q43013877-1ccb8316-4c8d-d532-e8f3-9ed25a7e9185",
+        "subject": "Manuel Serrano",
+        "predicate": "periodo de actividad",
+        "object": "1785-01-01T00:00:00Z",
+        "g_id": 0
+      },
+      {
+        "reference_id": "7de7a62e75a0675ccbd8aa0f25b3af56983d23da",
+        "url": "http://datos.bne.es/resource/XX1617697",
+        "ref_node_pairs": {
+          "Biblioteca Nacional de Espa\u00f1a ID": "value:>XX1617697",
+          "named as": "value:>Heather Anne Pringle",
+          "retrieved": "time:>+2017-10-09T00:00:00Z"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q5694050-3A5CE3BA-90E1-47D5-BA24-45C54BBCED68",
+        "subject": "Heather Pringle",
+        "predicate": "fecha de nacimiento",
+        "object": "1952-01-01T00:00:00Z",
+        "g_id": 0
+      },
+      {
+        "reference_id": "598cf28b3e88f9cc2f0121007d41b4f6ff871535",
+        "url": "http://datos.bne.es/persona/XX1165598.html",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://id.worldcat.org/fast/83958",
+          "retrieved": "time:>+2018-08-06T00:00:00Z"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q55999413-ECDE25CA-B50F-4107-B651-9F848C33A700",
+        "subject": "Eduardo Irles",
+        "predicate": "fecha de nacimiento",
+        "object": "1883-01-01T00:00:00Z",
+        "g_id": 0
+      },
+      {
+        "reference_id": "e40dbae848ae66543d1a78ccd1ae3482b6f1a758",
+        "url": "https://www.museodelprado.es/en/the-collection/art-work/the-surrender-of-julich/2765e3e7-36ef-4e14-9f24-50313835f81c",
+        "ref_node_pairs": {
+          "reference URL": "url:>https://www.museodelprado.es/en/the-collection/art-work/the-surrender-of-julich/2765e3e7-36ef-4e14-9f24-50313835f81c",
+          "retrieved": "time:>+2018-12-24T00:00:00Z"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q27700875-4772FCC3-5279-44D3-BB90-C397DA268F7E",
+        "subject": "Rendici\u00f3n de Juliers",
+        "predicate": "c\u00f3digo del cat\u00e1logo",
+        "object": "767",
+        "g_id": 0
+      },
+      {
+        "reference_id": "876846427fdf3780ddf253a980ded9f319191eb5",
+        "url": "http://datos.bne.es/resource/XX839980",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Biblioteca Nacional de Espa\u00f1a->Q750403",
+          "Biblioteca Nacional de Espa\u00f1a ID": "value:>XX839980",
+          "named as": "value:>Jos\u00e9 Adriano de Carvalho",
+          "retrieved": "time:>+2017-10-09T00:00:00Z"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q10308686-AA52D01E-9214-4983-A1B1-4A0B63E084B2",
+        "subject": "Jos\u00e9 Adriano Borges de Carvalho",
+        "predicate": "fecha de nacimiento",
+        "object": "1937-01-01T00:00:00Z",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              1
+            ],
+            "difficulty": [
+              2,
+              3,
+              4
+            ],
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              1,2
+            ],
+            "publisher": [
+              0,1,
+              2,4
+            ],
+            "sub_publisher": -1
+          }
+        }
+      },
+      {
+        "reference_id": "da6f188c6f02138c66147e5cebba486755bffd72",
+        "url": "https://es.wikipedia.org/w/index.php?title=Blind_in_Texas&oldid=119437158",
+        "ref_node_pairs": {
+          "imported from Wikimedia project": "wikibase-item:>Spanish Wikipedia->Q8449",
+          "Wikimedia import URL": "url:>https://es.wikipedia.org/w/index.php?title=Blind_in_Texas&oldid=119437158"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q599815-801CAA3D-3FC5-4192-BE23-8C479451F28A",
+        "subject": "Blind in Texas",
+        "predicate": "forma parte de",
+        "object": "The Last Command",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              1
+            ],
+            "difficulty": [
+              3,
+              4
+            ],
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              1,2
+            ],
+            "publisher": [
+              1,
+              4
+            ],
+            "sub_publisher": -1
+          }
+        }
+      }
+    ]
+  },
+  {
+    "_id": "5faaac80-3967-4a7e-ba59-6fa51124cc1e",
+    "taskSet": [
+      {
+        "reference_id": "dd2fa6ef3635a4093a72cf7219e74d73f3832b41",
+        "url": "http://datos.bne.es/resource/XX1012574",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Biblioteca Nacional de Espa\u00f1a->Q750403",
+          "Biblioteca Nacional de Espa\u00f1a ID": "value:>XX1012574",
+          "named as": "value:>Aureliano de Beruete y Moret"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q8209281-F21A9597-DDF2-4095-9325-2DB9C68474F0",
+        "subject": "Aureliano de Beruete y Moret",
+        "predicate": "fecha de fallecimiento",
+        "object": "1922-01-01T00:00:00Z",
+        "g_id": 0
+      },
+      {
+        "reference_id": "b0677578f4ee287ac2d089b8c0f7d69f05da4622",
+        "url": "https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=es&srlang=es&srid=RI-51-0004038",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Monuments database->Q28563569",
+          "publication date": "time:>+2017-11-13T00:00:00Z",
+          "reference URL": "url:>https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=es&srlang=es&srid=RI-51-0004038"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q43112386-F0C16BD1-9061-41ED-8247-8132001D541A",
+        "subject": "Grabado Rupestre Monte Da Rocha Laxe Das Chaves de San Pedro",
+        "predicate": "estatus patrimonial",
+        "object": "Bien de Inter\u00e9s Cultural",
+        "g_id": 0
+      },
+      {
+        "reference_id": "66e915650170f23efe52d4d55070fde3695e10ef",
+        "url": "http://sedici.unlp.edu.ar/handle/10915/62488",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Institutional repository of the University of La Plata->Q6126111",
+          "reference URL": "url:>http://sedici.unlp.edu.ar/handle/10915/62488"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q80717815-7D144DF3-4638-4BF0-9D49-84A0EB4E9C5C",
+        "subject": "Infancias como colectividades bivalentes: una mirada etnogr\u00e1fica sobre las representaciones sociales del \"inter\u00e9s superior del ni\u00f1o/a\" en contexto de encierro",
+        "predicate": "DOI",
+        "object": "10.35537/10915/62488",
+        "g_id": 0
+      },
+      {
+        "reference_id": "94f2ad59bf02b3d149bd1a72d2037b0b0c72480a",
+        "url": "http://datos.bne.es/persona/XX4748470.html",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://datos.bne.es/persona/XX4748470.html",
+          "retrieved": "time:>+2018-07-21T00:00:00Z"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q55688079-7905923E-FDD4-49A5-8CA2-DEE9C13775CE",
+        "subject": "Jos\u00e9 Pascual Hern\u00e1ndez Farin\u00f3s",
+        "predicate": "fecha de nacimiento",
+        "object": "1967-01-01T00:00:00Z",
+        "g_id": 0
+      },
+      {
+        "reference_id": "d59c5acc1f4fb3ec6c2f2a11bf67f8d268e0fd21",
+        "url": "https://es.wikipedia.org/w/index.php?title=Balneario_de_la_Alameda&oldid=119443329",
+        "ref_node_pairs": {
+          "imported from Wikimedia project": "wikibase-item:>Spanish Wikipedia->Q8449",
+          "Wikimedia import URL": "url:>https://es.wikipedia.org/w/index.php?title=Balneario_de_la_Alameda&oldid=119443329"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q50292549-8235901E-984C-4415-8822-4B24DA5950BE",
+        "subject": "Balneario de la Alameda",
+        "predicate": "estatus patrimonial",
+        "object": "Bien de Relevancia Local",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              1
+            ],
+            "difficulty": [
+              3,
+              4
+            ],
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              1,2
+            ],
+            "publisher": [
+              1,
+              4
+            ],
+            "sub_publisher": -1
+          }
+        }
+      },
+      {
+        "reference_id": "6f7f33892eb5f1223d2656e13e5ffa118e6a5817",
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:28433257%20AND%20SRC:MED&resulttype=core&format=json",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+          "PubMed ID": "value:>28433257",
+          "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:28433257%20AND%20SRC:MED&resulttype=core&format=json",
+          "retrieved": "time:>+2020-03-18T00:00:00Z"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q38692034-0072E655-EBEE-4F8A-9354-1BC0E506F419",
+        "subject": "Patterns of global health financing and potential future spending on health.",
+        "predicate": "n\u00famero de ejemplar",
+        "object": "10083",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              1
+            ],
+            "difficulty": [
+              3,
+              4
+            ],
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              1
+            ],
+            "publisher": [
+              0,1,2
+            ],
+            "sub_publisher": -1
+          }
+        }
+      }
+    ]
+  },
+  {
+    "_id": "374a3ab2-feff-49d0-a948-ea9357a5311b",
+    "taskSet": [
+      {
+        "reference_id": "2cb6ffa3705b609c83e0bfbf97a054760907d3b0",
+        "url": "http://www.filmaffinity.com/es/film965999.html",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://www.filmaffinity.com/es/film965999.html",
+          "retrieved": "time:>+2016-07-13T00:00:00Z"
+        },
+        "language_crawl": "es",
+        "statement_node": "q309248-7D585D92-2F9F-45BC-87BE-292820BF66E9",
+        "subject": "Los tres mosqueteros",
+        "predicate": "miembro del reparto",
+        "object": "Logan Lerman",
+        "g_id": 0
+      },
+      {
+        "reference_id": "4f9b8e4735c5c9f3a75940e4ebee30f012cb8cb7",
+        "url": "http://dbe.rah.es/biografias/58314/gil-de-alvarado-benavides",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Spanish Biographical Dictionary->Q41705771",
+          "Spanish Biographical Dictionary ID": "value:>58314/gil-de-alvarado-benavides",
+          "named as": "value:>Gil de Alvarado Benavides"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q5879545-A514A934-D671-4EC9-B7ED-48B881BEF3F1",
+        "subject": "Gil de Alvarado y Benavides",
+        "predicate": "fecha de fallecimiento",
+        "object": "1670-09-17T00:00:00Z",
+        "g_id": 0
+      },
+      {
+        "reference_id": "bbae4f370ab3a9e2bb988c2e8c57e892140b5d72",
+        "url": "http://data.bnf.fr/ark:/12148/cb12159056f",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>BnF authorities->Q19938912",
+          "Biblioth\u00e8que nationale de France ID": "value:>12159056f",
+          "reference URL": "url:>http://data.bnf.fr/ark:/12148/cb12159056f",
+          "retrieved": "time:>+2015-10-10T00:00:00Z"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q6164203-FE7E7571-EF89-4A29-9E83-6B42DF8904B5",
+        "subject": "Vivian Tr\u00edas",
+        "predicate": "lenguas habladas, escritas o signadas",
+        "object": "espa\u00f1ol",
+        "g_id": 0
+      },
+      {
+        "reference_id": "da5be3f9b27fbd29a226c1a8692f05fa3c485b83",
+        "url": "https://es.wikipedia.org/w/index.php?title=Azumi_Asakura&oldid=114132230",
+        "ref_node_pairs": {
+          "imported from Wikimedia project": "wikibase-item:>Spanish Wikipedia->Q8449",
+          "Wikimedia import URL": "url:>https://es.wikipedia.org/w/index.php?title=Azumi_Asakura&oldid=114132230"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q8191313-EC86EBF2-2993-4679-BE59-7BBAF2B9E9DA",
+        "subject": "Azumi Asakura",
+        "predicate": "nombre de usuario en Ameblo",
+        "object": "asakura-azumi",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              0,
+              1
+            ],
+            "difficulty": -1,
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              1,2
+            ],
+            "publisher": [
+              1,
+              4
+            ],
+            "sub_publisher": -1
+          }
+        }
+      },
+      {
+        "reference_id": "5dc464ee543e8273f0afdf3eb689dce7fc10c13b",
+        "url": "https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=es&srlang=es&srid=RI-51-0007849",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Monuments database->Q28563569",
+          "publication date": "time:>+2017-11-13T00:00:00Z",
+          "reference URL": "url:>https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=es&srlang=es&srid=RI-51-0007849"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q43136428-BAC5C8AE-7FF0-4FDB-9687-1C1BC7D7E36A",
+        "subject": "Castillo de Paymogo",
+        "predicate": "instancia de",
+        "object": "monumento",
+        "g_id": 0
+      },
+      {
+        "reference_id": "acad386b71470743b5e9d942e260bb836816770f",
+        "url": "https://es.wikipedia.org/w/index.php?title=Miguel_\u00c1ngel_Bord\u00f3n&oldid=116591605",
+        "ref_node_pairs": {
+          "imported from Wikimedia project": "wikibase-item:>Spanish Wikipedia->Q8449",
+          "Wikimedia import URL": "url:>https://es.wikipedia.org/w/index.php?title=Miguel_\u00c1ngel_Bord\u00f3n&oldid=116591605"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q3857289-A55D2086-489D-46A1-854D-535AA7E0FF16",
+        "subject": "Miguel \u00c1ngel Bord\u00f3n",
+        "predicate": "inicio del periodo de actividad",
+        "object": "1971-01-01T00:00:00Z",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              1
+            ],
+            "difficulty": [
+              3,
+              4
+            ],
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              1,2
+            ],
+            "publisher": [
+              1,
+              4
+            ],
+            "sub_publisher": -1
+          }
+        }
+      }
+    ]
+  },
+  {
+    "_id": "c6ab0c35-6ef9-45ae-8b34-afd39bbd4923",
+    "taskSet": [
+      {
+        "reference_id": "d59c5acc1f4fb3ec6c2f2a11bf67f8d268e0fd21",
+        "url": "https://es.wikipedia.org/w/index.php?title=Balneario_de_la_Alameda&oldid=119443329",
+        "ref_node_pairs": {
+          "imported from Wikimedia project": "wikibase-item:>Spanish Wikipedia->Q8449",
+          "Wikimedia import URL": "url:>https://es.wikipedia.org/w/index.php?title=Balneario_de_la_Alameda&oldid=119443329"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q50292549-8235901E-984C-4415-8822-4B24DA5950BE",
+        "subject": "Balneario de la Alameda",
+        "predicate": "estatus patrimonial",
+        "object": "Bien de Relevancia Local",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              1
+            ],
+            "difficulty": [
+              3,
+              4
+            ],
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              1,2
+            ],
+            "publisher": [
+              1,
+              4
+            ],
+            "sub_publisher": -1
+          }
+        }
+      },
+      {
+        "reference_id": "bb8a3700c77aeb4c7a36ec96a6af89b93a6ab217",
+        "url": "http://catalogo.bne.es/uhtbin/authoritybrowse.cgi?action=display&authority_id=XX146251",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://catalogo.bne.es/uhtbin/authoritybrowse.cgi?action=display&authority_id=XX146251",
+          "retrieved": "time:>+2017-05-08T00:00:00Z"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q8560240-c056d5dc-49b2-83b3-07dd-67a8fa223ba4",
+        "subject": "Diputaci\u00f3n Provincial de L\u00e9rida",
+        "predicate": "identificador BNE",
+        "object": "XX146251",
+        "g_id": 0
+      },
+      {
+        "reference_id": "71e6b8db044c12fb527356bdaa832771d62b47dc",
+        "url": "http://www.congreso.es/portal/page/portal/Congreso/Congreso/Iniciativas?_piref73_2148295_73_1335437_1335437.next_page=/wc/servidorCGI&CMD=VERLST&BASE=DIPH&FMT=DIPHXD1S.fmt&DOCS=1-1&DOCORDER=FIFO&OPDEF=Y&NUM1=&DES1=&QUERY=%28110990%29.NDIP.",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://www.congreso.es/portal/page/portal/Congreso/Congreso/Iniciativas?_piref73_2148295_73_1335437_1335437.next_page=/wc/servidorCGI&CMD=VERLST&BASE=DIPH&FMT=DIPHXD1S.fmt&DOCS=1-1&DOCORDER=FIFO&OPDEF=Y&NUM1=&DES1=&QUERY=%28110990%29.NDIP.",
+          "retrieved": "time:>+2020-01-20T00:00:00Z"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q86930432-3C2F1FD6-1F87-4629-8C08-FB99117C7C83",
+        "subject": "Luis Soriano Rodriguez",
+        "predicate": "lugar de trabajo",
+        "object": "Madrid",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              0,
+              1
+            ],
+            "difficulty": -1,
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              0,1
+            ],
+            "publisher": [
+              1,2
+            ],
+            "sub_publisher": -1
+          }
+        }
+      },
+      {
+        "reference_id": "3342790b4324de1c0737bbbd3407aad234dc3031",
+        "url": "https://www.museodelprado.es/en/the-collection/art-work/saint-peter-liberated-by-an-angel/289437e4-d432-43ee-828b-e43680f732aa",
+        "ref_node_pairs": {
+          "retrieved": "time:>+2020-02-26T00:00:00Z",
+          "reference URL": "url:>https://www.museodelprado.es/en/the-collection/art-work/saint-peter-liberated-by-an-angel/289437e4-d432-43ee-828b-e43680f732aa"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q27749370-C3B88697-2CD6-4A3B-B67B-F349F5C48951",
+        "subject": "San Pedro liberado por un \u00e1ngel",
+        "predicate": "fecha de fundaci\u00f3n o creaci\u00f3n",
+        "object": "1652-01-01T00:00:00Z",
+        "g_id": 0
+      },
+      {
+        "reference_id": "a5e92c98a40130a0f381ec3cccd7560b5d13aace",
+        "url": "http://www.congreso.es/portal/page/portal/Congreso/Congreso/Iniciativas?_piref73_2148295_73_1335437_1335437.next_page=/wc/servidorCGI&CMD=VERLST&BASE=DIPH&FMT=DIPHXD1S.fmt&DOCS=5-5&DOCORDER=FIFO&OPDEF=Y&NUM1=&DES1=&QUERY=%2819850%29.NDIP.",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://www.congreso.es/portal/page/portal/Congreso/Congreso/Iniciativas?_piref73_2148295_73_1335437_1335437.next_page=/wc/servidorCGI&CMD=VERLST&BASE=DIPH&FMT=DIPHXD1S.fmt&DOCS=5-5&DOCORDER=FIFO&OPDEF=Y&NUM1=&DES1=&QUERY=%2819850%29.NDIP.",
+          "retrieved": "time:>+2020-01-20T00:00:00Z"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q85669965-A959270E-3D20-4464-869D-7A23B09E4614",
+        "subject": "\u00c1ngel Campano L\u00f3pez",
+        "predicate": "ocupaci\u00f3n",
+        "object": "pol\u00edtico",
+        "g_id": 0
+      },
+      {
+        "reference_id": "7be66a35d4c49a1f9ba58f6477a39839124d29f8",
+        "url": "https://www.museodelprado.es/coleccion/obra-de-arte/la-nieta-del-marinero/be2e85bf-a95a-4452-bffa-ac1f7c0af515",
+        "ref_node_pairs": {
+          "reference URL": "url:>https://www.museodelprado.es/coleccion/obra-de-arte/la-nieta-del-marinero/be2e85bf-a95a-4452-bffa-ac1f7c0af515",
+          "retrieved": "time:>+2018-12-18T00:00:00Z"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q59844223-C002D61A-8BAB-44F6-8DA1-24B97CFCD9E7",
+        "subject": "La nieta del marinero",
+        "predicate": "n\u00famero de inventario",
+        "object": "P005908",
+        "g_id": 0
+      }
+    ]
+  },
+  {
+    "_id": "502c4af8-4866-4354-ae5d-daf83234dfcc",
+    "taskSet": [
+      {
+        "reference_id": "900853443682048e77f9af76b7ad01e0dfa1b461",
+        "url": "http://www.fpa.es/es/premios-princesa-de-asturias/premiados/2013-saskia-sassen.html?especifica=0",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://www.fpa.es/es/premios-princesa-de-asturias/premiados/2013-saskia-sassen.html?especifica=0"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q239419-55D4E1E6-1760-4261-B8DE-0EE528A24D51",
+        "subject": "Saskia Sassen",
+        "predicate": "premio recibido",
+        "object": "Premio Princesa de Asturias de Ciencias Sociales",
+        "g_id": 0
+      },
+      {
+        "reference_id": "2ef8e530b12c4dfc48bd5a5a0b6106513d4aea2f",
+        "url": "http://www.congreso.es/portal/page/portal/Congreso/Congreso/Diputados/BusqForm?_piref73_1333155_73_1333154_1333154.next_page=/wc/fichaDiputado?idDiputado=276&idLegislatura=13",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://www.congreso.es/portal/page/portal/Congreso/Congreso/Diputados/BusqForm?_piref73_1333155_73_1333154_1333154.next_page=/wc/fichaDiputado?idDiputado=276&idLegislatura=13",
+          "retrieved": "time:>+2019-08-21T00:00:00Z"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q13786674-50b3d9fc-456b-9f6a-9567-d85ba5f417fc",
+        "subject": "In\u00e9s Arrimadas",
+        "predicate": "identificador en Facebook",
+        "object": "ines.ciudadanos",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              0,
+              1
+            ],
+            "difficulty": -1,
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              0,1
+            ],
+            "publisher": [
+              1,2
+            ],
+            "sub_publisher": -1
+          }
+        }
+      },
+      {
+        "reference_id": "415c9a9f5a1b5af5ca9feb28e2ee7888df02994c",
+        "url": "http://cadenaser.com/ser/2018/08/08/politica/1533758734_279512.html?ssm=tw",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://cadenaser.com/ser/2018/08/08/politica/1533758734_279512.html?ssm=tw",
+          "retrieved": "time:>+2018-08-09T00:00:00Z"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q54670191-cce5c8bf-43c2-f6b7-58d5-549cb928e223",
+        "subject": "Mar\u00eda Bego\u00f1a G\u00f3mez Fern\u00e1ndez",
+        "predicate": "empleador",
+        "object": "IE Business School",
+        "g_id": 0
+      },
+      {
+        "reference_id": "f47dd453c1d3fbfad88f54cd05ee0d28c67cba5c",
+        "url": "https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=uy&srlang=es&srid=020-106",
+        "ref_node_pairs": {
+          "reference URL": "url:>https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=uy&srlang=es&srid=020-106",
+          "stated in": "wikibase-item:>Monuments database->Q28563569",
+          "publication date": "time:>+2017-11-11T00:00:00Z"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q42980545-9F22A7C2-5800-4A18-BE76-35B1121069AB",
+        "subject": "Instrucciones del a\u00f1o XIII",
+        "predicate": "pa\u00eds",
+        "object": "Uruguay",
+        "g_id": 0
+      },
+      {
+        "reference_id": "2e6b8981f7c7f48786a6b415124772388edcd637",
+        "url": "http://datos.bne.es/resource/XX824676",
+        "ref_node_pairs": {
+          "Biblioteca Nacional de Espa\u00f1a ID": "value:>XX824676",
+          "named as": "value:>Xandru Fern\u00e1ndez",
+          "retrieved": "time:>+2017-10-09T00:00:00Z"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q3781342-743B1CA4-2985-4CDA-AB78-4F9ADC98C955",
+        "subject": "Xandru Fern\u00e1ndez",
+        "predicate": "fecha de nacimiento",
+        "object": "1970-01-22T00:00:00Z",
+        "g_id": 0
+      },
+      {
+        "reference_id": "9c42aacd205f19c638b87475cfd19996d3da2378",
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:2755229%20AND%20SRC:MED&resulttype=core&format=json",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+          "PubMed ID": "value:>2755229",
+          "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:2755229%20AND%20SRC:MED&resulttype=core&format=json",
+          "retrieved": "time:>+2019-10-04T00:00:00Z"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q69669029-AD844AC7-62A9-4985-818E-9104DE2AF9D0",
+        "subject": "[Subacute nodular thyroiditis, de Quervain's type]",
+        "predicate": "p\u00e1gina",
+        "object": "558-559",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              1
+            ],
+            "difficulty": [
+              3,
+              4
+            ],
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              1
+            ],
+            "publisher": [
+              0,1,2
+            ],
+            "sub_publisher": -1
+          }
+        }
+      }
+    ]
+  },
+  {
+    "_id": "e53aa1f2-fe66-4a61-bdff-bffca1fdb093",
+    "taskSet": [
+      {
+        "reference_id": "05f2071bb677123c074792d1d58b2cf1301da205",
+        "url": "https://www.museodelprado.es/coleccion/obra-de-arte/la-fragua-de-vulcano/84a0240d-b41a-404d-8433-6e4e2efd21ab",
+        "ref_node_pairs": {
+          "retrieved": "time:>+2020-02-26T00:00:00Z",
+          "reference URL": "url:>https://www.museodelprado.es/coleccion/obra-de-arte/la-fragua-de-vulcano/84a0240d-b41a-404d-8433-6e4e2efd21ab"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q247282-9F9640AB-C569-4E62-B26B-7C6915C67F65",
+        "subject": "La fragua de Vulcano",
+        "predicate": "fecha de fundaci\u00f3n o creaci\u00f3n",
+        "object": "1630-01-01T00:00:00Z",
+        "g_id": 0
+      },
+      {
+        "reference_id": "c3ddd33b71bdfdc5501fb5edba881095030d0f59",
+        "url": "http://catalogo.share-cat.unina.it/sharecat/searchNames?n_cluster_id=23606",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://catalogo.share-cat.unina.it/sharecat/searchNames?n_cluster_id=23606",
+          "retrieved": "time:>+2018-03-26T00:00:00Z"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q9013225-35F1AB5A-B02A-462E-9332-3227176E4975",
+        "subject": "Josep Maria Montaner",
+        "predicate": "identificador SHARE Catalogue de autor",
+        "object": "23606",
+        "g_id": 0
+      },
+      {
+        "reference_id": "379d316cf803dcf7f9aced3fd847d8d6d1c58f08",
+        "url": "https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=es&srlang=es&srid=RI-51-0001936",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Monuments database->Q28563569",
+          "publication date": "time:>+2017-11-13T00:00:00Z",
+          "reference URL": "url:>https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=es&srlang=es&srid=RI-51-0001936"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q43097357-F7C97B47-42CC-4A6C-B2D8-A88D947EB29C",
+        "subject": "Cueva de Son Fullana (Sa Pleta)",
+        "predicate": "estatus patrimonial",
+        "object": "Bien de Inter\u00e9s Cultural",
+        "g_id": 0
+      },
+      {
+        "reference_id": "f4cf05ad2e5cc8e54de3f998308f36aad061d7ce",
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:10491904%20AND%20SRC:MED&resulttype=core&format=json",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+          "PubMed ID": "value:>10491904",
+          "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:10491904%20AND%20SRC:MED&resulttype=core&format=json",
+          "retrieved": "time:>+2019-10-31T00:00:00Z"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q73006151-7AFC5D63-76D7-4661-BF29-E948206C7DD7",
+        "subject": "[New outlooks in the treatment of diabetes]",
+        "predicate": "identificador PubMed",
+        "object": "10491904",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              1
+            ],
+            "difficulty": [
+              3,
+              4
+            ],
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              1
+            ],
+            "publisher": [
+              0,1,2
+            ],
+            "sub_publisher": -1
+          }
+        }
+      },
+      {
+        "reference_id": "71e4b81e1561de63220ac0d9c3eaa84840ac6b88",
+        "url": "http://www.rtc.gob.mx/NuevoSitio/cine_clasif_35mm.php?cd=418",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://www.rtc.gob.mx/NuevoSitio/cine_clasif_35mm.php?cd=418"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q28840386-BE1F0747-03CD-491B-B065-E9D553188495",
+        "subject": "Phantom Thread",
+        "predicate": "clasificaci\u00f3n de RTC",
+        "object": "B",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              1
+            ],
+            "difficulty": [
+              3,
+              4
+            ],
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              1,2
+            ],
+            "publisher": [
+              1,2,3,4
+            ],
+            "sub_publisher": -1
+          }
+        }
+      },
+      {
+        "reference_id": "a135f4b6eb8aaccf23b54d1043712c9cf13fe2f7",
+        "url": "http://isni.org/isni/0000000123017700",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://isni.org/isni/0000000123017700"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q6034480-cdb2d830-41f5-a4e6-3e37-79415d2f412e",
+        "subject": "Museo del Patrimonio Municipal",
+        "predicate": "ISNI",
+        "object": "0000 0001 2301 7700",
+        "g_id": 0
+      }
+    ]
+  },
+  {
+    "_id": "10376e23-cb0e-4193-a8d4-308a06f310b5",
+    "taskSet": [
+      {
+        "reference_id": "6c04ab24778a37067cd0419bc52c596be030c3b4",
+        "url": "https://hdl.handle.net/2117/91361",
+        "ref_node_pairs": {
+          "Handle ID": "value:>2117/91361"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q77674944-F5D5436D-BE74-4110-9554-EC9BF59A1317",
+        "subject": "Urban heat island prediction in the mediterranean context: an evaluation of the urban weather generator model",
+        "predicate": "tema principal de la obra",
+        "object": "impacto ambiental",
+        "g_id": 0
+      },
+      {
+        "reference_id": "9f3a9016bff943d6137e871465e7ee6af558a951",
+        "url": "https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=sv&srlang=es&srid=02100012",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Monuments database->Q28563569",
+          "publication date": "time:>+2017-11-07T00:00:00Z",
+          "reference URL": "url:>https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=sv&srlang=es&srid=02100012"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q42793833-62DE54E3-2F0C-4FAB-AF72-AD12E62080AF",
+        "subject": "MONUMENTO NACIONAL EL TEATRO NACIONAL DE SANTA ANA",
+        "predicate": "instancia de",
+        "object": "bien cultural",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              0,
+              1
+            ],
+            "difficulty": -1,
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              1,
+              2
+            ],
+            "publisher": [
+              1,
+              4
+            ],
+            "sub_publisher": -1
+          }
+        }
+      },
+      {
+        "reference_id": "5e2d90d5296dd84004ad472cc079fb546e708cdc",
+        "url": "https://www.museodelprado.es/coleccion/obra-de-arte/el-arcangel-seatiel-con-incensario/8a2f9a89-89b0-407b-91e3-4dbc5530bea5?searchid=2acb6fd0-605f-09db-1619-8cbe37748f8d",
+        "ref_node_pairs": {
+          "reference URL": "url:>https://www.museodelprado.es/coleccion/obra-de-arte/el-arcangel-seatiel-con-incensario/8a2f9a89-89b0-407b-91e3-4dbc5530bea5?searchid=2acb6fd0-605f-09db-1619-8cbe37748f8d"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q1583503-2CC98B1E-5CFC-42B3-9A84-AE4722975D0B",
+        "subject": "Sealtiel",
+        "predicate": "imagen",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Arc%C3%A1ngel%20Seatiel%20con%20incensario%2C%20de%20Bartolom%C3%A9%20Rom%C3%A1n%20%28Museo%20del%20Prado%29.jpg",
+        "g_id": 0
+      },
+      {
+        "reference_id": "280d13ac6ad39865f000e4b9edd43e5e27dd5f05",
+        "url": "http://www.lavanguardia.com/politica/20160901/4142874568/joan-pere-gomez-nuevo-gerente-de-puertos-de-la-generalitat.html",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://www.lavanguardia.com/politica/20160901/4142874568/joan-pere-gomez-nuevo-gerente-de-puertos-de-la-generalitat.html"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q54252392-002b3d13-4bef-3546-4836-3df20d6eb114",
+        "subject": "Joan Pere G\u00f3mez i Comes",
+        "predicate": "cargo ocupado",
+        "object": "gerente",
+        "g_id": 0
+      },
+      {
+        "reference_id": "c176732f6279cc05436868eb501045baf30c41cb",
+        "url": "https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=sv&srlang=es&srid=06140016",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Monuments database->Q28563569",
+          "publication date": "time:>+2017-11-07T00:00:00Z",
+          "reference URL": "url:>https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=sv&srlang=es&srid=06140016"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q42803129-28901636-0DF9-4524-9D62-B1AC87A9D2DA",
+        "subject": "Monumento Nacional el sepulcro en que se guardan los restos del General don Francisco Men\u00e9ndez.",
+        "predicate": "pa\u00eds",
+        "object": "El Salvador",
+        "g_id": 0
+      },
+      {
+        "reference_id": "47a15251722a216d0f58a9476228c8749d5c5c6e",
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:9214896%20AND%20SRC:MED&resulttype=core&format=json",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+          "PubMed ID": "value:>9214896",
+          "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:9214896%20AND%20SRC:MED&resulttype=core&format=json",
+          "retrieved": "time:>+2019-11-04T00:00:00Z"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q73492817-7FE80A96-2790-4566-BB44-68D564E6C815",
+        "subject": "[Calculation of the amount of specimen necessary to estimate a proportion and a medium]",
+        "predicate": "fecha de publicaci\u00f3n",
+        "object": "1996-10-01T00:00:00Z",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              1
+            ],
+            "difficulty": [
+              3,
+              4
+            ],
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              1
+            ],
+            "publisher": [
+              0,1,2
+            ],
+            "sub_publisher": -1
+          }
+        }
+      }
+    ]
+  },
+  {
+    "_id": "952ca259-9010-4bbf-a4b6-3392ce00cc0f",
+    "taskSet": [
+      {
+        "reference_id": "71664ca84af13549015b75461b5d5fb5f1032792",
+        "url": "http://datos.bne.es/resource/XX982434",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Biblioteca Nacional de Espa\u00f1a->Q750403",
+          "Biblioteca Nacional de Espa\u00f1a ID": "value:>XX982434",
+          "named as": "value:>Marcos Roitman Rosenmann"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q5996700-057D7F5F-25A1-44D5-9BA4-73704F677EAF",
+        "subject": "Marcos Roitman",
+        "predicate": "fecha de nacimiento",
+        "object": "1955-01-01T00:00:00Z",
+        "g_id": 0
+      },
+      {
+        "reference_id": "6d76b3b8d6590db0dc8a0578c057f37541fe7f06",
+        "url": "http://alo.co/actualidad-y-entretenimiento/morella-zuleta-y-su-hija-ilenia-antonine",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://alo.co/actualidad-y-entretenimiento/morella-zuleta-y-su-hija-ilenia-antonine"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q16297440-d7e47e4c-449c-978e-ae63-002157f14871",
+        "subject": "Ilenia Antonini",
+        "predicate": "nombre de nacimiento",
+        "object": "Ilenia Antonine Zuleta",
+        "g_id": 0
+      },
+      {
+        "reference_id": "9d80ea7d57199e6184c562ba63f0c9dd704f13ee",
+        "url": "https://es.wikipedia.org/w/index.php?title=FK_Starts&oldid=118518432",
+        "ref_node_pairs": {
+          "imported from Wikimedia project": "wikibase-item:>Spanish Wikipedia->Q8449",
+          "Wikimedia import URL": "url:>https://es.wikipedia.org/w/index.php?title=FK_Starts&oldid=118518432"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q2613837-D15A541E-2B9D-4807-8287-BE393CC56CAB",
+        "subject": "FK Starts",
+        "predicate": "fecha de fundaci\u00f3n o creaci\u00f3n",
+        "object": "1961-01-01T00:00:00Z",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              1
+            ],
+            "difficulty": [
+              3,
+              4
+            ],
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              1,2
+            ],
+            "publisher": [
+              1,
+              4
+            ],
+            "sub_publisher": -1
+          }
+        }
+      },
+      {
+        "reference_id": "1c4d36577d8f1af7cba4466cf84c53d4e4248e1a",
+        "url": "http://datos.bne.es/persona/XX1600628.html",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://datos.bne.es/persona/XX1600628.html",
+          "retrieved": "time:>+2019-02-09T00:00:00Z"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q21126881-F6BE74EF-1331-4BB4-99BB-074D7E164F3B",
+        "subject": "Anna Agust\u00ed",
+        "predicate": "identificador GND",
+        "object": "132669854",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              1
+            ],
+            "difficulty": [
+              0,
+              1,
+              2,
+              3,
+              4
+            ],
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              1,2
+            ],
+            "publisher": [
+              0,1,
+              2,4
+            ],
+            "sub_publisher": -1
+          }
+        }
+      },
+      {
+        "reference_id": "fd0306127ed198672e4e78664645b2bf659514cd",
+        "url": "https://www.eldiadevalladolid.com/noticia/Z32BBB856-B5E7-BB5F-97EB845C0CF7D316/Fallece-la-escritora-Isabel-Clara-Simo-a-los-76-anos",
+        "ref_node_pairs": {
+          "retrieved": "time:>+2020-01-13T00:00:00Z",
+          "stated in": "wikibase-item:>El D\u00eda de Valladolid->Q55402005",
+          "reference URL": "url:>https://www.eldiadevalladolid.com/noticia/Z32BBB856-B5E7-BB5F-97EB845C0CF7D316/Fallece-la-escritora-Isabel-Clara-Simo-a-los-76-anos"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q3090588-5158DFC2-0618-4C4A-8AE7-44533D2E3F91",
+        "subject": "Isabel-Clara Sim\u00f3",
+        "predicate": "fecha de nacimiento",
+        "object": "1943-04-04T00:00:00Z",
+        "g_id": 0
+      },
+      {
+        "reference_id": "c46325a44ec8aa728eac4df248b9c05892b105ea",
+        "url": "http://resolver.smak.be/collection/work/data/5509",
+        "ref_node_pairs": {
+          "retrieved": "time:>+2016-02-24T00:00:00Z",
+          "reference URL": "url:>http://resolver.smak.be/collection/work/data/5509"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q22939411-13F5DB32-401D-4485-BBEF-8CE1D8E938EB",
+        "subject": "titel?",
+        "predicate": "fecha de fundaci\u00f3n o creaci\u00f3n",
+        "object": "1984-01-01T00:00:00Z",
+        "g_id": 0
+      }
+    ]
+  },
+  {
+    "_id": "32115bd6-896d-4ef6-a21c-a07df0b6c582",
+    "taskSet": [
+      {
+        "reference_id": "4503757c4a132d5dbaa4f902b239c163d9d14572",
+        "url": "http://resolver.smak.be/collection/work/data/1581",
+        "ref_node_pairs": {
+          "retrieved": "time:>+2016-01-25T00:00:00Z",
+          "reference URL": "url:>http://resolver.smak.be/collection/work/data/1581"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q22259991-7570A0D8-5AEA-4C34-A796-35684D352E9C",
+        "subject": "Compositie",
+        "predicate": "fecha de fundaci\u00f3n o creaci\u00f3n",
+        "object": "1964-01-01T00:00:00Z",
+        "g_id": 0
+      },
+      {
+        "reference_id": "1c4d36577d8f1af7cba4466cf84c53d4e4248e1a",
+        "url": "http://datos.bne.es/persona/XX1600628.html",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://datos.bne.es/persona/XX1600628.html",
+          "retrieved": "time:>+2019-02-09T00:00:00Z"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q21126881-F6BE74EF-1331-4BB4-99BB-074D7E164F3B",
+        "subject": "Anna Agust\u00ed",
+        "predicate": "identificador GND",
+        "object": "132669854",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              1
+            ],
+            "difficulty": [
+              0,
+              1,
+              2,
+              3,
+              4
+            ],
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              1,2
+            ],
+            "publisher": [
+              0,1,
+              2,4
+            ],
+            "sub_publisher": -1
+          }
+        }
+      },
+      {
+        "reference_id": "2a169f3084d7e29ddba4f29a81bed34c49009df3",
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:11900691%20AND%20SRC:MED&resulttype=core&format=json",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+          "PubMed ID": "value:>11900691",
+          "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:11900691%20AND%20SRC:MED&resulttype=core&format=json",
+          "retrieved": "time:>+2019-12-08T00:00:00Z"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q77784930-EA6BF164-82F8-4AEF-BE2D-7A6DF642A4D7",
+        "subject": "[Function of respiratory muscles in malnutrition and in the critically ill patient]",
+        "predicate": "t\u00edtulo",
+        "object": "[Function of respiratory muscles in malnutrition and in the critically ill patient]",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              1
+            ],
+            "difficulty": [
+              3,
+              4
+            ],
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              1
+            ],
+            "publisher": [
+              0,1,2
+            ],
+            "sub_publisher": -1
+          }
+        }
+      },
+      {
+        "reference_id": "e433aa5ae178124f5d1ec49388b70d0e28b85816",
+        "url": "http://www.congreso.es/portal/page/portal/Congreso/Congreso/Diputados/BusqForm?_piref73_1333155_73_1333154_1333154.next_page=/wc/fichaDiputado?idDiputado=140&idLegislatura=13",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://www.congreso.es/portal/page/portal/Congreso/Congreso/Diputados/BusqForm?_piref73_1333155_73_1333154_1333154.next_page=/wc/fichaDiputado?idDiputado=140&idLegislatura=13",
+          "retrieved": "time:>+2019-08-21T00:00:00Z"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q22968507-B54DA8BC-F7E5-4151-80B2-CCB38D9E3F72",
+        "subject": "Vicente Ten Oliver",
+        "predicate": "nombre de usuario en Twitter",
+        "object": "VicenteTen",
+        "g_id": 0
+      },
+      {
+        "reference_id": "0b03bdc1eb4fa14956d6308ed4786d75078e9908",
+        "url": "http://www.lavanguardia.com/",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>La Vanguardia->Q511533",
+          "page(s)": "value:>36",
+          "publication date": "time:>+2017-05-06T00:00:00Z",
+          "issue": "value:>48.716"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q26810980-a94e023b-4cfe-b446-3fa4-f1ca308704c7",
+        "subject": "calle del Poeta Joan Maragall",
+        "predicate": "nombrado en referencia a",
+        "object": "Carlos de Haya Gonz\u00e1lez",
+        "g_id": 0
+      },
+      {
+        "reference_id": "87a7703f18ac6d0587de04fbce3e36c88d883c91",
+        "url": "https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=es&srlang=es&srid=RI-51-0005143",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Monuments database->Q28563569",
+          "publication date": "time:>+2017-11-13T00:00:00Z",
+          "reference URL": "url:>https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=es&srlang=es&srid=RI-51-0005143"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q1414019-5b275b2e-4596-ff52-446d-4fba6bad8c41",
+        "subject": "Cueva de Ekain",
+        "predicate": "situado en la entidad territorial administrativa",
+        "object": "Deva",
+        "g_id": 0
+      }
+    ]
+  },
+  {
+    "_id": "443b01bc-830a-419e-b20b-38cdd413d5ea",
+    "taskSet": [
+      {
+        "reference_id": "0690d6a03d127d78cfa0176d36c9bf206b68af93",
+        "url": "https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=es&srlang=es&srid=RI-51-0009439",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Monuments database->Q28563569",
+          "publication date": "time:>+2017-11-13T00:00:00Z",
+          "reference URL": "url:>https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=es&srlang=es&srid=RI-51-0009439"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q43148250-D3878445-D3F3-4F63-BB71-39A73E5DA5E1",
+        "subject": "Abrigo de los Recolectores",
+        "predicate": "pa\u00eds",
+        "object": "Espa\u00f1a",
+        "g_id": 0
+      },
+      {
+        "reference_id": "1af6dafa7bfdcb265f7874dd722fa99e8663592e",
+        "url": "http://www.isni.org/isni/0000000106704402",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://www.isni.org/isni/0000000106704402",
+          "retrieved": "time:>+2017-03-16T00:00:00Z"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q27280807-7558a871-4bae-26a7-5a15-8ffeeda728af",
+        "subject": "Archivo Manuel de Falla",
+        "predicate": "ISNI",
+        "object": "0000 0001 0670 4402",
+        "g_id": 0
+      },
+      {
+        "reference_id": "fa43c72bbba05a267b7a6a046ffc35b86a5436ff",
+        "url": "http://isni.org/isni/0000000119337250",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://isni.org/isni/0000000119337250"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q6161330-29b3c7b6-459a-fac1-6699-1e6e28d2f16c",
+        "subject": "Vicente Salvador G\u00f3mez",
+        "predicate": "ISNI",
+        "object": "0000 0001 1933 7250",
+        "g_id": 0
+      },
+      {
+        "reference_id": "80ba7b0ffe5492b09f9645215c6c566a110516f0",
+        "url": "http://www.rtc.gob.mx/NuevoSitio/cine_clasif_35mm.php?cd=236",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://www.rtc.gob.mx/NuevoSitio/cine_clasif_35mm.php?cd=236"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q5952747-457400CF-4F27-4A15-94FC-89FABBB02D84",
+        "subject": "El m\u00e9dico",
+        "predicate": "clasificaci\u00f3n de RTC",
+        "object": "B",
+        "g_id": 0
+      },
+      {
+        "reference_id": "5463002e7e20b5f620cb8875c55ca98215a814f8",
+        "url": "https://viaf.org/viaf/84248519",
+        "ref_node_pairs": {
+          "VIAF ID": "value:>84248519",
+          "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+          "retrieved": "time:>+2018-12-16T00:00:00Z"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q6165545-A9B7B615-0907-4CD3-9AF1-C259103CB957",
+        "subject": "V\u00edctor Hugo Rasc\u00f3n Banda",
+        "predicate": "identificador NKC",
+        "object": "js20060414016",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              1
+            ],
+            "difficulty": [
+              2,
+              3,
+              4
+            ],
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              1,2
+            ],
+            "publisher": [
+              0,1,2,
+              4
+            ],
+            "sub_publisher": -1
+          }
+        }
+      },
+      {
+        "reference_id": "81c6f32be0fe8632acc53135bfda5f13f3521858",
+        "url": "https://www.uv.es/uvweb/rectorado/es/premios-distinciones/doctores-honoris-causa/doctores-honoris-causa-siglo-xx/fecha-investidura/acto-investidura-doctor-honoris-causa-del-excm-sr-dr-miquel-batllori-munne-1285872205498/Honoris.html?id=1285878548688",
+        "ref_node_pairs": {
+          "reference URL": "url:>https://www.uv.es/uvweb/rectorado/es/premios-distinciones/doctores-honoris-causa/doctores-honoris-causa-siglo-xx/fecha-investidura/acto-investidura-doctor-honoris-causa-del-excm-sr-dr-miquel-batllori-munne-1285872205498/Honoris.html?id=1285878548688"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q3572316-4e9d2b2c-4a20-7694-19f1-83b4c3f904f6",
+        "subject": "Miquel Batllori",
+        "predicate": "premio recibido",
+        "object": "doctor honoris causa por la Universidad de Valencia",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              1
+            ],
+            "difficulty": [
+              2,
+              3,
+              4
+            ],
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              0,1
+            ],
+            "publisher": [
+              0,1,2,3,
+              4
+            ],
+            "sub_publisher": -1
+          }
+        }
+      }
+    ]
+  },
+  {
+    "_id": "2a8d34a3-f37b-46f6-b2d2-e77175b87089",
+    "taskSet": [
+      {
+        "reference_id": "60713564418738804bafb57abe85ce9bf394d3e5",
+        "url": "http://www.quimica.unam.mx/",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://www.quimica.unam.mx/",
+          "retrieved": "time:>+2019-05-22T00:00:00Z"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q8960741-03C5CE60-928E-46E2-AECA-BF536666B198",
+        "subject": "Facultad de Qu\u00edmica (Universidad Nacional Aut\u00f3noma de M\u00e9xico)",
+        "predicate": "identificador en Facebook",
+        "object": "fq.unam.mx.oficial",
+        "g_id": 0
+      },
+      {
+        "reference_id": "dce51e44b9fe5a79f9a500c678c06426904f5665",
+        "url": "http://sedici.unlp.edu.ar/handle/10915/50999",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Institutional repository of the University of La Plata->Q6126111",
+          "reference URL": "url:>http://sedici.unlp.edu.ar/handle/10915/50999"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q80714131-58C29B1F-805A-4B57-AC71-0E0B8527EE57",
+        "subject": "Efecto del agonista de GnRH acetato de deslorelina en felinos dom\u00e9sticos (<i>Felis catus</i>) prep\u00faberes",
+        "predicate": "instancia de",
+        "object": "tesis doctoral",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              1
+            ],
+            "difficulty": [
+              3,
+              4
+            ],
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              0,1
+            ],
+            "publisher": [
+              0,1,
+              2,4
+            ],
+            "sub_publisher": -1
+          }
+        }
+      },
+      {
+        "reference_id": "93c4ae2a15d650354b8dab3c7e124201d6044437",
+        "url": "http://dbe.rah.es/biografias/18334/juan-de-arce-o-arze",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://dbe.rah.es/biografias/18334/juan-de-arce-o-arze"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q84513496-150153B9-E3AB-4E60-83F7-18B5AECACACC",
+        "subject": "Juan de Arce",
+        "predicate": "identificador del Diccionario Biogr\u00e1fico Espa\u00f1ol",
+        "object": "18334/juan-de-arce-o-arze",
+        "g_id": 0
+      },
+      {
+        "reference_id": "acad386b71470743b5e9d942e260bb836816770f",
+        "url": "https://es.wikipedia.org/w/index.php?title=Miguel_\u00c1ngel_Bord\u00f3n&oldid=116591605",
+        "ref_node_pairs": {
+          "imported from Wikimedia project": "wikibase-item:>Spanish Wikipedia->Q8449",
+          "Wikimedia import URL": "url:>https://es.wikipedia.org/w/index.php?title=Miguel_\u00c1ngel_Bord\u00f3n&oldid=116591605"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q3857289-A55D2086-489D-46A1-854D-535AA7E0FF16",
+        "subject": "Miguel \u00c1ngel Bord\u00f3n",
+        "predicate": "inicio del periodo de actividad",
+        "object": "1971-01-01T00:00:00Z",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              1
+            ],
+            "difficulty": [
+              3,
+              4
+            ],
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              1,2
+            ],
+            "publisher": [
+              1,
+              4
+            ],
+            "sub_publisher": -1
+          }
+        }
+      },
+      {
+        "reference_id": "aa43acdf773461d16ddefebcbcd3a23d77d9da10",
+        "url": "https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=es&srlang=es&srid=RI-51-0005116",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Monuments database->Q28563569",
+          "publication date": "time:>+2017-11-13T00:00:00Z",
+          "reference URL": "url:>https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=es&srlang=es&srid=RI-51-0005116"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q16609630-F6726C55-A06C-44FC-A419-E2A297994182",
+        "subject": "Murallas de Labraza",
+        "predicate": "c\u00f3digo de Bien de Inter\u00e9s Cultural",
+        "object": "RI-51-0005116",
+        "g_id": 0
+      },
+      {
+        "reference_id": "78cfcf00e38fa52c9440b19a64d72e9109ed8f49",
+        "url": "http://tucodigo.mx/index.php?estado=31&mpio=69&b_query=mpio",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://tucodigo.mx/index.php?estado=31&mpio=69&b_query=mpio"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q2466117-d9701fc6-4ed0-90d6-acd7-29d916337eb0",
+        "subject": "Sotuta",
+        "predicate": "c\u00f3digo postal",
+        "object": "97690",
+        "g_id": 0
+      }
+    ]
+  },
+  {
+    "_id": "bc558ca8-e6d9-4da6-9a68-0534de0f73ce",
+    "taskSet": [
+      {
+        "reference_id": "d59c5acc1f4fb3ec6c2f2a11bf67f8d268e0fd21",
+        "url": "https://es.wikipedia.org/w/index.php?title=Balneario_de_la_Alameda&oldid=119443329",
+        "ref_node_pairs": {
+          "imported from Wikimedia project": "wikibase-item:>Spanish Wikipedia->Q8449",
+          "Wikimedia import URL": "url:>https://es.wikipedia.org/w/index.php?title=Balneario_de_la_Alameda&oldid=119443329"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q50292549-8235901E-984C-4415-8822-4B24DA5950BE",
+        "subject": "Balneario de la Alameda",
+        "predicate": "estatus patrimonial",
+        "object": "Bien de Relevancia Local",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              1
+            ],
+            "difficulty": [
+              3,
+              4
+            ],
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              1,2
+            ],
+            "publisher": [
+              1,
+              4
+            ],
+            "sub_publisher": -1
+          }
+        }
+      },
+      {
+        "reference_id": "4f563cf36255c085f625ee5467627b1700fe2b5f",
+        "url": "http://eduwp.edu.gva.es/patrimonio-cultural/ficha-inmueble.php?id=2927&lang=es",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://eduwp.edu.gva.es/patrimonio-cultural/ficha-inmueble.php?id=2927&lang=es"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q9007628-5FCA830E-EAF9-4DA1-8950-FF383BD9209F",
+        "subject": "iglesia de la Asunci\u00f3n de la Virgen (Cervera del Maestre)",
+        "predicate": "estatus patrimonial",
+        "object": "Bien de Relevancia Local",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              1
+            ],
+            "difficulty": [
+              2,
+              3,
+              4
+            ],
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              0,1
+            ],
+            "publisher": [
+              0,1,
+              2,4
+            ],
+            "sub_publisher": -1
+          }
+        }
+      },
+      {
+        "reference_id": "de5c5c9f0688a9b7b9d8d19614089783a151e520",
+        "url": "http://www.dof.gob.mx/nota_detalle.php?codigo=5404783&fecha=21/08/2015",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://www.dof.gob.mx/nota_detalle.php?codigo=5404783&fecha=21/08/2015",
+          "retrieved": "time:>+2017-10-25T00:00:00Z"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q58095-32e45b24-4cd3-7d0e-c9a8-db3613b2b446",
+        "subject": "Jos\u00e9 Manuel Garc\u00eda-Margallo",
+        "predicate": "premio recibido",
+        "object": "Banda de la Orden Mexicana del \u00c1guila Azteca",
+        "g_id": 0
+      },
+      {
+        "reference_id": "36d040380905b1f6d87a59a440c4bfa14576764f",
+        "url": "https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=ve&srlang=es&srid=ARAGIA-0165",
+        "ref_node_pairs": {
+          "publication date": "time:>+2017-11-10T00:00:00Z",
+          "reference URL": "url:>https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=ve&srlang=es&srid=ARAGIA-0165",
+          "stated in": "wikibase-item:>Monuments database->Q28563569"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q42900155-6C8D2FED-FE6D-4B11-AE3E-08059D9593E6",
+        "subject": "Plaza Rotaria",
+        "predicate": "situado en la entidad territorial administrativa",
+        "object": "Municipio Atanasio Girardot",
+        "g_id": 0
+      },
+      {
+        "reference_id": "28e774634ac45e25da846284017b013f8b909eb7",
+        "url": "http://datos.bne.es/persona/XX1384922.html",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://datos.bne.es/persona/XX1384922.html",
+          "retrieved": "time:>+2018-07-31T00:00:00Z"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q55837706-07B50A13-AED9-4AC7-9D52-C6B7AD513B58",
+        "subject": "Enrique Oliv\u00e1n y Sanz",
+        "predicate": "fecha de fallecimiento",
+        "object": "1928-01-01T00:00:00Z",
+        "g_id": 0
+      },
+      {
+        "reference_id": "d82cf40e230d08c73edddcc42b8cfb1a38efee36",
+        "url": "https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=ve&srlang=es&srid=GUA088",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Monuments database->Q28563569",
+          "publication date": "time:>+2017-11-11T00:00:00Z",
+          "reference URL": "url:>https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=ve&srlang=es&srid=GUA088"
+        },
+        "language_crawl": "es",
+        "statement_node": "Q42963525-A69C8D06-1662-4248-B34A-AC31D320A5D7",
+        "subject": "Plaza Bol\u00edvar",
+        "predicate": "pa\u00eds",
+        "object": "Venezuela",
+        "g_id": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,33 @@
+{
+    "type": "relevance",
+    "time_thr": "2500",
+    "language": "es",
+    "tasks" : "TaskSetsForPilot_rel.json",
+    "language_str": "Spanish",
+    "html_layout": "WikidataReferenceReleTemplate.html",
+    "instructions_project_text_file" : "instructions_project_text.txt",
+    "instructions_intro_text_file": "instructions_intro_text_rel.txt",
+    "instructions_rules_text_file": "instructions_rules_text_rel.txt",
+    "task_attributes":
+    {
+        "MaxAssignments": 2,
+        "LifetimeInSeconds": 604800,
+        "AssignmentDurationInSeconds": 1800,
+        "Reward": "0.5",
+        "Title": "Checking the relevance of websites",
+        "Keywords": "Pilot, Weblinks, Statements, Information Retrieval",
+        "Description": "This is a pilot study, so useful feedback is rewarded. Help us by clicking on weblinks and making sure that they have the correct information.",
+        "QualificationRequirements": [{
+            "QualificationTypeId": "000000000000000000L0",
+            "Comparator": "GreaterThanOrEqualTo",
+            "IntegerValues": [80],
+            "ActionsGuarded": "DiscoverPreviewAndAccept"
+        },
+        {
+            "QualificationTypeId": "00000000000000000040",
+            "Comparator": "GreaterThan",
+            "IntegerValues": [1000],
+            "ActionsGuarded": "DiscoverPreviewAndAccept"
+        }]
+    }
+}

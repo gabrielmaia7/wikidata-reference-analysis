@@ -1,0 +1,24 @@
+.ipynb_checkpoints
+
+# PDFS
+
+
+#ipynb checkpoints
+.ipynb_checkpoints
+
+#amazon cred
+amazon_credentials.json
+mongodb_credentials.json
+
+#data
+
+*.db
+*.bz2
+*old_data/
+*.csv
+
+#logs
+*.log
+
+#git backup from cleopatra repo before transfer
+.gitbackup/*

@@ -1,0 +1,12 @@
+`<ul>
+    <li>You can navigate freely through the tasks using the buttons at the bottom of the page.</li>
+    <li>You must fill all the information requested.</li>
+    <li>At the end of the task, we check the some indicators of the quality of your work, to make sure you are not a
+        spammer. If you don't pass the test, you can try two more times, for a total of three trials. If you fail three
+        times, the task ends and the work is not accepted.</li>
+    <li>This task will need you to know ${lan_test_language}. Plase answer the following short ${lan_test_language}
+        language test, and click on the green button to proceed. You can try the language test three times.</li>
+    <li>You can open these instructions again anytime you wish.</li>
+    <li>Make sure you are using either Chrome, Firefox or Edge. <b>Do not use Internet Explorer.</b></li>
+    <li>When clicking on links, <b>use the left mouse button</b>, not the middle or right buttons, or the task won't register that you have clicked them and you may be unable to submit your work.</li>
+</ul>`

@@ -1,0 +1,64 @@
+[
+  {
+    "reference_id": "2a1a48ddb01cc09040cc9130bc175260785920f1",
+    "url": "https://libris.kb.se/katalogisering/rp3554690qs7lp9",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>LIBRIS->Q1798125",
+      "reference URL": "url:>https://libris.kb.se/katalogisering/rp3554690qs7lp9",
+      "publication date": "time:>+2002-12-18T00:00:00Z",
+      "retrieved": "time:>+2018-08-24T00:00:00Z"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q1027392-1A2F4ABF-2C91-42BD-93B8-687F5F3BA310",
+    "subject": "Thorvald Erichsen",
+    "predicate": "Libris-URI",
+    "object": "rp3554690qs7lp9",
+    "g_id": 0
+  },
+  {
+    "reference_id": "2d18a7437c153ee9a9841ced528f0dc227880a29",
+    "url": "http://nvpub.vic-metria.nu/naturvardsregistret/rest/omrade/2021949/G%C3%A4llande",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://nvpub.vic-metria.nu/naturvardsregistret/rest/omrade/2021949/G%C3%A4llande",
+      "stated in": "wikibase-item:>Protected Areas (Nature Reserves)->Q29580583",
+      "retrieved": "time:>+2017-01-20T00:00:00Z",
+      "publication date": "time:>+2015-12-18T00:00:00Z"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q30201256-6C672352-230A-4959-BD94-486E2A28B3D1",
+    "subject": "Sularpskärret",
+    "predicate": "area",
+    "object": "0.358",
+    "g_id": 0
+  },
+  {
+    "reference_id": "3a66e8abb8cbf29d34daff49be85f88f9ad6e31c",
+    "url": "https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-arbetsl&srlanguage=sv&srid=2481",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Monuments database->Q28563569",
+      "publication date": "time:>+2017-03-11T00:00:00Z",
+      "reference URL": "url:>https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-arbetsl&srlanguage=sv&srid=2481"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q28935483-E7A43AD6-8A1D-49BB-B364-71F8B8536164",
+    "subject": "Nässjö kvarn",
+    "predicate": "land",
+    "object": "Sverige",
+    "g_id": 0
+  },
+  {
+    "reference_id": "1bcf83c279fbef3ea6c997a0d125ff83aa36185e",
+    "url": "http://libris.kb.se/bib/112391",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>LIBRIS->Q1798125",
+      "retrieved": "time:>+2019-12-16T00:00:00Z",
+      "reference URL": "url:>http://libris.kb.se/bib/112391"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q80452791-2B21F865-F3A2-452A-8FDE-C8966BB81C30",
+    "subject": "Nordisk tidsskrift for logopedi og foniatri = Scandinavian journal of logopedics and phoniatrics",
+    "predicate": "titel",
+    "object": "Nordisk tidsskrift for logopedi og foniatri = Scandinavian journal of logopedics and phoniatrics",
+    "g_id": 0
+  }
+]

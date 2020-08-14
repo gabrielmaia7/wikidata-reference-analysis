@@ -1,0 +1,62 @@
+[
+  {
+    "reference_id": "b9b4a3b771bff460cae8a45571e0322d0d1a88df",
+    "url": "https://es.wikipedia.org/w/index.php?title=Heavy_Rotation_(canción)&oldid=119308960",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Spanish Wikipedia->Q8449",
+      "Wikimedia import URL": "url:>https://es.wikipedia.org/w/index.php?title=Heavy_Rotation_(canción)&oldid=119308960"
+    },
+    "language_crawl": "es",
+    "statement_node": "Q5893240-DFEBCD40-8D2C-4EFA-8D0D-F8FC42B53E02",
+    "subject": "Heavy Rotation (canción)",
+    "predicate": "forma parte de",
+    "object": "Heavy Rotation",
+    "g_id": 0
+  },
+  {
+    "reference_id": "3a17eb8412047df23f4d604297ecaebb6bd4bb5c",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:6739900%20AND%20SRC:MED&resulttype=core&format=json",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>6739900",
+      "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:6739900%20AND%20SRC:MED&resulttype=core&format=json",
+      "retrieved": "time:>+2019-10-18T00:00:00Z"
+    },
+    "language_crawl": "es",
+    "statement_node": "Q71406660-676916FE-1116-4752-A687-03DAE5C0C6A6",
+    "subject": "[Pulmonary hypoplasia. Apropos of a case]",
+    "predicate": "número de ejemplar",
+    "object": "1",
+    "g_id": 0
+  },
+  {
+    "reference_id": "16692aef40876159716ac5f9fde2b057f612522c",
+    "url": "http://autores.uy/entidad/6725",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Autores.uy->Q22975461",
+      "autores[dot]uy ID": "value:>6725",
+      "named as": "value:>Eduardo Ferreira Ruiz",
+      "retrieved": "time:>+2017-10-09T00:00:00Z"
+    },
+    "language_crawl": "es",
+    "statement_node": "Q42402310-093AA0B9-FE88-4003-AA59-BD8290CDF5F9",
+    "subject": "Eduardo Ferreira Ruiz",
+    "predicate": "fecha de nacimiento",
+    "object": "1954-01-01T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "5fc5c1174056b062c5990b6f320c4427a1a11838",
+    "url": "https://es.wikipedia.org/w/index.php?title=Luciano_Gómez&oldid=114495095",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Spanish Wikipedia->Q8449",
+      "Wikimedia import URL": "url:>https://es.wikipedia.org/w/index.php?title=Luciano_Gómez&oldid=114495095"
+    },
+    "language_crawl": "es",
+    "statement_node": "Q29258277-AFF5A62B-400A-455F-8667-F7AAF91CE98E",
+    "subject": "Luciano Gómez",
+    "predicate": "inicio del periodo de actividad",
+    "object": "2016-02-12T00:00:00Z",
+    "g_id": 0
+  }
+]

@@ -1,0 +1,624 @@
+[
+  {
+    "reference_id": "4fe60d11ef1dccf9a9341a72ef1196eb683001bf",
+    "url": "https://viaf.org/viaf/90768493",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>90768493"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q22127865-21CCFDCF-19B3-4621-B436-2AD2A8360227",
+    "subject": "ひらまつおさむ",
+    "predicate": "WorldCat 識別ID",
+    "object": "viaf-90768493",
+    "g_id": 0
+  },
+  {
+    "reference_id": "66474a54930f1bbb3d9c46b7521eabdfd9b0abb4",
+    "url": "https://ja.wikipedia.org/w/index.php?title=ニューヨーク市地下鉄C系統&oldid=67525440",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Japanese Wikipedia->Q177837",
+      "Wikimedia import URL": "url:>https://ja.wikipedia.org/w/index.php?title=ニューヨーク市地下鉄C系統&oldid=67525440"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q126358-443A9DD7-AB20-46CC-840D-27443287F721",
+    "subject": "ニューヨーク市地下鉄C系統",
+    "predicate": "開設",
+    "object": "1932-09-10T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "4c17ec8bb863baf3031f865e4f98dde9a64179b5",
+    "url": "https://viaf.org/viaf/54049987",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>54049987"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11459877-66BC96BC-3DAF-4913-BB7D-C514BD16D930",
+    "subject": "小山昇",
+    "predicate": "WorldCat 識別ID",
+    "object": "lccn-nr96038738",
+    "g_id": 0
+  },
+  {
+    "reference_id": "4757726fb0ce88530a98b73af312ee477abfc7b9",
+    "url": "https://viaf.org/viaf/253184706",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+      "VIAF ID": "value:>253184706",
+      "retrieved": "time:>+2018-10-07T00:00:00Z"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11500648-40B082EE-D683-4053-B49F-699C0ACBB9F5",
+    "subject": "斎藤純",
+    "predicate": "VIAF識別子",
+    "object": "253184706",
+    "g_id": 0
+  },
+  {
+    "reference_id": "c8fa76f65f31a57b60da301496a9ef9fa647a110",
+    "url": "https://viaf.org/viaf/110948452",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>110948452"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11543307-86E215C1-F826-4C9F-BD47-AEE082BB4BE0",
+    "subject": "横澤彪",
+    "predicate": "WorldCat 識別ID",
+    "object": "lccn-n85367102",
+    "g_id": 0
+  },
+  {
+    "reference_id": "11ff208878a6a95ca93ed54867923465218d7500",
+    "url": "https://ja.wikipedia.org/w/index.php?title=A応P&oldid=74344315",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Japanese Wikipedia->Q177837",
+      "Wikimedia import URL": "url:>https://ja.wikipedia.org/w/index.php?title=A応P&oldid=74344315"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q17191594-8159122E-8ADC-441A-8343-701172FA50FC",
+    "subject": "A応P",
+    "predicate": "アメーバブログのアメーバID",
+    "object": "aop-blog",
+    "g_id": 0
+  },
+  {
+    "reference_id": "4b3d6f8ab072abe89d504dd8212be220ea7c00dd",
+    "url": "https://ja.wikipedia.org/w/index.php?title=Dew&oldid=76853126",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Japanese Wikipedia->Q177837",
+      "Wikimedia import URL": "url:>https://ja.wikipedia.org/w/index.php?title=Dew&oldid=76853126"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11196803-881A6C60-4B78-4865-BE9E-5011D9D32F6C",
+    "subject": "Dew",
+    "predicate": "活動期間（開始）",
+    "object": "2006-01-01T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "5d3be04fa23badca7c171c5051bc89109d866338",
+    "url": "http://www.city.mobara.chiba.jp/0000000511.html",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://www.city.mobara.chiba.jp/0000000511.html",
+      "retrieved": "time:>+2020-01-05T00:00:00Z"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q81029772-1A1E4481-9526-4116-9A22-4413C32CB814",
+    "subject": "茂原市立西陵中学校",
+    "predicate": "所在地",
+    "object": "千葉県茂原市緑ケ丘1-53",
+    "g_id": 0
+  },
+  {
+    "reference_id": "4296c561bf3958c74058931223b319335336e0a9",
+    "url": "http://www.imae.co.jp/works/item/18-2015-09-04-11-17-24.html",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://www.imae.co.jp/works/item/18-2015-09-04-11-17-24.html"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11300337-0cc087ec-4f7e-d393-06c4-cc3a03f9e501",
+    "subject": "グランドハイアット東京",
+    "predicate": "設計",
+    "object": "コーン・ペダーセン・フォックス",
+    "g_id": 0
+  },
+  {
+    "reference_id": "e3fed95f5c8cece939d3f41af6b65b053ccd2ed6",
+    "url": "https://viaf.org/viaf/365145858286023022706",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>365145858286023022706"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11635637-AE88D89C-3AE6-4864-9697-CE43A098F34F",
+    "subject": "赤木昭三",
+    "predicate": "WorldCat 識別ID",
+    "object": "viaf-365145858286023022706",
+    "g_id": 0
+  },
+  {
+    "reference_id": "6222c7c650226887cc0aceb1d116ac1fb0a82774",
+    "url": "https://viaf.org/viaf/72655783",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+      "VIAF ID": "value:>72655783",
+      "retrieved": "time:>+2018-10-07T00:00:00Z"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11396783-6D48365E-2DAA-4D01-94AA-2A6A65501E34",
+    "subject": "別所梅之助",
+    "predicate": "国立国会図書館典拠ID",
+    "object": "00004544",
+    "g_id": 0
+  },
+  {
+    "reference_id": "705f87ba70cdd72d7938726026564b5847ad7b0c",
+    "url": "https://ja.wikipedia.org/w/index.php?title=大原麗子&oldid=73954598",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Japanese Wikipedia->Q177837",
+      "Wikimedia import URL": "url:>https://ja.wikipedia.org/w/index.php?title=大原麗子&oldid=73954598"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q1059833-53AA5EE3-535B-41E4-B6C0-9FA53D00971E",
+    "subject": "大原麗子",
+    "predicate": "allcinema人物識別子",
+    "object": "119547",
+    "g_id": 0
+  },
+  {
+    "reference_id": "85e2b6c62e10ff59cd9fa335285cc8a2aedcc786",
+    "url": "https://viaf.org/viaf/257461806",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>257461806"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11538572-8C23D561-3811-4543-97CD-EAB5EE3F3201",
+    "subject": "梅津耕作",
+    "predicate": "WorldCat 識別ID",
+    "object": "viaf-257461806",
+    "g_id": 0
+  },
+  {
+    "reference_id": "42ada266246a0bee37a50f7982756aa03df9c10d",
+    "url": "https://ja.wikipedia.org/wiki/遊園地西駅",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Japanese Wikipedia->Q177837",
+      "Wikimedia import URL": "url:>https://ja.wikipedia.org/wiki/遊園地西駅",
+      "retrieved": "time:>+2018-02-28T00:00:00Z"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q8014583-4b35aa1f-4355-7694-5b17-e496d0f00e46",
+    "subject": "遊園地西駅",
+    "predicate": "隣の駅",
+    "object": "西武遊園地駅",
+    "g_id": 0
+  },
+  {
+    "reference_id": "88dc8d6425103f427ea29300b7f9d69def4f6c8d",
+    "url": "https://viaf.org/viaf/253785414",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>253785414"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q24060708-4DFBE5C1-FFA9-45A6-85C9-962360C9EA2D",
+    "subject": "北澤和彦",
+    "predicate": "WorldCat 識別ID",
+    "object": "viaf-253785414",
+    "g_id": 0
+  },
+  {
+    "reference_id": "5b01e1c7a1b39f003ba40e225c78ac86a7e3fb03",
+    "url": "https://kotobank.jp/word/%E3%83%94%E3%82%A8%E3%83%AD%E3%83%B3-118946",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Kotobank->Q11302260",
+      "retrieved": "time:>+2015-10-02T00:00:00Z",
+      "reference URL": "url:>https://kotobank.jp/word/%E3%83%94%E3%82%A8%E3%83%AD%E3%83%B3-118946"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q1605987-60A5310C-8A5B-4E07-BACD-7EB0BFD0544A",
+    "subject": "アンリ・ピエロン",
+    "predicate": "死亡年月日",
+    "object": "1964-11-06T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "0aae67cfb13280621fe7367dc63a21226e31a123",
+    "url": "https://ja.wikipedia.org/w/index.php?title=セルジオ・アミデイ&oldid=75658425",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Japanese Wikipedia->Q177837",
+      "Wikimedia import URL": "url:>https://ja.wikipedia.org/w/index.php?title=セルジオ・アミデイ&oldid=75658425"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q1360286-FEA1F82C-E808-452E-B92B-0CDD0B297004",
+    "subject": "セルジオ・アミデイ",
+    "predicate": "キネノート人物識別子",
+    "object": "59251",
+    "g_id": 0
+  },
+  {
+    "reference_id": "4dc8ec7a77db4c7ff1ce545f4a21c6fb3d06d694",
+    "url": "https://ja.wikipedia.org/w/index.php?title=健和会おさゆきリハビリテーション病院&oldid=63774302",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Japanese Wikipedia->Q177837",
+      "Wikimedia import URL": "url:>https://ja.wikipedia.org/w/index.php?title=健和会おさゆきリハビリテーション病院&oldid=63774302"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11387163-417750AE-0089-4D18-82CC-25A360E2C5C0",
+    "subject": "健和会おさゆきリハビリテーション病院",
+    "predicate": "病床数",
+    "object": "221",
+    "g_id": 0
+  },
+  {
+    "reference_id": "82813634af7ecdcebadb8007d53dd23f43872fe0",
+    "url": "https://kunishitei.bunka.go.jp/heritage/detail/101/00010883",
+    "ref_node_pairs": {
+      "reference URL": "url:>https://kunishitei.bunka.go.jp/heritage/detail/101/00010883"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q83528901-62bed55b-4dbc-6169-3b22-4a5090d12996",
+    "subject": "塩谷定好写真記念館",
+    "predicate": "遺産保護指定",
+    "object": "登録有形文化財",
+    "g_id": 0
+  },
+  {
+    "reference_id": "eb0d5e8508befbeb19a73f697c801ca1c47a7f71",
+    "url": "https://ja.wikipedia.org/w/index.php?title=クラキンコ&oldid=64339595",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Japanese Wikipedia->Q177837",
+      "Wikimedia import URL": "url:>https://ja.wikipedia.org/w/index.php?title=クラキンコ&oldid=64339595"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11298915-5D2872CB-CB76-4DD9-8BDE-D467C957ADDE",
+    "subject": "クラキンコ",
+    "predicate": "生年月日",
+    "object": "2007-04-11T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "c5bf17c39594dbc4888df1b31a239bff7e225461",
+    "url": "https://ja.wikipedia.org/w/index.php?title=アルフォンソ・ダンテス&oldid=74337016",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Japanese Wikipedia->Q177837",
+      "Wikimedia import URL": "url:>https://ja.wikipedia.org/w/index.php?title=アルフォンソ・ダンテス&oldid=74337016"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q4722020-CA003A5D-B9EF-4A19-AA22-559BAEC3BC76",
+    "subject": "アルフォンソ・ダンテス",
+    "predicate": "活動期間（開始）",
+    "object": "1960-01-01T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "d389f75e20ff25c2d97c57076e17daba1451f31b",
+    "url": "https://viaf.org/viaf/117705552",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+      "VIAF ID": "value:>117705552",
+      "retrieved": "time:>+2018-10-07T00:00:00Z"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11466949-1EAEC2BB-E797-4447-9B87-7F7EFB09FAA9",
+    "subject": "山口猛央",
+    "predicate": "CiNii著者識別子",
+    "object": "DA13573950",
+    "g_id": 0
+  },
+  {
+    "reference_id": "7196b1e07055d15dc36ff0a30f60aaab569c6801",
+    "url": "https://viaf.org/viaf/110770224",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>110770224",
+      "retrieved": "time:>+2017-10-19T00:00:00Z",
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11642163-6498F622-9F93-4CBC-A8A6-8D4D3278E3A4",
+    "subject": "遠藤ケイ",
+    "predicate": "国立国会図書館典拠ID",
+    "object": "00005366",
+    "g_id": 0
+  },
+  {
+    "reference_id": "983d246b27bb27f8cd0450302160eabb8617ff8e",
+    "url": "https://viaf.org/viaf/294839375",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>294839375"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11267509-048FBA40-6316-472E-9E16-BA892F458F5F",
+    "subject": "さいたま市青少年宇宙科学館",
+    "predicate": "WorldCat 識別ID",
+    "object": "viaf-294839375",
+    "g_id": 0
+  },
+  {
+    "reference_id": "936d7e59333f06f82374164c672fff492ece2190",
+    "url": "https://viaf.org/viaf/23503188",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>23503188",
+      "retrieved": "time:>+2017-10-17T00:00:00Z",
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q18817427-A1E0575A-1487-4F4E-8A05-CE01CEE15AF5",
+    "subject": "小此木真三郎",
+    "predicate": "国立国会図書館典拠ID",
+    "object": "00060460",
+    "g_id": 0
+  },
+  {
+    "reference_id": "6f87be3d2764ebe370abe54edd0a2af58f4794c2",
+    "url": "https://www.town.kozaki.chiba.jp/02kodomo/school/",
+    "ref_node_pairs": {
+      "reference URL": "url:>https://www.town.kozaki.chiba.jp/02kodomo/school/",
+      "retrieved": "time:>+2020-01-04T00:00:00Z"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q80875843-4318D570-C095-4DB1-81A7-DB262CC0421A",
+    "subject": "神埼町立神崎小学校",
+    "predicate": "公式ウェブサイト",
+    "object": "https://www.town.kozaki.chiba.jp/edu/es-kozaki/about/index.html",
+    "g_id": 0
+  },
+  {
+    "reference_id": "d8bddfbed5f4e65c29712af80917779b26191312",
+    "url": "https://ja.wikipedia.org/w/index.php?title=ハクタイセイ&oldid=62383605",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Japanese Wikipedia->Q177837",
+      "Wikimedia import URL": "url:>https://ja.wikipedia.org/w/index.php?title=ハクタイセイ&oldid=62383605"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11326294-9A708495-F688-4DFE-A2C2-233226A52FAF",
+    "subject": "ハクタイセイ",
+    "predicate": "死亡年月日",
+    "object": "2013-10-28T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "4f4d2192e8fc369ec5fd9515957fc276cc70064c",
+    "url": "https://viaf.org/viaf/123166486",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>123166486"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11434255-566D2591-8BCD-495F-8562-F0CCCDE1474A",
+    "subject": "大学図書館問題研究会",
+    "predicate": "WorldCat 識別ID",
+    "object": "lccn-n81093367",
+    "g_id": 0
+  },
+  {
+    "reference_id": "e55a1ea744cbb07164126e77a1998cde2b58ca33",
+    "url": "https://ja.wikipedia.org/w/index.php?title=宇野文子&oldid=76865429",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Japanese Wikipedia->Q177837",
+      "Wikimedia import URL": "url:>https://ja.wikipedia.org/w/index.php?title=宇野文子&oldid=76865429"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q73112052-8F2CD4CA-C271-44C9-A302-EB0DB6A02180",
+    "subject": "宇野文子",
+    "predicate": "活動期間（開始）",
+    "object": "2017-01-01T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "0f858d9708550a5ef8acc334a7105c797cced10a",
+    "url": "https://ja.wikipedia.org/w/index.php?title=ウィリアム・カペル&oldid=65274864",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Japanese Wikipedia->Q177837",
+      "Wikimedia import URL": "url:>https://ja.wikipedia.org/w/index.php?title=ウィリアム・カペル&oldid=65274864"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q385331-0EDBDFEB-AD66-45BC-9307-2BCC59C07959",
+    "subject": "ウィリアム・カペル",
+    "predicate": "Find a Grave",
+    "object": "9790665",
+    "g_id": 0
+  },
+  {
+    "reference_id": "440da75fef06ef4fa9df3f17ee816a3d9e27f59b",
+    "url": "https://viaf.org/viaf/114938952",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+      "retrieved": "time:>+2018-05-25T00:00:00Z",
+      "VIAF ID": "value:>114938952"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q41693207-E8E87C31-D779-4EC0-A78A-0B5F94E28A0E",
+    "subject": "岡希太郎",
+    "predicate": "生年月日",
+    "object": "1941-01-01T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "92cac77e014f667cb83abc81827f5a3683401401",
+    "url": "https://viaf.org/viaf/167677152",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>167677152"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q30929866-E20FCD7F-51E5-40C8-AFD9-C8008B8DCC31",
+    "subject": "早稲田大学商学部",
+    "predicate": "WorldCat 識別ID",
+    "object": "lccn-n82073794",
+    "g_id": 0
+  },
+  {
+    "reference_id": "31151885e4ec6db5726ff4bd1a78c440012157f3",
+    "url": "https://viaf.org/viaf/53883217",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>53883217"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11451515-97AB9B05-506E-4C8F-8552-780D9AA3E483",
+    "subject": "安達千夏",
+    "predicate": "WorldCat 識別ID",
+    "object": "lccn-no2005061134",
+    "g_id": 0
+  },
+  {
+    "reference_id": "6cbe7d85c38b893bdc71d9757d11518d7673f943",
+    "url": "https://viaf.org/viaf/256153432",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>256153432"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11412668-84208F22-A8F0-4992-8DDF-9FBB1DAF6B82",
+    "subject": "吉元由美",
+    "predicate": "WorldCat 識別ID",
+    "object": "viaf-256153432",
+    "g_id": 0
+  },
+  {
+    "reference_id": "73e46f92ff7d11b909c8e73943f1bcb113411385",
+    "url": "https://ja.wikipedia.org/w/index.php?title=カゼノコ&oldid=75086082",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Japanese Wikipedia->Q177837",
+      "Wikimedia import URL": "url:>https://ja.wikipedia.org/w/index.php?title=カゼノコ&oldid=75086082"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q18236613-EB273FAD-3098-4F42-A1E3-BB0C92E71C93",
+    "subject": "カゼノコ",
+    "predicate": "家畜の品種",
+    "object": "サラブレッド",
+    "g_id": 0
+  },
+  {
+    "reference_id": "40ea1bddfcd253337df8cfa0c7e1d50f871f38a4",
+    "url": "https://ja.wikipedia.org/w/index.php?title=鷲宮信号場&oldid=68452443",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Japanese Wikipedia->Q177837",
+      "Wikimedia import URL": "url:>https://ja.wikipedia.org/w/index.php?title=鷲宮信号場&oldid=68452443"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11174065-220CACEF-5E13-4B32-9E1D-722FC82AC85E",
+    "subject": "鷲宮信号場",
+    "predicate": "駅コード",
+    "object": "ワシ",
+    "g_id": 0
+  },
+  {
+    "reference_id": "935f87c42cd23a606eea32507e0a6cda335abf03",
+    "url": "https://viaf.org/viaf/259182076",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>259182076"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11404053-B2E057C2-3FC9-42F6-AB93-D488F212B1DA",
+    "subject": "北見葉胡",
+    "predicate": "WorldCat 識別ID",
+    "object": "viaf-259182076",
+    "g_id": 0
+  },
+  {
+    "reference_id": "d4399293856fd37d0c6d56a8046bc27d18e52ed0",
+    "url": "https://viaf.org/viaf/254693697",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+      "VIAF ID": "value:>254693697",
+      "retrieved": "time:>+2018-08-13T00:00:00Z"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11665772-90738557-D7C6-4719-826E-36DACF3A3481",
+    "subject": "飛幡祐規",
+    "predicate": "VIAF識別子",
+    "object": "254693697",
+    "g_id": 0
+  },
+  {
+    "reference_id": "232ebdad1b127a3567ed6d94449f51da75bd789b",
+    "url": "https://ja.wikipedia.org/w/index.php?title=佐藤一実&oldid=72013427",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Japanese Wikipedia->Q177837",
+      "Wikimedia import URL": "url:>https://ja.wikipedia.org/w/index.php?title=佐藤一実&oldid=72013427"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q62085148-389B7563-3ADB-4B46-A8B0-DB3ADB40F8D9",
+    "subject": "佐藤一実",
+    "predicate": "生年月日",
+    "object": "1994-10-31T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "c684364501261bb39cd60ad85326e2935b0fccfc",
+    "url": "https://viaf.org/viaf/265243107",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>265243107"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q21702965-DF4D4522-3F4E-4722-BE9D-E525107CE48A",
+    "subject": "吉崎祥司",
+    "predicate": "WorldCat 識別ID",
+    "object": "lccn-n83049251",
+    "g_id": 0
+  },
+  {
+    "reference_id": "62c6159a24ca66d61cdefdb4c0d8591fd54f0726",
+    "url": "https://viaf.org/viaf/35855895",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>35855895"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q18818527-CDACFCDD-5EBF-4FA3-8ACB-B04D00E6966E",
+    "subject": "本山桂川",
+    "predicate": "WorldCat 識別ID",
+    "object": "lccn-n84112737",
+    "g_id": 0
+  },
+  {
+    "reference_id": "64361f93fa1a10bff5374464101672d0d402ba79",
+    "url": "https://viaf.org/viaf/114487843",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+      "retrieved": "time:>+2018-04-09T00:00:00Z",
+      "VIAF ID": "value:>114487843"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q20038841-849CD4B8-1121-40A7-A918-6A89CEC0B784",
+    "subject": "岩淵宏子",
+    "predicate": "NTA PPN 識別子",
+    "object": "303192585",
+    "g_id": 0
+  },
+  {
+    "reference_id": "0654efc98b9d15258236db65774c7cd72ccd5df3",
+    "url": "https://viaf.org/viaf/72949927",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>72949927"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q17349865-9249A2BA-1AD0-4A37-98C0-9273AB2D5597",
+    "subject": "柏木昭",
+    "predicate": "WorldCat 識別ID",
+    "object": "lccn-n88173087",
+    "g_id": 0
+  },
+  {
+    "reference_id": "076805292ec26c60916379b4e5c66a1b71118dde",
+    "url": "https://ja.wikipedia.org/w/index.php?title=青山純&oldid=76372592",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Japanese Wikipedia->Q177837",
+      "Wikimedia import URL": "url:>https://ja.wikipedia.org/w/index.php?title=青山純&oldid=76372592"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11661311-55CADE1F-5477-4A69-8824-6BED18BDE7D4",
+    "subject": "青山純",
+    "predicate": "活動期間（開始）",
+    "object": "1975-01-01T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "a05a3ce527070f94dddbbaf4e72a19da4c839970",
+    "url": "https://viaf.org/viaf/117704669",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>117704669"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q38279187-D432F9D9-32D2-479A-B3E0-CA944DD226BC",
+    "subject": "藤原俊義",
+    "predicate": "WorldCat 識別ID",
+    "object": "viaf-117704669",
+    "g_id": 0
+  }
+]

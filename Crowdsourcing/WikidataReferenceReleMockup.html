@@ -1,0 +1,783 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Wikidata Reference Verification</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="https://s3.amazonaws.com/mturk-public/externalHIT_v1.js"></script>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css"
+        integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous" />
+    <style>
+        input[type="range"].unmoved::-webkit-slider-thumb {
+            border: 1px solid #dddddd;
+            background: #dddddd;
+        }
+
+        input[type="range"].unmoved::-moz-range-thumb {
+            border: 1px solid #dddddd;
+            background-color: #dddddd;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container p-5">
+        <div class="row justify-content-center">
+            <button type="button" class="btn btn-primary col-sm-12 d-none" data-toggle="collapse"
+                data-target="#instructions-panel" id="instructions-toggle">
+                <span id="instructions-toggle-text">Show Instructions</span>
+            </button>
+        </div>
+        <div id="instructions-btns" class="row">
+            <button type="button" class="btn btn-primary mr-auto col-sm-2 mb-3 d-none" id="intro-previous">
+                Previous
+            </button>
+            <button type="button" class="btn btn-primary ml-auto col-sm-2 mb-3" id="intro-next">
+                Next
+            </button>
+            <button type="button" class="btn btn-success ml-auto col-sm-2 mb-3 d-none" id="ready-button">
+                Proceed
+            </button>
+        </div>  
+        <div id="instructions-panel" class="row">
+            <div class="col-sm-12 mx-auto border rounded shadow-sm text-center" style="background-color: #f5f5f5;">
+                <h4 class="text-left mt-3"><strong>Task instructions</strong></h4>
+                <div class="text-left">
+                    <div id="instructions-0" class="instructions active">
+                        <h5><b>Project</b></h5>
+                        <p id="instructions-project-text"></p>
+                    </div>
+                    <div id="instructions-1" class="instructions d-none">
+                        <h5><b>Introduction</b></h5>
+                        <p id="instructions-intro-text"></p>
+                    </div>
+                    <div id="instructions-2" class="instructions d-none">
+                        <h5><b>Examples</b></h5>
+                        <p id="instructions-examples-text">
+                            <h6>Controls:</h6>
+                            <p>You will be asked to fill a form consisting of:</p>
+                            <ol>
+                                <li>A yes/no radio button. Press yes if the website supports the statement. No otherwise.</li>
+                                <li>A scale representing the difficulty of finding the supportive information. It goes from really difficult to really hard. When you select a point in the scale, a text description is shown. <b>Please read it and make sure it reflects as close as possible your case</b>. By 'navigate', we mean going to other pages inside the same website.</li>
+                                <li>Six radio buttons representing possible reasons why you did not find the information.</li>
+                            </ol>
+                            <h6>Hints:</h6>
+                            <ul>
+                                <li>Take a look at the website url too: <b>if the statement is about an ID, like in a library or catalogue, it is often shown in the URL itself</b>. You <b>should still click on the URL</b> in those cases, to make sure the content of the page is about the correct subject.</li>
+                                <li>Sometimes you need to interact with the website. It is ok to move to another webpage as long as it is in the same portal or domain.</li>
+                            </ul>
+                            <h6>Example 1:</h6>
+                            <p>
+                                <b>Subject:</b> Michael Feinstein<br>
+                                <b>Predicate:</b> occupation <br>
+                                <b>Object:</b> archivist<br>
+                                <b>Web Reference:</b> <a href="http://archive.constantcontact.com/fs080/1102455565967/archive/1110816783607.html" target="_blank">http://archive.constantcontact.com/fs080/1102455565967/archive/1110816783607.html</a><br>
+                                <b>Additional Info:</b> None<br><br>
+                                <div  style="text-align: center"><img src='https://i.imgur.com/ddJltqI.png' width="75%"></div><br>
+                                In this example, the statement is that Michael Feinstein is an archivist. Clicking on the web reference takes you to a website talking about some people, among them, Michael. Reading the page a little, you see it clearly states that Michael is an archivist.<br>
+                                So, we can mark <b>Yes</b> to question 1, on question 2 we can drag the slider so it reads <b>I did not need to navigate the website but had to read through the content to find it</b>, and we don't need to answer question 3.
+                            </p>
+                            <h6>Example 2:</h6>
+                            <p>
+                                <b>Subject:</b> Stanford R. Ovshinsky<br>
+                                <b>Predicate:</b> date of birth <br>
+                                <b>Object:</b> 1922-11-24T00:00:00Z<br>
+                                <b>Web Reference:</b> <a href="https://www.findagrave.com/memorial/101966897" target="_blank">https://www.findagrave.com/memorial/101966897</a><br>
+                                <b>Additional Info:</b> None<br><br>
+                                <div  style="text-align: center"><img src='https://i.imgur.com/SBU2VC9.png' width="75%"></div><br>
+                                In this example, the statement is that Stanford was born on November 24th, 1922. Clicking on the web reference takes you to a website listing information about Stanford, including his date of birth, clearly visible on top.<br>
+                                So, we can mark <b>Yes</b> to question 1, on question 2 we can mark <b>I did not need to navigate the website or read through much content to find it</b>, and we don't need to answer question 3.
+                            </p>
+                            <h6>Example 3:</h6>
+                            <p>
+                                <b>Subject:</b> Lesiolo<br>
+                                <b>Predicate:</b> country <br>
+                                <b>Object:</b> Kenya<br>
+                                <b>Web Reference:</b> <a href="http://geonames.nga.mil/" target="_blank">http://geonames.nga.mil/</a><br>
+                                <b>Additional Info:</b>
+                                    <ul>
+                                        <li>stated in: GEOnet Names Server</li>
+                                        <li>publication date: 11 June 2018</li>
+                                        <li>GNS Unique Feature ID: -2253321</li>
+                                    </ul>
+                                <br><br>
+                                <div  style="text-align: center"><img src='https://i.imgur.com/zmnNRJ3.png' width="75%"></div><br>
+                                In this example, the statement is that Lesiolo is located in the country Kenya. Clicking on the web reference takes you to a website which serves as a repository for geographic names. Although it takes a few seconds, we can see 'GNS Search - Text Based Page' as a clickable option and go there. It takes us to the page Geonames Search. We can then click on 'Advanced Search' and, using the Unique Feature ID -2253321, given in the additional info, search for the info we want. It opens a pop-up showing that Lisolo has Kenya as its Geopolitical Entity.<br>
+                                This is a very clunky process: we browsed, used additional info and our own knowledge that a country is a geopolitical entity. So, we can mark <b>Yes</b> to question 1, on question 2 we can mark <b>I had to navigate the website and use the additional information or infer the statement using my common sense</b>, and we don't need to answer question 3.
+                            </p>
+                            <h6>Example 4:</h6>
+                            <p>
+                                <b>Subject:</b> The antiinflammatory cytokine interleukin-1 receptor antagonist protects from high-fat diet-induced hyperglycemia.<br>
+                                <b>Predicate:</b> cites work <br>
+                                <b>Object:</b> Pancreatic beta cell senescence contributes to the pathogenesis of type 2 diabetes in high-fat diet-induced diabetic mice.<br>
+                                <b>Web Reference:</b> <a href="https://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pmc&linkname=pmc_refs_pubmed&retmode=json&id=2734491" target="_blank">https://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pmc&linkname=pmc_refs_pubmed&retmode=json&id=2734491</a><br>
+                                <b>Additional Info:</b> None<br><br>
+                                <div  style="text-align: center"><img src='https://i.imgur.com/Oi6W59M.png' width="75%"></div><br>
+                                In this example, the statement is that some scientific paper cites another scientific paper. Clicking on the web reference makes a data file be shown on your browser. The file lists citation links using specific IDs. This doesn't show the subject, predicate or object directly, and would require domain knowledge not offered in the additional info to be understood.<br>
+                                So, we can mark <b>No</b> to question 1, we don't need to reply to question 2, and on question 3 we can mark <b>I feel like only people familiar with a specific domain would understand the information in the page.</b>
+                            </p>
+                            <h6>Example 5:</h6>
+                            <p>
+                                <b>Subject:</b> Hemostatic clip-assisted placement of enteral feeding tubes<br>
+                                <b>Predicate:</b> author <br>
+                                <b>Object:</b> Martinez-Cerezo FJ<br>
+                                <b>Web Reference:</b> <a href="https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:16584701%20AND%20SRC:MED&resulttype=core&format=json" target="_blank">https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:16584701%20AND%20SRC:MED&resulttype=core&format=json</a><br>
+                                <b>Additional Info:</b> None<br><br>
+                                <div  style="text-align: center"><img src='https://i.imgur.com/JGO1gBn.png' width="75%"></div><br>
+                                In this example, the statement is that some scientific paper cites has as author a person named Martinez-Cerezo FJ. Clicking on the web reference makes a data file be shown on your browser. <b>Sometimes, the browser will display it without formatting</b>. This doesn't mean the information is not there: you can still see the author's name on the non-formatted text.<br>
+                                So, we can mark <b>Yes</b> to question 1, we don't need to reply to question 3, and on question 2 we can put the slider on <b>I did not need to navigate the website but had to read through the content to find it</b>.
+                            </p>
+                            <h6>Example 6:</h6>
+                            <p>
+                                <b>Subject:</b> Albert Sévigny<br>
+                                <b>Predicate:</b> Library of Congress authority ID <br>
+                                <b>Object:</b> n83214259<br>
+                                <b>Web Reference:</b> <a href="http://id.worldcat.org/fast/121124/" target="_blank">http://id.worldcat.org/fast/121124/</a><br>
+                                <b>Additional Info:</b>
+                                    <ul>
+                                        <li>stated in: Faceted Application of Subject Terminology</li>
+                                        <li>retireved date: 24 November 2016</li>
+                                    </ul>
+                                <br><br>
+                                <div  style="text-align: center"><img src='https://i.imgur.com/RKY1GAd.png' width="75%"></div><br>
+                                In this example, the statement is that Albert Sévigny has an Authority ID in the Library of Congress with value n83214259. Clicking on the web reference takes you to an entry about Albert in a website. There is nothing in the page about Library of Congress Authority ID.<br>
+                                So, we can mark <b>No</b> to question 1, we don't need to reply to question 2, and on question 3 we can mark <b>None of the above, but the subject and/or the predicate were not mentioned in the page.</b>
+                            </p>
+                        </p>
+                    </div>
+                    <div id="instructions-3" class="instructions d-none">
+                        <h5><b>Task rules</b></h5>
+                        <p id="instructions-rules-text"></p>
+                    </div>
+                    <div id="instructions-4" class="instructions d-none">
+                        <div id="lan_test" class="text-left">
+                            <p><b>Language Test: </b><span id='lan_test_language'></span></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>            
+        <br />
+        <div id="task-panel" class="row d-none">
+            <div class="col-sm-12 mx-auto border rounded shadow-sm" style="background-color: #f5f5f5;">
+                <h4 class="text-left mt-3">
+                    Reference <strong><span id="current-page"></span></strong> of
+                    <strong><span id="n-pages"></span></strong>:
+                </h4>
+                <br/>   
+                <!---->
+                <div class="row d-flex justify-content-center">
+                    <div class="col-sm-11 pr-0 pl-0">
+                        <h5>Look at the following three-part statement:</h5>
+                    </div>
+                </div>
+                <div class="row d-flex justify-content-center">
+                    <div class="col-sm-11 bg-light border rounded p-2" style="width: 100%;">
+                        <p><b>Subject: </b><span id="statement_subject"></span></p>
+                    </div>
+                    <div class="col-sm-11 bg-light border rounded p-2 ml-3 mr-3" style="width: 100%;">
+                        <p><b>Predicate: </b><span id="statement_predicate"></span></p>
+                    </div>
+                    <div class="col-sm-11 bg-light border rounded p-2" style="width: 100%;">
+                        <p><b>Object: </b><span id="statement_object"></span></p>
+                    </div>
+                </div>
+                <br/>
+                <!---->
+                <div class="row d-flex justify-content-center">
+                    <div class="col-sm-11 pr-0 pl-0">
+                        <h5>And at the following web reference, as well as some additional information if available:</h5>
+                    </div>
+                </div>
+                <div class="row d-flex justify-content-center">
+                    <div class="col-sm-11 bg-light border rounded p-2">
+                        <p><b>Web reference:</b> <a href="" target="_blank" id="statement_reference"></a></p>
+                    </div>
+                    <div class="col-sm-11 bg-light border rounded p-2">
+                        <p><b>Additional info: </b></p>
+                        <ul id="statement_info">
+                        </ul>
+                    </div>
+                </div>
+                <br />
+                <!---->
+                <div class="row d-flex justify-content-center">
+                    <div class="col-sm-11 pr-0 pl-0">
+                        <h5>Is the three-part statement supported by the content found by clicking in the web reference?</h5>
+                    </div>
+                </div>
+                <div class="row d-flex justify-content-center">
+                    <div class="btn-group btn-group-toggle" data-toggle="buttons">
+                        <label id="is_present_1" class="btn btn-primary" style="width: 200px;">
+                            <input type="radio" autocomplete="off"> Yes
+                        </label>
+                        <label id="is_present_0" class="btn btn-primary" style="width: 200px;">
+                            <input type="radio" id="is_present_0" autocomplete="off"> No
+                        </label>
+                    </div>
+                </div>
+                <br />
+                <!---->
+                <div id="difficulty-slider-panel" class=''>
+                    <div class="row d-flex justify-content-center">
+                        <div class="col-sm-11 pr-0 pl-0">
+                            <h5><b>If you marked yes</b>, please rate in the following scale how easy it was to locate:</h5>
+                        </div>
+                    </div>
+                    <div class="row d-flex justify-content-center">
+                        <div class="col-sm-11 mx-auto bg-light border rounded p-2">
+                            <input type="range" class="mx-auto custom-range pl-4 pr-4" id="difficulty-slider" min="0"
+                                max="4"/>
+                            <div class="row">
+                                <div class="text-center col-sm-2">Most difficult</div>
+                                <div id="difficulty-label" class="text-center col-sm-8"></div>
+                                <div class="text-center col-sm-2">Easiest</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br />
+                <!---->
+                <div id="reasons-panel" class=''>
+                    <div class="row d-flex justify-content-center">
+                        <div class="col-sm-11 pr-0 pl-0">
+                            <h5><b>If marked no</b>, please select one of the reasons why:</h5>
+                        </div>
+                    </div>
+                    <div class="row d-flex justify-content-center">
+                        <div class="col-sm-11 pr-0 pl-0">
+                            <div class="btn-group btn-group-vertical" data-toggle="buttons" style="width: 100%;">
+                                <label id="reason_0" class="btn btn-primary">
+                                    <input type="radio" autocomplete="off" value='unavailable' name='reason_radios'> The page was not available (for example, 404 error).
+                                </label>
+                                <label  id="reason_1" class="btn btn-primary">
+                                    <input type="radio" autocomplete="off" value='security' name='reason_radios'> My browser or antivirus stopped me, claiming the page presented security risks.
+                                </label>
+                                <label  id="reason_2" class="btn btn-primary">
+                                    <input type="radio" autocomplete="off" value='login_required' name='reason_radios'> I was required to provide a login and password to access the page, but don't have them.
+                                </label>
+                                <label id="reason_3" class="btn btn-primary">
+                                    <input type="radio" autocomplete="off" value='paywall' name='reason_radios'> I was required to pay for access to the page, and I am not inclined to do so.
+                                </label>
+                                <label id="reason_4" class="btn btn-primary">
+                                    <input type="radio" autocomplete="off" value='domain_specific' name='reason_radios'> I feel like only people familiar with a specific domain would understand the information in the page.
+                                </label>
+                                <label id="reason_5" class="btn btn-primary">
+                                    <input type="radio" autocomplete="off" value='statement_incorrect' name='reason_radios'> None of the above, but the subject and/or the predicate were not mentioned in the page.
+                                </label>
+                                <label id="reason_6" class="btn btn-primary">
+                                    <input type="radio" autocomplete="off" value='statement_incorrect' name='reason_radios'> None of the above, the subject and predicate were mentioned in the page, but the object was different.
+                                </label>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br />
+                <!---->
+                <div class="row p-3">
+                    <button type="button" class="btn btn-primary col-sm-2 mr-auto" id="previous-page">
+                        Previous
+                    </button>
+                    <button type="button" class="btn btn-success col-sm-2 ml-auto" id="presubmit" data-toggle="modal"
+                        data-target="#submitModal">
+                        Submit
+                    </button>
+                    <button type="button" class="btn btn-primary col-sm-2 ml-auto" id="next-page">
+                        Next
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="modal" id="submitModal">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+                <!-- Modal Header -->
+                <div class="modal-header">
+                    <h4 class="modal-title mx-auto">Submit your work?</h4>
+                </div>
+                <!-- Modal body -->
+                <div class="modal-body">
+                    Please make sure every question has been properly answered before
+                    submitting your work. Incomplete work will not be rewarded!
+                </div>
+                <!-- Modal footer -->
+                <div class="modal-footer">
+                    <input type="button" class="btn btn-danger ml-auto" data-dismiss="modal" value="Cancel" />
+                    <input type="button" class="btn btn-success mr-auto" data-dismiss="modal" value="Submit"
+                        id="submit" />
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="modal" id="lanErrorModal">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+                <!-- Modal Header -->
+                <div class="modal-header">
+                    <h4 class="modal-title mx-auto">Warning</h4>
+                </div>
+                <!-- Modal body -->
+                <div class="modal-body">
+                    <span id="lan-warning-text">You didn't pass the language test. Please review your
+                        answers and try again!</span>
+                </div>
+                <!-- Modal footer -->
+                <div class="modal-footer">
+                    <input type="button" class="btn btn-warning mx-auto" data-dismiss="modal" value="OK"
+                        id="lan_close_error" />
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="modal" id="errorModal">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+                <!-- Modal Header -->
+                <div class="modal-header">
+                    <h4 class="modal-title mx-auto">Warning</h4>
+                </div>
+                <!-- Modal body -->
+                <div class="modal-body">
+                    <span id="warning-text">Your answer didn't pass our quality check. Please review your
+                        answers and try again!</span>
+                    <span id="warning-hints"></span>
+                </div>
+                <!-- Modal footer -->
+                <div class="modal-footer">
+                    <input type="button" class="btn btn-warning mx-auto" data-dismiss="modal" value="OK"
+                        id="close_error" />
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="modal" id="successModal">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+                <!-- Modal Header -->
+                <div class="modal-header">
+                    <h4 class="modal-title mx-auto">Success!</h4>
+                </div>
+                <!-- Modal body -->
+                <div class="modal-body">
+                    <span id="success-text">Your answer passed our quality check! Press finish to submit
+                        them. We appreciate any feedback you may have on the task.</span>
+                </div>
+                <textarea class="form-control" rows="5" id="feedback_text"
+                    placeholder="Type your feeback here ..."></textarea>
+                <!-- Modal footer -->
+                <div class="modal-footer">
+                    <input type="button" class="btn btn-success mx-auto" data-dismiss="modal" value="Finish"
+                        id="close_success" />
+                </div>
+            </div>
+        </div>
+    </div>
+    <form name="mturk_form" method="post" id="mturk_form" action="https://www.mturk.com/mturk/externalSubmit">
+        <input type="hidden" value="" name="assignmentId" id="assignmentId" />
+        <input type="submit" id="submitButton" style="visibility: hidden;" />
+        <input type="hidden" name="outputs" value="" id="outputs" />
+        <input type="hidden" name="times" value="" id="times" />
+        <input type="hidden" name="events" value="" id="events" />
+        <input type="hidden" name="feedback" value="" id="feedback" />
+    </form>
+    <script language="Javascript">
+        let references = [{'reference_id': '3daa4f837871ac987ccee745daf745bfc54ca0ff', 'url': 'https://sv.wikipedia.org/w/index.php?title=Lac_Saint-Paul_(sjö_i_Kanada,_Laurentides,_lat_46,08,_long_-74,91)&oldid=41671106', 'ref_node_pairs': {'imported from Wikimedia project': 'wikibase-item:>Swedish Wikipedia->Q169514', 'Wikimedia import URL': 'url:>https://sv.wikipedia.org/w/index.php?title=Lac_Saint-Paul_(sjö_i_Kanada,_Laurentides,_lat_46,08,_long_-74,91)&oldid=41671106'}, 'language_crawl': 'sv', 'statement_node': 'Q22475154-32FD929E-31B9-4643-AB04-2E18DD9DF95D', 'subject': 'Lac Saint-Paul', 'predicate': 'inom administrativt område', 'object': 'Laurentides', 'g_id': 0}, {'reference_id': '3e36465e0a2cafff51a753866f7a219011db3757', 'url': 'http://nvpub.vic-metria.nu/naturvardsregistret/rest/omrade/2040242/G%C3%A4llande', 'ref_node_pairs': {'stated in': 'wikibase-item:>no-label->Q86904537', 'retrieved': 'time:>+2020-02-18T00:00:00Z', 'reference URL': 'url:>http://nvpub.vic-metria.nu/naturvardsregistret/rest/omrade/2040242/G%C3%A4llande'}, 'language_crawl': 'sv', 'statement_node': 'Q86966878-0A5817E2-5D42-4A29-928C-ADAF9326A5AF', 'subject': 'Hästmo 1:1', 'predicate': 'land', 'object': 'Sverige', 'g_id': {'relevance': {'is_present': [1], 'difficulty': -1, 'reason': -1}, 'authorit': {'author': [1], 'publisher': [1, 2, 4], 'sub_publisher': -1}}}, {'reference_id': 'f244bc3474b5498f6254de228e0be62a5cf1db87', 'url': 'https://sv.wikipedia.org/w/index.php?title=Lac_Kauihtut&oldid=41661630', 'ref_node_pairs': {'imported from Wikimedia project': 'wikibase-item:>Swedish Wikipedia->Q169514', 'Wikimedia import URL': 'url:>https://sv.wikipedia.org/w/index.php?title=Lac_Kauihtut&oldid=41661630'}, 'language_crawl': 'sv', 'statement_node': 'Q22584167-8A2463B5-745A-432E-8740-DEAE7DD84154', 'subject': 'Lac Kauihtut', 'predicate': 'inom administrativt område', 'object': 'Côte-Nord', 'g_id': 0}, {'reference_id': '0a35c27edc75aa6719cd093baf5e15b37c0a179f', 'url': 'http://runeberg.org/vemarvem/svea64/0168.html', 'ref_node_pairs': {'stated in': 'wikibase-item:>no-label->Q21586310', 'retrieved': 'time:>+2019-12-09T00:00:00Z', 'named as': 'value:>CEDERSTRÖM, BROR-GÖSTA', 'page(s)': 'value:>144', 'reference URL': 'url:>http://runeberg.org/vemarvem/svea64/0168.html'}, 'language_crawl': 'sv', 'statement_node': 'Q23989602-B01F8686-81CD-43C5-BE94-D81AFE80BA70', 'subject': 'Bror-Gösta Cederström', 'predicate': 'födelsedatum', 'object': '1900-04-28T00:00:00Z', 'g_id': 0}, {'reference_id': '4493e78069ab51680748eeb711025f7e3e218eff', 'url': 'https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-bbr&srlanguage=sv&srid=21300000013264', 'ref_node_pairs': {'stated in': 'wikibase-item:>Monuments database->Q28563569', 'reference URL': 'url:>https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-bbr&srlanguage=sv&srid=21300000013264', 'publication date': 'time:>+2017-04-12T00:00:00Z'}, 'language_crawl': 'sv', 'statement_node': 'Q29373854-1D4CEB91-AC36-442B-A8B0-E5729EEFEDD7', 'subject': 'Skottsila f.d. mönsterskrivarboställe', 'predicate': 'datum för grundande eller skapande', 'object': '1792-01-01T00:00:00Z', 'g_id': 0}, {'reference_id': '9a7382aeb28f420b0dbc20f14686c2747ad69ea4', 'url': 'https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-fornmin&srlanguage=sv&srid=10038104290001', 'ref_node_pairs': {'stated in': 'wikibase-item:>Monuments database->Q28563569', 'reference URL': 'url:>https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-fornmin&srlanguage=sv&srid=10038104290001', 'publication date': 'time:>+2017-05-06T00:00:00Z'}, 'language_crawl': 'sv', 'statement_node': 'Q29961615-A07C96C9-A80D-4D35-BB8F-960F95BC9D10', 'subject': 'Tunaberg 429:1', 'predicate': 'instans av', 'object': 'ristning', 'g_id': {'relevance': {'is_present': [0, 1], 'difficulty': -1, 'reason': -1}, 'authorit': {'author': [1, 2], 'publisher': [1, 4], 'sub_publisher': -1}}}];
+        let lan_test_language = "Swedish";
+        //0101
+        let lan_test_questions = [{"question": "Om man bor i en l\u00e4genhet, m\u00e5ste man ___ h\u00e4nsyn till sina grannar.", "options": ["visa", "vissa", "vissla", "viska"], "answer": 0}, {"question": "Svenskar ___ midsommar i slutet av juni.", "options": ["fyller", "firar", "ha", "l\u00e4gger"], "answer": 1}, {"question": "Klockan \u00e4r kvart ___ nio.", "options": ["\u00f6ver", "till", "mot", "p\u00e5"], "answer": 0}, {"question": "Min bror \u00e4r ___ \u00e4n jag.", "options": ["l\u00e5ngare", "l\u00e4ngre", "\u00e4ldst", "l\u00e4ngst"], "answer": 1}];
+        let difficulty_labels=[
+            'I had to navigate the website and use the additional information or infer the statement using my common sense.',
+            'I had to navigate the website and use the additional information to find it.',
+            'I had to navigate the website to find it.',
+            'I did not need to navigate the website but had to read through the content to find it.',
+            'I did not need to navigate the website or read through much content to find it.'
+        ]
+        
+        let total = references.length;
+
+        var outputs = [];
+        // DEFAULT OUTPUTS IN JSON FORMAT, EX:  { similarity: -1, confidence: -1, reason: "" }
+        // REPLACES THE GD FIELD WITH THE PROPER SET
+        for (i = 0; i < total; i++) {
+            outputs[i] = {is_present: -1, difficulty: -1, reason: -1};
+            if (references[i]['g_id'] != 0){
+                references[i]['g_id'] = references[i]['g_id']['relevance'];
+            }
+        }
+
+        var events = [];
+
+        function log_event(event_type, event_attr) {
+            event_obj = {
+                timestamp: new Date(),
+                type: event_type
+            };
+            if (event_attr != null) {
+                event_obj.attr = event_attr;
+            }
+            events.push(event_obj);
+        }
+
+        log_event("page_displayed", null);
+
+        var times = Array(total).fill(0.0);
+        var links_clicked = Array(total).fill(false);
+        var lastChange = null;
+
+        failCount = 0;
+        lanFailCount = 0;
+
+        $("#instructions-project-text").html(`We are researchers at King's College London (United Kingdom), currently conducting research to verify certain quality aspects of <a href='https://wikidata.org' target='_blank'>Wikidata</a>, an open knowledge base which gathers claims and references to support these claims. This study is funded by the European Union's Horizon 2020 research and innovation programme under grant agreement No 780247. No personal information will be collected during this experiment and all information will be treated anonymously, so there are no risks from participating and no way of identifying your personal details. <br>After you've submitted your responses, there's no way to withdraw them. The data collected in this study will consist only of your inputs, the time you spent on the task and which buttons you clicked. It will be stored in a password protected computer and analysed for research purposes and its results published on academic journals. <br>This experiment has received ethical clearance on the 6th of May of 2020 by KCL, with registration number MRA-19/20-18878. The data controller for this project will be King's College London (KCL). Research is a task that the University carries out in the public interest. Your data will be processed in accordance with the standards set by the General Data Protection Regulation 2016 (GDPR). If you have any questions or need further assistance, please contact the researcher responsible for this study at <a href='mailto:k2031554@kcl.ac.uk'>k2031554@kcl.ac.uk</a>.<br><br> By continuing with the task, you <b>agree</b> to take part in this research project and consent for the data collected to be used for the purpose of this study. Participation is voluntary and you may cancel the task at anytime for any reason before submitting it.<br><br><b>Please note</b> that, in order for you to proceed with the task, you'll need to know how to read in <b>${lan_test_language}</b>! This language requirement <b>changes according to the HIT</b>, so you may find other types of HITs similar to this one that cover other languages, either now or in the future. <b>The language will be specified in the Keywords and in the Title of the HIT</b>!`);
+        $("#instructions-intro-text").html("In this task, we want your help verifying some sources that are used to support specific statements. You will be asked to take a look at six statements. For each statement, we will show you a reference, as well as some additional information. In essence:<br><b>Statements</b>: These come in the form of three elements, a subject, a predicate, and an object, and will be shown as (subject) -> (predicate) -> (object). For example: (Brazilia) -> (is capital of) -> (Brazil). Most of the statements read quite naturally.<br><b>References</b>: These are URLs that take you to a website which we believe contains information that supports the statement. References may, for example, take you directly to a news article mentioning that Brazilia is Brazil's capital, or to a database page where Brazilia appears as the 'capital' property of Brazil. They may also take you to a website where you'll have to search for the information yourself, using search bars, buttons, or anything the website offers.<br><b>Additional Information</b>: Extra information taken from Wikidata about the reference. These may be useful in case you have to search for the information in the referenced website.<br><b>We will ask you:</b><br>1) If the reference supports the statement;<br>2) How easy it was to find the information, if you did;<br>3) What may have stopped you from finding the information, if you didn't.");
+        $("#instructions-rules-text").html(`<ul>     <li>You can navigate freely through the statements using the buttons at the bottom of the page.</li>     <li>You must fill all the information requested. The sliders only have information if they're blue. If they're         already at the level you desire, just click them to make them blue.</li>     <li>At the end of the task, we check the some indicators of the quality of your work, to make sure you are not a         spammer. If you don't pass the test, you can try two more times, for a total of three trials. If you fail three         times, the task ends and the work is not accepted.</li>     <li>This task will need you to know ${lan_test_language}. Plase answer the following short ${lan_test_language}         language test, and click on the green button to proceed. You can try the language test three times.</li>     <li>You can open these instructions again anytime you wish.</li>     <li>Make sure you are using either Chrome, Firefox or Edge. <b>Do not use Internet Explorer.</b></li>     <li>When clicking on links, <b>use the left mouse button</b>, not the middle or right buttons, or the task won't register that you have clicked them and you may be unable to submit your work.</li> </ul>`);
+        
+        $("#lan_test_language").text(lan_test_language)
+
+        for (i = 0; i < lan_test_questions.length; i++) {
+            $('#lan_test').append(`<p class="mb-0">${lan_test_questions[i]['question']}</p>`)
+            $('#lan_test').append(`<div id="lan_quest_${i}" class="btn-group btn-group-toggle mb-3" data-toggle="buttons">`)
+            for (j = 0; j < lan_test_questions[i]['options'].length; j++)
+                $(`#lan_quest_${i}`).append(`<label class="btn btn-primary"><input type="radio" autocomplete="off" value=${j} name='lang_quest_${i}'>${lan_test_questions[i]['options'][j]}<br/></label>`)
+        }
+
+        $("#n-pages").text(total);
+
+        function showContent(currentPage) {
+            if (lastChange) {
+                times[parseInt($("#current-page").text()) - 1] +=
+                    Date.now() - lastChange;
+            }
+            $("#current-page").text(currentPage);
+            if (currentPage == 1) {
+                $("#previous-page").hide();
+                $("#next-page").show();
+                $("#presubmit").hide();
+            } else if (currentPage == total) {
+                $("#previous-page").show();
+                $("#next-page").hide();
+                $("#presubmit").show();
+            } else {
+                $("#previous-page").show();
+                $("#next-page").show();
+                $("#presubmit").hide();
+            }
+            pageIndex = currentPage - 1;
+            output = outputs[pageIndex];
+
+            if (output['is_present'] == -1){
+                $("#is_present_0").removeClass('active');                
+                $("#is_present_1").removeClass('active');
+            } else if (output['is_present'] == 0){
+                $("#is_present_0").addClass('active');                
+                $("#is_present_1").removeClass('active');
+            } else if (output['is_present'] == 1){
+                $("#is_present_0").removeClass('active');               
+                $("#is_present_1").addClass('active');   
+            }
+
+            if (output["difficulty"] == -1) {
+                $("#difficulty-slider").val(0);
+                $("#difficulty-slider").addClass("unmoved");
+                $('#difficulty-label').text("");
+            } else {
+                $("#difficulty-slider").val(output["difficulty"]);
+                $("#difficulty-slider").removeClass("unmoved");
+                $('#difficulty-label').text(difficulty_labels[output["difficulty"]]);
+            }
+
+            for (i = 0; i < 7; i++) {
+                if (output['reason'] == i){
+                    $(`#reason_${i}`).addClass("active");
+                    $(`#reason_${i}`).children('input').prop('checked',true)
+                } else {
+                    $(`#reason_${i}`).removeClass("active");
+                    $(`#reason_${i}`).children('input').prop('checked',false)
+                }
+            }
+
+            $("#statement_subject").text(references[pageIndex]["subject"]);
+            $("#statement_predicate").text(references[pageIndex]["predicate"]);
+            $("#statement_object").text(references[pageIndex]["object"]);
+            $("#statement_reference").text(references[pageIndex]["url"]);
+            $("#statement_reference").prop("href", references[pageIndex]["url"]); 
+
+            $("#statement_info").empty();
+            for (pair in references[pageIndex]["ref_node_pairs"]) {
+                pair_split = references[pageIndex]["ref_node_pairs"][pair].split(':>')
+                if (pair_split[0] == 'wikibase-item'){
+                    pair_wikibase_item = pair_split[1].split('->')
+                    $("#statement_info").append(
+                        `<li><i>${pair}</i>: <a href='https://wikidata.org/wiki/${pair_wikibase_item[1]}' target="_blank">${pair_wikibase_item[0]}<a></li>`
+                    );
+                } else if (pair_split[0] == 'time'){
+                    pair_time = pair_split[1].split('+')
+                    d = new Date(pair_time[1])
+                    $("#statement_info").append(
+                        `<li><i>${pair} at</i>: ${d.toUTCString()}</li>`
+                    );
+                } else if (pair_split[0] == 'value'){
+                    $("#statement_info").append(
+                        `<li><i>${pair}</i>: ${pair_split[1]}</li>`
+                    );
+                } else if (pair_split[0] == 'url'){
+                    /*$("#statement_info").append(
+                        `<li><i>${pair}</i>: <a href='${pair_split[1]}' target="_blank">${pair_split[1]}<a></li>`
+                    );*/
+                } 
+            }
+
+            lastChange = Date.now();
+        }
+
+        function validateRegex(str) {
+            var reU = /^(null|(?!0*[.]0*$|[.]0*$|0*$)\d+[.]?\d{0,}$)/;
+            return reU.test(str);
+        }
+
+        function verifyLanguageAnswers() {
+            allOK = 4;
+            for (i=0; i<lan_test_questions.length; i++){
+                let chosen = parseInt($(`input[name="lang_quest_${i}"]:checked`).val());
+                if (chosen != lan_test_questions[i]['answer']){
+                    allOK = allOK - 1
+                }
+            }
+            return (allOK == 4)
+        }
+
+        function verifyAnswers() {
+            times[times.length - 1] += Date.now() - lastChange;
+            lastChange = Date.now();
+
+            var allControlsUsedCheck = true;
+            const outputs_flat = [].concat(...outputs)
+            for (s of outputs_flat) {
+                if (
+                    (s["is_present"] == -1) ||
+                    (s["is_present"] == 0 && s["reason"] == -1) ||
+                    (s["is_present"] == 1 && s["difficulty"] == -1)
+                ) {
+                    allControlsUsedCheck = false;
+                }
+            }
+            if (!allControlsUsedCheck) {
+                log_event("verification_check_failed", {
+                    check_failed: "outputs_moved_check",
+                    outputs: JSON.parse(JSON.stringify(outputs))
+                });
+            }
+
+            const links_clicked_flat = [].concat(...links_clicked)
+            var allLinksClickedCheck = links_clicked_flat.every(Boolean)
+            if (!allLinksClickedCheck) {
+                log_event("verification_check_failed", {
+                    check_failed: "links_clicked_check",
+                    links_clicked: JSON.parse(JSON.stringify(links_clicked))
+                });
+            }
+
+            var allTimesCheck = true;
+            for (t of times) {
+                if (t < 2500) {
+                    allTimesCheck = false;
+                }
+            }
+            if (!allTimesCheck) {
+                log_event("verification_check_failed", {
+                    check_failed: "minimum_time_check",
+                    times: JSON.parse(JSON.stringify(times))
+                });
+            }
+
+            var allGoldenCheck = true;
+
+            for (i = 0; i < total; i++) {
+                if (references[i]['g_id'] != 0){
+                    if (references[i]['g_id']['is_present'] != -1){
+                        if (references[i]['g_id']['is_present'].indexOf(outputs[i]['is_present']) == -1){
+                            allGoldenCheck = false
+                        }
+                    }
+                    if (references[i]['g_id']['difficulty'] != -1){
+                        if (references[i]['g_id']['difficulty'].indexOf(outputs[i]['difficulty']) == -1){
+                            allGoldenCheck = false
+                        }
+                    }
+                    if (references[i]['g_id']['reason'] != -1){
+                        if (references[i]['g_id']['reason'].indexOf(outputs[i]['reason']) == -1){
+                            allGoldenCheck = false
+                        }
+                    }
+                }
+            }
+            
+            if (!allGoldenCheck) {
+                log_event("verification_check_failed", {
+                    check_failed: "golden_standard_check",
+                    outputs: JSON.parse(JSON.stringify(outputs))
+                });
+            }
+
+            return {'controls':allControlsUsedCheck, 'times':allTimesCheck, 'golden':allGoldenCheck, 'links':allLinksClickedCheck};
+        }
+
+        $(function () {
+            $("#previous-page").click(function () {
+                var page = parseInt($("#current-page").text());
+                newPage = page - 1;
+                showContent(newPage);
+                log_event("moved_backward", {
+                    new_page_index: newPage,
+                    outputs: JSON.parse(JSON.stringify(outputs))
+                });
+            });
+            $("#next-page").click(function () {
+                var page = parseInt($("#current-page").text());
+                newPage = page + 1;
+                showContent(newPage);
+                log_event("moved_forward", {
+                    new_page_index: newPage,
+                    outputs: JSON.parse(JSON.stringify(outputs))
+                });
+            });
+            $("#ready-button").click(function () {
+                if (verifyLanguageAnswers()){
+                    $("#instructions-0").addClass("d-none");
+                    $("#instructions-1").removeClass("d-none");
+                    $("#instructions-2").removeClass("d-none");
+                    $("#instructions-3").removeClass("d-none");
+                    $("#instructions-4").addClass("d-none");
+                    $("#instructions-btns").addClass("d-none");
+                    $(this).addClass("d-none");
+                    $("#instructions-toggle").removeClass("d-none");
+                    $("#instructions-panel").addClass("collapse");
+                    $("#task-panel").removeClass("d-none");
+                    showContent(1);
+                    log_event("task_started", null);
+                } else {
+                    lanFailCount = lanFailCount + 1;
+                    if (lanFailCount >= 3) {
+                        $("#lan-warning-text").html(
+                            "You didn't pass the language test.<br><br><strong>Unfortunately, you've reached the maximum amount of trials.<br><br>This window will be erased. Thank you very much for your work and please press return above so other worker may take this task.</strong>"
+                        );
+                        $("#lanErrorModal").modal("toggle");
+                        $("#lanErrorModal").on("hidden.bs.modal", function () {
+                            $("*").empty();
+                        });
+                    } else {
+                        $("#lanErrorModal").modal("toggle");
+                    }
+                }
+            });
+            $("#instructions-toggle").click(function () {
+                is_shown = $("#instructions-panel").hasClass("show");
+                if (is_shown) {
+                    $("#instructions-toggle-text").text("Show Instructions");
+                    log_event("closed_instructions", null);
+                } else {
+                    $("#instructions-toggle-text").text("Hide Instructions");
+                    log_event("opened_instructions", null);
+                }
+            });
+            $("#difficulty-slider").mouseup(function () {
+                $(this).removeClass("unmoved");
+                page = parseInt($("#current-page").text());
+                pageIndex = page - 1;
+                outputs[pageIndex]['difficulty'] = parseInt($(this).val());
+                $('#difficulty-label').text(difficulty_labels[parseInt($(this).val())]);
+            });
+            $('label.btn').click(function() {
+                page = parseInt($("#current-page").text());
+                pageIndex = page - 1;
+                if (this.id.startsWith('is_present')){
+                    outputs[pageIndex]['is_present'] = parseInt(this.id.split('is_present_')[1]);
+                } else if (this.id.startsWith('reason')){
+                    outputs[pageIndex]['reason'] = parseInt(this.id.split('reason_')[1]);
+                }
+            });
+            $('#statement_reference').on('click auxclick',function(e) {
+                if (e.which <= 2){
+                    page = parseInt($("#current-page").text());
+                    pageIndex = page - 1;
+                    links_clicked[pageIndex] = true;
+                }
+            });
+            $('#intro-next').click(function (){
+                let current_instructions_active = $('div.instructions.active')[0];
+                let current_instructions_id = parseInt(current_instructions_active.id.split('instructions-')[1]);
+                $(`#instructions-${current_instructions_id}`).addClass('d-none').removeClass('active');
+                $(`#instructions-${current_instructions_id+1}`).removeClass('d-none').addClass('active');
+                if (current_instructions_id == 0){
+                    $('#intro-previous').removeClass('d-none');
+                } else if (current_instructions_id == 3){
+                    $('#intro-next').addClass('d-none');
+                    $('#ready-button').removeClass('d-none');
+                }
+            });
+            $('#intro-previous').click(function (){
+                let current_instructions_active = $('div.instructions.active')[0];
+                let current_instructions_id = parseInt(current_instructions_active.id.split('instructions-')[1]);
+                $(`#instructions-${current_instructions_id}`).addClass('d-none').removeClass('active');
+                $(`#instructions-${current_instructions_id-1}`).removeClass('d-none').addClass('active');
+                if (current_instructions_id == 4){
+                    $('#ready-button').addClass('d-none');
+                    $('#intro-next').removeClass('d-none');
+                } else if (current_instructions_id == 1){
+                    $('#intro-previous').addClass('d-none');
+                }
+            });
+            $("#submit").click(function () {
+                let verification = verifyAnswers();
+                if (verification['controls'] && verification['times'] && verification['links'] && verification['golden']){
+                    $("#successModal").modal("toggle");
+                    $("#successModal").on("hidden.bs.modal", function () {
+                        log_event("task_finished", null);
+                        $("#feedback").val($("#feedback_text").val());
+                        $("#outputs").val(JSON.stringify(outputs));
+                        $("#times").val(JSON.stringify(times));
+                        $("#events").val(JSON.stringify(events));
+                        $("#submitButton").trigger("click");
+                    });
+                } else {
+                    failCount = failCount + 1;
+                    $("#warning-hints").empty();
+                    let warningString = "<ul>"
+                    if (!verification['controls']){
+                        warningString += "<li>You did not provide all required answers. Please provide answers to every question required. Maybe you skipped the last one. If you provided answers to a non-required question, that is ok. If any slider is in the position you want, but grey, click on it to turn it blue.</li>"
+                    }
+                    if (!verification['times']){
+                        warningString += "<li>You seem to have filled some questions too quickly and we suspected bot activity. Spend a couple of seconds more in each item, maybe review your answers.</li>"
+                    }
+                    if (!verification['links']){
+                        warningString += "<li>You did not click at all links. Remember to click with the left button, or we can not detect it.</li>"
+                    }
+                    if (!verification['golden']){
+                        warningString += "<li>We know the answers for a small portion of the questions, and you seem to disagree with us. Please review your answers, but if you feel you are right even so, please contact the Requester.</li>"
+                    }
+                    warningString += "</ul>"
+                    $("#warning-hints").html(warningString);
+                    if (failCount >= 3) {
+                        $("#warning-text").html(
+                            "Your answer didn't pass our quality check.<br><br><strong>Unfortunately, you've reached the maximum amount of trials.<br><br>This window will be erased. Thank you very much for your work and please press return above so other worker may take this task.</strong>"
+                        );
+                        $("#errorModal").modal("toggle");
+                        $("#errorModal").on("hidden.bs.modal", function () {
+                            $("*").empty();
+                        });
+                    } else {
+                        $("#errorModal").modal("toggle");
+                    }
+                }
+            });
+        });
+        turkSetAssignmentID();
+    </script>
+</body>
+
+</html>

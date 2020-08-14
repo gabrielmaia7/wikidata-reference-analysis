@@ -1,0 +1,234 @@
+[
+  {
+    "reference_id": "6f098d2d57230fb9343cd853b89dc474c2c05f22",
+    "url": "https://es.wikipedia.org/w/index.php?title=Agrupación_Nacional_de_Empleados_Fiscales&oldid=121890026",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Spanish Wikipedia->Q8449",
+      "Wikimedia import URL": "url:>https://es.wikipedia.org/w/index.php?title=Agrupación_Nacional_de_Empleados_Fiscales&oldid=121890026"
+    },
+    "language_crawl": "es",
+    "statement_node": "Q5660139-54F443BC-93A1-4C32-9D0A-AB604F43961E",
+    "subject": "Agrupación Nacional de Empleados Fiscales",
+    "predicate": "fecha de fundación o creación",
+    "object": "1943-05-05T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "5ae5e17885586aa023715d53c8ccb0a08fec250c",
+    "url": "https://id.loc.gov/authorities/n88026327",
+    "ref_node_pairs": {
+      "Library of Congress authority ID": "value:>n88026327",
+      "stated in": "wikibase-item:>Library of Congress Control Number->Q620946",
+      "retrieved": "time:>+2020-03-25T00:00:00Z"
+    },
+    "language_crawl": "es",
+    "statement_node": "Q5664711-37C82ECE-6EB0-42B2-A8FC-04A5804D89F8",
+    "subject": "Luis de Miranda de Villafaña",
+    "predicate": "identificador FAST",
+    "object": "1835190",
+    "g_id": 0
+  },
+  {
+    "reference_id": "ff737f486fe169459164edd1e68d2a194a83d389",
+    "url": "https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=pe&srlang=es&srid=PUN-047",
+    "ref_node_pairs": {
+      "reference URL": "url:>https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=pe&srlang=es&srid=PUN-047",
+      "stated in": "wikibase-item:>Monuments database->Q28563569",
+      "publication date": "time:>+2017-11-07T00:00:00Z"
+    },
+    "language_crawl": "es",
+    "statement_node": "Q42854634-1C308587-5AD6-4D44-BB63-F7F8108AF623",
+    "subject": "Iglesia de Nuestra señora de la Asunción de Rosaspata",
+    "predicate": "estatus patrimonial",
+    "object": "Patrimonio Cultural de la Nación",
+    "g_id": 0
+  },
+  {
+    "reference_id": "9d5fe3ca6c35f3475b22a87c4f2f8d5d91fbb609",
+    "url": "http://aunamendi.eusko-ikaskuntza.eus/artikuluak/artikulua.php?id=fr&ar=30220",
+    "ref_node_pairs": {
+      "Auñamendi ID": "value:>30220",
+      "retrieved": "time:>+2019-12-30T00:00:00Z"
+    },
+    "language_crawl": "es",
+    "statement_node": "Q37497394-2eaec953-4008-36d1-63a4-930984225685",
+    "subject": "Celaya",
+    "predicate": "instancia de",
+    "object": "antroponimia vasca",
+    "g_id": 0
+  },
+  {
+    "reference_id": "de4e405553abe46941afbb80ff19cad6f08038ed",
+    "url": "https://www.cdc.gov/niosh/nioshtic-2/20043874.html",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>NIOSHTIC-2->Q26822184",
+      "NIOSHTIC-2 ID": "value:>20043874",
+      "retrieved": "time:>+2017-07-19T00:00:00Z"
+    },
+    "language_crawl": "es",
+    "statement_node": "Q25892542-2DC0FA24-59C3-4164-876B-29A05E6E8910",
+    "subject": "Trabajador hispano muere cuando un árbol de sesenta pies cae sobre la excavadora hidráulica con la que estaba despejando un terreno en Tennessee",
+    "predicate": "instancia de",
+    "object": "estudio de campo",
+    "g_id": 0
+  },
+  {
+    "reference_id": "e38abfa1d13b4cc188027010c15139f03c235876",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:5850389%20AND%20SRC:MED&resulttype=core&format=json",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>5850389",
+      "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:5850389%20AND%20SRC:MED&resulttype=core&format=json",
+      "retrieved": "time:>+2019-10-27T00:00:00Z"
+    },
+    "language_crawl": "es",
+    "statement_node": "Q72613486-C64CE89C-9FC5-4A71-9D98-0C0931FE49F1",
+    "subject": "[Smallpox epidemic in Iquitos]",
+    "predicate": "instancia de",
+    "object": "artículo científico",
+    "g_id": 0
+  },
+  {
+    "reference_id": "31baee61d5646a9b568c57e1a0d003253c76ec12",
+    "url": "https://es.wikipedia.org/w/index.php?title=Paolo_Vivar&oldid=118111461",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Spanish Wikipedia->Q8449",
+      "Wikimedia import URL": "url:>https://es.wikipedia.org/w/index.php?title=Paolo_Vivar&oldid=118111461"
+    },
+    "language_crawl": "es",
+    "statement_node": "Q52774401-F6F39245-D1A9-446E-B47B-4F774FABD482",
+    "subject": "Paolo Vivar",
+    "predicate": "inicio del periodo de actividad",
+    "object": "1996-01-01T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "89eda962ad09d16d0790d79628dfd44f6472d51e",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:8204388%20AND%20SRC:MED&resulttype=core&format=json",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>8204388",
+      "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:8204388%20AND%20SRC:MED&resulttype=core&format=json",
+      "retrieved": "time:>+2019-10-27T00:00:00Z"
+    },
+    "language_crawl": "es",
+    "statement_node": "Q72520229-6B25791B-E591-4856-9052-5EF7BBE678E6",
+    "subject": "[Granular cell tumor of the bile duct: an infrequent location]",
+    "predicate": "nombre del autor",
+    "object": "Ferri Romero J",
+    "g_id": 0
+  },
+  {
+    "reference_id": "38b5955900652b759d8d3ea15acae3894fdf7d6a",
+    "url": "https://es.wikipedia.org/w/index.php?title=Copa_del_Príncipe_de_Voleibol_2017&oldid=118578884",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Spanish Wikipedia->Q8449",
+      "Wikimedia import URL": "url:>https://es.wikipedia.org/w/index.php?title=Copa_del_Príncipe_de_Voleibol_2017&oldid=118578884"
+    },
+    "language_crawl": "es",
+    "statement_node": "Q65163369-3EC030B1-8384-4D8D-9006-B0A68DD592A0",
+    "subject": "Copa del Príncipe de Voleibol 2017",
+    "predicate": "precedido por",
+    "object": "Copa del Príncipe de Voleibol 2016",
+    "g_id": 0
+  },
+  {
+    "reference_id": "1dcc756f525b39af700507bc0e160b2e33ae3471",
+    "url": "https://viaf.org/viaf/300426995",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>300426995"
+    },
+    "language_crawl": "es",
+    "statement_node": "Q21384931-B202787B-E08B-4680-86B2-5B7FD1F73E24",
+    "subject": "Valentín Vázquez de Prada",
+    "predicate": "ID WorldCat de identidades",
+    "object": "lccn-n79053948",
+    "g_id": 0
+  },
+  {
+    "reference_id": "c5638266959f54321ab681e286c56a938b3767bc",
+    "url": "http://acervo.mnav.gub.uy/obras.php?q=na:549",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>National Museum of Visual Arts->Q1786577",
+      "MNAV artist ID": "value:>549",
+      "named as": "value:>Atilio Buriano",
+      "retrieved": "time:>+2017-10-09T00:00:00Z"
+    },
+    "language_crawl": "es",
+    "statement_node": "Q42388970-29CCA543-06E1-4E5E-A1AD-2EA3586385DF",
+    "subject": "Atilio Buriano",
+    "predicate": "fecha de nacimiento",
+    "object": "1943-11-01T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "aa39e91dab5e642fe4e35917c06979c9d727edc4",
+    "url": "https://es.wikipedia.org/w/index.php?title=Eugenio_Raúl_Zaffaroni&oldid=111574220",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Spanish Wikipedia->Q8449",
+      "Wikimedia import URL": "url:>https://es.wikipedia.org/w/index.php?title=Eugenio_Raúl_Zaffaroni&oldid=111574220"
+    },
+    "language_crawl": "es",
+    "statement_node": "Q5558221-B4E27CE9-C177-4013-89DE-8ED3D9ECD1C9",
+    "subject": "Eugenio Raúl Zaffaroni",
+    "predicate": "categoría en Commons",
+    "object": "Eugenio Zaffaroni",
+    "g_id": 0
+  },
+  {
+    "reference_id": "67b4e56dbb1261fa2ed07b13b8aa6f59d730f882",
+    "url": "https://es.wikipedia.org/w/index.php?title=Copa_Polla_Gol_1983&oldid=118293694",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Spanish Wikipedia->Q8449",
+      "Wikimedia import URL": "url:>https://es.wikipedia.org/w/index.php?title=Copa_Polla_Gol_1983&oldid=118293694"
+    },
+    "language_crawl": "es",
+    "statement_node": "Q5945991-E53D881D-1E73-4606-BF36-1DD4F8CAFEEA",
+    "subject": "Copa Polla Gol 1983",
+    "predicate": "precedido por",
+    "object": "Copa Polla Gol 1982",
+    "g_id": 0
+  },
+  {
+    "reference_id": "a2dd840647d5539e0b1a939b98329eb16cbfb3c8",
+    "url": "https://es.wikipedia.org/w/index.php?title=Velandia_y_La_Tigra&oldid=119323603",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Spanish Wikipedia->Q8449",
+      "Wikimedia import URL": "url:>https://es.wikipedia.org/w/index.php?title=Velandia_y_La_Tigra&oldid=119323603"
+    },
+    "language_crawl": "es",
+    "statement_node": "Q6160049-D82559A4-1ED0-4E24-8169-BAB92D7C148B",
+    "subject": "Velandia y La Tigra",
+    "predicate": "fecha de fundación o creación",
+    "object": "2007-01-01T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "eb5b4214bec0a1c07da42ee8765b11dc3818ca2f",
+    "url": "https://es.wikipedia.org/w/index.php?title=Leonardo_Novo&oldid=103154900",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Spanish Wikipedia->Q8449",
+      "Wikimedia import URL": "url:>https://es.wikipedia.org/w/index.php?title=Leonardo_Novo&oldid=103154900"
+    },
+    "language_crawl": "es",
+    "statement_node": "Q9021502-F4D3FF01-E4FE-4CA4-A4E5-AAAE9321E4E8",
+    "subject": "Leonardo Novo",
+    "predicate": "inicio del periodo de actividad",
+    "object": "2010-01-01T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "3fc832fc9507f95f287e94f32a67f9cead329775",
+    "url": "http://datos.bne.es/persona/XX1130964.html",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://datos.bne.es/persona/XX1130964.html",
+      "retrieved": "time:>+2019-02-28T00:00:00Z"
+    },
+    "language_crawl": "es",
+    "statement_node": "Q47216729-F6434B06-E016-4378-BAE0-CE2168C1652B",
+    "subject": "Alfonso W. Quiroz",
+    "predicate": "identificador GND",
+    "object": "1056492996",
+    "g_id": 0
+  }
+]

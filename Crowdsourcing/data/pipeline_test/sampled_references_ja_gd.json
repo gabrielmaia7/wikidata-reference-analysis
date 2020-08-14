@@ -1,0 +1,58 @@
+[
+  {
+    "reference_id": "e4b8fe77ea04acd8245ed67522979dc48759a275",
+    "url": "https://viaf.org/viaf/264165703",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+      "retrieved": "time:>+2018-04-09T00:00:00Z",
+      "VIAF ID": "value:>264165703"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q29643946-976A05EE-C9D8-4B2D-AFBE-5F662429A19D",
+    "subject": "山本秀雄",
+    "predicate": "NTA PPN 識別子",
+    "object": "291330649",
+    "g_id": 0
+  },
+  {
+    "reference_id": "40ea1bddfcd253337df8cfa0c7e1d50f871f38a4",
+    "url": "https://ja.wikipedia.org/w/index.php?title=鷲宮信号場&oldid=68452443",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Japanese Wikipedia->Q177837",
+      "Wikimedia import URL": "url:>https://ja.wikipedia.org/w/index.php?title=鷲宮信号場&oldid=68452443"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11174065-220CACEF-5E13-4B32-9E1D-722FC82AC85E",
+    "subject": "鷲宮信号場",
+    "predicate": "駅コード",
+    "object": "ワシ",
+    "g_id": 0
+  },
+  {
+    "reference_id": "23800e59a1fb989df59bacca433ef941bc648def",
+    "url": "https://ja.wikipedia.org/w/index.php?title=岡山電気軌道岡軌7100型電車&oldid=68931951",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Japanese Wikipedia->Q177837",
+      "Wikimedia import URL": "url:>https://ja.wikipedia.org/w/index.php?title=岡山電気軌道岡軌7100型電車&oldid=68931951"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11472770-4E868C47-AE0C-4F8A-83BD-EE564013A292",
+    "subject": "岡山電気軌道岡軌7100型電車",
+    "predicate": "画像",
+    "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Okayama%20Electric%20Tramway%207101%20TAMA%20Densya.JPG",
+    "g_id": 0
+  },
+  {
+    "reference_id": "ea6dd22bf78952e00c575c8e44e84b51aa7b17c8",
+    "url": "https://viaf.org/viaf/67779457",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>67779457"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11476939-D1A9E314-1E27-4A2A-83D7-966E1831A67C",
+    "subject": "島田正郎",
+    "predicate": "WorldCat 識別ID",
+    "object": "lccn-n81019924",
+    "g_id": 0
+  }
+]

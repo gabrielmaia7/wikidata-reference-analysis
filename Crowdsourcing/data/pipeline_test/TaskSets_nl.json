@@ -1,0 +1,366 @@
+[
+  {
+    "_id": "78b3d044-91a5-49b7-959b-c3fea2817bb9",
+    "taskSet": [
+      {
+        "reference_id": "979d003630d70ae8b0dc8a177f0f3f219aa2a1a5",
+        "url": "http://www.nieuwsblad.be/cnt/dmf28042007_027",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Het Nieuwsblad->Q12467",
+          "title": "value:>Sebastien Godefroid en Carolijn Brouwer uit elkaar",
+          "reference URL": "url:>http://www.nieuwsblad.be/cnt/dmf28042007_027",
+          "publication date": "time:>+2007-04-28T00:00:00Z",
+          "retrieved": "time:>+2016-08-08T00:00:00Z"
+        },
+        "language_crawl": "nl",
+        "statement_node": "Q293206-52690fcb-4d2d-d0e0-fdd0-eebef29dd379",
+        "subject": "Carolijn Brouwer",
+        "predicate": "partner",
+        "object": "S\u00e9bastien Godefroid",
+        "g_id": 0
+      },
+      {
+        "reference_id": "df1193089eba3fa9b8dc601c97ae656bfe07b829",
+        "url": "http://mskgent.be/collection/work/data/2009-AW",
+        "ref_node_pairs": {
+          "retrieved": "time:>+2016-01-24T00:00:00Z",
+          "reference URL": "url:>http://mskgent.be/collection/work/data/2009-AW"
+        },
+        "language_crawl": "nl",
+        "statement_node": "Q22251600-606DBCD0-0D92-4952-8CF6-CA3A64B45692",
+        "subject": "Boerenkop",
+        "predicate": "is een",
+        "object": "prent",
+        "g_id": 0
+      },
+      {
+        "reference_id": "bd73ef41f1c9a3a505420fca83e8623476de3c62",
+        "url": "https://rkd.nl/explore/artists/78692",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>RKDartists->Q17299517",
+          "retrieved": "time:>+2018-03-02T00:00:00Z",
+          "reference URL": "url:>https://rkd.nl/explore/artists/78692"
+        },
+        "language_crawl": "nl",
+        "statement_node": "Q1896384-8A077174-4369-4E34-85F1-67C97201A196",
+        "subject": "Maria Uhden",
+        "predicate": "werklocatie",
+        "object": "Berlijn",
+        "g_id": 0
+      },
+      {
+        "reference_id": "f56a96f02473468fb15517c5dabafe554f101d31",
+        "url": "https://cultureelerfgoed.nl/monumenten/20183",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Dutch register of monuments->Q7477362",
+          "reference URL": "url:>https://cultureelerfgoed.nl/monumenten/20183",
+          "language of work or name": "wikibase-item:>Dutch->Q7411",
+          "retrieved": "time:>+2018-11-06T00:00:00Z"
+        },
+        "language_crawl": "nl",
+        "statement_node": "Q17395355-14657DC5-971D-4750-B977-90D73FA4FF7B",
+        "subject": "Hoekpand zonder verdieping met topschoorstenen",
+        "predicate": "postcode",
+        "object": "3841CG",
+        "g_id": 0
+      },
+      {
+        "reference_id": "9077abdfc3a582c5b1986cc3188faff6c85b678b",
+        "url": "https://data.collectienederland.nl/resource/aggregation/rijkscollectie-rce/NK1557",
+        "ref_node_pairs": {
+          "retrieved": "time:>+2019-03-24T00:00:00Z",
+          "reference URL": "url:>https://data.collectienederland.nl/resource/aggregation/rijkscollectie-rce/NK1557"
+        },
+        "language_crawl": "nl",
+        "statement_node": "Q28061020-d3d7c637-a63e-43ab-98b6-e80e6b6b97b6",
+        "subject": "Gehoor, verpersoonlijkt door een zingend paar",
+        "predicate": "datum van oprichting of creatie",
+        "object": "1649-01-01T00:00:00Z",
+        "g_id": 0
+      },
+      {
+        "reference_id": "4eef56d85cb07a745e8d577b86d3f1c51553f33b",
+        "url": "https://nl.wikipedia.org/w/index.php?title=Station_Wilderen&oldid=45346498",
+        "ref_node_pairs": {
+          "imported from Wikimedia project": "wikibase-item:>Dutch Wikipedia->Q10000",
+          "Wikimedia import URL": "url:>https://nl.wikipedia.org/w/index.php?title=Station_Wilderen&oldid=45346498"
+        },
+        "language_crawl": "nl",
+        "statement_node": "Q2110510-D4AF49A6-2C61-4E3E-8B01-D7DC36D36FC3",
+        "subject": "station Wilderen",
+        "predicate": "lijn",
+        "object": "Spoorlijn 23",
+        "g_id": 0
+      }
+    ]
+  },
+  {
+    "_id": "c52ccd30-594c-4618-bc29-21de33dd73de",
+    "taskSet": [
+      {
+        "reference_id": "8e1b81b1dd0014cafd29b5ea3a6bf4f9740f9290",
+        "url": "https://rkd.nl/explore/artists/70525",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>RKDartists->Q17299517",
+          "retrieved": "time:>+2019-07-22T00:00:00Z",
+          "reference URL": "url:>https://rkd.nl/explore/artists/70525"
+        },
+        "language_crawl": "nl",
+        "statement_node": "Q21683707-d09719bf-6904-44b2-8264-5e496664aa4d",
+        "subject": "Femmy Schilt-Geesink",
+        "predicate": "land van nationaliteit",
+        "object": "Koninkrijk der Nederlanden",
+        "g_id": 0
+      },
+      {
+        "reference_id": "7085f5d89d490ca8c4da726d5f9d2afcd4af6f4e",
+        "url": "http://collectie.boijmans.nl/object/142096",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://collectie.boijmans.nl/object/142096",
+          "retrieved": "time:>+2017-05-13T00:00:00Z"
+        },
+        "language_crawl": "nl",
+        "statement_node": "Q29911641-34BA9744-319F-4782-AC0B-97F4F44C9637",
+        "subject": "Voorstudie voor Dutch",
+        "predicate": "is een",
+        "object": "tekening",
+        "g_id": 0
+      },
+      {
+        "reference_id": "57264295053370fe8613fc0cc37d930fda0f9510",
+        "url": "http://www.archiefbank.be/dlnk/AE_17805",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://www.archiefbank.be/dlnk/AE_17805"
+        },
+        "language_crawl": "nl",
+        "statement_node": "Q49961315-64C0F3AC-EB6E-46A2-A0B6-171D384AF26C",
+        "subject": "Textielbedrijf Camille Bauer",
+        "predicate": "archieflocatie",
+        "object": "Rijksarchief te Beveren",
+        "g_id": 0
+      },
+      {
+        "reference_id": "3a9e3999221d612ab0510b6909486245c3ffdef9",
+        "url": "https://nl.wikipedia.org/w/index.php?title=Norman_Bingley&oldid=54640196",
+        "ref_node_pairs": {
+          "imported from Wikimedia project": "wikibase-item:>Dutch Wikipedia->Q10000",
+          "Wikimedia import URL": "url:>https://nl.wikipedia.org/w/index.php?title=Norman_Bingley&oldid=54640196"
+        },
+        "language_crawl": "nl",
+        "statement_node": "Q2024150-BA69EF68-DDAA-41CA-834D-52B2494752E9",
+        "subject": "Norman Bingley",
+        "predicate": "geboorteplaats",
+        "object": "City of Westminster",
+        "g_id": 0
+      },
+      {
+        "reference_id": "b89e63e7c62e9498e7c6781599f9852237e40eb1",
+        "url": "https://inventaris.onroerenderfgoed.be/erfgoedobjecten/206600",
+        "ref_node_pairs": {
+          "reference URL": "url:>https://inventaris.onroerenderfgoed.be/erfgoedobjecten/206600"
+        },
+        "language_crawl": "nl",
+        "statement_node": "Q89466383-cc5d062b-4a1c-d224-93f0-23cb10c233c0",
+        "subject": "Vaartstraat 47, Leuven",
+        "predicate": "monumentstatus",
+        "object": "beschermd erfgoed",
+        "g_id": 0
+      },
+      {
+        "reference_id": "3b3f4e4f4eafad24a1c7839d89e69997455d94d6",
+        "url": "https://rkd.nl/explore/artists/242863",
+        "ref_node_pairs": {
+          "retrieved": "time:>+2017-04-05T00:00:00Z",
+          "reference URL": "url:>https://rkd.nl/explore/artists/242863"
+        },
+        "language_crawl": "nl",
+        "statement_node": "Q23068128-6762D4E1-C372-4C4A-9839-7C92ECA295F9",
+        "subject": "Klaus Oberer",
+        "predicate": "geboorteplaats",
+        "object": "Basel",
+        "g_id": 0
+      }
+    ]
+  },
+  {
+    "_id": "2ec889ce-f489-475d-b6e8-25ce4599f246",
+    "taskSet": [
+      {
+        "reference_id": "1851e23c9090724e8a4ee07abee7607efc1f871f",
+        "url": "https://adamlink.nl/geo/street/leo-frijdahof/2673",
+        "ref_node_pairs": {
+          "reference URL": "url:>https://adamlink.nl/geo/street/leo-frijdahof/2673"
+        },
+        "language_crawl": "nl",
+        "statement_node": "Q19324795-24EE612C-1F99-48B8-A138-D5239B0126DD",
+        "subject": "Leo Frijdahof",
+        "predicate": "begindatum",
+        "object": "1952-01-01T00:00:00Z",
+        "g_id": 0
+      },
+      {
+        "reference_id": "09a03b59f43149be33f6dc3b29eb4002dc7c9afa",
+        "url": "http://rkd.nl/explore/artists/392011",
+        "ref_node_pairs": {
+          "retrieved": "time:>+2018-12-11T00:00:00Z",
+          "reference URL": "url:>http://rkd.nl/explore/artists/392011"
+        },
+        "language_crawl": "nl",
+        "statement_node": "Q59617641-EDA13CDF-8EC9-4674-B8EC-1565F1AEF612",
+        "subject": "Bob Buiskool",
+        "predicate": "sekse of geslacht",
+        "object": "mannelijk",
+        "g_id": 0
+      },
+      {
+        "reference_id": "57264295053370fe8613fc0cc37d930fda0f9510",
+        "url": "http://www.archiefbank.be/dlnk/AE_17805",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://www.archiefbank.be/dlnk/AE_17805"
+        },
+        "language_crawl": "nl",
+        "statement_node": "Q49961315-64C0F3AC-EB6E-46A2-A0B6-171D384AF26C",
+        "subject": "Textielbedrijf Camille Bauer",
+        "predicate": "archieflocatie",
+        "object": "Rijksarchief te Beveren",
+        "g_id": 0
+      },
+      {
+        "reference_id": "a85633ed8c8fa89a4a3200ca7a8618cc82674414",
+        "url": "https://rkd.nl/explore/artists/26225",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>RKDartists->Q17299517",
+          "retrieved": "time:>+2017-08-27T00:00:00Z",
+          "reference URL": "url:>https://rkd.nl/explore/artists/26225"
+        },
+        "language_crawl": "nl",
+        "statement_node": "Q18225124-7CE9E9BF-FB3A-4B5D-9AB8-D36A1819ED3E",
+        "subject": "Jaap van den Ende",
+        "predicate": "sekse of geslacht",
+        "object": "mannelijk",
+        "g_id": 0
+      },
+      {
+        "reference_id": "96045a7fefd3a77f3045d6f485dbda1b2d7375a9",
+        "url": "https://rkd.nl/explore/artists/278565",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>RKDartists->Q17299517",
+          "retrieved": "time:>+2017-08-26T00:00:00Z",
+          "reference URL": "url:>https://rkd.nl/explore/artists/278565"
+        },
+        "language_crawl": "nl",
+        "statement_node": "q1353514-4BBD4262-1192-435F-A13E-91EEAEC5D1DD",
+        "subject": "Erich Windbichler",
+        "predicate": "sekse of geslacht",
+        "object": "mannelijk",
+        "g_id": 0
+      },
+      {
+        "reference_id": "3a9e3999221d612ab0510b6909486245c3ffdef9",
+        "url": "https://nl.wikipedia.org/w/index.php?title=Norman_Bingley&oldid=54640196",
+        "ref_node_pairs": {
+          "imported from Wikimedia project": "wikibase-item:>Dutch Wikipedia->Q10000",
+          "Wikimedia import URL": "url:>https://nl.wikipedia.org/w/index.php?title=Norman_Bingley&oldid=54640196"
+        },
+        "language_crawl": "nl",
+        "statement_node": "Q2024150-BA69EF68-DDAA-41CA-834D-52B2494752E9",
+        "subject": "Norman Bingley",
+        "predicate": "geboorteplaats",
+        "object": "City of Westminster",
+        "g_id": 0
+      }
+    ]
+  },
+  {
+    "_id": "c1a9479e-f4e9-4cb9-97eb-bc5aeb622a1d",
+    "taskSet": [
+      {
+        "reference_id": "7f70ca1f373959917fcefcb1d12d464854c0db38",
+        "url": "https://rkd.nl/explore/artists/124471",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>RKDartists->Q17299517",
+          "retrieved": "time:>+2018-04-25T00:00:00Z",
+          "reference URL": "url:>https://rkd.nl/explore/artists/124471"
+        },
+        "language_crawl": "nl",
+        "statement_node": "Q52157167-E51B2735-0630-4F96-8982-9D29253DBA28",
+        "subject": "Carl Andreas Abel",
+        "predicate": "overlijdensplaats",
+        "object": "Keulen",
+        "g_id": 0
+      },
+      {
+        "reference_id": "3a9e3999221d612ab0510b6909486245c3ffdef9",
+        "url": "https://nl.wikipedia.org/w/index.php?title=Norman_Bingley&oldid=54640196",
+        "ref_node_pairs": {
+          "imported from Wikimedia project": "wikibase-item:>Dutch Wikipedia->Q10000",
+          "Wikimedia import URL": "url:>https://nl.wikipedia.org/w/index.php?title=Norman_Bingley&oldid=54640196"
+        },
+        "language_crawl": "nl",
+        "statement_node": "Q2024150-BA69EF68-DDAA-41CA-834D-52B2494752E9",
+        "subject": "Norman Bingley",
+        "predicate": "geboorteplaats",
+        "object": "City of Westminster",
+        "g_id": 0
+      },
+      {
+        "reference_id": "559a3a3ad46a139112735bc88b786b1f8a9d64fc",
+        "url": "https://rkd.nl/explore/artists/471748",
+        "ref_node_pairs": {
+          "retrieved": "time:>+2017-04-05T00:00:00Z",
+          "reference URL": "url:>https://rkd.nl/explore/artists/471748"
+        },
+        "language_crawl": "nl",
+        "statement_node": "Q21063474-6BC85AC4-F57A-4AAC-A081-4BD61FE00FDB",
+        "subject": "Josh Kline",
+        "predicate": "geboorteplaats",
+        "object": "Philadelphia",
+        "g_id": 0
+      },
+      {
+        "reference_id": "979d003630d70ae8b0dc8a177f0f3f219aa2a1a5",
+        "url": "http://www.nieuwsblad.be/cnt/dmf28042007_027",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Het Nieuwsblad->Q12467",
+          "title": "value:>Sebastien Godefroid en Carolijn Brouwer uit elkaar",
+          "reference URL": "url:>http://www.nieuwsblad.be/cnt/dmf28042007_027",
+          "publication date": "time:>+2007-04-28T00:00:00Z",
+          "retrieved": "time:>+2016-08-08T00:00:00Z"
+        },
+        "language_crawl": "nl",
+        "statement_node": "Q293206-52690fcb-4d2d-d0e0-fdd0-eebef29dd379",
+        "subject": "Carolijn Brouwer",
+        "predicate": "partner",
+        "object": "S\u00e9bastien Godefroid",
+        "g_id": 0
+      },
+      {
+        "reference_id": "7676e750ee06f33f0517f1cbc6e14fe3fc8dd0f1",
+        "url": "http://mskgent.be/collection/work/data/2008-E-148",
+        "ref_node_pairs": {
+          "retrieved": "time:>+2016-01-24T00:00:00Z",
+          "reference URL": "url:>http://mskgent.be/collection/work/data/2008-E-148"
+        },
+        "language_crawl": "nl",
+        "statement_node": "Q22250166-01F23CAA-3AD6-4D6F-ACE1-7BD5B4D6AAB6",
+        "subject": "Bachte",
+        "predicate": "maker",
+        "object": "Raoul De Keyser",
+        "g_id": 0
+      },
+      {
+        "reference_id": "88ff5e47090398d1a0f0c968eea1982ddc1a57bc",
+        "url": "http://www.kijkwijzer.nl/index.php?id=26&i=756734",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://www.kijkwijzer.nl/index.php?id=26&i=756734"
+        },
+        "language_crawl": "nl",
+        "statement_node": "Q63612526-B127CC5C-089A-4A96-9332-87691D3E4B15",
+        "subject": "The Trap",
+        "predicate": "Kijkwijzer-classificatie",
+        "object": "16",
+        "g_id": 0
+      }
+    ]
+  }
+]

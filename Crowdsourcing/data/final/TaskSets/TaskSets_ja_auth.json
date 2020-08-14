@@ -1,0 +1,2408 @@
+[
+  {
+    "_id": "5f0acef5-e19a-417e-93f7-92b2b1b5ca02",
+    "taskSet": [
+      {
+        "reference_id": "dd3f55b45339d2cc55ed3284277c2a17efcbbb45",
+        "url": "http://talent.yahoo.co.jp/pf/detail/pp3195",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Nihon Tarento Meikan->Q11506585",
+          "reference URL": "url:>http://talent.yahoo.co.jp/pf/detail/pp3195",
+          "retrieved": "time:>+2016-03-05T00:00:00Z"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q3482797-2F998DDC-B8AB-48EA-9B30-377B53A1916E",
+        "subject": "\u68ee\u5c71\u5468\u4e00\u90ce",
+        "predicate": "\u8840\u6db2\u578b",
+        "object": "A\u578b",
+        "g_id": 0
+      },
+      {
+        "reference_id": "61070225a5390d7d62e5330e5a9a15ced3e75cde",
+        "url": "http://talent.yahoo.co.jp/pf/detail/pp315692",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Nihon Tarento Meikan->Q11506585",
+          "reference URL": "url:>http://talent.yahoo.co.jp/pf/detail/pp315692",
+          "retrieved": "time:>+2016-03-05T00:00:00Z"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q11399444-93062545-1F65-4F6A-9B2C-C00F913A9CED",
+        "subject": "\u52a0\u85e4\u7950\u5b50",
+        "predicate": "\u8840\u6db2\u578b",
+        "object": "O\u578b",
+        "g_id": 0
+      },
+      {
+        "reference_id": "a919fc8a2fbbf3740c7dd0f471f4a56e030e217c",
+        "url": "https://www.sie.com/corporate/history/2003_2012.html",
+        "ref_node_pairs": {
+          "reference URL": "url:>https://www.sie.com/corporate/history/2003_2012.html"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q41187-722dba9d-4781-cb49-ac4c-5aef30e732b3",
+        "subject": "\u30bd\u30cb\u30fc",
+        "predicate": "\u672c\u90e8\u6240\u5728\u5730",
+        "object": "\u6e2f\u533a",
+        "g_id": 0
+      },
+      {
+        "reference_id": "d8bddfbed5f4e65c29712af80917779b26191312",
+        "url": "https://ja.wikipedia.org/w/index.php?title=\u30cf\u30af\u30bf\u30a4\u30bb\u30a4&oldid=62383605",
+        "ref_node_pairs": {
+          "imported from Wikimedia project": "wikibase-item:>Japanese Wikipedia->Q177837",
+          "Wikimedia import URL": "url:>https://ja.wikipedia.org/w/index.php?title=\u30cf\u30af\u30bf\u30a4\u30bb\u30a4&oldid=62383605"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q11326294-9A708495-F688-4DFE-A2C2-233226A52FAF",
+        "subject": "\u30cf\u30af\u30bf\u30a4\u30bb\u30a4",
+        "predicate": "\u6b7b\u4ea1\u5e74\u6708\u65e5",
+        "object": "2013-10-28T00:00:00Z",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              1
+            ],
+            "difficulty": [
+              2,
+              3,
+              4
+            ],
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              1,
+              2
+            ],
+            "publisher": [
+              1,
+              4
+            ],
+            "sub_publisher": -1
+          }
+        }
+      },
+      {
+        "reference_id": "4fe60d11ef1dccf9a9341a72ef1196eb683001bf",
+        "url": "https://viaf.org/viaf/90768493",
+        "ref_node_pairs": {
+          "VIAF ID": "value:>90768493"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q22127865-21CCFDCF-19B3-4621-B436-2AD2A8360227",
+        "subject": "\u3072\u3089\u307e\u3064\u304a\u3055\u3080",
+        "predicate": "WorldCat \u8b58\u5225ID",
+        "object": "viaf-90768493",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              1
+            ],
+            "difficulty": [
+              2,
+              3,
+              4
+            ],
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              1
+            ],
+            "publisher": [
+              1,
+              4
+            ],
+            "sub_publisher": -1
+          }
+        }
+      },
+      {
+        "reference_id": "afd963e98e92dd89338c02b2d379769ee05730b5",
+        "url": "http://talent.yahoo.co.jp/pf/detail/pp169519",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Nihon Tarento Meikan->Q11506585",
+          "reference URL": "url:>http://talent.yahoo.co.jp/pf/detail/pp169519",
+          "retrieved": "time:>+2016-03-05T00:00:00Z"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q11521893-C7B736CA-7187-46B8-9E73-AD212FABB2BE",
+        "subject": "\u6749\u5c71\u5f69\u5b50",
+        "predicate": "\u8840\u6db2\u578b",
+        "object": "O\u578b",
+        "g_id": 0
+      }
+    ]
+  },
+  {
+    "_id": "75ee1cfe-1f4a-417b-b45d-95c17a811bbb",
+    "taskSet": [
+      {
+        "reference_id": "5ec737fd4b02c0833c01f58f5437343408a8ab86",
+        "url": "http://www.city.matsudo.chiba.jp/shisei/senkyo/kekka/261116_shigi.html",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://www.city.matsudo.chiba.jp/shisei/senkyo/kekka/261116_shigi.html",
+          "retrieved": "time:>+2018-10-13T00:00:00Z"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q29592118-c59f761c-49c2-f855-c18d-c51a25731c5f",
+        "subject": "\u5c0f\u6ca2\u6681\u6c11",
+        "predicate": "\u516c\u8077",
+        "object": "\u65e5\u672c\u306e\u5730\u65b9\u8b70\u4f1a\u8b70\u54e1",
+        "g_id": 0
+      },
+      {
+        "reference_id": "13b74e24d766aeb0397ae497066b611357edf12c",
+        "url": "http://www.isfdb.org/cgi-bin/ea.cgi?233171",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Internet Speculative Fiction Database->Q2629164",
+          "Internet Speculative Fiction Database author ID": "value:>233171",
+          "named as": "value:>\u5cac\u5144\u609f",
+          "retrieved": "time:>+2017-10-09T00:00:00Z"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q11475725-A8C40B25-C990-411F-89B7-EDC8D34591B0",
+        "subject": "\u5cac\u5144\u609f",
+        "predicate": "\u751f\u5e74\u6708\u65e5",
+        "object": "1954-12-30T00:00:00Z",
+        "g_id": 0
+      },
+      {
+        "reference_id": "2003cb1d8a0b8cad7e67aa6cb4da1c6f05eff6b9",
+        "url": "http://talent.yahoo.co.jp/pf/detail/pp213709",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Nihon Tarento Meikan->Q11506585",
+          "reference URL": "url:>http://talent.yahoo.co.jp/pf/detail/pp213709",
+          "retrieved": "time:>+2016-03-05T00:00:00Z"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q11454927-9E02A039-850A-4F92-B10E-0A4B4E311731",
+        "subject": "\u5bae\u672c\u9686\u6cbb",
+        "predicate": "\u8840\u6db2\u578b",
+        "object": "AB\u578b",
+        "g_id": 0
+      },
+      {
+        "reference_id": "5a67432ae06fabbcbbfb76c3090a24c81352a05f",
+        "url": "https://mangaseek.net/person/6876.html",
+        "ref_node_pairs": {
+          "reference URL": "url:>https://mangaseek.net/person/6876.html"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q11431717-F5FBE631-5271-423B-91E8-9143CE4492A2",
+        "subject": "\u5922\u91ce\u308c\u3044",
+        "predicate": "\u6027\u5225",
+        "object": "\u7537\u6027",
+        "g_id": 0
+      },
+      {
+        "reference_id": "0654efc98b9d15258236db65774c7cd72ccd5df3",
+        "url": "https://viaf.org/viaf/72949927",
+        "ref_node_pairs": {
+          "VIAF ID": "value:>72949927"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q17349865-9249A2BA-1AD0-4A37-98C0-9273AB2D5597",
+        "subject": "\u67cf\u6728\u662d",
+        "predicate": "WorldCat \u8b58\u5225ID",
+        "object": "lccn-n88173087",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              1
+            ],
+            "difficulty": [
+              2,
+              3,
+              4
+            ],
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              1
+            ],
+            "publisher": [
+              1,
+              4
+            ],
+            "sub_publisher": -1
+          }
+        }
+      },
+      {
+        "reference_id": "4b3d6f8ab072abe89d504dd8212be220ea7c00dd",
+        "url": "https://ja.wikipedia.org/w/index.php?title=Dew&oldid=76853126",
+        "ref_node_pairs": {
+          "imported from Wikimedia project": "wikibase-item:>Japanese Wikipedia->Q177837",
+          "Wikimedia import URL": "url:>https://ja.wikipedia.org/w/index.php?title=Dew&oldid=76853126"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q11196803-881A6C60-4B78-4865-BE9E-5011D9D32F6C",
+        "subject": "Dew",
+        "predicate": "\u6d3b\u52d5\u671f\u9593\uff08\u958b\u59cb\uff09",
+        "object": "2006-01-01T00:00:00Z",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              1
+            ],
+            "difficulty": [
+              2,
+              3,
+              4
+            ],
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              1,
+              2
+            ],
+            "publisher": [
+              1,
+              4
+            ],
+            "sub_publisher": -1
+          }
+        }
+      }
+    ]
+  },
+  {
+    "_id": "f94a9e3a-1812-43d4-b3fa-9d7c8deda8e2",
+    "taskSet": [
+      {
+        "reference_id": "529dbf40adb4a5e8f2ddcf2f495af589ad676c59",
+        "url": "http://www.nanbyou.or.jp/entry/4889",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://www.nanbyou.or.jp/entry/4889",
+          "retrieved": "time:>+2018-12-06T00:00:00Z"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q1544884-9AA52D66-FCE2-4365-A0F0-10C2E4882037",
+        "subject": "\u30ec\u30ce\u30c3\u30af\u30b9\u30fb\u30ac\u30b9\u30c8\u30fc\u75c7\u5019\u7fa4",
+        "predicate": "\u5206\u985e",
+        "object": "\u6307\u5b9a\u96e3\u75c5",
+        "g_id": 0
+      },
+      {
+        "reference_id": "68d701fd35eddf6618bfc81736b0dbf9fd2627bd",
+        "url": "http://npb.jp/bis/players/03305115.html",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://npb.jp/bis/players/03305115.html",
+          "named as": "value:>\uff2f\uff0e\u30ea\u30ca\u30ec\u30b9",
+          "language of work or name": "wikibase-item:>Japanese->Q5287",
+          "retrieved": "time:>+2018-11-25T00:00:00Z"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q1385026-B808BA67-36F0-4C19-8C1D-9A7E3288BE5F",
+        "subject": "\u30aa\u30de\u30fc\u30eb\u30fb\u30ea\u30ca\u30ec\u30b9",
+        "predicate": "\u751f\u5e74\u6708\u65e5",
+        "object": "1967-10-23T00:00:00Z",
+        "g_id": 0
+      },
+      {
+        "reference_id": "7fd5ee06d0c750aefec4f895374746e21ca57b10",
+        "url": "https://ci.nii.ac.jp/books/author?count=20&sortorder=2&name=%E5%88%A5%E5%BA%9C%E6%A1%82",
+        "ref_node_pairs": {
+          "reference URL": "url:>https://ci.nii.ac.jp/books/author?count=20&sortorder=2&name=%E5%88%A5%E5%BA%9C%E6%A1%82",
+          "retrieved": "time:>+2018-03-19T00:00:00Z"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q47500469-071cbea8-43bc-6678-7463-9ca6d545e451",
+        "subject": "\u5225\u5e9c \u6842",
+        "predicate": "CiNii\u8457\u8005\u8b58\u5225\u5b50",
+        "object": "DA1853154X",
+        "g_id": 0
+      },
+      {
+        "reference_id": "6f87be3d2764ebe370abe54edd0a2af58f4794c2",
+        "url": "https://www.town.kozaki.chiba.jp/02kodomo/school/",
+        "ref_node_pairs": {
+          "reference URL": "url:>https://www.town.kozaki.chiba.jp/02kodomo/school/",
+          "retrieved": "time:>+2020-01-04T00:00:00Z"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q80875843-4318D570-C095-4DB1-81A7-DB262CC0421A",
+        "subject": "\u795e\u57fc\u753a\u7acb\u795e\u5d0e\u5c0f\u5b66\u6821",
+        "predicate": "\u516c\u5f0f\u30a6\u30a7\u30d6\u30b5\u30a4\u30c8",
+        "object": "https://www.town.kozaki.chiba.jp/edu/es-kozaki/about/index.html",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              1
+            ],
+            "difficulty": [
+              2,
+              3,
+              4
+            ],
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              1
+            ],
+            "publisher": [
+              0,
+              1,
+              2
+            ],
+            "sub_publisher": -1
+          }
+        }
+      },
+      {
+        "reference_id": "7bf0b4290f616e4ad01ad520d5732102824cdbe1",
+        "url": "http://talent.yahoo.co.jp/pf/detail/pp16393",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Nihon Tarento Meikan->Q11506585",
+          "reference URL": "url:>http://talent.yahoo.co.jp/pf/detail/pp16393",
+          "retrieved": "time:>+2016-03-05T00:00:00Z"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q3074322-ABD56E9B-E56E-4957-8AE4-7E7248E469F2",
+        "subject": "\u6c34\u91ce\u4e45\u7f8e",
+        "predicate": "\u8840\u6db2\u578b",
+        "object": "A\u578b",
+        "g_id": 0
+      },
+      {
+        "reference_id": "983d246b27bb27f8cd0450302160eabb8617ff8e",
+        "url": "https://viaf.org/viaf/294839375",
+        "ref_node_pairs": {
+          "VIAF ID": "value:>294839375"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q11267509-048FBA40-6316-472E-9E16-BA892F458F5F",
+        "subject": "\u3055\u3044\u305f\u307e\u5e02\u9752\u5c11\u5e74\u5b87\u5b99\u79d1\u5b66\u9928",
+        "predicate": "WorldCat \u8b58\u5225ID",
+        "object": "viaf-294839375",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              1
+            ],
+            "difficulty": [
+              2,
+              3,
+              4
+            ],
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              1
+            ],
+            "publisher": [
+              1,
+              4
+            ],
+            "sub_publisher": -1
+          }
+        }
+      }
+    ]
+  },
+  {
+    "_id": "46bc27f8-26a8-4de4-a0fa-5c6e75106daf",
+    "taskSet": [
+      {
+        "reference_id": "c5659cebfb531f4c9efd3c0397a6fa374ab0d411",
+        "url": "http://npb.jp/bis/players/21723825.html",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://npb.jp/bis/players/21723825.html",
+          "named as": "value:>\u5c0f\u6cc9 \u6052\u7f8e",
+          "language of work or name": "wikibase-item:>Japanese->Q5287",
+          "retrieved": "time:>+2018-11-24T00:00:00Z"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q11462513-0F681F76-5B84-4CF5-BE0D-48348879BF16",
+        "subject": "\u5c0f\u6cc9\u6052\u7f8e",
+        "predicate": "\u8cea\u91cf",
+        "object": "72",
+        "g_id": 0
+      },
+      {
+        "reference_id": "83050ff43468066d8cac51b58271781ad9d8fe0f",
+        "url": "http://ja.wikipedia.org/wiki/index.html?oldid=71451753",
+        "ref_node_pairs": {
+          "Wikimedia import URL": "url:>http://ja.wikipedia.org/wiki/index.html?oldid=71451753"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q12588520-DDB9D46C-2CF5-49A0-940C-5C745EA8A4C3",
+        "subject": "\u91d1\u9ede\u5764",
+        "predicate": "\u51fa\u751f\u5730",
+        "object": "\u5149\u5dde\u5e83\u57df\u5e02",
+        "g_id": 0
+      },
+      {
+        "reference_id": "31b26f496ee9fef0b40e79725f5cc0a1a5e90c91",
+        "url": "https://headlines.yahoo.co.jp/hl?a=20190903-00000151-kyodonews-socc",
+        "ref_node_pairs": {
+          "reference URL": "url:>https://headlines.yahoo.co.jp/hl?a=20190903-00000151-kyodonews-socc",
+          "title": "value:>\u9ad8\u6821\u30b5\u30c3\u30ab\u30fc\u3001\u677e\u672c\u6681\u53f8\u6c0f\u304c\u6b7b\u53bb\u3000\u300c\u8d64\u304d\u8840\u306e\u30a4\u30ec\u30d6\u30f3\u300d\u30e2\u30c7\u30eb",
+          "language of work or name": "wikibase-item:>Japanese->Q5287"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q1919797-b50df85f-4058-fb16-3e2b-63cc3f66e49f",
+        "subject": "\u677e\u672c\u6681\u53f8",
+        "predicate": "\u6b7b\u4ea1\u5e74\u6708\u65e5",
+        "object": "2019-09-02T00:00:00Z",
+        "g_id": 0
+      },
+      {
+        "reference_id": "c684364501261bb39cd60ad85326e2935b0fccfc",
+        "url": "https://viaf.org/viaf/265243107",
+        "ref_node_pairs": {
+          "VIAF ID": "value:>265243107"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q21702965-DF4D4522-3F4E-4722-BE9D-E525107CE48A",
+        "subject": "\u5409\u5d0e\u7965\u53f8",
+        "predicate": "WorldCat \u8b58\u5225ID",
+        "object": "lccn-n83049251",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              1
+            ],
+            "difficulty": [
+              2,
+              3,
+              4
+            ],
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              1
+            ],
+            "publisher": [
+              1,
+              4
+            ],
+            "sub_publisher": -1
+          }
+        }
+      },
+      {
+        "reference_id": "f305dd7377ff7924e7b4cc182226110bc635c1e6",
+        "url": "http://npb.jp/bis/players/81885137.html",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://npb.jp/bis/players/81885137.html",
+          "named as": "value:>\uff22\uff0e\u30e9\u30d8\u30a2",
+          "language of work or name": "wikibase-item:>Japanese->Q5287",
+          "retrieved": "time:>+2018-11-25T00:00:00Z"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q2927165-CF90AF85-C0CC-45FD-ABFA-9DCA0605D58E",
+        "subject": "\u30d6\u30e9\u30a4\u30a2\u30f3\u30fb\u30e9\u30d8\u30a2\u30fc",
+        "predicate": "\u8cea\u91cf",
+        "object": "109",
+        "g_id": 0
+      },
+      {
+        "reference_id": "440da75fef06ef4fa9df3f17ee816a3d9e27f59b",
+        "url": "https://viaf.org/viaf/114938952",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+          "retrieved": "time:>+2018-05-25T00:00:00Z",
+          "VIAF ID": "value:>114938952"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q41693207-E8E87C31-D779-4EC0-A78A-0B5F94E28A0E",
+        "subject": "\u5ca1\u5e0c\u592a\u90ce",
+        "predicate": "\u751f\u5e74\u6708\u65e5",
+        "object": "1941-01-01T00:00:00Z",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              1
+            ],
+            "difficulty": -1,
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              1
+            ],
+            "publisher": [
+              1,
+              4
+            ],
+            "sub_publisher": -1
+          }
+        }
+      }
+    ]
+  },
+  {
+    "_id": "9236c2b1-e2a4-4957-b5d1-c346cefaaba7",
+    "taskSet": [
+      {
+        "reference_id": "9e1046022f34fc69bb2c031feb65e4cb9ac25c9a",
+        "url": "http://talent.yahoo.co.jp/pf/detail/pp4735",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Nihon Tarento Meikan->Q11506585",
+          "reference URL": "url:>http://talent.yahoo.co.jp/pf/detail/pp4735",
+          "retrieved": "time:>+2016-03-05T00:00:00Z"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q11627123-80289AE2-3507-4600-8EE4-AF8D034B2781",
+        "subject": "\u897f\u4e2d\u7bc0\u4e5f",
+        "predicate": "\u8840\u6db2\u578b",
+        "object": "AB\u578b",
+        "g_id": 0
+      },
+      {
+        "reference_id": "a05a3ce527070f94dddbbaf4e72a19da4c839970",
+        "url": "https://viaf.org/viaf/117704669",
+        "ref_node_pairs": {
+          "VIAF ID": "value:>117704669"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q38279187-D432F9D9-32D2-479A-B3E0-CA944DD226BC",
+        "subject": "\u85e4\u539f\u4fca\u7fa9",
+        "predicate": "WorldCat \u8b58\u5225ID",
+        "object": "viaf-117704669",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              1
+            ],
+            "difficulty": [
+              2,
+              3,
+              4
+            ],
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              1
+            ],
+            "publisher": [
+              1,
+              4
+            ],
+            "sub_publisher": -1
+          }
+        }
+      },
+      {
+        "reference_id": "ee26c183bfb6dcc731ff670ab1e37cc003d6a6fa",
+        "url": "http://talent.yahoo.co.jp/pf/detail/pp280474",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Nihon Tarento Meikan->Q11506585",
+          "reference URL": "url:>http://talent.yahoo.co.jp/pf/detail/pp280474",
+          "retrieved": "time:>+2016-03-05T00:00:00Z"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q1192587-18E67087-B616-470B-AB46-21AB0ED2CAEA",
+        "subject": "\u85e4\u6c5f\u308c\u3044\u306a",
+        "predicate": "\u8840\u6db2\u578b",
+        "object": "B\u578b",
+        "g_id": 0
+      },
+      {
+        "reference_id": "854041c9fd6e7a78aa0ec28ad99eeaaab0e69551",
+        "url": "http://talent.yahoo.co.jp/pf/detail/pp11116",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Nihon Tarento Meikan->Q11506585",
+          "reference URL": "url:>http://talent.yahoo.co.jp/pf/detail/pp11116",
+          "retrieved": "time:>+2016-03-05T00:00:00Z"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q10394580-E416EAD9-4264-4A1F-A976-F5959039012A",
+        "subject": "\u5fb3\u5c71\u9756\u5f66",
+        "predicate": "\u8840\u6db2\u578b",
+        "object": "A\u578b",
+        "g_id": 0
+      },
+      {
+        "reference_id": "7196b1e07055d15dc36ff0a30f60aaab569c6801",
+        "url": "https://viaf.org/viaf/110770224",
+        "ref_node_pairs": {
+          "VIAF ID": "value:>110770224",
+          "retrieved": "time:>+2017-10-19T00:00:00Z",
+          "stated in": "wikibase-item:>Virtual International Authority File->Q54919"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q11642163-6498F622-9F93-4CBC-A8A6-8D4D3278E3A4",
+        "subject": "\u9060\u85e4\u30b1\u30a4",
+        "predicate": "\u56fd\u7acb\u56fd\u4f1a\u56f3\u66f8\u9928\u5178\u62e0ID",
+        "object": "00005366",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              1
+            ],
+            "difficulty": [
+              2,
+              3,
+              4
+            ],
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              1
+            ],
+            "publisher": [
+              1,
+              4
+            ],
+            "sub_publisher": -1
+          }
+        }
+      },
+      {
+        "reference_id": "56007d3477035f05e2f18be2eafebf41ec68c164",
+        "url": "https://www.nihonkiin.or.jp/player/htm/ki000361.htm",
+        "ref_node_pairs": {
+          "reference URL": "url:>https://www.nihonkiin.or.jp/player/htm/ki000361.htm"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q56348704-5f57c047-494a-1a0c-cfea-124883719bdf",
+        "subject": "\u7fbd\u6839\u3057\u3052\u5b50",
+        "predicate": "\u51fa\u751f\u5730",
+        "object": "\u611b\u77e5\u770c",
+        "g_id": 0
+      }
+    ]
+  },
+  {
+    "_id": "ef0a1493-ea9c-46db-8c19-8b10f27ca6e1",
+    "taskSet": [
+      {
+        "reference_id": "2cb123743a9ea4ed32f53cef68c836ba7adedc2a",
+        "url": "https://www.asahi.com/articles/ASN445QZXN44UCVL004.html",
+        "ref_node_pairs": {
+          "reference URL": "url:>https://www.asahi.com/articles/ASN445QZXN44UCVL004.html"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q1102013-5f5736e4-42b9-d672-87a0-14f599d5c412",
+        "subject": "C\u30fbW\u30fb\u30cb\u30b3\u30eb",
+        "predicate": "\u6b7b\u4ea1\u5730",
+        "object": "\u9577\u91ce\u5e02",
+        "g_id": 0
+      },
+      {
+        "reference_id": "7767fe1413e944ab21e388095b6c7f55a67358b9",
+        "url": "https://s.maho.jp/profile/629be1g88c08789d/",
+        "ref_node_pairs": {
+          "reference URL": "url:>https://s.maho.jp/profile/629be1g88c08789d/"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q73902009-7421782c-42a0-ef79-e461-2c80df6b8335",
+        "subject": "\u306a\u3063\u3064",
+        "predicate": "\u5168\u9ad8",
+        "object": "168",
+        "g_id": 0
+      },
+      {
+        "reference_id": "d5f470f0888628d19c7e613607876e3d4a0ab3ce",
+        "url": "http://kanji.jitenon.jp/kanjib/981.html",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://kanji.jitenon.jp/kanjib/981.html"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q54918686-4D3F99D0-B544-4868-9D90-2CACC1D95231",
+        "subject": "\u5b9d",
+        "predicate": "\u6f22\u5b57\u306e\u30ec\u30d9\u30eb",
+        "object": "\u6559\u80b2\u6f22\u5b57 \u7b2c6\u5b66\u5e74",
+        "g_id": 0
+      },
+      {
+        "reference_id": "c5bf17c39594dbc4888df1b31a239bff7e225461",
+        "url": "https://ja.wikipedia.org/w/index.php?title=\u30a2\u30eb\u30d5\u30a9\u30f3\u30bd\u30fb\u30c0\u30f3\u30c6\u30b9&oldid=74337016",
+        "ref_node_pairs": {
+          "imported from Wikimedia project": "wikibase-item:>Japanese Wikipedia->Q177837",
+          "Wikimedia import URL": "url:>https://ja.wikipedia.org/w/index.php?title=\u30a2\u30eb\u30d5\u30a9\u30f3\u30bd\u30fb\u30c0\u30f3\u30c6\u30b9&oldid=74337016"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q4722020-CA003A5D-B9EF-4A19-AA22-559BAEC3BC76",
+        "subject": "\u30a2\u30eb\u30d5\u30a9\u30f3\u30bd\u30fb\u30c0\u30f3\u30c6\u30b9",
+        "predicate": "\u6d3b\u52d5\u671f\u9593\uff08\u958b\u59cb\uff09",
+        "object": "1960-01-01T00:00:00Z",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              1
+            ],
+            "difficulty": [
+              2,
+              3,
+              4
+            ],
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              1,
+              2
+            ],
+            "publisher": [
+              1,
+              4
+            ],
+            "sub_publisher": -1
+          }
+        }
+      },
+      {
+        "reference_id": "658ffeaa5ee8d1df59efef0a328afc2e39b6bba8",
+        "url": "http://talent.yahoo.co.jp/pf/detail/pp4524",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Nihon Tarento Meikan->Q11506585",
+          "reference URL": "url:>http://talent.yahoo.co.jp/pf/detail/pp4524",
+          "retrieved": "time:>+2016-03-05T00:00:00Z"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q11531923-161CBD4D-71A0-4B22-AE38-1A88321E0980",
+        "subject": "\u677e\u6fa4\u91cd\u96c4",
+        "predicate": "\u8840\u6db2\u578b",
+        "object": "AB\u578b",
+        "g_id": 0
+      },
+      {
+        "reference_id": "0aae67cfb13280621fe7367dc63a21226e31a123",
+        "url": "https://ja.wikipedia.org/w/index.php?title=\u30bb\u30eb\u30b8\u30aa\u30fb\u30a2\u30df\u30c7\u30a4&oldid=75658425",
+        "ref_node_pairs": {
+          "imported from Wikimedia project": "wikibase-item:>Japanese Wikipedia->Q177837",
+          "Wikimedia import URL": "url:>https://ja.wikipedia.org/w/index.php?title=\u30bb\u30eb\u30b8\u30aa\u30fb\u30a2\u30df\u30c7\u30a4&oldid=75658425"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q1360286-FEA1F82C-E808-452E-B92B-0CDD0B297004",
+        "subject": "\u30bb\u30eb\u30b8\u30aa\u30fb\u30a2\u30df\u30c7\u30a4",
+        "predicate": "\u30ad\u30cd\u30ce\u30fc\u30c8\u4eba\u7269\u8b58\u5225\u5b50",
+        "object": "59251",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              1
+            ],
+            "difficulty": [
+              2,
+              3,
+              4
+            ],
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              1,
+              2
+            ],
+            "publisher": [
+              1,
+              4
+            ],
+            "sub_publisher": -1
+          }
+        }
+      }
+    ]
+  },
+  {
+    "_id": "e126bc3d-dbb7-46ed-a0f7-5c3c8d8f032a",
+    "taskSet": [
+      {
+        "reference_id": "11ff208878a6a95ca93ed54867923465218d7500",
+        "url": "https://ja.wikipedia.org/w/index.php?title=A\u5fdcP&oldid=74344315",
+        "ref_node_pairs": {
+          "imported from Wikimedia project": "wikibase-item:>Japanese Wikipedia->Q177837",
+          "Wikimedia import URL": "url:>https://ja.wikipedia.org/w/index.php?title=A\u5fdcP&oldid=74344315"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q17191594-8159122E-8ADC-441A-8343-701172FA50FC",
+        "subject": "A\u5fdcP",
+        "predicate": "\u30a2\u30e1\u30fc\u30d0\u30d6\u30ed\u30b0\u306e\u30a2\u30e1\u30fc\u30d0ID",
+        "object": "aop-blog",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              1
+            ],
+            "difficulty": -1,
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              1,
+              2
+            ],
+            "publisher": [
+              1,
+              4
+            ],
+            "sub_publisher": -1
+          }
+        }
+      },
+      {
+        "reference_id": "ef4f27236bc71733747a1bab010fcf42d6569422",
+        "url": "http://kanji.jitenon.jp/kanjic/1044.html",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://kanji.jitenon.jp/kanjic/1044.html"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q55814754-E4D5E601-3177-49EE-9CF6-AA3F412769D5",
+        "subject": "\u9451",
+        "predicate": "\u6f22\u5b57\u306e\u30ec\u30d9\u30eb",
+        "object": "\u5e38\u7528\u6f22\u5b57",
+        "g_id": 0
+      },
+      {
+        "reference_id": "29e2396bcf972c880d7c4c257222d2a1f25e1280",
+        "url": "https://toukei-labo.com/2010/?tdfk=23&city=23106&id=26",
+        "ref_node_pairs": {
+          "reference URL": "url:>https://toukei-labo.com/2010/?tdfk=23&city=23106&id=26"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q64538898-7b8c885f-4dca-32b9-b76e-5dc253e3bf70",
+        "subject": "\u6804\u4e00\u4e01\u76ee",
+        "predicate": "\u4f4d\u7f6e\u5ea7\u6a19",
+        "object": "Point(136.89507 35.16533)",
+        "g_id": 0
+      },
+      {
+        "reference_id": "e55a1ea744cbb07164126e77a1998cde2b58ca33",
+        "url": "https://ja.wikipedia.org/w/index.php?title=\u5b87\u91ce\u6587\u5b50&oldid=76865429",
+        "ref_node_pairs": {
+          "imported from Wikimedia project": "wikibase-item:>Japanese Wikipedia->Q177837",
+          "Wikimedia import URL": "url:>https://ja.wikipedia.org/w/index.php?title=\u5b87\u91ce\u6587\u5b50&oldid=76865429"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q73112052-8F2CD4CA-C271-44C9-A302-EB0DB6A02180",
+        "subject": "\u5b87\u91ce\u6587\u5b50",
+        "predicate": "\u6d3b\u52d5\u671f\u9593\uff08\u958b\u59cb\uff09",
+        "object": "2017-01-01T00:00:00Z",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              1
+            ],
+            "difficulty": [
+              2,
+              3,
+              4
+            ],
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              1,
+              2
+            ],
+            "publisher": [
+              1,
+              4
+            ],
+            "sub_publisher": -1
+          }
+        }
+      },
+      {
+        "reference_id": "5ea4df90137da50a351721f5cbc14565acf4d099",
+        "url": "http://talent.yahoo.co.jp/pf/detail/pp203257",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Nihon Tarento Meikan->Q11506585",
+          "reference URL": "url:>http://talent.yahoo.co.jp/pf/detail/pp203257",
+          "retrieved": "time:>+2016-03-05T00:00:00Z"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q11363189-0B86B9A3-5017-42F9-9C16-BF6A10B87D39",
+        "subject": "\u4e2d\u539f\u88d5\u4e5f",
+        "predicate": "\u8840\u6db2\u578b",
+        "object": "O\u578b",
+        "g_id": 0
+      },
+      {
+        "reference_id": "0287903b6ecd8764fc0b06115176025370e9bfc7",
+        "url": "http://npb.jp/bis/players/21723801.html",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://npb.jp/bis/players/21723801.html",
+          "named as": "value:>\u5927\u5cf6 \u4fe1\u96c4",
+          "language of work or name": "wikibase-item:>Japanese->Q5287",
+          "retrieved": "time:>+2018-11-25T00:00:00Z"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q7046217-6FC7D468-3C78-4202-8690-4DDD118B46CE",
+        "subject": "\u5927\u5cf6\u4fe1\u96c4",
+        "predicate": "\u8cea\u91cf",
+        "object": "64",
+        "g_id": 0
+      }
+    ]
+  },
+  {
+    "_id": "27aa6c2f-53ad-48d6-bd40-a4489879f8f3",
+    "taskSet": [
+      {
+        "reference_id": "88dc8d6425103f427ea29300b7f9d69def4f6c8d",
+        "url": "https://viaf.org/viaf/253785414",
+        "ref_node_pairs": {
+          "VIAF ID": "value:>253785414"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q24060708-4DFBE5C1-FFA9-45A6-85C9-962360C9EA2D",
+        "subject": "\u5317\u6fa4\u548c\u5f66",
+        "predicate": "WorldCat \u8b58\u5225ID",
+        "object": "viaf-253785414",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              1
+            ],
+            "difficulty": [
+              2,
+              3,
+              4
+            ],
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              1
+            ],
+            "publisher": [
+              1,
+              4
+            ],
+            "sub_publisher": -1
+          }
+        }
+      },
+      {
+        "reference_id": "5b9483a99c53ad1cb97b06c179b252dda45920d0",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25327186",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+          "PubMed ID": "value:>25327186",
+          "retrieved": "time:>+2017-08-04T00:00:00Z"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q34766073-01141AC6-5751-4C0B-BDB3-CAD2B5D45F3D",
+        "subject": "Maternal smoking during pregnancy and growth in infancy: a covariance structure analysis.",
+        "predicate": "\u8457\u8005\u540d\uff08\u6587\u5b57\u5217\uff09",
+        "object": "Zentaro Yamagata",
+        "g_id": 0
+      },
+      {
+        "reference_id": "3fd4e16e10e0dcf78984270893b456d18e6c9d99",
+        "url": "https://uma-furusato.com/i_search/detail_horse/_id_0000262926",
+        "ref_node_pairs": {
+          "reference URL": "url:>https://uma-furusato.com/i_search/detail_horse/_id_0000262926",
+          "language of work or name": "wikibase-item:>Japanese->Q5287",
+          "retrieved": "time:>+2018-12-23T00:00:00Z"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q11345214-01094f7c-4cf1-fa46-caf6-9b8c7bb352da",
+        "subject": "\u30e4\u30de\u30cb\u30f3\u30d1\u30e9\u30c0\u30a4\u30b9",
+        "predicate": "\u6b7b\u4ea1\u5e74\u6708\u65e5",
+        "object": "2018-12-07T00:00:00Z",
+        "g_id": 0
+      },
+      {
+        "reference_id": "a8b1babc86a26bb925727e9d155a4d9647988fd6",
+        "url": "http://npb.jp/bis/players/43143802.html",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://npb.jp/bis/players/43143802.html",
+          "named as": "value:>\u5c71\u672c \u516b\u90ce",
+          "language of work or name": "wikibase-item:>Japanese->Q5287",
+          "retrieved": "time:>+2018-11-24T00:00:00Z"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q11468883-842B2BF9-5703-41FD-B6BB-B6C8A0AE94C5",
+        "subject": "\u5c71\u672c\u516b\u90ce",
+        "predicate": "\u5168\u9ad8",
+        "object": "174",
+        "g_id": 0
+      },
+      {
+        "reference_id": "705f87ba70cdd72d7938726026564b5847ad7b0c",
+        "url": "https://ja.wikipedia.org/w/index.php?title=\u5927\u539f\u9e97\u5b50&oldid=73954598",
+        "ref_node_pairs": {
+          "imported from Wikimedia project": "wikibase-item:>Japanese Wikipedia->Q177837",
+          "Wikimedia import URL": "url:>https://ja.wikipedia.org/w/index.php?title=\u5927\u539f\u9e97\u5b50&oldid=73954598"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q1059833-53AA5EE3-535B-41E4-B6C0-9FA53D00971E",
+        "subject": "\u5927\u539f\u9e97\u5b50",
+        "predicate": "allcinema\u4eba\u7269\u8b58\u5225\u5b50",
+        "object": "119547",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              1
+            ],
+            "difficulty": -1,
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              1,
+              2
+            ],
+            "publisher": [
+              1,
+              4
+            ],
+            "sub_publisher": -1
+          }
+        }
+      },
+      {
+        "reference_id": "85dcf140270f6368791ecd16b1b443cf7a736a91",
+        "url": "https://www.city.osaka.lg.jp/kensetsu/page/0000029256.html",
+        "ref_node_pairs": {
+          "reference URL": "url:>https://www.city.osaka.lg.jp/kensetsu/page/0000029256.html"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q52169279-FC0C3192-7A75-4654-801A-D37387382E22",
+        "subject": "\u65e5\u548c\u6a4b",
+        "predicate": "\u5168\u5e45",
+        "object": "18",
+        "g_id": 0
+      }
+    ]
+  },
+  {
+    "_id": "b633f217-24b1-41a0-be56-136e900dbd8f",
+    "taskSet": [
+      {
+        "reference_id": "c5bf17c39594dbc4888df1b31a239bff7e225461",
+        "url": "https://ja.wikipedia.org/w/index.php?title=\u30a2\u30eb\u30d5\u30a9\u30f3\u30bd\u30fb\u30c0\u30f3\u30c6\u30b9&oldid=74337016",
+        "ref_node_pairs": {
+          "imported from Wikimedia project": "wikibase-item:>Japanese Wikipedia->Q177837",
+          "Wikimedia import URL": "url:>https://ja.wikipedia.org/w/index.php?title=\u30a2\u30eb\u30d5\u30a9\u30f3\u30bd\u30fb\u30c0\u30f3\u30c6\u30b9&oldid=74337016"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q4722020-CA003A5D-B9EF-4A19-AA22-559BAEC3BC76",
+        "subject": "\u30a2\u30eb\u30d5\u30a9\u30f3\u30bd\u30fb\u30c0\u30f3\u30c6\u30b9",
+        "predicate": "\u6d3b\u52d5\u671f\u9593\uff08\u958b\u59cb\uff09",
+        "object": "1960-01-01T00:00:00Z",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              1
+            ],
+            "difficulty": [
+              2,
+              3,
+              4
+            ],
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              1,
+              2
+            ],
+            "publisher": [
+              1,
+              4
+            ],
+            "sub_publisher": -1
+          }
+        }
+      },
+      {
+        "reference_id": "b63324f821857021dd443adb6a8514600a09d95c",
+        "url": "http://germanyinnyc.org/index.php?section=catevent&cat_evt_id=1795&cat_id=9",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://germanyinnyc.org/index.php?section=catevent&cat_evt_id=1795&cat_id=9"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q114012-E12CF26A-2B42-4202-85B2-74463C43F053",
+        "subject": "\u30d5\u30a7\u30aa\u30fb\u30a2\u30e9\u30c0\u30b0",
+        "predicate": "\u8077\u696d",
+        "object": "\u6620\u753b\u30d7\u30ed\u30c7\u30e5\u30fc\u30b5\u30fc",
+        "g_id": 0
+      },
+      {
+        "reference_id": "a13c65cd749fa684b4125289ac0890810bc1b5aa",
+        "url": "http://talent.yahoo.co.jp/pf/detail/pp201611",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Nihon Tarento Meikan->Q11506585",
+          "reference URL": "url:>http://talent.yahoo.co.jp/pf/detail/pp201611",
+          "retrieved": "time:>+2016-03-05T00:00:00Z"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q11475432-8626CD65-8221-4BA8-8C58-C11B8E5F5AB3",
+        "subject": "\u5ca9\u7530\u3086\u3044",
+        "predicate": "\u8840\u6db2\u578b",
+        "object": "AB\u578b",
+        "g_id": 0
+      },
+      {
+        "reference_id": "4296c561bf3958c74058931223b319335336e0a9",
+        "url": "http://www.imae.co.jp/works/item/18-2015-09-04-11-17-24.html",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://www.imae.co.jp/works/item/18-2015-09-04-11-17-24.html"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q11300337-0cc087ec-4f7e-d393-06c4-cc3a03f9e501",
+        "subject": "\u30b0\u30e9\u30f3\u30c9\u30cf\u30a4\u30a2\u30c3\u30c8\u6771\u4eac",
+        "predicate": "\u8a2d\u8a08",
+        "object": "\u30b3\u30fc\u30f3\u30fb\u30da\u30c0\u30fc\u30bb\u30f3\u30fb\u30d5\u30a9\u30c3\u30af\u30b9",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              0,
+              1
+            ],
+            "difficulty": -1,
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              1
+            ],
+            "publisher": [
+              1
+            ],
+            "sub_publisher": -1
+          }
+        }
+      },
+      {
+        "reference_id": "0155d2dc3678bacd241692b606b4086e89594f91",
+        "url": "http://talent.yahoo.co.jp/pf/detail/pp832",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Nihon Tarento Meikan->Q11506585",
+          "reference URL": "url:>http://talent.yahoo.co.jp/pf/detail/pp832",
+          "retrieved": "time:>+2016-03-05T00:00:00Z"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q11473482-A81CCF8C-B590-4A3B-9908-DB6C23D67ED8",
+        "subject": "\u5ca1\u7530\u548c\u5b50",
+        "predicate": "\u8840\u6db2\u578b",
+        "object": "A\u578b",
+        "g_id": 0
+      },
+      {
+        "reference_id": "20eac75700983545ce05a68b9616282222db575a",
+        "url": "http://fukuoka-prize.org/en/laureate/prize/gra/yunus.php",
+        "ref_node_pairs": {
+          "publisher": "wikibase-item:>Fukuoka Asian Culture Prize->Q1323284",
+          "reference URL": "url:>http://fukuoka-prize.org/en/laureate/prize/gra/yunus.php",
+          "title": "value:>Muhammad YUNUS [ Grand Prize 2001 ]"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q43969-55134a6f-4d34-f533-1e62-e57fcef2104c",
+        "subject": "\u30e0\u30cf\u30de\u30c9\u30fb\u30e6\u30cc\u30b9",
+        "predicate": "\u53d7\u8cde",
+        "object": "\u798f\u5ca1\u30a2\u30b8\u30a2\u6587\u5316\u8cde",
+        "g_id": 0
+      }
+    ]
+  },
+  {
+    "_id": "75d776ae-8c1e-415d-9c1c-2c42dee716d4",
+    "taskSet": [
+      {
+        "reference_id": "2d22374f9d486c395fd98d724ccf577a997d98a2",
+        "url": "http://www.isfdb.org/cgi-bin/ea.cgi?254524",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Internet Speculative Fiction Database->Q2629164",
+          "Internet Speculative Fiction Database author ID": "value:>254524",
+          "named as": "value:>\u6d25\u539f\u6cf0\u6c34",
+          "retrieved": "time:>+2017-10-09T00:00:00Z"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q11555961-29E1B9A8-EE72-41EC-8965-85E1881787C4",
+        "subject": "\u6d25\u539f\u6cf0\u6c34",
+        "predicate": "\u751f\u5e74\u6708\u65e5",
+        "object": "1964-09-04T00:00:00Z",
+        "g_id": 0
+      },
+      {
+        "reference_id": "d8bddfbed5f4e65c29712af80917779b26191312",
+        "url": "https://ja.wikipedia.org/w/index.php?title=\u30cf\u30af\u30bf\u30a4\u30bb\u30a4&oldid=62383605",
+        "ref_node_pairs": {
+          "imported from Wikimedia project": "wikibase-item:>Japanese Wikipedia->Q177837",
+          "Wikimedia import URL": "url:>https://ja.wikipedia.org/w/index.php?title=\u30cf\u30af\u30bf\u30a4\u30bb\u30a4&oldid=62383605"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q11326294-9A708495-F688-4DFE-A2C2-233226A52FAF",
+        "subject": "\u30cf\u30af\u30bf\u30a4\u30bb\u30a4",
+        "predicate": "\u6b7b\u4ea1\u5e74\u6708\u65e5",
+        "object": "2013-10-28T00:00:00Z",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              1
+            ],
+            "difficulty": [
+              2,
+              3,
+              4
+            ],
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              1,
+              2
+            ],
+            "publisher": [
+              1,
+              4
+            ],
+            "sub_publisher": -1
+          }
+        }
+      },
+      {
+        "reference_id": "11ff208878a6a95ca93ed54867923465218d7500",
+        "url": "https://ja.wikipedia.org/w/index.php?title=A\u5fdcP&oldid=74344315",
+        "ref_node_pairs": {
+          "imported from Wikimedia project": "wikibase-item:>Japanese Wikipedia->Q177837",
+          "Wikimedia import URL": "url:>https://ja.wikipedia.org/w/index.php?title=A\u5fdcP&oldid=74344315"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q17191594-8159122E-8ADC-441A-8343-701172FA50FC",
+        "subject": "A\u5fdcP",
+        "predicate": "\u30a2\u30e1\u30fc\u30d0\u30d6\u30ed\u30b0\u306e\u30a2\u30e1\u30fc\u30d0ID",
+        "object": "aop-blog",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              1
+            ],
+            "difficulty": -1,
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              1,
+              2
+            ],
+            "publisher": [
+              1,
+              4
+            ],
+            "sub_publisher": -1
+          }
+        }
+      },
+      {
+        "reference_id": "fc269bdd22d6d43e09099e106cd203dd65659143",
+        "url": "https://cbdb.fas.harvard.edu/cbdbapi/person.php?id=0093347",
+        "ref_node_pairs": {
+          "reference URL": "url:>https://cbdb.fas.harvard.edu/cbdbapi/person.php?id=0093347"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q8249793-984beaaa-43e6-9fbf-0738-6e14ce1a244a",
+        "subject": "\u5b8b\u82e5\u662d",
+        "predicate": "\u7236\u89aa",
+        "object": "\u5b8b\u5ead\u82ac",
+        "g_id": 0
+      },
+      {
+        "reference_id": "fb7518c33caa81e7cc9ffd5b5183086a9a049f46",
+        "url": "http://ja.wikipedia.org/wiki/index.html?oldid=73666029",
+        "ref_node_pairs": {
+          "Wikimedia import URL": "url:>http://ja.wikipedia.org/wiki/index.html?oldid=73666029"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q11395574-D99A901A-E960-433B-BEB1-F86EE0206326",
+        "subject": "\u51fa\u53e3\u6cbb\u660e",
+        "predicate": "\u51fa\u751f\u5730",
+        "object": "\u6d25\u5e02",
+        "g_id": 0
+      },
+      {
+        "reference_id": "a786eebd778987f8cc7969dc11dd9c789cf289ff",
+        "url": "http://npb.jp/bis/players/73375134.html",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://npb.jp/bis/players/73375134.html",
+          "named as": "value:>\u5409\u5ddd \u5c1a\u8f1d",
+          "language of work or name": "wikibase-item:>Japanese->Q5287",
+          "retrieved": "time:>+2018-11-25T00:00:00Z"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q27920883-7CD628A6-DCEB-4B57-89A9-FB5530C6B64C",
+        "subject": "\u5409\u5ddd\u5c1a\u8f1d",
+        "predicate": "\u751f\u5e74\u6708\u65e5",
+        "object": "1995-02-08T00:00:00Z",
+        "g_id": 0
+      }
+    ]
+  },
+  {
+    "_id": "00f116f9-bd55-4762-b713-ccb61c55cb0f",
+    "taskSet": [
+      {
+        "reference_id": "43a1455e231f247818137723d71116df5d029805",
+        "url": "https://web.archive.org/web/20170330183441/http://www.city.kobe.lg.jp:80/information/municipal/giinnmeibo/sennkyoku/giin_meibo-higashinada.html",
+        "ref_node_pairs": {
+          "reference URL": "url:>https://web.archive.org/web/20170330183441/http://www.city.kobe.lg.jp:80/information/municipal/giinnmeibo/sennkyoku/giin_meibo-higashinada.html"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q50317871-bf6eacd2-474e-ba40-0585-a38188b87090",
+        "subject": "\u897f\u305f\u3060\u3059",
+        "predicate": "\u8aad\u307f\u4eee\u540d",
+        "object": "\u306b\u3057 \u305f\u3060\u3059",
+        "g_id": 0
+      },
+      {
+        "reference_id": "df58362893a3b035853713dfc197426e78d2c840",
+        "url": "http://npb.jp/bis/players/11913846.html",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://npb.jp/bis/players/11913846.html",
+          "named as": "value:>\u85e4\u672c \u660c\u6cbb",
+          "language of work or name": "wikibase-item:>Japanese->Q5287",
+          "retrieved": "time:>+2018-11-24T00:00:00Z"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q11459738-444D5034-7D6F-4FE4-B6B4-B39AB1C3FF52",
+        "subject": "\u5c0f\u5bfa\u660c\u6cbb",
+        "predicate": "\u8cea\u91cf",
+        "object": "80",
+        "g_id": 0
+      },
+      {
+        "reference_id": "0aae67cfb13280621fe7367dc63a21226e31a123",
+        "url": "https://ja.wikipedia.org/w/index.php?title=\u30bb\u30eb\u30b8\u30aa\u30fb\u30a2\u30df\u30c7\u30a4&oldid=75658425",
+        "ref_node_pairs": {
+          "imported from Wikimedia project": "wikibase-item:>Japanese Wikipedia->Q177837",
+          "Wikimedia import URL": "url:>https://ja.wikipedia.org/w/index.php?title=\u30bb\u30eb\u30b8\u30aa\u30fb\u30a2\u30df\u30c7\u30a4&oldid=75658425"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q1360286-FEA1F82C-E808-452E-B92B-0CDD0B297004",
+        "subject": "\u30bb\u30eb\u30b8\u30aa\u30fb\u30a2\u30df\u30c7\u30a4",
+        "predicate": "\u30ad\u30cd\u30ce\u30fc\u30c8\u4eba\u7269\u8b58\u5225\u5b50",
+        "object": "59251",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              1
+            ],
+            "difficulty": [
+              2,
+              3,
+              4
+            ],
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              1,
+              2
+            ],
+            "publisher": [
+              1,
+              4
+            ],
+            "sub_publisher": -1
+          }
+        }
+      },
+      {
+        "reference_id": "9dae30dd5aecf55fa57fa4e27135bd96d0df73c0",
+        "url": "https://www.wjbl.org/player/?pi=844",
+        "ref_node_pairs": {
+          "reference URL": "url:>https://www.wjbl.org/player/?pi=844",
+          "named as": "value:>\u7cf8\u4e95\u8cb4\u5b50",
+          "language of work or name": "wikibase-item:>Japanese->Q5287",
+          "retrieved": "time:>+2018-11-25T00:00:00Z"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q11604796-4ECC7F34-86B1-4FEB-B593-E65CC47ECF59",
+        "subject": "\u7cf8\u4e95\u8cb4\u5b50",
+        "predicate": "\u30cb\u30c3\u30af\u30cd\u30fc\u30e0",
+        "object": "\u30b5\u30f3",
+        "g_id": 0
+      },
+      {
+        "reference_id": "6211f13064646bc744548f3dcbe2b7c1526308b9",
+        "url": "http://npb.jp/bis/players/61165119.html",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://npb.jp/bis/players/61165119.html",
+          "named as": "value:>\u5185 \u7adc\u4e5f",
+          "language of work or name": "wikibase-item:>Japanese->Q5287",
+          "retrieved": "time:>+2018-11-25T00:00:00Z"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q7688373-2EE00787-CC75-4745-A21A-5B239A7C8513",
+        "subject": "\u5185\u7adc\u4e5f",
+        "predicate": "\u8cea\u91cf",
+        "object": "87",
+        "g_id": 0
+      },
+      {
+        "reference_id": "e55a1ea744cbb07164126e77a1998cde2b58ca33",
+        "url": "https://ja.wikipedia.org/w/index.php?title=\u5b87\u91ce\u6587\u5b50&oldid=76865429",
+        "ref_node_pairs": {
+          "imported from Wikimedia project": "wikibase-item:>Japanese Wikipedia->Q177837",
+          "Wikimedia import URL": "url:>https://ja.wikipedia.org/w/index.php?title=\u5b87\u91ce\u6587\u5b50&oldid=76865429"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q73112052-8F2CD4CA-C271-44C9-A302-EB0DB6A02180",
+        "subject": "\u5b87\u91ce\u6587\u5b50",
+        "predicate": "\u6d3b\u52d5\u671f\u9593\uff08\u958b\u59cb\uff09",
+        "object": "2017-01-01T00:00:00Z",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              1
+            ],
+            "difficulty": [
+              2,
+              3,
+              4
+            ],
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              1,
+              2
+            ],
+            "publisher": [
+              1,
+              4
+            ],
+            "sub_publisher": -1
+          }
+        }
+      }
+    ]
+  },
+  {
+    "_id": "c7545161-dafb-476d-8342-906e8a927382",
+    "taskSet": [
+      {
+        "reference_id": "34b4c4d9b13bbfebb0be7de600e9d6a8ddfb88bf",
+        "url": "http://kanji.jitenon.jp/kanjib/747.html",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://kanji.jitenon.jp/kanjib/747.html"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q54901462-126E6545-E68A-485E-B184-656C5550D02D",
+        "subject": "\u5236",
+        "predicate": "\u753b\u6570",
+        "object": "8",
+        "g_id": 0
+      },
+      {
+        "reference_id": "7baf6cce6fb954b7564392d3dd50f88403a9609a",
+        "url": "http://talent.yahoo.co.jp/pf/detail/pp932",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Nihon Tarento Meikan->Q11506585",
+          "reference URL": "url:>http://talent.yahoo.co.jp/pf/detail/pp932",
+          "retrieved": "time:>+2016-03-05T00:00:00Z"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q11619880-56E21798-21A0-4EFB-8C93-BE913B799C97",
+        "subject": "\u83ca\u6c60\u9ebb\u8863\u5b50",
+        "predicate": "\u8840\u6db2\u578b",
+        "object": "O\u578b",
+        "g_id": 0
+      },
+      {
+        "reference_id": "ddea1da4e602382ad6b06f5406f16d987f9e3a7a",
+        "url": "https://www.tv-asahi.co.jp/figure-wtt2019/results/",
+        "ref_node_pairs": {
+          "reference URL": "url:>https://www.tv-asahi.co.jp/figure-wtt2019/results/",
+          "retrieved": "time:>+2019-09-23T00:00:00Z"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q68281002-FD93AA13-C65D-48BC-BB70-591CE299DF48",
+        "subject": "2019 ISU World Team Trophy in Figure Skating - ladies' singles",
+        "predicate": "\u53c2\u52a0\u8005",
+        "object": "\u30d6\u30e9\u30c7\u30a3\u30fc\u30fb\u30c6\u30cd\u30eb",
+        "g_id": 0
+      },
+      {
+        "reference_id": "85e2b6c62e10ff59cd9fa335285cc8a2aedcc786",
+        "url": "https://viaf.org/viaf/257461806",
+        "ref_node_pairs": {
+          "VIAF ID": "value:>257461806"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q11538572-8C23D561-3811-4543-97CD-EAB5EE3F3201",
+        "subject": "\u6885\u6d25\u8015\u4f5c",
+        "predicate": "WorldCat \u8b58\u5225ID",
+        "object": "viaf-257461806",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              1
+            ],
+            "difficulty": [
+              2,
+              3,
+              4
+            ],
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              1
+            ],
+            "publisher": [
+              1,
+              4
+            ],
+            "sub_publisher": -1
+          }
+        }
+      },
+      {
+        "reference_id": "3503148813999dd9bfbd02ddcd55b8078e9faa52",
+        "url": "http://talent.yahoo.co.jp/pf/detail/pp242286",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Nihon Tarento Meikan->Q11506585",
+          "reference URL": "url:>http://talent.yahoo.co.jp/pf/detail/pp242286",
+          "retrieved": "time:>+2016-03-05T00:00:00Z"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q11510858-6B1F07A4-0F45-402F-BDFE-9884F9F12942",
+        "subject": "\u65e5\u9ad8\u85ab",
+        "predicate": "\u8840\u6db2\u578b",
+        "object": "O\u578b",
+        "g_id": 0
+      },
+      {
+        "reference_id": "e3fed95f5c8cece939d3f41af6b65b053ccd2ed6",
+        "url": "https://viaf.org/viaf/365145858286023022706",
+        "ref_node_pairs": {
+          "VIAF ID": "value:>365145858286023022706"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q11635637-AE88D89C-3AE6-4864-9697-CE43A098F34F",
+        "subject": "\u8d64\u6728\u662d\u4e09",
+        "predicate": "WorldCat \u8b58\u5225ID",
+        "object": "viaf-365145858286023022706",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              1
+            ],
+            "difficulty": [
+              2,
+              3,
+              4
+            ],
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              1
+            ],
+            "publisher": [
+              1,
+              4
+            ],
+            "sub_publisher": -1
+          }
+        }
+      }
+    ]
+  },
+  {
+    "_id": "9a97f53f-a433-4d0d-8468-78036967a736",
+    "taskSet": [
+      {
+        "reference_id": "8b76793a7fc39c0a012083b159747eb00d858857",
+        "url": "https://www.iri-net.org/loy/loy2009/",
+        "ref_node_pairs": {
+          "reference URL": "url:>https://www.iri-net.org/loy/loy2009/",
+          "retrieved": "time:>+2019-08-20T00:00:00Z"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q11440289-4061d96f-4ada-adf9-bb32-47f1609866c0",
+        "subject": "\u5927\u962a\u5e02\u7acb\u4e2d\u592e\u56f3\u66f8\u9928",
+        "predicate": "\u53d7\u8cde",
+        "object": "Library of the Year",
+        "g_id": 0
+      },
+      {
+        "reference_id": "b14cd9aefee9df5f68e29a0f970ba37aa7f767cb",
+        "url": "http://kanji.jitenon.jp/kanji/203.html",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://kanji.jitenon.jp/kanji/203.html"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q54553275-80067194-E88C-412D-97EE-E75D3F39D4D8",
+        "subject": "\u9053",
+        "predicate": "\u6f22\u5b57\u306e\u30ec\u30d9\u30eb",
+        "object": "\u6559\u80b2\u6f22\u5b57 \u7b2c2\u5b66\u5e74",
+        "g_id": 0
+      },
+      {
+        "reference_id": "983d246b27bb27f8cd0450302160eabb8617ff8e",
+        "url": "https://viaf.org/viaf/294839375",
+        "ref_node_pairs": {
+          "VIAF ID": "value:>294839375"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q11267509-048FBA40-6316-472E-9E16-BA892F458F5F",
+        "subject": "\u3055\u3044\u305f\u307e\u5e02\u9752\u5c11\u5e74\u5b87\u5b99\u79d1\u5b66\u9928",
+        "predicate": "WorldCat \u8b58\u5225ID",
+        "object": "viaf-294839375",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              1
+            ],
+            "difficulty": [
+              2,
+              3,
+              4
+            ],
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              1
+            ],
+            "publisher": [
+              1,
+              4
+            ],
+            "sub_publisher": -1
+          }
+        }
+      },
+      {
+        "reference_id": "58d0cf508922ae51cf8d7a57975a719a5e7d0355",
+        "url": "http://www.clair.or.jp/j/exchange/shimai/data/detail/1468",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://www.clair.or.jp/j/exchange/shimai/data/detail/1468"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q123376-7c47ec54-4494-4414-b301-3ee78d85aa13",
+        "subject": "\u611b\u5a9b\u770c",
+        "predicate": "\u59c9\u59b9\u90fd\u5e02",
+        "object": "\u965d\u897f\u7701",
+        "g_id": 0
+      },
+      {
+        "reference_id": "6cbe7d85c38b893bdc71d9757d11518d7673f943",
+        "url": "https://viaf.org/viaf/256153432",
+        "ref_node_pairs": {
+          "VIAF ID": "value:>256153432"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q11412668-84208F22-A8F0-4992-8DDF-9FBB1DAF6B82",
+        "subject": "\u5409\u5143\u7531\u7f8e",
+        "predicate": "WorldCat \u8b58\u5225ID",
+        "object": "viaf-256153432",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              1
+            ],
+            "difficulty": [
+              2,
+              3,
+              4
+            ],
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              1
+            ],
+            "publisher": [
+              1,
+              4
+            ],
+            "sub_publisher": -1
+          }
+        }
+      },
+      {
+        "reference_id": "6e2e2dec48d9dd11e88ae8acb39a09bd07f9c4f6",
+        "url": "http://www.morioka-u.ac.jp",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://www.morioka-u.ac.jp",
+          "retrieved": "time:>+2019-05-22T00:00:00Z"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q11581363-FBFEC473-EB5A-4650-93C3-55A85B7C3290",
+        "subject": "\u76db\u5ca1\u5927\u5b66",
+        "predicate": "\u30a4\u30f3\u30b9\u30bf\u30b0\u30e9\u30e0\u306e\u30e6\u30fc\u30b6\u30fc\u540d",
+        "object": "moriokauniversity",
+        "g_id": 0
+      }
+    ]
+  },
+  {
+    "_id": "aeb8b62d-a839-4996-b810-9e2d95548d66",
+    "taskSet": [
+      {
+        "reference_id": "83c4edac648485fadf67543767fe5a579eda126e",
+        "url": "http://talent.yahoo.co.jp/pf/detail/pp234365",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Nihon Tarento Meikan->Q11506585",
+          "reference URL": "url:>http://talent.yahoo.co.jp/pf/detail/pp234365",
+          "retrieved": "time:>+2016-03-05T00:00:00Z"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q3549496-8388F8F0-2157-4378-9BF6-AC70FF746D03",
+        "subject": "\u9060\u91ce\u3042\u3059\u304b",
+        "predicate": "\u8840\u6db2\u578b",
+        "object": "AB\u578b",
+        "g_id": 0
+      },
+      {
+        "reference_id": "667051790cf0f3b029df5d570fce0b9cea3770a5",
+        "url": "http://talent.yahoo.co.jp/pf/detail/pp276773",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Nihon Tarento Meikan->Q11506585",
+          "reference URL": "url:>http://talent.yahoo.co.jp/pf/detail/pp276773",
+          "retrieved": "time:>+2016-03-05T00:00:00Z"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q11520086-467C924E-4CFC-4987-843C-C069D29D0DB0",
+        "subject": "\u672c\u591a\u88d5\u9999",
+        "predicate": "\u8840\u6db2\u578b",
+        "object": "O\u578b",
+        "g_id": 0
+      },
+      {
+        "reference_id": "935f87c42cd23a606eea32507e0a6cda335abf03",
+        "url": "https://viaf.org/viaf/259182076",
+        "ref_node_pairs": {
+          "VIAF ID": "value:>259182076"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q11404053-B2E057C2-3FC9-42F6-AB93-D488F212B1DA",
+        "subject": "\u5317\u898b\u8449\u80e1",
+        "predicate": "WorldCat \u8b58\u5225ID",
+        "object": "viaf-259182076",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              1
+            ],
+            "difficulty": [
+              2,
+              3,
+              4
+            ],
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              1
+            ],
+            "publisher": [
+              1,
+              4
+            ],
+            "sub_publisher": -1
+          }
+        }
+      },
+      {
+        "reference_id": "011e35335271a8c2569a934878e907a942ad5829",
+        "url": "http://npb.jp/bis/players/01703844.html",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://npb.jp/bis/players/01703844.html",
+          "named as": "value:>\u4e8c\u5bae \u81f3",
+          "language of work or name": "wikibase-item:>Japanese->Q5287",
+          "retrieved": "time:>+2018-11-24T00:00:00Z"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q11371513-C123EC03-3D3D-4D67-B042-767087FDC9AD",
+        "subject": "\u4e8c\u5bae\u81f3",
+        "predicate": "\u751f\u5e74\u6708\u65e5",
+        "object": "1953-11-15T00:00:00Z",
+        "g_id": 0
+      },
+      {
+        "reference_id": "6b92c7edcfe10a92a2f6c89a7b63f8d2cc65f271",
+        "url": "http://talent.yahoo.co.jp/pf/detail/pp246352",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Nihon Tarento Meikan->Q11506585",
+          "reference URL": "url:>http://talent.yahoo.co.jp/pf/detail/pp246352",
+          "retrieved": "time:>+2016-03-05T00:00:00Z"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q11670906-7AF24090-F825-4FB7-8AB3-A49B9611FC2A",
+        "subject": "\u9ad8\u6a4b\u3086\u304b\u308a",
+        "predicate": "\u8840\u6db2\u578b",
+        "object": "O\u578b",
+        "g_id": 0
+      },
+      {
+        "reference_id": "983d246b27bb27f8cd0450302160eabb8617ff8e",
+        "url": "https://viaf.org/viaf/294839375",
+        "ref_node_pairs": {
+          "VIAF ID": "value:>294839375"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q11267509-048FBA40-6316-472E-9E16-BA892F458F5F",
+        "subject": "\u3055\u3044\u305f\u307e\u5e02\u9752\u5c11\u5e74\u5b87\u5b99\u79d1\u5b66\u9928",
+        "predicate": "WorldCat \u8b58\u5225ID",
+        "object": "viaf-294839375",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              1
+            ],
+            "difficulty": [
+              2,
+              3,
+              4
+            ],
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              1
+            ],
+            "publisher": [
+              1,
+              4
+            ],
+            "sub_publisher": -1
+          }
+        }
+      }
+    ]
+  },
+  {
+    "_id": "b098d862-9eae-469e-b372-00ed3fdf5ff4",
+    "taskSet": [
+      {
+        "reference_id": "e3952e924ee3a50a9c52fc5ecd3c81a675c3d130",
+        "url": "http://www.sdk.co.jp/about/corporate/outline.html",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://www.sdk.co.jp/about/corporate/outline.html"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q905412-193AA407-32E0-48C1-8AB4-8D2A57000CE0",
+        "subject": "\u662d\u548c\u96fb\u5de5",
+        "predicate": "\u5f93\u696d\u54e1\u6570",
+        "object": "10864",
+        "g_id": 0
+      },
+      {
+        "reference_id": "c6ff931bee8f8e3a4c1e50ba2b5a4739661288d9",
+        "url": "http://npb.jp/bis/players/61363842.html",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://npb.jp/bis/players/61363842.html",
+          "named as": "value:>\u4f50\u85e4 \u535a\u6b63",
+          "language of work or name": "wikibase-item:>Japanese->Q5287",
+          "retrieved": "time:>+2018-11-24T00:00:00Z"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q11383792-5CE5C75A-36E2-4714-BF69-30AE0BA10B2E",
+        "subject": "\u4f50\u85e4\u535a\u6b63",
+        "predicate": "\u5168\u9ad8",
+        "object": "178",
+        "g_id": 0
+      },
+      {
+        "reference_id": "705f87ba70cdd72d7938726026564b5847ad7b0c",
+        "url": "https://ja.wikipedia.org/w/index.php?title=\u5927\u539f\u9e97\u5b50&oldid=73954598",
+        "ref_node_pairs": {
+          "imported from Wikimedia project": "wikibase-item:>Japanese Wikipedia->Q177837",
+          "Wikimedia import URL": "url:>https://ja.wikipedia.org/w/index.php?title=\u5927\u539f\u9e97\u5b50&oldid=73954598"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q1059833-53AA5EE3-535B-41E4-B6C0-9FA53D00971E",
+        "subject": "\u5927\u539f\u9e97\u5b50",
+        "predicate": "allcinema\u4eba\u7269\u8b58\u5225\u5b50",
+        "object": "119547",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              1
+            ],
+            "difficulty": -1,
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              1,
+              2
+            ],
+            "publisher": [
+              1,
+              4
+            ],
+            "sub_publisher": -1
+          }
+        }
+      },
+      {
+        "reference_id": "ed313cdde87a2e2dd54a3eed6605be242796c5e6",
+        "url": "http://www.pref.kagoshima.jp/aa02/pr/gaiyou/shimaitoshi/gihu.html",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://www.pref.kagoshima.jp/aa02/pr/gaiyou/shimaitoshi/gihu.html"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q15701-9dd1fd0f-401d-3a27-a745-cda5a8eac91f",
+        "subject": "\u9e7f\u5150\u5cf6\u770c",
+        "predicate": "\u59c9\u59b9\u90fd\u5e02",
+        "object": "\u5c90\u961c\u770c",
+        "g_id": 0
+      },
+      {
+        "reference_id": "c5bf17c39594dbc4888df1b31a239bff7e225461",
+        "url": "https://ja.wikipedia.org/w/index.php?title=\u30a2\u30eb\u30d5\u30a9\u30f3\u30bd\u30fb\u30c0\u30f3\u30c6\u30b9&oldid=74337016",
+        "ref_node_pairs": {
+          "imported from Wikimedia project": "wikibase-item:>Japanese Wikipedia->Q177837",
+          "Wikimedia import URL": "url:>https://ja.wikipedia.org/w/index.php?title=\u30a2\u30eb\u30d5\u30a9\u30f3\u30bd\u30fb\u30c0\u30f3\u30c6\u30b9&oldid=74337016"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q4722020-CA003A5D-B9EF-4A19-AA22-559BAEC3BC76",
+        "subject": "\u30a2\u30eb\u30d5\u30a9\u30f3\u30bd\u30fb\u30c0\u30f3\u30c6\u30b9",
+        "predicate": "\u6d3b\u52d5\u671f\u9593\uff08\u958b\u59cb\uff09",
+        "object": "1960-01-01T00:00:00Z",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              1
+            ],
+            "difficulty": [
+              2,
+              3,
+              4
+            ],
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              1,
+              2
+            ],
+            "publisher": [
+              1,
+              4
+            ],
+            "sub_publisher": -1
+          }
+        }
+      },
+      {
+        "reference_id": "708a18c82187af3d37e1119d837a5cfa106eaa45",
+        "url": "https://web.archive.org/web/20030624093925/http://www.mint.ac/",
+        "ref_node_pairs": {
+          "reference URL": "url:>https://web.archive.org/web/20030624093925/http://www.mint.ac/"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q42844592-d2092ed7-477b-375e-3686-6188c2168815",
+        "subject": "\u5e73\u6ca2\u9053\u4e5f",
+        "predicate": "\u6b7b\u4ea1\u5e74\u6708\u65e5",
+        "object": "2003-06-19T00:00:00Z",
+        "g_id": 0
+      }
+    ]
+  },
+  {
+    "_id": "6dae42a4-5778-4eec-9785-efc69e082406",
+    "taskSet": [
+      {
+        "reference_id": "ac0b8a08135cd8fc291746caa611336c265817eb",
+        "url": "http://npb.jp/bis/players/61263820.html",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://npb.jp/bis/players/61263820.html",
+          "named as": "value:>\u68ee\u672c \u6f54",
+          "language of work or name": "wikibase-item:>Japanese->Q5287",
+          "retrieved": "time:>+2018-11-25T00:00:00Z"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q11539818-B1FF4F00-12D1-456C-A7BE-E8FE08F698F6",
+        "subject": "\u68ee\u672c\u6f54",
+        "predicate": "\u751f\u5e74\u6708\u65e5",
+        "object": "1942-04-13T00:00:00Z",
+        "g_id": 0
+      },
+      {
+        "reference_id": "c2daa59a83f999989251bf9507d7c46b84004088",
+        "url": "https://ci.nii.ac.jp/naid/500000357453",
+        "ref_node_pairs": {
+          "reference URL": "url:>https://ci.nii.ac.jp/naid/500000357453",
+          "retrieved": "time:>+2018-05-12T00:00:00Z"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q11542185-71d1a51b-468a-1b75-74c2-85b99f188480",
+        "subject": "\u6a0b\u6e21\u96c5\u4eba",
+        "predicate": "CiNii\u8457\u8005\u8b58\u5225\u5b50 (\u8ad6\u6587)",
+        "object": "8000000358584",
+        "g_id": 0
+      },
+      {
+        "reference_id": "232ebdad1b127a3567ed6d94449f51da75bd789b",
+        "url": "https://ja.wikipedia.org/w/index.php?title=\u4f50\u85e4\u4e00\u5b9f&oldid=72013427",
+        "ref_node_pairs": {
+          "imported from Wikimedia project": "wikibase-item:>Japanese Wikipedia->Q177837",
+          "Wikimedia import URL": "url:>https://ja.wikipedia.org/w/index.php?title=\u4f50\u85e4\u4e00\u5b9f&oldid=72013427"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q62085148-389B7563-3ADB-4B46-A8B0-DB3ADB40F8D9",
+        "subject": "\u4f50\u85e4\u4e00\u5b9f",
+        "predicate": "\u751f\u5e74\u6708\u65e5",
+        "object": "1994-10-31T00:00:00Z",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              1
+            ],
+            "difficulty": [
+              2,
+              3,
+              4
+            ],
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              1,
+              2
+            ],
+            "publisher": [
+              1,
+              4
+            ],
+            "sub_publisher": -1
+          }
+        }
+      },
+      {
+        "reference_id": "606f61f6fb0c96ababd753fe27f9836568131a41",
+        "url": "http://www.pref.yamagata.jp/ou/kikakushinko/020052/tokei/copy_of_jinkm.html",
+        "ref_node_pairs": {
+          "imported from Wikimedia project": "wikibase-item:>Japanese Wikipedia->Q177837",
+          "reference URL": "url:>http://www.pref.yamagata.jp/ou/kikakushinko/020052/tokei/copy_of_jinkm.html",
+          "original language of film or TV show": "wikibase-item:>Japanese->Q5287",
+          "retrieved": "time:>+2019-10-31T00:00:00Z",
+          "title": "value:>\u5c71\u5f62\u770c\u306e\u4eba\u53e3\u3068\u4e16\u5e2f\u6570\uff08\u63a8\u8a08\uff09\uff08\u4ee4\u548c\u5143\u5e7410\u67081\u65e5\u73fe\u5728\uff09\u306b\u3064\u3044\u3066        \u2014        \u5c71\u5f62\u770c\u30db\u30fc\u30e0\u30da\u30fc\u30b8"
+        },
+        "language_crawl": "ja",
+        "statement_node": "q1347481-bdbc74fd-2bae-45dd-bf68-42d19a71f101",
+        "subject": "\u904a\u4f50\u753a",
+        "predicate": "\u4eba\u53e3",
+        "object": "13250",
+        "g_id": 0
+      },
+      {
+        "reference_id": "d8bddfbed5f4e65c29712af80917779b26191312",
+        "url": "https://ja.wikipedia.org/w/index.php?title=\u30cf\u30af\u30bf\u30a4\u30bb\u30a4&oldid=62383605",
+        "ref_node_pairs": {
+          "imported from Wikimedia project": "wikibase-item:>Japanese Wikipedia->Q177837",
+          "Wikimedia import URL": "url:>https://ja.wikipedia.org/w/index.php?title=\u30cf\u30af\u30bf\u30a4\u30bb\u30a4&oldid=62383605"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q11326294-9A708495-F688-4DFE-A2C2-233226A52FAF",
+        "subject": "\u30cf\u30af\u30bf\u30a4\u30bb\u30a4",
+        "predicate": "\u6b7b\u4ea1\u5e74\u6708\u65e5",
+        "object": "2013-10-28T00:00:00Z",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              1
+            ],
+            "difficulty": [
+              2,
+              3,
+              4
+            ],
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              1,
+              2
+            ],
+            "publisher": [
+              1,
+              4
+            ],
+            "sub_publisher": -1
+          }
+        }
+      },
+      {
+        "reference_id": "c8e99be9d2cbebfe22525ca1ce75699bc01414d2",
+        "url": "http://talent.yahoo.co.jp/pf/detail/pp13199",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Nihon Tarento Meikan->Q11506585",
+          "reference URL": "url:>http://talent.yahoo.co.jp/pf/detail/pp13199",
+          "retrieved": "time:>+2016-03-05T00:00:00Z"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q11458297-AC711714-4331-411A-BA36-94428ABB0B83",
+        "subject": "\u5bff\u4e00\u5b9f",
+        "predicate": "\u8840\u6db2\u578b",
+        "object": "A\u578b",
+        "g_id": 0
+      }
+    ]
+  },
+  {
+    "_id": "bd81f664-1ba4-4d5d-a188-ce637098b6ba",
+    "taskSet": [
+      {
+        "reference_id": "070a0b045ca0e41a5a7b33e113a0dc8df5eed470",
+        "url": "http://kanji.jitenon.jp/kanjic/1238.html",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://kanji.jitenon.jp/kanjic/1238.html"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q55814503-B108F9D8-8A9F-409D-814C-C70AB72CF2A6",
+        "subject": "\u7bc4",
+        "predicate": "\u753b\u6570",
+        "object": "15",
+        "g_id": 0
+      },
+      {
+        "reference_id": "66474a54930f1bbb3d9c46b7521eabdfd9b0abb4",
+        "url": "https://ja.wikipedia.org/w/index.php?title=\u30cb\u30e5\u30fc\u30e8\u30fc\u30af\u5e02\u5730\u4e0b\u9244C\u7cfb\u7d71&oldid=67525440",
+        "ref_node_pairs": {
+          "imported from Wikimedia project": "wikibase-item:>Japanese Wikipedia->Q177837",
+          "Wikimedia import URL": "url:>https://ja.wikipedia.org/w/index.php?title=\u30cb\u30e5\u30fc\u30e8\u30fc\u30af\u5e02\u5730\u4e0b\u9244C\u7cfb\u7d71&oldid=67525440"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q126358-443A9DD7-AB20-46CC-840D-27443287F721",
+        "subject": "\u30cb\u30e5\u30fc\u30e8\u30fc\u30af\u5e02\u5730\u4e0b\u9244C\u7cfb\u7d71",
+        "predicate": "\u958b\u8a2d",
+        "object": "1932-09-10T00:00:00Z",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              1
+            ],
+            "difficulty": [
+              2,
+              3,
+              4
+            ],
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              1,
+              2
+            ],
+            "publisher": [
+              1,
+              4
+            ],
+            "sub_publisher": -1
+          }
+        }
+      },
+      {
+        "reference_id": "4fe60d11ef1dccf9a9341a72ef1196eb683001bf",
+        "url": "https://viaf.org/viaf/90768493",
+        "ref_node_pairs": {
+          "VIAF ID": "value:>90768493"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q22127865-21CCFDCF-19B3-4621-B436-2AD2A8360227",
+        "subject": "\u3072\u3089\u307e\u3064\u304a\u3055\u3080",
+        "predicate": "WorldCat \u8b58\u5225ID",
+        "object": "viaf-90768493",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              1
+            ],
+            "difficulty": [
+              2,
+              3,
+              4
+            ],
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              1
+            ],
+            "publisher": [
+              1,
+              4
+            ],
+            "sub_publisher": -1
+          }
+        }
+      },
+      {
+        "reference_id": "bcd9ef725404b0bb51f383a37d34f7a1c9c60689",
+        "url": "https://viaf.org/viaf/253351577",
+        "ref_node_pairs": {
+          "VIAF ID": "value:>253351577"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q766580-BDF10C41-5BC0-4FBB-9977-5407702B43DF",
+        "subject": "Adon",
+        "predicate": "WorldCat \u8b58\u5225ID",
+        "object": "lccn-no2001017021",
+        "g_id": 0
+      },
+      {
+        "reference_id": "a829110444400b6c07a348189796857bc0972f5e",
+        "url": "http://www.city.taito.lg.jp/index/kurashi/kotsu/doro/tsushomei.html",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://www.city.taito.lg.jp/index/kurashi/kotsu/doro/tsushomei.html"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q47509842-099798D3-A020-4084-81D5-61B04F7A9B9D",
+        "subject": "\u8535\u524d\u795e\u793e\u901a\u308a",
+        "predicate": "\u8aad\u307f\u4eee\u540d",
+        "object": "\u304f\u3089\u307e\u3048\u3058\u3093\u3058\u3083\u3069\u304a\u308a",
+        "g_id": 0
+      },
+      {
+        "reference_id": "2d1b699a1a6efcfd25ec8f8e3b7fb60555c8a116",
+        "url": "http://kanji.jitenon.jp/kanjic/1009.html",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://kanji.jitenon.jp/kanjic/1009.html"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q55814906-4CF274E1-7BFD-488C-9C6B-880439502249",
+        "subject": "\u9055",
+        "predicate": "\u6f22\u5b57\u306e\u30ec\u30d9\u30eb",
+        "object": "\u5e38\u7528\u6f22\u5b57",
+        "g_id": 0
+      }
+    ]
+  },
+  {
+    "_id": "152a8de6-5b6a-4a15-80a7-2389072107be",
+    "taskSet": [
+      {
+        "reference_id": "44e86c1c4d428ea655c5c73188a12229b578a194",
+        "url": "http://www.azumi-ghp.jp/about/history/",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://www.azumi-ghp.jp/about/history/"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q11450767-26915152-47f8-196f-592f-1c25b9ce24c6",
+        "subject": "\u5317\u30a2\u30eb\u30d7\u30b9\u533b\u7642\u30bb\u30f3\u30bf\u30fc\u3042\u3065\u307f\u75c5\u9662",
+        "predicate": "\u8a2d\u7acb\u65e5",
+        "object": "1947-08-01T00:00:00Z",
+        "g_id": 0
+      },
+      {
+        "reference_id": "a13c65cd749fa684b4125289ac0890810bc1b5aa",
+        "url": "http://talent.yahoo.co.jp/pf/detail/pp201611",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Nihon Tarento Meikan->Q11506585",
+          "reference URL": "url:>http://talent.yahoo.co.jp/pf/detail/pp201611",
+          "retrieved": "time:>+2016-03-05T00:00:00Z"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q11475432-8626CD65-8221-4BA8-8C58-C11B8E5F5AB3",
+        "subject": "\u5ca9\u7530\u3086\u3044",
+        "predicate": "\u8840\u6db2\u578b",
+        "object": "AB\u578b",
+        "g_id": 0
+      },
+      {
+        "reference_id": "31151885e4ec6db5726ff4bd1a78c440012157f3",
+        "url": "https://viaf.org/viaf/53883217",
+        "ref_node_pairs": {
+          "VIAF ID": "value:>53883217"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q11451515-97AB9B05-506E-4C8F-8552-780D9AA3E483",
+        "subject": "\u5b89\u9054\u5343\u590f",
+        "predicate": "WorldCat \u8b58\u5225ID",
+        "object": "lccn-no2005061134",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              1
+            ],
+            "difficulty": [
+              2,
+              3,
+              4
+            ],
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              1
+            ],
+            "publisher": [
+              1,
+              4
+            ],
+            "sub_publisher": -1
+          }
+        }
+      },
+      {
+        "reference_id": "232ebdad1b127a3567ed6d94449f51da75bd789b",
+        "url": "https://ja.wikipedia.org/w/index.php?title=\u4f50\u85e4\u4e00\u5b9f&oldid=72013427",
+        "ref_node_pairs": {
+          "imported from Wikimedia project": "wikibase-item:>Japanese Wikipedia->Q177837",
+          "Wikimedia import URL": "url:>https://ja.wikipedia.org/w/index.php?title=\u4f50\u85e4\u4e00\u5b9f&oldid=72013427"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q62085148-389B7563-3ADB-4B46-A8B0-DB3ADB40F8D9",
+        "subject": "\u4f50\u85e4\u4e00\u5b9f",
+        "predicate": "\u751f\u5e74\u6708\u65e5",
+        "object": "1994-10-31T00:00:00Z",
+        "g_id": {
+          "relevance": {
+            "is_present": [
+              1
+            ],
+            "difficulty": [
+              2,
+              3,
+              4
+            ],
+            "reason": -1
+          },
+          "authorit": {
+            "author": [
+              1,
+              2
+            ],
+            "publisher": [
+              1,
+              4
+            ],
+            "sub_publisher": -1
+          }
+        }
+      },
+      {
+        "reference_id": "6211f13064646bc744548f3dcbe2b7c1526308b9",
+        "url": "http://npb.jp/bis/players/61165119.html",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://npb.jp/bis/players/61165119.html",
+          "named as": "value:>\u5185 \u7adc\u4e5f",
+          "language of work or name": "wikibase-item:>Japanese->Q5287",
+          "retrieved": "time:>+2018-11-25T00:00:00Z"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q7688373-2EE00787-CC75-4745-A21A-5B239A7C8513",
+        "subject": "\u5185\u7adc\u4e5f",
+        "predicate": "\u8cea\u91cf",
+        "object": "87",
+        "g_id": 0
+      },
+      {
+        "reference_id": "d5f470f0888628d19c7e613607876e3d4a0ab3ce",
+        "url": "http://kanji.jitenon.jp/kanjib/981.html",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://kanji.jitenon.jp/kanjib/981.html"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q54918686-4D3F99D0-B544-4868-9D90-2CACC1D95231",
+        "subject": "\u5b9d",
+        "predicate": "\u6f22\u5b57\u306e\u30ec\u30d9\u30eb",
+        "object": "\u6559\u80b2\u6f22\u5b57 \u7b2c6\u5b66\u5e74",
+        "g_id": 0
+      }
+    ]
+  }
+]

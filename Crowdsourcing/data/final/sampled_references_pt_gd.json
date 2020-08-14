@@ -1,0 +1,643 @@
+[
+  {
+    "reference_id": "c8f35919a1f2f8d839896ce2510fd234c21d405b",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:20305937%20AND%20SRC:MED&resulttype=core&format=json",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>20305937",
+      "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:20305937%20AND%20SRC:MED&resulttype=core&format=json",
+      "retrieved": "time:>+2020-01-21T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q83378634-F9E24D1A-7CF6-4E51-85EB-25FD9ED01CE1",
+    "subject": "Minimally invasive video-assisted atrial septal defect correction and myocardial revascularization",
+    "predicate": "DOI",
+    "object": "10.1590/S0102-76382009000500025",
+    "g_id": 0
+  },
+  {
+    "reference_id": "c188e604d993624386cc17d07bae321af1bdbb7d",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Rocket_Punch&oldid=56290958",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Rocket_Punch&oldid=56290958"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q65771078-E22D6802-1E27-4526-9902-58241B6D6DA3",
+    "subject": "Rocket Punch",
+    "predicate": "work period (start)",
+    "object": "2019-01-01T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "02e44f544a0cd452fddcb104475ea3acb3a461ee",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Memorial_Aeroespacial_Brasileiro&oldid=52975160",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Memorial_Aeroespacial_Brasileiro&oldid=52975160"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q25428941-69CA2479-9C32-414C-B8D8-68677F9E9C21",
+    "subject": "Memorial Aeroespacial Brasileiro",
+    "predicate": "data de fundação ou criação",
+    "object": "2004-02-19T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "d0b6df71e9b52219703cc1700bd2eaecb88b38b3",
+    "url": "http://acervo.mp.usp.br/IconografiaV2.aspx",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Museu Paulista collection catalog->Q87513189",
+      "retrieved": "time:>+2020-04-07T00:00:00Z",
+      "inventory number": "value:>1-12-00-000-01243-00-00"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q89817619-B949B13C-6D37-4491-BAF7-0B1F2D26133A",
+    "subject": "Tinteiro",
+    "predicate": "material utilizado",
+    "object": "metal",
+    "g_id": 0
+  },
+  {
+    "reference_id": "4542352a4946cd9abaceb3edce36c6718a23c1b4",
+    "url": "http://divulgacandcontas.tse.jus.br/divulga/#/candidato/2016/2/58394/190000021161",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://divulgacandcontas.tse.jus.br/divulga/#/candidato/2016/2/58394/190000021161"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q61878356-3B37A355-C4E3-44C5-8154-DA56DBBBAC82",
+    "subject": "Cleuber Iguape Abidu Figueiredo",
+    "predicate": "país de nacionalidade",
+    "object": "Brasil",
+    "g_id": 0
+  },
+  {
+    "reference_id": "90ade927cfa604f29a6a2e3782ba73d9ac72a8a8",
+    "url": "https://cultura.estadao.com.br/noticias/literatura,livro-nazistas-entre-nos-mostra-que-o-nazismo-nao-e-uma-pagina-virada,10000075369",
+    "ref_node_pairs": {
+      "reference URL": "url:>https://cultura.estadao.com.br/noticias/literatura,livro-nazistas-entre-nos-mostra-que-o-nazismo-nao-e-uma-pagina-virada,10000075369"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q57465178-6b1340c1-4f56-f4c2-9874-17d6f7c5592d",
+    "subject": "Nazistas entre nós",
+    "predicate": "editora",
+    "object": "Editora Contexto",
+    "g_id": 0
+  },
+  {
+    "reference_id": "8b5182b793336d6441f33637eadc6f8b29b0315f",
+    "url": "https://viaf.org/viaf/24857677",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>24857677"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q9583414-C1C670CB-4D97-43DB-8492-8A9ED0B004FE",
+    "subject": "Adolfo Aizen",
+    "predicate": "identificador WorldCat Identities",
+    "object": "lccn-n2008215457",
+    "g_id": 0
+  },
+  {
+    "reference_id": "52f73c7e404ea8fc29d2e8b67eba338902ad6a1e",
+    "url": "http://divulgacandcontas.tse.jus.br/divulga/#/candidato/2012/1699/87858/210000008751",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://divulgacandcontas.tse.jus.br/divulga/#/candidato/2012/1699/87858/210000008751"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q64861454-945FB21A-E252-42D0-AD81-78E9A0760470",
+    "subject": "Rene Luiz Cecconello",
+    "predicate": "membro do partido político",
+    "object": "Partido dos Trabalhadores",
+    "g_id": 0
+  },
+  {
+    "reference_id": "db0e728025aec3c81cddc774e597f8141b2d8752",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:30043875%20AND%20SRC:MED&resulttype=core&format=json",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>30043875",
+      "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:30043875%20AND%20SRC:MED&resulttype=core&format=json",
+      "retrieved": "time:>+2020-04-14T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q90461525-81136A13-C2CE-482F-83FF-DB863B6933C5",
+    "subject": "HELICOBACTER PYLORI: CONTINUING CHALLENGES",
+    "predicate": "DOI",
+    "object": "10.1590/S0004-2803.201800000-37",
+    "g_id": 0
+  },
+  {
+    "reference_id": "24340cc059078c57b19f2a59490815be72be62fb",
+    "url": "http://divulgacandcontas.tse.jus.br/divulga/#/candidato/2012/1699/58335/190000009161",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://divulgacandcontas.tse.jus.br/divulga/#/candidato/2012/1699/58335/190000009161"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q10261640-86134B70-E02A-40B8-A678-9084E4035EAD",
+    "subject": "Cristiano José Rodrigues de Souza",
+    "predicate": "instância de",
+    "object": "ser humano",
+    "g_id": 0
+  },
+  {
+    "reference_id": "3edec1b496879e1c951dd019c6186b4eff99d225",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Banabin_Football_Club&oldid=44429563",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Banabin_Football_Club&oldid=44429563"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q25427796-63B1A78A-8FA2-474E-A3AC-63BE0E2A5912",
+    "subject": "Banabin Football Club",
+    "predicate": "sede",
+    "object": "Papua-Nova Guiné",
+    "g_id": 0
+  },
+  {
+    "reference_id": "37a162a128e499e5c9fa2a045f034e447972bfe9",
+    "url": "http://acervo.mp.usp.br/IconografiaV2.aspx",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Museu Paulista collection catalog->Q87513189",
+      "retrieved": "time:>+2020-04-10T00:00:00Z",
+      "inventory number": "value:>1-03888-0000-0000"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q90326858-5B405BD9-4812-44DC-A985-9BDB65F13B63",
+    "subject": "Avenida de Palacio Ceará - Fortaleza",
+    "predicate": "local de fabricação",
+    "object": "Fortaleza",
+    "g_id": 0
+  },
+  {
+    "reference_id": "36ae3c1f30435d5bd0f087e0c745c2ff20e91669",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Estádio_Municipal_Pedro_Benedetti&oldid=56490496",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Estádio_Municipal_Pedro_Benedetti&oldid=56490496"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q10277270-400EA865-BFD9-4CE0-B16D-E166B210A7B1",
+    "subject": "Estádio Municipal Pedro Benedetti",
+    "predicate": "data de abertura oficial",
+    "object": "1984-12-08T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "4cd9c630eb08f1c7b8fc2f6e47dae0f65bf27c4b",
+    "url": "http://www.adorocinema.com/filmes/filme-182075/",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://www.adorocinema.com/filmes/filme-182075/",
+      "retrieved": "time:>+2016-04-07T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "q956681-119EF9F2-D701-4050-A604-115FC309ED5F",
+    "subject": "We Bought a Zoo",
+    "predicate": "diretor",
+    "object": "Cameron Crowe",
+    "g_id": 0
+  },
+  {
+    "reference_id": "a0863162b28b3e32ed181c0549701d913064ba2e",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Sameer_Bhattacharya&oldid=34652330",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Sameer_Bhattacharya&oldid=34652330"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q2741969-5534C0E5-2C28-4D61-BDF6-9310A67B9377",
+    "subject": "Sameer Bhattacharya",
+    "predicate": "género artístico",
+    "object": "metal alternativo",
+    "g_id": 0
+  },
+  {
+    "reference_id": "a6088a407b578005a46a39dea42722767108e155",
+    "url": "http://divulgacandcontas.tse.jus.br/divulga/#/candidato/2016/2/75639/160000026846",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://divulgacandcontas.tse.jus.br/divulga/#/candidato/2016/2/75639/160000026846"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q61879386-38274607-0D37-4A08-BB52-94A2963987DF",
+    "subject": "Ines Weizemann dos Santos",
+    "predicate": "grupo étnico",
+    "object": "brasileiro caucasiano",
+    "g_id": 0
+  },
+  {
+    "reference_id": "7e725a651d5439fe623eea3f0218df4285c58844",
+    "url": "https://www.transfermarkt.com/transfermarkt/profil/spieler/113336",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Transfermarkt->Q2449070",
+      "Transfermarkt player ID": "value:>113336",
+      "named as": "value:>Alan Santos",
+      "retrieved": "time:>+2017-10-09T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q4707707-54D1A988-C8A3-418B-A3DB-C7629012F3B5",
+    "subject": "Alan Santos",
+    "predicate": "data de nascimento",
+    "object": "1991-04-24T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "eaae4ffac24f31865597ea2dd7aa1461e3c32568",
+    "url": "https://pt.wikipedia.org/w/index.php?title=O_Capitalismo_na_Era_da_Acumulação_Integral&oldid=50074992",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=O_Capitalismo_na_Era_da_Acumulação_Integral&oldid=50074992"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q10338828-A8DA05AA-B706-469D-9E61-9854DED0B8FE",
+    "subject": "O Capitalismo na Era da Acumulação Integral",
+    "predicate": "autor",
+    "object": "Nildo Viana",
+    "g_id": 0
+  },
+  {
+    "reference_id": "eb2f48277b9459f0aa4ad3c469141052815eac42",
+    "url": "https://web.archive.org/web/20181221235712/http://cemdp.sdh.gov.br/modules/desaparecidos/acervo/ficha/cid/372",
+    "ref_node_pairs": {
+      "reference URL": "url:>https://web.archive.org/web/20181221235712/http://cemdp.sdh.gov.br/modules/desaparecidos/acervo/ficha/cid/372"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q17267242-961652D9-128D-4D21-B6BD-644A8F33DC61",
+    "subject": "Roberto Cietto",
+    "predicate": "membro de",
+    "object": "Movimento de Ação Revolucionária",
+    "g_id": 0
+  },
+  {
+    "reference_id": "33a693c7569566ac5005421cf9dd3edacf44b202",
+    "url": "http://acervo.mp.usp.br/IconografiaV2.aspx",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Museu Paulista collection catalog->Q87513189",
+      "retrieved": "time:>+2020-04-10T00:00:00Z",
+      "inventory number": "value:>1-20605-0000-0000"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q90081042-3C6BE43E-7E11-451C-BD4E-40B580DCA51D",
+    "subject": "Menina Anonima (9)",
+    "predicate": "retrata",
+    "object": "mesa",
+    "g_id": 0
+  },
+  {
+    "reference_id": "23d28d6ee73c7817ff86ab504afe88d1a6dda331",
+    "url": "http://acervo.mp.usp.br/IconografiaV2.aspx",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Museu Paulista collection catalog->Q87513189",
+      "retrieved": "time:>+2020-04-07T00:00:00Z",
+      "inventory number": "value:>1-08-02-000-07305-04-04"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q89818396-65437461-5F0E-46D0-A516-D1136105268D",
+    "subject": "Xale Estola",
+    "predicate": "coleção",
+    "object": "Museu de Arte Moderna de São Paulo",
+    "g_id": 0
+  },
+  {
+    "reference_id": "d4846900b282f5c6704e49c3246fe4f8a1cf93e3",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Usuário_(álbum)&oldid=55124576",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Usuário_(álbum)&oldid=55124576"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q10388491-B209B1A7-B80C-40C4-B33F-A84E24AEAD15",
+    "subject": "Usuário (álbum)",
+    "predicate": "editora discográfica",
+    "object": "Sony Music Entertainment",
+    "g_id": 0
+  },
+  {
+    "reference_id": "52cd4776ab462b4da41026b26cf56d3f1f813e86",
+    "url": "http://divulgacandcontas.tse.jus.br/divulga/#/candidato/2016/2/14290/60000006017",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://divulgacandcontas.tse.jus.br/divulga/#/candidato/2016/2/14290/60000006017"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q61992943-7534406A-FD43-4C0E-B96B-AE2E44CFAB30",
+    "subject": "Para Renovar Itapipoca",
+    "predicate": "composto de",
+    "object": "Partido Social Democrático",
+    "g_id": 0
+  },
+  {
+    "reference_id": "9e8c3a75ba1f70971b022a6f884efeca7cbcffed",
+    "url": "https://api.crossref.org/works/10.1590%2FS0034-89102011005000043",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Crossref->Q5188229",
+      "reference URL": "url:>https://api.crossref.org/works/10.1590%2FS0034-89102011005000043",
+      "retrieved": "time:>+2018-01-21T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q43538913-28977467-40B4-44F8-9555-FD286F45B0DC",
+    "subject": "Factors associated to relapse of leprosy in Mato Grosso, Central-Western Brazil.",
+    "predicate": "cita",
+    "object": "The role of conceptual frameworks in epidemiological analysis: a hierarchical approach",
+    "g_id": 0
+  },
+  {
+    "reference_id": "c7a763ed128d1e41fadb647c71599b547fce3635",
+    "url": "https://api.crossref.org/works/10.1590%2FS1413-81232013001200003",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Crossref->Q5188229",
+      "reference URL": "url:>https://api.crossref.org/works/10.1590%2FS1413-81232013001200003",
+      "retrieved": "time:>+2018-01-21T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q51231788-70CB0679-1041-41B0-A3A4-B1380F8B7EA3",
+    "subject": "[Prevention and detection of oral cancer: participatory planning as a strategy to broaden coverage in the elderly population].",
+    "predicate": "cita",
+    "object": "Tobacco, alcohol and dietary factors associated with the risk of oral cancer among Japanese.",
+    "g_id": 0
+  },
+  {
+    "reference_id": "995c7e6590380e73fc4bcbf15256e3d3c0db1eb8",
+    "url": "http://www.catholic-hierarchy.org/bishop/bdesouzam.html",
+    "ref_node_pairs": {
+      "Catholic Hierarchy person ID": "value:>desouzam"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q64733650-922D5425-9914-4CFF-8C09-EC68E29BD32B",
+    "subject": "Marcos Antônio de Souza",
+    "predicate": "cargo ocupado",
+    "object": "bispo católico",
+    "g_id": 0
+  },
+  {
+    "reference_id": "3974d0040721c83b602e804d631fe11ee525e039",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Vendo_a_Mim_Mesmo&oldid=53220975",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Vendo_a_Mim_Mesmo&oldid=53220975"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q10389674-D51DD473-1A4D-4B65-AF6C-54F9894A3D38",
+    "subject": "Vendo a Mim Mesmo",
+    "predicate": "intérprete",
+    "object": "Jay Vaquer",
+    "g_id": 0
+  },
+  {
+    "reference_id": "936baead6f41f9be36a73b76f13680b152740c40",
+    "url": "http://acervo.mp.usp.br/IconografiaV2.aspx",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Museu Paulista collection catalog->Q87513189",
+      "retrieved": "time:>+2020-04-10T00:00:00Z",
+      "inventory number": "value:>1-21890-0000-0000"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q90305448-CBC0287D-F028-482A-AE09-9235D6A5C025",
+    "subject": "Joinville. Vista Parcial da Cidade com Porto. Estado de Santa Catarina - Brasil",
+    "predicate": "local de fabricação",
+    "object": "Paraná Cart. Fotografia Hans Raun",
+    "g_id": 0
+  },
+  {
+    "reference_id": "e09cb016d84d6048a2122842a861896310d0fd64",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Saltimbancos_Trapalhões&oldid=55414748",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Saltimbancos_Trapalhões&oldid=55414748"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q10367051-D3774B4E-FFBA-4DDD-B05E-85EEA8E698C3",
+    "subject": "Saltimbancos Trapalhões",
+    "predicate": "editora discográfica",
+    "object": "Ariola Discos",
+    "g_id": 0
+  },
+  {
+    "reference_id": "ef32db3c0cf54eefae3b7b2cf104103ef80b3b81",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Centro_de_Convenções_Ulysses_Guimarães&oldid=54143578",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Centro_de_Convenções_Ulysses_Guimarães&oldid=54143578"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q18267895-68EB95C8-D3AA-474E-80F5-7FBC84D29AF5",
+    "subject": "Centro de Convenções Ulysses Guimarães",
+    "predicate": "localizado na unidade administrativa",
+    "object": "Brasília",
+    "g_id": 0
+  },
+  {
+    "reference_id": "af4e75582b196395a14173cf1286bcc19fd9b92b",
+    "url": "http://divulgacandcontas.tse.jus.br/divulga/#/candidato/2012/1699/57037/80000003770",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://divulgacandcontas.tse.jus.br/divulga/#/candidato/2012/1699/57037/80000003770"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q64862457-1708F44B-2651-45F4-A1A6-4CBC3DE37D5A",
+    "subject": "Hudson Soares Leal",
+    "predicate": "país de nacionalidade",
+    "object": "Brasil",
+    "g_id": 0
+  },
+  {
+    "reference_id": "5fb580804d233303a5c9d7cad51fd575d2d15c9c",
+    "url": "https://viaf.org/viaf/80803639",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+      "retrieved": "time:>+2018-08-27T00:00:00Z",
+      "VIAF ID": "value:>80803639"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q10294436-A6890E9E-7746-46A8-A3F2-EEA07CE38A73",
+    "subject": "Helena Carvalhão Buescu",
+    "predicate": "identificador NTA PPN",
+    "object": "188206787",
+    "g_id": 0
+  },
+  {
+    "reference_id": "fdc64fc992b103f4c5166080e542f939b6b105ca",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:28691970%20AND%20SRC:MED&resulttype=core&format=json",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>28691970",
+      "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:28691970%20AND%20SRC:MED&resulttype=core&format=json",
+      "retrieved": "time:>+2020-03-24T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q88483032-3D1C5F5D-BD92-497A-94DE-BEB3A5EB83F7",
+    "subject": "Pediatric Multiple Organ Dysfunction Syndrome Promising Therapies: What About Vitamin D Supplementation?",
+    "predicate": "identificador PubMed",
+    "object": "28691970",
+    "g_id": 0
+  },
+  {
+    "reference_id": "5dddb6e94e55aa4a5a90eb7543091f0cc9b662c8",
+    "url": "https://api.crossref.org/works/10.1080%2F13691050802233454",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Crossref->Q5188229",
+      "reference URL": "url:>https://api.crossref.org/works/10.1080%2F13691050802233454",
+      "retrieved": "time:>+2018-01-21T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q53110853-894C33D1-50EA-48A5-8750-ED0385927D07",
+    "subject": "Intersexuality and sexual rights in southern Brazil.",
+    "predicate": "cita",
+    "object": "Consensus statement on management of intersex disorders. International Consensus Conference on Intersex",
+    "g_id": 0
+  },
+  {
+    "reference_id": "e577edfb8fab286cd277f4a9a0ea033f7cbea109",
+    "url": "https://api.crossref.org/works/10.1590%2FS0100-67622010000500002",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Crossref->Q5188229",
+      "reference URL": "url:>https://api.crossref.org/works/10.1590%2FS0100-67622010000500002",
+      "retrieved": "time:>+2018-01-21T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q57010006-483AE453-D5A1-4AE6-AF21-53B71DE80DA7",
+    "subject": "Crescimento de plantas jovens de Nim-Indiano (Azadirachta indica a. juss. - Meliaceae) sob diferentes regimes hídricos",
+    "predicate": "cita",
+    "object": "Monitoring plant and soil water status: established and novel methods revisited and their relevance to studies of drought tolerance.",
+    "g_id": 0
+  },
+  {
+    "reference_id": "32fc10677ba55847690900d9fe8b6a1e4f848fb4",
+    "url": "http://www.interfilmes.com/filme_14601_Um.Tira.Muito.Suspeito-(Blue.Streak).html",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://www.interfilmes.com/filme_14601_Um.Tira.Muito.Suspeito-(Blue.Streak).html",
+      "retrieved": "time:>+2016-06-22T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "q1192922-563A4AE7-CBF0-4A1F-A1E2-989D96D25805",
+    "subject": "Blue Streak",
+    "predicate": "diretor",
+    "object": "Les Mayfield",
+    "g_id": 0
+  },
+  {
+    "reference_id": "6d16db6ff57df09e2e2f0ecfb1a34f7b6ed14710",
+    "url": "https://api.crossref.org/works/10.1590%2FS1806-37132009000300014",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Crossref->Q5188229",
+      "reference URL": "url:>https://api.crossref.org/works/10.1590%2FS1806-37132009000300014",
+      "retrieved": "time:>+2018-01-21T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q51642557-D4BB4335-D379-4005-8AD8-41AE19F99579",
+    "subject": "Mucoepidermoid carcinoma of the trachea mimicking asthma.",
+    "predicate": "cita",
+    "object": "Mucoepidermoid lung tumors.",
+    "g_id": 0
+  },
+  {
+    "reference_id": "3e9303e5308a65da87080a71ff5bc7964243518d",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Fabiano_Tolentino&oldid=57029797",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Fabiano_Tolentino&oldid=57029797"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q43193274-F73B2A42-6AB8-49BB-80D2-E01A87F57EB7",
+    "subject": "Fabiano Tolentino",
+    "predicate": "local de nascimento",
+    "object": "Belo Horizonte",
+    "g_id": 0
+  },
+  {
+    "reference_id": "d865c1330e2f4b1f9b227ef512bfa59f4d7db157",
+    "url": "https://masp.org.br/acervo/obra/barco-na-praia",
+    "ref_node_pairs": {
+      "reference URL": "url:>https://masp.org.br/acervo/obra/barco-na-praia",
+      "retrieved": "time:>+2018-02-22T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q49868802-BB17759E-307E-4858-9234-5C64B2E6EF7F",
+    "subject": "Barco na praia",
+    "predicate": "localização",
+    "object": "Museu de Arte de São Paulo",
+    "g_id": 0
+  },
+  {
+    "reference_id": "bfbee08a6d9e0dc302c27ff44dce6d9acd42cf79",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:28768037%20AND%20SRC:MED&resulttype=core&format=json",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>28768037",
+      "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:28768037%20AND%20SRC:MED&resulttype=core&format=json",
+      "retrieved": "time:>+2020-03-26T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q88662352-CD022E10-5E77-4A67-8875-A3495BAFAD41",
+    "subject": "PRIMEIRO DECÊNIO DOS CONSELHOS FEDERAL E REGIONAIS DE ENFERMAGEM",
+    "predicate": "instância de",
+    "object": "artigo científico",
+    "g_id": 0
+  },
+  {
+    "reference_id": "e85dc5e28efb575e5f062884bd91a4f3c55fe00c",
+    "url": "https://viaf.org/viaf/125651320",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>125651320"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q10333968-AB3AB85B-A2F8-4A9A-BAF9-ABDE8D6925B6",
+    "subject": "Museus Castro Maya",
+    "predicate": "identificador WorldCat Identities",
+    "object": "lccn-n95920060",
+    "g_id": 0
+  },
+  {
+    "reference_id": "b5d2bee0cfc2e7442163a6b3c7314e296e89e242",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:28946270%20AND%20SRC:MED&resulttype=core&format=json",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>28946270",
+      "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:28946270%20AND%20SRC:MED&resulttype=core&format=json",
+      "retrieved": "time:>+2020-03-31T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q46300983-608BBB56-135B-43BA-B9AE-7EBD8ECDA5C3",
+    "subject": "How gamma and electron-beam irradiations modulate phenolic profile expression in Melissa officinalis L. and Melittis melissophyllum L.",
+    "predicate": "data de publicação",
+    "object": "2017-07-25T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "1a4683f0feeb98eb72bda3748a5067b2d43445a7",
+    "url": "http://divulgacandcontas.tse.jus.br/divulga/#/candidato/2012/1699/81833/240000014280",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://divulgacandcontas.tse.jus.br/divulga/#/candidato/2012/1699/81833/240000014280"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q61880577-FD34191A-92EE-4DBF-AF39-19AFD2D4DB30",
+    "subject": "Gerson Omar dos Santos",
+    "predicate": "sexo ou género",
+    "object": "masculino",
+    "g_id": 0
+  },
+  {
+    "reference_id": "0b2834bf75831428d4c99e15f675fc8be5d2764f",
+    "url": "http://divulgacandcontas.tse.jus.br/divulga/#/candidato/2012/1699/05355/140000007027",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://divulgacandcontas.tse.jus.br/divulga/#/candidato/2012/1699/05355/140000007027"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q64852015-3D65E654-472B-4DEF-ABA4-92A7DB267549",
+    "subject": "Francisco de Sousa",
+    "predicate": "país de nacionalidade",
+    "object": "Brasil",
+    "g_id": 0
+  },
+  {
+    "reference_id": "eca613aa03a5fdac0e53a4b17ab501bc2a6c7932",
+    "url": "http://acervo.mp.usp.br/IconografiaV2.aspx",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Museu Paulista collection catalog->Q87513189",
+      "retrieved": "time:>+2020-04-07T00:00:00Z",
+      "inventory number": "value:>1-07-03-000-05287-00-00"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q89816585-5527AF26-5418-4B92-9F68-26E45BEACBB2",
+    "subject": "Prato Fundo",
+    "predicate": "coleção",
+    "object": "Coleção Marquês de Valença",
+    "g_id": 0
+  }
+]

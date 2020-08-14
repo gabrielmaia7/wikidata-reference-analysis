@@ -1,0 +1,98 @@
+[
+  {
+    "reference_block_hash": "830b028f9a1f7847aad4d066f3ac69eefb6d63b1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:16584701%20AND%20SRC:MED&resulttype=core&format=json",
+    "language_crawl": "es",
+    "g_id": 0
+  },
+  {
+    "reference_block_hash": "4950cb3052faa98aef071bc34e299f7817b879d1",
+    "url": "https://es.wikipedia.org/w/index.php?title=Yoshinori_Taguchi&oldid=118499680",
+    "language_crawl": "es",
+    "g_id": 0
+  },
+  {
+    "reference_block_hash": "8bd137149d748adc22a5d4805ef5c4dd7445c7e5",
+    "url": "https://es.wikipedia.org/w/index.php?title=Sebastián_Peluso&oldid=118204051",
+    "language_crawl": "es",
+    "g_id": 0
+  },
+  {
+    "reference_block_hash": "36b2e60865706f6dd9fa8c46bcbc948082d344f6",
+    "url": "http://digitale.beic.it/primo_library/libweb/action/search.do?fn=search&vid=BEIC&vl%283134987UI0%29=creator&vl%28freeText0%29=Vera%20Tassis%20y%20Villarroel%20Juan%20de",
+    "language_crawl": "es",
+    "g_id": 0
+  },
+  {
+    "reference_block_hash": "1bd65cb6b445ff9c1df1fea0bf74980afaec137e",
+    "url": "https://hdl.handle.net/10553/2297",
+    "language_crawl": "es",
+    "g_id": 0
+  },
+  {
+    "reference_block_hash": "274efc36f3219cb3345c9c8d4dcdeb845bacd72a",
+    "url": "http://dbe.rah.es/biografias/78773/joaquin-de-agrela-y-moreno",
+    "language_crawl": "es",
+    "g_id": 0
+  },
+  {
+    "reference_block_hash": "6a93f6698e4dceec3b02d42b223910e295a80c19",
+    "url": "https://es.wikipedia.org/w/index.php?title=Colegio_Nacional_de_Periodistas_(Venezuela)&oldid=117782693",
+    "language_crawl": "es",
+    "g_id": 0
+  },
+  {
+    "reference_block_hash": "774253e76b22a4a0ba1b38ff388d4da225b9ae90",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:4767874%20AND%20SRC:MED&resulttype=core&format=json",
+    "language_crawl": "es",
+    "g_id": 0
+  },
+  {
+    "reference_block_hash": "a9c1d58e9c17348fe4f06d243a0e40b30dcfc5f7",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:14871634%20AND%20SRC:MED&resulttype=core&format=json",
+    "language_crawl": "es",
+    "g_id": 0
+  },
+  {
+    "reference_block_hash": "01122037c140c6b47421aa199a4e742ec0321df9",
+    "url": "https://es.wikipedia.org/w/index.php?title=Ayúdame_Hit_Pack_(EP)&oldid=118940066",
+    "language_crawl": "es",
+    "g_id": 0
+  },
+  {
+    "reference_block_hash": "697b1f0eb04edc90d60d2887f2931f4eb4045cf9",
+    "url": "https://es.wikipedia.org/w/index.php?title=La_hormigonera_asesina&oldid=119119062",
+    "language_crawl": "es",
+    "g_id": 0
+  },
+  {
+    "reference_block_hash": "4bb4d4e143df59f8bd1e098d1c46b39e26ab86c6",
+    "url": "https://es.wikipedia.org/w/index.php?title=Masato_Otake&oldid=118501195",
+    "language_crawl": "es",
+    "g_id": 0
+  },
+  {
+    "reference_block_hash": "9d307d1138f49db4dbcf577118a42ead5461d450",
+    "url": "http://www.dicelacancion.com/video-feeling-alive-gomo",
+    "language_crawl": "es",
+    "g_id": 0
+  },
+  {
+    "reference_block_hash": "3264a3c79e378a6b957c70850fbdf605282db980",
+    "url": "https://es.wikipedia.org/w/index.php?title=Mogogi_Gabonamong&oldid=101314451",
+    "language_crawl": "es",
+    "g_id": 0
+  },
+  {
+    "reference_block_hash": "39420e880092cce4d47e0a512e27d6d5e7bcb9f2",
+    "url": "https://es.wikipedia.org/w/index.php?title=Masashi_Miyamura&oldid=114416425",
+    "language_crawl": "es",
+    "g_id": 0
+  },
+  {
+    "reference_block_hash": "66bfb2bbabbe3074275ec887589c56ef05500bb7",
+    "url": "http://data.bnf.fr/ark:/12148/cb125445981",
+    "language_crawl": "es",
+    "g_id": 0
+  }
+]

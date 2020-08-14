@@ -1,0 +1,17 @@
+`We are researchers at King's College London (United Kingdom), currently conducting research to verify certain quality
+aspects of <a href='https://wikidata.org' target='_blank'>Wikidata</a>, an open knowledge base which gathers claims and
+references to support these claims. This study is funded by the European Union's Horizon 2020 research and innovation
+programme under grant agreement No 780247. No personal information will be collected during this experiment and all
+information will be treated anonymously, so there are no risks from participating and no way of identifying your
+personal details. <br>After you've submitted your responses, there's no way to withdraw them. The data collected in this
+study will consist only of your inputs, the time you spent on the task and which buttons you clicked. It will be stored
+in a password protected computer and analysed for research purposes and its results published on academic journals.
+<br>This experiment has received ethical clearance on the 6th of May of 2020 by KCL, with registration number
+MRA-19/20-18878. The data controller for this project will be King's College London (KCL). Research is a task that the
+University carries out in the public interest. Your data will be processed in accordance with the standards set by the
+General Data Protection Regulation 2016 (GDPR). If you have any questions or need further assistance, please contact the
+researcher responsible for this study at <a href='mailto:k2031554@kcl.ac.uk'>k2031554@kcl.ac.uk</a>.<br><br> By
+continuing with the task, you <b>agree</b> to take part in this research project and consent for the data collected to be
+used for the purpose of this study. Participation is voluntary and you may cancel the task at anytime for any reason
+before submitting it.<br><br><b>Please note</b> that, in order for you to proceed with the task, you'll need to know how to read in <b>${lan_test_language}</b>!
+This language requirement <b>changes according to the HIT</b>, so you may find other types of HITs similar to this one that cover other languages, either now or in the future. <b>The language will be specified in the Keywords and in the Title of the HIT</b>!`

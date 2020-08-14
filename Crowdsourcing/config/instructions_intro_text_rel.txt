@@ -1,0 +1,12 @@
+"In this task, we want your help verifying some sources that are used to support specific statements. You will be asked
+to take a look at six statements. For each statement, we will show you a reference, as well as some additional
+information. In essence:<br><b>Statements</b>: These come in the form of three elements, a subject, a predicate, and an
+object, and will be shown as (subject) -> (predicate) -> (object). For example: (Brazilia) -> (is capital of) ->
+(Brazil). Most of the statements read quite naturally.<br><b>References</b>: These are URLs that take you to a website
+which we believe contains information that supports the statement. References may, for example, take you directly to a
+news article mentioning that Brazilia is Brazil's capital, or to a database page where Brazilia appears as the 'capital'
+property of Brazil. They may also take you to a website where you'll have to search for the information yourself, using
+search bars, buttons, or anything the website offers.<br><b>Additional Information</b>: Extra information taken from
+Wikidata about the reference. These may be useful in case you have to search for the information in the referenced
+website.<br><b>We will ask you:</b><br>1) If the reference supports the statement;<br>2) How easy it was to find the
+information, if you did;<br>3) What may have stopped you from finding the information, if you didn't."

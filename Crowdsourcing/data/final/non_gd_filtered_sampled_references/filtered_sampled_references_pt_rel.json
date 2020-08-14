@@ -1,0 +1,3372 @@
+[
+  {
+    "reference_id": "cd96b8cecf788109b111a8e6339736dacbe20e83",
+    "url": "https://pt.wikipedia.org/w/index.php?title=P9_(álbum)&oldid=52258850",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=P9_(álbum)&oldid=52258850"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q20060489-A60E680C-AC1A-416C-B6C7-F322B1A8E160",
+    "subject": "P9",
+    "predicate": "editora discográfica",
+    "object": "Sony Music",
+    "g_id": 0
+  },
+  {
+    "reference_id": "10097e4e159c9de218d4d4196e1fea40eeb83401",
+    "url": "https://pt.wikipedia.org/w/index.php?title=RoupaAcústico_2&oldid=56536325",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=RoupaAcústico_2&oldid=56536325"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q10364725-560D01F0-2CB8-49E1-9E1E-2E46AE13A79E",
+    "subject": "RoupaAcústico 2",
+    "predicate": "editora discográfica",
+    "object": "Universal Music Group",
+    "g_id": 0
+  },
+  {
+    "reference_id": "81429ae0c7065b6264acc37b64ca12e51aab7fa0",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Refúgio_Biológico_Bela_Vista&oldid=54120139",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Refúgio_Biológico_Bela_Vista&oldid=54120139"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q10358516-41FB56C3-58CB-466B-B27D-7AFD2F6D6983",
+    "subject": "Refúgio Biológico Bela Vista",
+    "predicate": "operador",
+    "object": "Usina Hidrelétrica de Itaipu",
+    "g_id": 0
+  },
+  {
+    "reference_id": "2a1482f34556dfbeeb770003d88f30bca2cf55a0",
+    "url": "https://en.wikipedia.org/w/index.php?title=Anhanguera_(district_of_São_Paulo)&oldid=858610970",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>English Wikipedia->Q328",
+      "Wikimedia import URL": "url:>https://en.wikipedia.org/w/index.php?title=Anhanguera_(district_of_São_Paulo)&oldid=858610970"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q4764338-B284A291-5CEE-4694-8F2A-F4582A3E565B",
+    "subject": "Anhanguera",
+    "predicate": "imagem do mapa de localização",
+    "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Anhanguera.png",
+    "g_id": 0
+  },
+  {
+    "reference_id": "b0962b644c8dd2c132a85816990aeb3f520f1840",
+    "url": "http://g1.globo.com/Noticias/PopArte/0,,MUL1243350-7084,00.html",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://g1.globo.com/Noticias/PopArte/0,,MUL1243350-7084,00.html"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q2486921-22EAC52B-5330-4E9D-BAB1-D771AC4E62DC",
+    "subject": "Sérgio Viotti",
+    "predicate": "data de morte",
+    "object": "2009-07-26T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "6651cb972046535874d2ee26d4fdbe2687906d90",
+    "url": "http://www.interfilmes.com/filme_24010_Esposa.de.Mentirinha-(Just.Go.with.It).html",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://www.interfilmes.com/filme_24010_Esposa.de.Mentirinha-(Just.Go.with.It).html",
+      "retrieved": "time:>+2016-07-11T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "q747496-659C8DAF-7BDA-40C0-A579-FD8464FC139F",
+    "subject": "Just Go with It",
+    "predicate": "protagonistas",
+    "object": "Adam Sandler",
+    "g_id": 0
+  },
+  {
+    "reference_id": "aca5819fe71c9fb5f1ddd16b76f786647d32a2be",
+    "url": "https://www.brasilianaiconografica.art.br/obras/19469/the-store-cart",
+    "ref_node_pairs": {
+      "reference URL": "url:>https://www.brasilianaiconografica.art.br/obras/19469/the-store-cart",
+      "retrieved": "time:>+2018-12-17T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q59826472-03040DFC-6C18-400D-9D10-62D682550464",
+    "subject": "The store cart",
+    "predicate": "data de fundação ou criação",
+    "object": "1821-01-01T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "01fcea45002ac4efce9ae5f0ca256c617a1f9912",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Zeca_Viana&oldid=56927219",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Zeca_Viana&oldid=56927219"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q28677760-AF0B3852-0176-4728-9B9F-3EF1F369768A",
+    "subject": "Zeca Viana",
+    "predicate": "género artístico",
+    "object": "Música Lo-fi",
+    "g_id": 0
+  },
+  {
+    "reference_id": "0a7999bd372ee9e6db0c5e341fafc97886e8d842",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Bandeira_de_Lucas_do_Rio_Verde&oldid=46444981",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Bandeira_de_Lucas_do_Rio_Verde&oldid=46444981"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q18499818-96A8B018-8C31-4C3F-8197-657F93245F04",
+    "subject": "Bandeira de Lucas do Rio Verde",
+    "predicate": "imagem",
+    "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Bandeira%20de%20Lucas%20do%20Rio%20Verde.jpg",
+    "g_id": 0
+  },
+  {
+    "reference_id": "78cbad3fe7250131782da6647b60500b78a74fca",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Secretário_da_Guerra_dos_Estados_Unidos&oldid=48426259",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Secretário_da_Guerra_dos_Estados_Unidos&oldid=48426259"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q2419102-011C3ED7-711F-4EAE-B4C1-6516DDABD781",
+    "subject": "Secretário da Guerra dos Estados Unidos",
+    "predicate": "honorífico",
+    "object": "O Honorável",
+    "g_id": 0
+  },
+  {
+    "reference_id": "f6165c40599092f46072775183a262379ec5864b",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Agência_Portuguesa_do_Ambiente&oldid=55602490",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Agência_Portuguesa_do_Ambiente&oldid=55602490"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q9592659-9779AE98-71CE-4C35-891D-99AC94B60E19",
+    "subject": "Agência Portuguesa do Ambiente",
+    "predicate": "data de fundação ou criação",
+    "object": "2007-04-27T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "80537bfeb9413ba1a95e14727cd52d2b8d4a50c3",
+    "url": "https://www.brasilianaiconografica.art.br/obras/19136/regio-montosa-prope-cocaes-in-prov-minarum",
+    "ref_node_pairs": {
+      "reference URL": "url:>https://www.brasilianaiconografica.art.br/obras/19136/regio-montosa-prope-cocaes-in-prov-minarum",
+      "retrieved": "time:>+2018-12-17T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q59826186-D17AE8A6-2B47-4389-8725-A1CEE3250750",
+    "subject": "Regio Montosa Prope Cocaës, in Prov. Minarum",
+    "predicate": "altura",
+    "object": "27.5",
+    "g_id": 0
+  },
+  {
+    "reference_id": "9c59fe2a131c4fb7bccce661d045eeb89584a17a",
+    "url": "http://patrimonio.ipac.ba.gov.br/bem/antigo-hospital-portugues-e-jardins",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://patrimonio.ipac.ba.gov.br/bem/antigo-hospital-portugues-e-jardins"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q56260754-2b75d6c2-4f45-af24-20d1-dc233265a0fd",
+    "subject": "Antigo Hospital Português",
+    "predicate": "localizado na unidade administrativa",
+    "object": "Salvador",
+    "g_id": 0
+  },
+  {
+    "reference_id": "8d6a20700fc408bc6b85f0ee69ee8664aa35540b",
+    "url": "http://divulgacandcontas.tse.jus.br/divulga/#/candidato/2012/1699/60011/190000026158",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://divulgacandcontas.tse.jus.br/divulga/#/candidato/2012/1699/60011/190000026158"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q64850351-E11F4C7C-9CD0-4B81-83E3-0C726B7970FE",
+    "subject": "Antonio Carlos Silva",
+    "predicate": "membro do partido político",
+    "object": "Partido da Causa Operária",
+    "g_id": 0
+  },
+  {
+    "reference_id": "e5e6473fe757defe2eea8c914cb98050e8e5bd28",
+    "url": "https://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=2156",
+    "ref_node_pairs": {
+      "reference URL": "url:>https://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=2156"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q10326209-b9e31210-4e78-6b3e-9dee-f7f0fea63a95",
+    "subject": "Mariana Aiveca",
+    "predicate": "data de nascimento",
+    "object": "1954-02-03T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "2fef8d30ae09359f16e478161528bbd2bf48695a",
+    "url": "https://id.loc.gov/authorities/n2016257908",
+    "ref_node_pairs": {
+      "Library of Congress authority ID": "value:>n2016257908",
+      "stated in": "wikibase-item:>Library of Congress Control Number->Q620946",
+      "retrieved": "time:>+2020-03-25T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q611334-96158DDF-15FE-4B19-B249-3B1CBB4AE6C0",
+    "subject": "Raposo Tavares",
+    "predicate": "identificador no FAST Linked Data",
+    "object": "1942133",
+    "g_id": 0
+  },
+  {
+    "reference_id": "e2942525296fe0cfac6045837d3a51e06fe4b2dc",
+    "url": "https://comarcas.tribunais.org.pt/comarcas/nucleo.php?com=lisboanorte&nucleo=TORRES+VEDRAS&id_nucleo=132",
+    "ref_node_pairs": {
+      "reference URL": "url:>https://comarcas.tribunais.org.pt/comarcas/nucleo.php?com=lisboanorte&nucleo=TORRES+VEDRAS&id_nucleo=132"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q88630024-e98dcf4e-44b5-a8fc-0c36-d8dc1b697f56",
+    "subject": "Juízo Local Cível de Torres Vedras",
+    "predicate": "instância de",
+    "object": "tribunal",
+    "g_id": 0
+  },
+  {
+    "reference_id": "019694aaec12609e372d37a3faa5e98959c29eef",
+    "url": "http://www.adorocinema.com/filmes/filme-43555/",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://www.adorocinema.com/filmes/filme-43555/",
+      "retrieved": "time:>+2016-04-14T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "q1114179-C3AAD3D7-5DB3-4B92-84CC-C0A2750B352A",
+    "subject": "Return to the Blue Lagoon",
+    "predicate": "diretor",
+    "object": "William A. Graham",
+    "g_id": 0
+  },
+  {
+    "reference_id": "180bb4e1dd033ba59f2b1721d1b78f8dc246a463",
+    "url": "http://condephaat.sp.gov.br/benstombados/casa-do-conselheiro-rodrigues-alves",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://condephaat.sp.gov.br/benstombados/casa-do-conselheiro-rodrigues-alves"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q67001309-C4CCFB67-6542-42D1-AFB2-FF1CE13A69AF",
+    "subject": "Casa do Conselheiro Rodrigues Alves",
+    "predicate": "designação do património",
+    "object": "bem tombado pelo CONDEPHAAT",
+    "g_id": 0
+  },
+  {
+    "reference_id": "6fc4fc766e541e6b3877eca87d0542c43a2fa967",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Thales_Gabriel&oldid=57243942",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Thales_Gabriel&oldid=57243942"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q47468489-959B7E0A-D2F5-4CD3-890E-29AB6157495F",
+    "subject": "Thales Gabriel",
+    "predicate": "local de nascimento",
+    "object": "Cruzeiro",
+    "g_id": 0
+  },
+  {
+    "reference_id": "3f2f1be94dc84b380bf0ea0e43f51bab5e0be38d",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Hangar_(banda)&oldid=56422878",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Hangar_(banda)&oldid=56422878"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q3126755-99E58D28-0678-4693-A47B-79CBC56C8557",
+    "subject": "Hangar (banda)",
+    "predicate": "work period (start)",
+    "object": "1997-01-01T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "4f8f53cfcb1f66b65d492ef0447439f04e2777ae",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Gervásio_Pires&oldid=52707568",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Gervásio_Pires&oldid=52707568"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q10289288-9055AE5A-40C1-40D0-BCAC-9E51BF288924",
+    "subject": "Gervásio Pires Ferreira",
+    "predicate": "ocupação",
+    "object": "mercador",
+    "g_id": 0
+  },
+  {
+    "reference_id": "6928b1a57dee3fc51065345e3af096a8fa374129",
+    "url": "http://divulgacandcontas.tse.jus.br/divulga/#/candidato/2012/1699/59013/190000023214",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://divulgacandcontas.tse.jus.br/divulga/#/candidato/2012/1699/59013/190000023214"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q64851459-B6BD2EEF-6803-4604-A406-2C04E297147E",
+    "subject": "Renato Jorge Pimenta de Menezes",
+    "predicate": "país de nacionalidade",
+    "object": "Brasil",
+    "g_id": 0
+  },
+  {
+    "reference_id": "7c4c9cf9949cf59f17c4b4be9e9b6ed8436c8c38",
+    "url": "https://www.brasilianaiconografica.art.br/obras/17624/desmodium",
+    "ref_node_pairs": {
+      "reference URL": "url:>https://www.brasilianaiconografica.art.br/obras/17624/desmodium",
+      "retrieved": "time:>+2018-12-17T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q59824782-4A783424-3D10-49FF-A244-A0C964AFB5DB",
+    "subject": "(Desmodium)",
+    "predicate": "Identificador da Brasiliana Iconográfica",
+    "object": "17624",
+    "g_id": 0
+  },
+  {
+    "reference_id": "d7aaf237533de729fbc06f38dbca6354d21b15b9",
+    "url": "http://acervo.mp.usp.br/IconografiaV2.aspx",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Museu Paulista collection catalog->Q87513189",
+      "retrieved": "time:>+2020-04-07T00:00:00Z",
+      "inventory number": "value:>1-07-03-000-05698-00-00"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q89816602-24395B85-CB9E-4CBF-ADD4-A69A14F869D9",
+    "subject": "Prato Fundo",
+    "predicate": "instância de",
+    "object": "objeto",
+    "g_id": 0
+  },
+  {
+    "reference_id": "ade7bbcc7bd2efcdf1a892468d41868813e075bf",
+    "url": "http://www.saopaulo.sp.leg.br/vereador/jose-police-neto/",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://www.saopaulo.sp.leg.br/vereador/jose-police-neto/"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q53726977-124ED9B4-A44F-4ACE-BD55-C4531248AD81",
+    "subject": "Police Neto",
+    "predicate": "página inicial oficial",
+    "object": "http://www.policeneto.com.br",
+    "g_id": 0
+  },
+  {
+    "reference_id": "d2687ed91e4506c8682e18eb0ec786629c324d1d",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Associação_Esportiva_Granjense_Atlético_Clube&oldid=51113335",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Associação_Esportiva_Granjense_Atlético_Clube&oldid=51113335"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q16494928-640CD775-8283-4D03-8757-D38CA2F3D721",
+    "subject": "Associação Esportiva Granjense Atlético Clube",
+    "predicate": "data de fundação ou criação",
+    "object": "2004-01-01T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "054665a56331432ded0a931cf0f5ce4bd3f73e24",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Ross_University&oldid=46183291",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Ross_University&oldid=46183291"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q7369688-55D2BA9E-040D-4DE4-9454-44EB295685DD",
+    "subject": "Ross University",
+    "predicate": "página inicial oficial",
+    "object": "http://www.rossu.edu/",
+    "g_id": 0
+  },
+  {
+    "reference_id": "626dec4d3c3ffb3121c4864f1707a16ba91612d8",
+    "url": "http://editora.unoesc.edu.br/index.php/espacojuridico/about/submissions#privacyStatement",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://editora.unoesc.edu.br/index.php/espacojuridico/about/submissions#privacyStatement"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q50516973-85030028-F84A-4BC8-83B2-821EBF6ECDB8",
+    "subject": "Espaço Jurídico",
+    "predicate": "licença",
+    "object": "CC-BY-NC",
+    "g_id": 0
+  },
+  {
+    "reference_id": "045577f51c6efce52508c8e8ae21e127613d7793",
+    "url": "http://divulgacandcontas.tse.jus.br/divulga/#/candidato/2012/1699/92215/90000028380",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://divulgacandcontas.tse.jus.br/divulga/#/candidato/2012/1699/92215/90000028380"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q64831901-80F8613F-4214-486B-825C-46E648A2CF71",
+    "subject": "Fernando de Almeida Cunha",
+    "predicate": "país de nacionalidade",
+    "object": "Brasil",
+    "g_id": 0
+  },
+  {
+    "reference_id": "fb0897fc19814cc609b9efc91809528ddcd0642c",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Berga_Esporte_Clube&oldid=50218462",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Berga_Esporte_Clube&oldid=50218462"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q4891418-E2FC9A49-4A6E-43F4-86B0-F9647D39D3B0",
+    "subject": "Berga Esporte Clube",
+    "predicate": "sede",
+    "object": "Cuiabá",
+    "g_id": 0
+  },
+  {
+    "reference_id": "f8a2459ed24565ef4286f9414613c81c6e7b4f3d",
+    "url": "http://www.adorocinema.com/filmes/filme-177516/",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://www.adorocinema.com/filmes/filme-177516/",
+      "retrieved": "time:>+2016-04-13T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "q474006-2CF0BC1C-F7A0-4F08-AC36-9B02AB527FAE",
+    "subject": "Amor Estranho Amor",
+    "predicate": "diretor",
+    "object": "Walter Hugo Khouri",
+    "g_id": 0
+  },
+  {
+    "reference_id": "097f4824b6b0dc93a34220c9298581fdb241be3f",
+    "url": "http://www.interfilmes.com/filme_12720_Barton.Fink.Delirios.de.Hollywood-(Barton.Fink).html",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://www.interfilmes.com/filme_12720_Barton.Fink.Delirios.de.Hollywood-(Barton.Fink).html",
+      "retrieved": "time:>+2016-05-18T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q237215-40F6F9EE-B5E1-430B-98F2-3D6E59881661",
+    "subject": "Barton Fink",
+    "predicate": "diretor",
+    "object": "Joel Coen",
+    "g_id": 0
+  },
+  {
+    "reference_id": "7ffe34588722ac5d09378e6b8b4f3d93b262d673",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Antônio_Donadon&oldid=55369360",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Antônio_Donadon&oldid=55369360"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q20045603-18529D5E-4B84-437D-BEBA-5B4BB857FD3D",
+    "subject": "Antônio Donadon",
+    "predicate": "membro do partido político",
+    "object": "Movimento Democrático Brasileiro",
+    "g_id": 0
+  },
+  {
+    "reference_id": "b450d720025dbbb2d148dce633280b921bfe3a2f",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Secretário_do_Tesouro_dos_Estados_Unidos&oldid=56000171",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Secretário_do_Tesouro_dos_Estados_Unidos&oldid=56000171"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q4215834-073C62F5-C811-486E-BAF0-236460864C2B",
+    "subject": "Secretário do Tesouro dos Estados Unidos",
+    "predicate": "data de fundação ou criação",
+    "object": "1789-09-11T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "56488f983161d79ad001880962f926ba2113ea3e",
+    "url": "http://www.fgv.br/cpdoc/acervo/dicionarios/verbete-biografico/altamirando-alves-da-silva-requiao",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://www.fgv.br/cpdoc/acervo/dicionarios/verbete-biografico/altamirando-alves-da-silva-requiao"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q42564852-0FE95DD8-828C-4FBA-B8E1-AC323413CE18",
+    "subject": "Altamirando Requião",
+    "predicate": "data de morte",
+    "object": "1989-10-22T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "af2bebc6ebdef6b329f6861fc64a1add01975033",
+    "url": "https://en.wikipedia.org/w/index.php?title=Clínicas_(São_Paulo_Metro)&oldid=821864000",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>English Wikipedia->Q328",
+      "Wikimedia import URL": "url:>https://en.wikipedia.org/w/index.php?title=Clínicas_(São_Paulo_Metro)&oldid=821864000"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q5137302-DA87C29F-3936-4504-A8BB-797C975C93F9",
+    "subject": "Estação Clínicas",
+    "predicate": "data de abertura oficial",
+    "object": "1992-09-12T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "364115ae15f14dec935d389959b10dde3847a2af",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Mariana_Vasconcelos_Bandhold&oldid=56010936",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Mariana_Vasconcelos_Bandhold&oldid=56010936"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q60976369-5088D933-AD3B-4F67-9609-557CE5B2A9D8",
+    "subject": "Mariana Vasconcelos Bandhold",
+    "predicate": "work period (start)",
+    "object": "2007-01-01T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "ab0d2a3ebd808422a1c60384dd2bf3e092639743",
+    "url": "https://pt.wikipedia.org/w/index.php?title=FK_Atmosfera&oldid=56580758",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=FK_Atmosfera&oldid=56580758"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q61382287-2F21DCDF-7CAD-4F43-87B6-400669429AB1",
+    "subject": "FK Atmosfera",
+    "predicate": "data de fundação ou criação",
+    "object": "2012-01-01T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "c95f0032cedf736ef8f67e913e98892616ef7db3",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Mohammedan_Sporting_Club&oldid=53664106",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Mohammedan_Sporting_Club&oldid=53664106"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q532236-91F16815-0DEA-4793-9B63-0E53ADF51669",
+    "subject": "Mohammedan Sporting Club",
+    "predicate": "sede",
+    "object": "Bangladesh",
+    "g_id": 0
+  },
+  {
+    "reference_id": "d64c7148427bd05e038f5e27d8a7f20dd9d79c97",
+    "url": "http://museus.cultura.gov.br/espaco/6917",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://museus.cultura.gov.br/espaco/6917"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q56694903-E489F564-717C-4DE9-B906-C9A77A1D6DE3",
+    "subject": "Museu Náutico da Bahia",
+    "predicate": "coordenadas geográficas",
+    "object": "Point(-38.53155 -13.010014)",
+    "g_id": 0
+  },
+  {
+    "reference_id": "37e13851db0af824df6e7a21d2938c8bd5cc0b0d",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Banda_Worst&oldid=56367713",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Banda_Worst&oldid=56367713"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q16496616-6B0E61B7-C2CC-477C-B355-6AA45BB8A740",
+    "subject": "Banda Worst",
+    "predicate": "work period (start)",
+    "object": "2011-01-01T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "97355889f18bc506c66790d15cbe6d89de07c503",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Campeonato_Paraense_de_Futebol_de_1949_-_Segunda_Divisão&oldid=53644487",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Campeonato_Paraense_de_Futebol_de_1949_-_Segunda_Divisão&oldid=53644487"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q61002104-233B9F2F-D380-4FB1-9733-1E0E3E65B8C4",
+    "subject": "Campeonato Paraense de Futebol de 1949 - Segunda Divisão",
+    "predicate": "precedido por",
+    "object": "Campeonato Paraense de Futebol de 1948 - Segunda Divisão",
+    "g_id": 0
+  },
+  {
+    "reference_id": "b85bc5576ee227606d8128f10b2e451a9a0f2d52",
+    "url": "http://acervo.mp.usp.br/IconografiaV2.aspx",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Museu Paulista collection catalog->Q87513189",
+      "retrieved": "time:>+2020-04-07T00:00:00Z",
+      "inventory number": "value:>1-15-02-000-04942-00-00"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q89817165-2AFF67D4-16A0-428D-84BC-126DAF7E8C5C",
+    "subject": "Revólver Lefaucheux de 6 Tiros",
+    "predicate": "material utilizado",
+    "object": "metal",
+    "g_id": 0
+  },
+  {
+    "reference_id": "71292674dc69612d22ac034891c12de2bddff7ef",
+    "url": "http://www.desaparecidospoliticos.org.br/pessoa.php?id=81",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://www.desaparecidospoliticos.org.br/pessoa.php?id=81",
+      "retrieved": "time:>+2020-03-17T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q63069733-00188C5F-5E37-4234-9AC7-D0D30740C849",
+    "subject": "Manoel Rodrigues Ferreira",
+    "predicate": "morto por",
+    "object": "governo federal do Brasil",
+    "g_id": 0
+  },
+  {
+    "reference_id": "bc772107a324ebb92a7c3efe744ded299c96211a",
+    "url": "http://www.hpip.org/Default/pt/Homepage/Obra?a=2287",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://www.hpip.org/Default/pt/Homepage/Obra?a=2287"
+    },
+    "language_crawl": "pt",
+    "statement_node": "P5094-81336971-4e3a-05a2-3530-08f3ad159dbe",
+    "subject": "HPIP ID",
+    "predicate": "number of records",
+    "object": "2287",
+    "g_id": 0
+  },
+  {
+    "reference_id": "0a0cfdef700fc0f05fba914ecfcfbaf3021765e5",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Campeonato_Acriano_de_Futebol_de_2005&oldid=51054290",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Campeonato_Acriano_de_Futebol_de_2005&oldid=51054290"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q19703390-F50E4178-BAB0-4162-82F7-EC85C2F6A265",
+    "subject": "Campeonato Acriano de Futebol de 2005",
+    "predicate": "vencido por",
+    "object": "Rio Branco Football Club",
+    "g_id": 0
+  },
+  {
+    "reference_id": "b1da2c7f4f2ac54ad09b82fcf15a7dd3ce2e32a6",
+    "url": "http://divulgacandcontas.tse.jus.br/divulga/#/candidato/2012/1699/08036/100000015453",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://divulgacandcontas.tse.jus.br/divulga/#/candidato/2012/1699/08036/100000015453"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q64833546-D796916A-61C8-4F1E-8F6D-06550344CD79",
+    "subject": "Francisco Melo da Silva",
+    "predicate": "país de nacionalidade",
+    "object": "Brasil",
+    "g_id": 0
+  },
+  {
+    "reference_id": "ced15940e4f5ad36c65a396d8b7e49d146e652ce",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Manuel_Madeira_Telles&oldid=52996084",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Manuel_Madeira_Telles&oldid=52996084"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q26692271-A7232C43-EAED-4D32-9977-E45578ED3313",
+    "subject": "Manuel Madeira Telles",
+    "predicate": "país de nacionalidade",
+    "object": "Portugal",
+    "g_id": 0
+  },
+  {
+    "reference_id": "2eb427bf95716fa823cf7cc0646884bb672d6ea8",
+    "url": "https://www.brasilianaiconografica.art.br/obras/17720/hibiscus",
+    "ref_node_pairs": {
+      "reference URL": "url:>https://www.brasilianaiconografica.art.br/obras/17720/hibiscus",
+      "retrieved": "time:>+2018-12-17T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q59824928-EE7C8489-4340-4FC5-B1E0-E99B6E6BE260",
+    "subject": "(Hibiscus)",
+    "predicate": "retrata",
+    "object": "Floresta amazônica",
+    "g_id": 0
+  },
+  {
+    "reference_id": "611d57ebb575ec034d778eab15142e918ab58943",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Rei_do_Mate&oldid=56621921",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Rei_do_Mate&oldid=56621921"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q7309875-6D71C798-7BDE-4097-8EF8-F8443E21756F",
+    "subject": "Rei do Mate",
+    "predicate": "fundador",
+    "object": "Kalil Nasraui",
+    "g_id": 0
+  },
+  {
+    "reference_id": "b9688206482b8a05f77cfc649c83daf5ee3210e7",
+    "url": "http://web.archive.org/web/20190208034730/http://cemdp.sdh.gov.br/modules/desaparecidos/acervo/ficha/cid/259",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://web.archive.org/web/20190208034730/http://cemdp.sdh.gov.br/modules/desaparecidos/acervo/ficha/cid/259",
+      "retrieved": "time:>+2020-03-12T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q17413840-01C31E5E-AD27-4A7A-93EE-51E1130FEF1B",
+    "subject": "João Antônio Santos Abi-Eçab",
+    "predicate": "data de morte",
+    "object": "1968-11-08T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "bd8fe5efc1f0ace06ce171400876ef8e2df94e17",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Yume_to_Kyōki_no_Ōkoku&oldid=49339693",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Yume_to_Kyōki_no_Ōkoku&oldid=49339693"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q15020884-5D64D62F-31F2-4C14-930B-79CC63213883",
+    "subject": "Yume to Kyōki no Ōkoku",
+    "predicate": "página inicial oficial",
+    "object": "http://yumetokyoki.com/",
+    "g_id": 0
+  },
+  {
+    "reference_id": "2041fdc020c9ef546af5bd32d0e375c9f0cdfb5d",
+    "url": "http://memoriasdaditadura.org.br/memorial/antonio-joaquim-de-souza-machado/",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://memoriasdaditadura.org.br/memorial/antonio-joaquim-de-souza-machado/"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q63071197-e45f9061-4031-0447-fd2a-dc58623454ad",
+    "subject": "Antônio Joaquim Machado",
+    "predicate": "primeiro nome",
+    "object": "Antônio",
+    "g_id": 0
+  },
+  {
+    "reference_id": "6b84ce8a61c86cca6550eae4d2302145e112bf31",
+    "url": "http://divulgacandcontas.tse.jus.br/divulga/#/candidato/2012/1699/89516/210000018697",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://divulgacandcontas.tse.jus.br/divulga/#/candidato/2012/1699/89516/210000018697"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q61990153-F1E80CCE-DA77-477D-AD31-75A9E943C470",
+    "subject": "Ilson Mauro da Silva Brum",
+    "predicate": "data de nascimento",
+    "object": "1964-02-05T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "391f8d9c578673a04787f71f0a92740812dcfdec",
+    "url": "http://www.patrimoniocultural.pt/en/patrimonio/patrimonio-imovel/pesquisa-do-patrimonio/classificado-ou-em-vias-de-classificacao/geral/view/25004801",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://www.patrimoniocultural.pt/en/patrimonio/patrimonio-imovel/pesquisa-do-patrimonio/classificado-ou-em-vias-de-classificacao/geral/view/25004801"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q90416473-BE4DF461-7283-4E64-A02B-12B74151B7D0",
+    "subject": "Jardim Botânico da Universidade de Trás-os-Montes e Alto Douro",
+    "predicate": "DGPC ID",
+    "object": "25004801",
+    "g_id": 0
+  },
+  {
+    "reference_id": "91aad5178791e2df7cbf42b2a80313742f3bb1c5",
+    "url": "https://pt.wikipedia.org/w/index.php?title=I_Am_Omega&oldid=54275329",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=I_Am_Omega&oldid=54275329"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q1655150-2D202234-ADDD-4963-B600-F2CD22447846",
+    "subject": "I Am Omega",
+    "predicate": "página inicial oficial",
+    "object": "http://www.theasylum.cc/product.php?id=136",
+    "g_id": 0
+  },
+  {
+    "reference_id": "004e543cc95d57af164329110bbd6414b2625685",
+    "url": "http://www.desaparecidospoliticos.org.br/pessoa.php?id=148",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://www.desaparecidospoliticos.org.br/pessoa.php?id=148",
+      "retrieved": "time:>+2019-10-30T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q10357149-235ac180-4987-c001-e595-c6b445bb8e37",
+    "subject": "Raimundo Gonçalves Figueiredo",
+    "predicate": "membro de",
+    "object": "Vanguarda Armada Revolucionária Palmares",
+    "g_id": 0
+  },
+  {
+    "reference_id": "871dcde9ec290c10311378d616747ea011ae7498",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Native_Deen&oldid=56234200",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Native_Deen&oldid=56234200"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q1816236-E72FBFED-7BEF-4FBE-92AB-BAF66B954ED2",
+    "subject": "Native Deen",
+    "predicate": "work period (start)",
+    "object": "1998-01-01T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "3f8bddb2fe5eab9c5cb336f6b2d4812d34821488",
+    "url": "http://pt.wikipedia.org/wiki/Jos%C3%A9_Benedito_Hernandez",
+    "ref_node_pairs": {
+      "Wikimedia import URL": "url:>http://pt.wikipedia.org/wiki/Jos%C3%A9_Benedito_Hernandez"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q10308956-65DB93EA-9027-487B-BCB4-14460C32AFA6",
+    "subject": "José Benedito Hernandez",
+    "predicate": "data de morte",
+    "object": "2003-06-20T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "9438ceb1eda825d20d649a2a9cd30e81a93094b1",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Rosa_Branca_(álbum)&oldid=40618835",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Rosa_Branca_(álbum)&oldid=40618835"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q10364519-A1A96A81-88DA-4C91-A2DB-D8001FC49A4D",
+    "subject": "Rosa Branca (álbum)",
+    "predicate": "editora discográfica",
+    "object": "Warner Music Group",
+    "g_id": 0
+  },
+  {
+    "reference_id": "e1a001c61ea3655a92b391b69b146867bc271d75",
+    "url": "http://acervo.mp.usp.br/IconografiaV2.aspx",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Museu Paulista collection catalog->Q87513189",
+      "retrieved": "time:>+2020-04-10T00:00:00Z",
+      "inventory number": "value:>1-20581-0000-0000"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q90311706-50547AC8-A8AE-4304-97E5-F949EC0A42A1",
+    "subject": "Bebê Anônimo (16)",
+    "predicate": "data de fundação ou criação",
+    "object": "1875-01-01T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "32954a366e5d1cbbbde91856fd02e4475caa64d4",
+    "url": "http://www.adorocinema.com/filmes/filme-48378/",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://www.adorocinema.com/filmes/filme-48378/",
+      "retrieved": "time:>+2016-07-12T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "q697014-F87BB6A3-E9FA-47FC-AD97-3D4EF4B61132",
+    "subject": "Half Past Dead",
+    "predicate": "protagonistas",
+    "object": "Tony Plana",
+    "g_id": 0
+  },
+  {
+    "reference_id": "619e0db4b0c2c7e47fe69fbc8c609aaebc34716c",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Abel_Viana&oldid=55571170",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Abel_Viana&oldid=55571170"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q65163215-B54CEDC1-5B9A-4505-9294-6E006B048F21",
+    "subject": "Abel Viana",
+    "predicate": "local de morte",
+    "object": "Beja",
+    "g_id": 0
+  },
+  {
+    "reference_id": "61b5936bbe8d66cd1099c79437f23e59210ccdf0",
+    "url": "https://en.wikipedia.org/w/index.php?title=Wenceslau_Braz,_Paraná&oldid=830190124",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>English Wikipedia->Q328",
+      "Wikimedia import URL": "url:>https://en.wikipedia.org/w/index.php?title=Wenceslau_Braz,_Paraná&oldid=830190124"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q2006930-41C7955D-018C-4A9C-AF55-33ACEF7CDCCC",
+    "subject": "Wenceslau Braz",
+    "predicate": "imagem da bandeira",
+    "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Wenceslau%20Braz%20-%20PR%20-%20Brazil.jpg",
+    "g_id": 0
+  },
+  {
+    "reference_id": "b6c6b2d62bc51c33b1467aaafb560fc254842587",
+    "url": "http://acervo.mp.usp.br/IconografiaV2.aspx",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Museu Paulista collection catalog->Q87513189",
+      "retrieved": "time:>+2020-04-07T00:00:00Z",
+      "inventory number": "value:>1-13-01-000-09034-00-02"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q89806724-5109C8CC-DE01-4268-8EB8-C9809D1D24C9",
+    "subject": "Carretel para Filme com Tampa",
+    "predicate": "localização",
+    "object": "Museu Paulista",
+    "g_id": 0
+  },
+  {
+    "reference_id": "cb7268201f265e58de24210119149bd36a70f6f5",
+    "url": "http://divulgacandcontas.tse.jus.br/divulga/#/candidato/2016/2/37818/50000009263",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://divulgacandcontas.tse.jus.br/divulga/#/candidato/2016/2/37818/50000009263"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q61877659-3E9426B9-10CD-460E-A8D3-EDB8B79DDEF6",
+    "subject": "Flávio Henrique Magalhães Lima",
+    "predicate": "data de nascimento",
+    "object": "1975-04-04T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "701b303e069a369268264ccbc05c94b075d47867",
+    "url": "http://acervo.mp.usp.br/IconografiaV2.aspx",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Museu Paulista collection catalog->Q87513189",
+      "retrieved": "time:>+2020-04-10T00:00:00Z",
+      "inventory number": "value:>1-18927-0000-0000"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q90303549-6C41FA3F-0EC4-469D-A9B7-C859A05A219E",
+    "subject": "Museu do Ipiranga São Paulo",
+    "predicate": "coleção",
+    "object": "Coleção Museu Paulista",
+    "g_id": 0
+  },
+  {
+    "reference_id": "09dbb927875cb45ddd8aeb88ece3b389743ecccd",
+    "url": "http://acervo.mp.usp.br/IconografiaV2.aspx",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Museu Paulista collection catalog->Q87513189",
+      "retrieved": "time:>+2020-04-10T00:00:00Z",
+      "inventory number": "value:>1-20597-0000-0000"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q90080101-0125B769-1A5A-4BE1-8015-A7023126DA2B",
+    "subject": "João Manuel A. Bueno",
+    "predicate": "retrata",
+    "object": "cortina",
+    "g_id": 0
+  },
+  {
+    "reference_id": "8c623c8eb7f9182ba64fe47a99326f980879efcc",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Ione_Papas&oldid=44444661",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Ione_Papas&oldid=44444661"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q19709965-CE2B937F-4589-4B46-856B-DFBC259F7CF7",
+    "subject": "Ione Papas",
+    "predicate": "género artístico",
+    "object": "samba",
+    "g_id": 0
+  },
+  {
+    "reference_id": "6700b8b4ab5965a7a555363233ebe92e973c55e8",
+    "url": "http://www.interfilmes.com/filme_24557_A.Ocasiao.Faz.o.Ladrao-(Henry.s.Crime).html",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://www.interfilmes.com/filme_24557_A.Ocasiao.Faz.o.Ladrao-(Henry.s.Crime).html",
+      "retrieved": "time:>+2016-04-27T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "q127414-5E57E63B-034D-410E-B2FF-CB105A6A512F",
+    "subject": "Henry’s Crime",
+    "predicate": "protagonistas",
+    "object": "Judy Greer",
+    "g_id": 0
+  },
+  {
+    "reference_id": "f86ead99efee948d84b636add1610189d627075c",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Liga_dos_Campeões_de_Futebol_Feminino_da_UEFA_de_2011–12&oldid=52484178",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Liga_dos_Campeões_de_Futebol_Feminino_da_UEFA_de_2011–12&oldid=52484178"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q2296826-EABEB77F-A70F-4CD4-A010-F67ED22F0792",
+    "subject": "Liga dos Campeões de Futebol Feminino da UEFA de 2011–12",
+    "predicate": "número de pontos, acertos ou gols/golos marcados",
+    "object": "427",
+    "g_id": 0
+  },
+  {
+    "reference_id": "5de4bfdb7209b4436508e07835fb572b89ba290c",
+    "url": "https://www.cedefes.org.br/projetos_realizados-107/",
+    "ref_node_pairs": {
+      "reference URL": "url:>https://www.cedefes.org.br/projetos_realizados-107/"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q68613795-a43461fa-4b62-a7d4-16d2-e80643ec5374",
+    "subject": "Quilombo dos Arturos",
+    "predicate": "instância de",
+    "object": "Quilombo",
+    "g_id": 0
+  },
+  {
+    "reference_id": "b9303c6fc84d82186c940d1248b9f6be265367ca",
+    "url": "https://especiais.gazetadopovo.com.br/eleicoes/2018/resultados/eleitos-deputado-distrital-df-quem-ganhou/",
+    "ref_node_pairs": {
+      "reference URL": "url:>https://especiais.gazetadopovo.com.br/eleicoes/2018/resultados/eleitos-deputado-distrital-df-quem-ganhou/",
+      "retrieved": "time:>+2018-11-26T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q59210963-59B12CE9-3CF0-41DF-999C-74713EEF99C0",
+    "subject": "Professor Reginaldo Veras",
+    "predicate": "cargo ocupado",
+    "object": "deputado distrital do Distrito Federal",
+    "g_id": 0
+  },
+  {
+    "reference_id": "8bd701fffb5ae9acc72fc258f333f6842afe775c",
+    "url": "http://museus.cultura.gov.br/espaco/8781",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://museus.cultura.gov.br/espaco/8781"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q10333443-559BEA4F-32BA-41E9-97B6-BC79E340D4AB",
+    "subject": "Museu Câmara Cascudo",
+    "predicate": "localizado no endereço",
+    "object": "Avenida Hermes da Fonseca 1398, Tirol, 59020-650, Natal, RN",
+    "g_id": 0
+  },
+  {
+    "reference_id": "95374fbdcc9a69728f08dbecbc1b0e3818c79d45",
+    "url": "http://divulgacandcontas.tse.jus.br/divulga/#/candidato/2012/1699/62138/250000003101",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://divulgacandcontas.tse.jus.br/divulga/#/candidato/2012/1699/62138/250000003101"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q64833347-81DF75F4-4C61-447B-B6C6-0231BEFDE7A1",
+    "subject": "Alcides Munhoz Junior",
+    "predicate": "sexo ou género",
+    "object": "masculino",
+    "g_id": 0
+  },
+  {
+    "reference_id": "3509853dd3caead3078f9a7e45a7a958090cf728",
+    "url": "http://divulgacandcontas.tse.jus.br/divulga/#/candidato/2016/2/43656/130000020785",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://divulgacandcontas.tse.jus.br/divulga/#/candidato/2016/2/43656/130000020785"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q61992834-C75FCB3D-6F1B-4D6B-ABEA-65602F8F8C81",
+    "subject": "Juntos Por Lafaiete",
+    "predicate": "composto de",
+    "object": "Podemos",
+    "g_id": 0
+  },
+  {
+    "reference_id": "97e6eb73e695aa0cdc7025048cbddfcb71edb0e0",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Campeonato_Amazonense_de_Futebol_de_2007_-_Segunda_Divisão&oldid=53800296",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Campeonato_Amazonense_de_Futebol_de_2007_-_Segunda_Divisão&oldid=53800296"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q9676281-70EE23FE-1D73-4F94-A24E-F0976C602E5C",
+    "subject": "Campeonato Amazonense de Futebol de 2007 - Segunda Divisão",
+    "predicate": "sucedido por",
+    "object": "Campeonato Amazonense de Futebol de 2008 - Segunda Divisão",
+    "g_id": 0
+  },
+  {
+    "reference_id": "f735720dc0cfa82b34232add2087516b5160422f",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Suffocation&oldid=56448927",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Suffocation&oldid=56448927"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q269450-FCB01C97-2DB6-420F-AC58-94D43BE0185D",
+    "subject": "Suffocation",
+    "predicate": "work period (start)",
+    "object": "1988-01-01T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "bceb9b1be5f7082e98e20c9d694bb14b5c1e7136",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Kickin'_It&oldid=53569101",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Kickin'_It&oldid=53569101"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q111756-FC22149E-8D1B-4CD2-B89D-628973572495",
+    "subject": "Kickin' It",
+    "predicate": "empresa de produção",
+    "object": "It's a Laugh Productions",
+    "g_id": 0
+  },
+  {
+    "reference_id": "78d18f88b2bd1223335f6b91f16c47ffc3724616",
+    "url": "http://divulgacandcontas.tse.jus.br/divulga/#/candidato/2016/2/24350/170000013575",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://divulgacandcontas.tse.jus.br/divulga/#/candidato/2016/2/24350/170000013575"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q61879935-F3A16EF2-7737-40F8-B123-4171773D4E30",
+    "subject": "Aristoteles Jose de Souza Silva",
+    "predicate": "ocupação",
+    "object": "mercador",
+    "g_id": 0
+  },
+  {
+    "reference_id": "0e833fde3a9177bd53f44080b5bd7a47588b0ffb",
+    "url": "https://especiais.gazetadopovo.com.br/eleicoes/2018/resultados/eleitos-deputado-estadual-sc-quem-ganhou/",
+    "ref_node_pairs": {
+      "reference URL": "url:>https://especiais.gazetadopovo.com.br/eleicoes/2018/resultados/eleitos-deputado-estadual-sc-quem-ganhou/",
+      "retrieved": "time:>+2018-11-27T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q17489957-BFAB51E5-17F2-4387-B707-095CAB77A9C0",
+    "subject": "Luciane Carminatti",
+    "predicate": "cargo ocupado",
+    "object": "deputado estadual de Santa Catarina",
+    "g_id": 0
+  },
+  {
+    "reference_id": "3229521f2b568348f6de9c323659e9cbae87bb31",
+    "url": "http://www.lexmagister.com.br/legis_27289267_DECRETO_DE_30_DE_JANEIRO_DE_2017.aspx",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://www.lexmagister.com.br/legis_27289267_DECRETO_DE_30_DE_JANEIRO_DE_2017.aspx"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q26036340-22dce928-4249-113e-1f43-64c9b3c7bc83",
+    "subject": "Christophe Prazuck",
+    "predicate": "distinção",
+    "object": "Ordem do Mérito Naval",
+    "g_id": 0
+  },
+  {
+    "reference_id": "492b2f76a8d908cca11202d2eba9886d2a5ab413",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Copa_da_Escócia_de_1973–74&oldid=55437581",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Copa_da_Escócia_de_1973–74&oldid=55437581"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q4575951-FC28F0DA-8CDD-4FE7-B7DF-9EC75D67692A",
+    "subject": "Copa da Escócia 1973-74",
+    "predicate": "vencido por",
+    "object": "Celtic Football Club",
+    "g_id": 0
+  },
+  {
+    "reference_id": "55979f486689ecdb2b173dec95ba2d1c6ea35cba",
+    "url": "https://www1.folha.uol.com.br/esporte/2018/05/jhawilla-delator-do-escandalo-da-fifa-morre-em-sao-paulo.shtml?utm_source=twitter&utm_medium=social&utm_campaign=twfolha",
+    "ref_node_pairs": {
+      "reference URL": "url:>https://www1.folha.uol.com.br/esporte/2018/05/jhawilla-delator-do-escandalo-da-fifa-morre-em-sao-paulo.shtml?utm_source=twitter&utm_medium=social&utm_campaign=twfolha"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q19994641-44d75edd-474a-cd64-2ea5-d26ee3bd4547",
+    "subject": "J.Hawilla",
+    "predicate": "causa da morte",
+    "object": "insuficiência respiratória",
+    "g_id": 0
+  },
+  {
+    "reference_id": "07475770a2578cc7a7ef35f14df6f8f6e92cb9dd",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Gorefest&oldid=56443637",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Gorefest&oldid=56443637"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q954348-EDDF3F58-1B02-4D42-B198-4278EB11A5DB",
+    "subject": "Gorefest",
+    "predicate": "work period (start)",
+    "object": "1989-01-01T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "05609e595c2d87bfda6e4fb40d66f6fd4272b698",
+    "url": "http://www.saopaulo.sp.leg.br/vereador/ota/",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://www.saopaulo.sp.leg.br/vereador/ota/"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q56195601-715528BE-779A-453F-9AC9-FF5F8CDD20D9",
+    "subject": "Ota",
+    "predicate": "página inicial oficial",
+    "object": "http://www.vereadorota.com.br/",
+    "g_id": 0
+  },
+  {
+    "reference_id": "c7df17a827a7183b20ddd3fc429f4adeda2a3c16",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Vanessa_Damo&oldid=56208905",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Vanessa_Damo&oldid=56208905"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q10389064-2018E648-B030-44DA-9386-CC707E50FE07",
+    "subject": "Vanessa Damo",
+    "predicate": "cargo ocupado",
+    "object": "vereador",
+    "g_id": 0
+  },
+  {
+    "reference_id": "fc9c999ad6502a16572dc55e4c1426449e4e66b0",
+    "url": "https://enciclopedia.itaucultural.org.br/pessoa635593/bonfiglio-de-oliveira",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Enciclopédia Itaú Cultural->Q41599984",
+      "Itaú Cultural ID": "value:>pessoa635593/bonfiglio-de-oliveira",
+      "named as": "value:>Bonfiglio de Oliveira",
+      "retrieved": "time:>+2017-10-09T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q9661385-103A3B21-DF07-45F1-B052-2C61272E6B70",
+    "subject": "Bonfiglio de Oliveira",
+    "predicate": "data de morte",
+    "object": "1940-05-16T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "a31332f72eb210a8470ff8d79d271b407ed1d69d",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Campeonato_Cearense_de_Futebol_de_1941&oldid=53242353",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Campeonato_Cearense_de_Futebol_de_1941&oldid=53242353"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q16143857-79F6FCDC-7385-4D5E-9D4A-CE71CD3634DF",
+    "subject": "Campeonato Cearense de Futebol de 1941",
+    "predicate": "vencido por",
+    "object": "Ceará Sporting Club",
+    "g_id": 0
+  },
+  {
+    "reference_id": "3f7863bc309cd64a0a56fd9cbf0d5ec59d15caaa",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Esporte_Clube_Mamoré&oldid=56533884",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Esporte_Clube_Mamoré&oldid=56533884"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q5399107-7D57A844-2650-464D-AD84-DB9A2B51FEB4",
+    "subject": "Esporte Clube Mamoré",
+    "predicate": "página inicial oficial",
+    "object": "http://www.mamore.net.br/",
+    "g_id": 0
+  },
+  {
+    "reference_id": "9f35d2ea7e0fd6ee2828b90547dad92b8b6ade95",
+    "url": "http://acervo.mp.usp.br/IconografiaV2.aspx",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Museu Paulista collection catalog->Q87513189",
+      "retrieved": "time:>+2020-04-10T00:00:00Z",
+      "inventory number": "value:>1-22953-0002-0006"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q90333261-A25DF630-644D-4290-9273-34E25DF58148",
+    "subject": "Biplano 14 Bis",
+    "predicate": "material utilizado",
+    "object": "tricromia",
+    "g_id": 0
+  },
+  {
+    "reference_id": "6b9dbf985592f3f264ce0c1e0d3d23f1c85ca116",
+    "url": "https://pt.wikipedia.org/w/index.php?title=My_Name_Is_Khan&oldid=54173998",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=My_Name_Is_Khan&oldid=54173998"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q330663-B97C2D5C-64DC-44DE-8D75-D1CB3C019A7A",
+    "subject": "My Name Is Khan",
+    "predicate": "página inicial oficial",
+    "object": "http://mynameiskhanthefilm.com/",
+    "g_id": 0
+  },
+  {
+    "reference_id": "efc79af803ece3b8540ba16b01d5ba64a405b6eb",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Copa_do_Brasil_de_Futsal_de_2019&oldid=56604099",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Copa_do_Brasil_de_Futsal_de_2019&oldid=56604099"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q65173340-43FF4730-BA63-4202-8F66-21693970E0EA",
+    "subject": "Copa do Brasil de Futsal de 2019",
+    "predicate": "número de pontos, acertos ou gols/golos marcados",
+    "object": "178",
+    "g_id": 0
+  },
+  {
+    "reference_id": "88950588c1a9a9e4eab3e6c1ef52f037a84cd52c",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Luiz_Rogério_de_Souza&oldid=56389541",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Luiz_Rogério_de_Souza&oldid=56389541"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q10320853-7F364D69-6D52-45E6-9EBD-21FDAFAE24D1",
+    "subject": "Luiz Rogério de Souza",
+    "predicate": "membro do partido político",
+    "object": "Partido Libertador",
+    "g_id": 0
+  },
+  {
+    "reference_id": "52a6d178395450533efc32e0d3e93c018490667d",
+    "url": "http://www.uac.pt",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://www.uac.pt",
+      "retrieved": "time:>+2019-05-22T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q1461089-58006699-DAC9-4421-8BAB-155CB715F5A0",
+    "subject": "Universidade dos Açores",
+    "predicate": "identificador no Facebook",
+    "object": "uac.reitoria",
+    "g_id": 0
+  },
+  {
+    "reference_id": "06bab0bf4135ac7baadc7fcb62c600089b57b531",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Taça_de_Angola_de_Hóquei_em_Patins_de_2015&oldid=55266350",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Taça_de_Angola_de_Hóquei_em_Patins_de_2015&oldid=55266350"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q28677627-7B090EFE-F64F-4F53-84A9-37E1663DA9CF",
+    "subject": "Taça de Angola de Hóquei em Patins de 2015",
+    "predicate": "data inicial",
+    "object": "2015-10-15T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "1943e0093f3d1e34b888e1952e8afe3afbcd710f",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4183031",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PMCID": "value:>4183031",
+      "retrieved": "time:>+2017-11-11T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q30428595-FEC97278-A9AE-4F3D-A826-4CBBC384AF89",
+    "subject": "Auditory steady state response in hearing assessment in infants with cytomegalovirus.",
+    "predicate": "nome do autor",
+    "object": "Jair Cortez Montovani",
+    "g_id": 0
+  },
+  {
+    "reference_id": "7066b93b9e242b1e5e515b3856cf21740e55902a",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Jerzy_Zbrozek&oldid=50158692",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Jerzy_Zbrozek&oldid=50158692"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q56354707-E35A5E2A-225B-47D8-BA19-26EA6626F60D",
+    "subject": "Jerzy Zbrozek",
+    "predicate": "local de nascimento",
+    "object": "São Petersburgo",
+    "g_id": 0
+  },
+  {
+    "reference_id": "e00f9512d406c504b6128a0c9ef3ea18af193977",
+    "url": "http://acervo.mp.usp.br/IconografiaV2.aspx",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Museu Paulista collection catalog->Q87513189",
+      "retrieved": "time:>+2020-04-07T00:00:00Z",
+      "inventory number": "value:>1-06-04-000-08091-00-00"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q89809996-5F42E081-E1B6-413E-814F-37F70D848C61",
+    "subject": "Estufa para Ferro de Passar",
+    "predicate": "material utilizado",
+    "object": "metal",
+    "g_id": 0
+  },
+  {
+    "reference_id": "082d62b8c93df6297dc29f5efb75c7ad0e8138e0",
+    "url": "http://www.adorocinema.com/filmes/filme-46542/",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://www.adorocinema.com/filmes/filme-46542/",
+      "retrieved": "time:>+2016-07-07T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "q156519-2F50A5A0-04C7-4AB6-82F8-2D81AF9D5A5D",
+    "subject": "Around the World in 80 Days",
+    "predicate": "diretor",
+    "object": "Frank Coraci",
+    "g_id": 0
+  },
+  {
+    "reference_id": "8b9693dab3a995eafeeb7782040b5bb9f6998f02",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Catedral_Nossa_Senhora_de_Fátima&oldid=55528884",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Catedral_Nossa_Senhora_de_Fátima&oldid=55528884"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q9709826-CEFEAFB4-0EF1-4F35-B4BA-2BD96BD38C79",
+    "subject": "Catedral Nossa Senhora de Fátima",
+    "predicate": "data de fundação ou criação",
+    "object": "1983-01-01T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "9ad3d3966d5d2ba17849b32bea27a04daae9d5ff",
+    "url": "http://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q2386422-b8ecd593-4d18-d624-aebf-ffc7b849debe",
+    "subject": "Constituição brasileira de 1988",
+    "predicate": "país",
+    "object": "Brasil",
+    "g_id": 0
+  },
+  {
+    "reference_id": "ebf0d3237654a15f93bd2fc58f4891f2e7990036",
+    "url": "http://divulgacandcontas.tse.jus.br/divulga/#/candidato/2012/1699/21750/150000008443",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://divulgacandcontas.tse.jus.br/divulga/#/candidato/2012/1699/21750/150000008443"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q64848980-D0213AD2-A82E-4E85-B9B0-F8B772F78AB9",
+    "subject": "João Batista Gomes de Lima Júnior",
+    "predicate": "instância de",
+    "object": "ser humano",
+    "g_id": 0
+  },
+  {
+    "reference_id": "8e36d3e835962cd0aa172fe13bd7782c54c97c89",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Benê_Zambonetti&oldid=52611250",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Benê_Zambonetti&oldid=52611250"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q16497701-58C0AA4A-6C43-4265-B307-EFD3D3C2AC74",
+    "subject": "Benê Zambonetti",
+    "predicate": "género artístico",
+    "object": "música popular brasileira",
+    "g_id": 0
+  },
+  {
+    "reference_id": "e18dfcba321897428f53aca30f8b318237e10b4d",
+    "url": "https://www.grid.ac/institutes/grid.418068.3",
+    "ref_node_pairs": {
+      "GRID ID": "value:>grid.418068.3",
+      "retrieved": "time:>+2017-12-14T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q2474815-3813FB22-0A81-407B-8D38-E2497EC3EC07",
+    "subject": "Fundação Oswaldo Cruz",
+    "predicate": "subsidiária",
+    "object": "Centro de Pesquisas Aggeu Magalhães, Fundação Oswaldo Cruz",
+    "g_id": 0
+  },
+  {
+    "reference_id": "36939580d98f0e849e22adb71f8a3426ddd66c5d",
+    "url": "http://acervo.mp.usp.br/IconografiaV2.aspx",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Museu Paulista collection catalog->Q87513189",
+      "retrieved": "time:>+2020-04-10T00:00:00Z",
+      "inventory number": "value:>1-14963-0000-0000"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q90302601-4BA61E9F-054D-4F0D-8C49-A7B444B895FE",
+    "subject": "Visite Ouro Preto - Minas Gerais - Brasil",
+    "predicate": "coleção",
+    "object": "Coleção Cartões Postais",
+    "g_id": 0
+  },
+  {
+    "reference_id": "7151f6fea8414359f8dd674799200108da0d4b53",
+    "url": "http://acervo.mp.usp.br/IconografiaV2.aspx",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Museu Paulista collection catalog->Q87513189",
+      "retrieved": "time:>+2020-04-10T00:00:00Z",
+      "inventory number": "value:>1-14607-0000-0000"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q90311246-98590B86-7E36-4166-AB0F-FC1B111755EF",
+    "subject": "Panorama, Franca (1)",
+    "predicate": "coleção",
+    "object": "Coleção Cartões Postais",
+    "g_id": 0
+  },
+  {
+    "reference_id": "a0a72dc2aab9ce2ef885b40f0ea4c3c450308614",
+    "url": "http://divulgacandcontas.tse.jus.br/divulga/#/candidato/2016/2/79278/160000036143",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://divulgacandcontas.tse.jus.br/divulga/#/candidato/2016/2/79278/160000036143"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q61880382-6ADE2F4F-6CA1-4B53-9D65-D7D38A06C778",
+    "subject": "Nilson Fernandes de Aguiar",
+    "predicate": "local de nascimento",
+    "object": "Toledo",
+    "g_id": 0
+  },
+  {
+    "reference_id": "ffb50fd7a53104f155446d0acf128cc725a3a394",
+    "url": "https://www.camara.leg.br/deputados/74304/biografia",
+    "ref_node_pairs": {
+      "reference URL": "url:>https://www.camara.leg.br/deputados/74304/biografia",
+      "retrieved": "time:>+2019-11-10T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q10349842-3F49FC44-7AB1-4A6D-9F96-833F7B186C96",
+    "subject": "Pinheiro Landim",
+    "predicate": "ocupação",
+    "object": "político",
+    "g_id": 0
+  },
+  {
+    "reference_id": "535b02d27219edcc51f2145c9cec2d303a9ed193",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Campeonato_Cearense_de_Futebol_de_1992&oldid=55689358",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Campeonato_Cearense_de_Futebol_de_1992&oldid=55689358"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q16144796-0283392E-39E3-4F9B-A277-37C7BC56FB23",
+    "subject": "Campeonato Cearense de Futebol de 1992",
+    "predicate": "vencido por",
+    "object": "Ceará Sporting Club",
+    "g_id": 0
+  },
+  {
+    "reference_id": "05e55b8bdca1959212b4de7480ec5c822a6f2370",
+    "url": "http://memoriasdaditadura.org.br/biografias-da-resistencia/frei-tito-de-alencar-lima/",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>English Wikipedia->Q328",
+      "reference URL": "url:>http://comissaodaverdade.al.sp.gov.br/mortos-desaparecidos/tito-de-alencar-lima"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q1140109-BB81D208-CDC7-4BCE-A553-2EC0A335F240",
+    "subject": "Tito de Alencar Lima",
+    "predicate": "data de morte",
+    "object": "1974-08-10T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "9da3d1501ea6fb6cb1eb9cd925075eb0b933b6b4",
+    "url": "https://enciclopedia.itaucultural.org.br/pessoa22571/auguste-petit",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Enciclopédia Itaú Cultural->Q41599984",
+      "Itaú Cultural ID": "value:>pessoa22571/auguste-petit",
+      "named as": "value:>Auguste Petit",
+      "retrieved": "time:>+2017-10-09T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q25973191-44db7346-4e24-9a2a-3765-c4aab0583d57",
+    "subject": "Auguste Petit",
+    "predicate": "data de nascimento",
+    "object": "1844-06-12T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "66433e53081bc32f5ba546a4c125b259fc8d9439",
+    "url": "http://justica.gov.br/news/confira-os-filmes-que-entram-em-cartaz-nos-cinemas-esta-semana.4",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://justica.gov.br/news/confira-os-filmes-que-entram-em-cartaz-nos-cinemas-esta-semana.4"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q28101361-4D9896AD-30C2-4159-AB50-670FC5D1E932",
+    "subject": "Film Stars Don't Die in Liverpool",
+    "predicate": "ClassInd category",
+    "object": "12",
+    "g_id": 0
+  },
+  {
+    "reference_id": "c17f053553793587665e75d47f5a75dc6fb6fd5e",
+    "url": "http://www.desaparecidospoliticos.org.br/pessoa.php?id=241",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://www.desaparecidospoliticos.org.br/pessoa.php?id=241"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q63071193-b0fa4e75-4ef0-0e6d-db78-12789b8dab52",
+    "subject": "Ângelo Pezzuti da Silva",
+    "predicate": "local de morte",
+    "object": "Paris",
+    "g_id": 0
+  },
+  {
+    "reference_id": "b78b9267b7a3860269c7fc9bcb4ae831e0a0d57a",
+    "url": "http://www.adorocinema.com/filmes/filme-143692/",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://www.adorocinema.com/filmes/filme-143692/",
+      "retrieved": "time:>+2016-04-11T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "q25188-63A635C4-638B-4D44-AED4-8AB033C28731",
+    "subject": "A Origem",
+    "predicate": "diretor",
+    "object": "Christopher Nolan",
+    "g_id": 0
+  },
+  {
+    "reference_id": "4d3090b27f47927896dd5cdc325ba5468dfe8414",
+    "url": "https://masp.org.br/acervo/obra/o-jagunco",
+    "ref_node_pairs": {
+      "reference URL": "url:>https://masp.org.br/acervo/obra/o-jagunco",
+      "retrieved": "time:>+2018-02-22T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q49857225-1D934850-1CB6-4CEC-B6F0-F8ED8ED06802",
+    "subject": "O jagunço",
+    "predicate": "instância de",
+    "object": "pintura",
+    "g_id": 0
+  },
+  {
+    "reference_id": "c5e1a7f9675793db3d347b352771d80aa83cc56c",
+    "url": "http://acervo.mp.usp.br/IconografiaV2.aspx",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Museu Paulista collection catalog->Q87513189",
+      "retrieved": "time:>+2020-04-10T00:00:00Z",
+      "inventory number": "value:>1-22822-0244-0293"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q90182384-BD44C7E5-A0EA-40AC-B701-6F6E4B646149",
+    "subject": "Carroças em uma Vila",
+    "predicate": "coleção",
+    "object": "Coleção Família Pacheco e Chaves",
+    "g_id": 0
+  },
+  {
+    "reference_id": "e79c2d995d158009408b625a00cdfc11d2140f85",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Court_House_Crooks&oldid=39651260",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Court_House_Crooks&oldid=39651260"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q5178238-AFE6AB3B-C57A-4F1B-A4C6-109B77E6C103",
+    "subject": "Court House Crooks",
+    "predicate": "distribuidor",
+    "object": "Mutual Film Corporation",
+    "g_id": 0
+  },
+  {
+    "reference_id": "30cc4ee8f7356ac2061859a8eefe43492ed77cf5",
+    "url": "http://divulgacandcontas.tse.jus.br/divulga/#/candidato/2016/2/13854/60000014959",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://divulgacandcontas.tse.jus.br/divulga/#/candidato/2016/2/13854/60000014959"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q61892115-999147C3-2153-4440-B2E1-48B18F98AA5D",
+    "subject": "Vicencia Leandro Pinheiro",
+    "predicate": "sexo ou género",
+    "object": "feminino",
+    "g_id": 0
+  },
+  {
+    "reference_id": "9d7bd938cf1fb42829cf0002236b10236c9aa39c",
+    "url": "http://www2.camara.leg.br/atividade-legislativa/legislacao/Constituicoes_Brasileiras/constituicao-cidada/constituintes/parlamentaresconstituintes/senadores-constituintes",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://www2.camara.leg.br/atividade-legislativa/legislacao/Constituicoes_Brasileiras/constituicao-cidada/constituintes/parlamentaresconstituintes/senadores-constituintes"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q2386422-18918BE4-810E-485B-9062-FADE9020362D",
+    "subject": "Constituição brasileira de 1988",
+    "predicate": "signatário",
+    "object": "João Calmon",
+    "g_id": 0
+  },
+  {
+    "reference_id": "55e063e0117dd24ac392b8179448576ca33d17cf",
+    "url": "http://museus.cultura.gov.br/espaco/6631",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://museus.cultura.gov.br/espaco/6631"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q56695069-1C42F881-F96D-4570-97B4-695038390800",
+    "subject": "Oca da Memória",
+    "predicate": "localizado no endereço",
+    "object": "Rua dos Kalabaças e Tabajaras s/n, Jardim das Oliveiras, 62220-000, Poranga, CE",
+    "g_id": 0
+  },
+  {
+    "reference_id": "9f814b6ddd39b561184f6e2b781208fc235df8c6",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Estádio_Governador_Ernani_Sátyro&oldid=56390542",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Estádio_Governador_Ernani_Sátyro&oldid=56390542"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q975748-BA272F91-6F08-46CC-AD26-97092723BCA3",
+    "subject": "Estádio Governador Ernani Sátyro",
+    "predicate": "data de abertura oficial",
+    "object": "1975-03-08T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "06c7fabfa8d502b91a641f3561aaff9ba0b8de6f",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Copa_São_Paulo_de_Futebol_Júnior_de_1986&oldid=54738304",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Copa_São_Paulo_de_Futebol_Júnior_de_1986&oldid=54738304"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q16144185-B8C28753-B1CA-49C6-9069-F5AC853707B1",
+    "subject": "Copa São Paulo de Futebol Júnior de 1986",
+    "predicate": "número de participantes",
+    "object": "32",
+    "g_id": 0
+  },
+  {
+    "reference_id": "1f56ed1d776ec1f0b9cb024951b4a42e57e5f8ca",
+    "url": "https://hdl.handle.net/2099/8886",
+    "ref_node_pairs": {
+      "Handle ID": "value:>2099/8886"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q87190517-B6B62000-8F3B-4F07-B269-95B1E3D6CC29",
+    "subject": "Alternativas para a medida do erro na representação do carregamento no método da superposição de vetores de Lanczos",
+    "predicate": "instância de",
+    "object": "artigo científico",
+    "g_id": 0
+  },
+  {
+    "reference_id": "9a5ddb3f0481f60287cf5b1ae2e94184a39ee9af",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Bandeira_da_província_de_Neuquén&oldid=47778297",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Bandeira_da_província_de_Neuquén&oldid=47778297"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q9646176-0E7777DD-4C00-465E-A283-4BB9DAB08D24",
+    "subject": "Bandeira da província de Neuquén",
+    "predicate": "data de fundação ou criação",
+    "object": "1989-10-31T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "8c014c114ebbf990e61e89155ae7879bb259462d",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Agatha_Parrot&oldid=43830483",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Agatha_Parrot&oldid=43830483"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q16143123-AE4F4F18-4774-44A0-AFFF-90C8BB6DF4A3",
+    "subject": "Agatha Parrot",
+    "predicate": "criador",
+    "object": "Kjartan Poskitt",
+    "g_id": 0
+  },
+  {
+    "reference_id": "ec6689496845efa24c7cd25d7ac94297f1c74f89",
+    "url": "https://www.almg.gov.br/consulte/info_sobre_minas/index.html?aba=js_tabMunicipios&sltMuni=150",
+    "ref_node_pairs": {
+      "reference URL": "url:>https://www.almg.gov.br/consulte/info_sobre_minas/index.html?aba=js_tabMunicipios&sltMuni=150"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q1793175-4449f6f8-4838-e350-3d75-a7818d4f416b",
+    "subject": "Cássia",
+    "predicate": "faz fronteira com",
+    "object": "Itaú de Minas",
+    "g_id": 0
+  },
+  {
+    "reference_id": "4fc58d21dca6c0e5158dfd5e163ba59b95bd61a7",
+    "url": "http://divulgacandcontas.tse.jus.br/divulga/#/candidato/2012/1699/81752/240000004547",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://divulgacandcontas.tse.jus.br/divulga/#/candidato/2012/1699/81752/240000004547"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q64847963-C40811C3-1F72-440A-9CED-CCB96BF36F4F",
+    "subject": "Niura Sandra Demarchi dos Santos",
+    "predicate": "ocupação",
+    "object": "empreendedor",
+    "g_id": 0
+  },
+  {
+    "reference_id": "323141ee363a0b2c5d2860a13691ccf417a78894",
+    "url": "http://justica.gov.br/noticias/confira-as-proximas-estreias-no-cinema-brasileiros",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://justica.gov.br/noticias/confira-as-proximas-estreias-no-cinema-brasileiros"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q23893071-A494D010-ADD7-4842-BB13-BED11764B1FD",
+    "subject": "Mr. Gaga",
+    "predicate": "ClassInd category",
+    "object": "L",
+    "g_id": 0
+  },
+  {
+    "reference_id": "679d9d9cf694ca25a81df2e71a2cab24f61c326d",
+    "url": "http://divulgacandcontas.tse.jus.br/divulga/#/candidato/2012/1699/70793/250000067504",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://divulgacandcontas.tse.jus.br/divulga/#/candidato/2012/1699/70793/250000067504"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q64848754-D3F41356-CBD3-4600-BA52-197E8DED7DD4",
+    "subject": "Idelso Marques de Souza",
+    "predicate": "membro do partido político",
+    "object": "Partido Humanista da Solidariedade",
+    "g_id": 0
+  },
+  {
+    "reference_id": "c87dc6757fa28c702358711a242ffdb687de84fc",
+    "url": "http://acervo.mp.usp.br/IconografiaV2.aspx",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Museu Paulista collection catalog->Q87513189",
+      "retrieved": "time:>+2020-04-07T00:00:00Z",
+      "inventory number": "value:>1-07-03-000-05284-00-00"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q89816568-80CB65F2-D412-42A2-89A7-8D0AEB83B7D2",
+    "subject": "Prato Fundo",
+    "predicate": "instância de",
+    "object": "objeto",
+    "g_id": 0
+  },
+  {
+    "reference_id": "7b4b400eddfa62f4d9ac21dcc56299e2d0e70cee",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Jamba_(produtor_musical)&oldid=54933722",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Jamba_(produtor_musical)&oldid=54933722"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q10305042-B9C313AC-F41C-492A-899B-A9DAC99CDCC5",
+    "subject": "Jammes \"Jamba\" Castro",
+    "predicate": "género artístico",
+    "object": "jazz",
+    "g_id": 0
+  },
+  {
+    "reference_id": "8763b7c7bd16b20490647374d7de2dfa7d9388ed",
+    "url": "https://enciclopedia.itaucultural.org.br/pessoa359400/robert-rauschenberg",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Enciclopédia Itaú Cultural->Q41599984",
+      "Itaú Cultural ID": "value:>pessoa359400/robert-rauschenberg",
+      "named as": "value:>Robert Rauschenberg",
+      "retrieved": "time:>+2017-10-09T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "q164358-1453E4FC-A31F-42B9-A91F-D74CDF7E94B3",
+    "subject": "Robert Rauschenberg",
+    "predicate": "data de nascimento",
+    "object": "1925-10-22T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "5c7e712bd3fc778ea36bb9151182624eb30d6a0d",
+    "url": "http://divulgacandcontas.tse.jus.br/divulga/#/candidato/2012/1699/62294/250000067554",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://divulgacandcontas.tse.jus.br/divulga/#/candidato/2012/1699/62294/250000067554"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q64846931-CDF4D942-0A85-45A7-9CAB-CDC6D27453EE",
+    "subject": "Rogério Guilhen",
+    "predicate": "data de nascimento",
+    "object": "1970-03-02T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "61dd5699373b5693971f0d9a59f023377c49ff95",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Campeonato_Amazonense_de_Futebol_de_2008_-_Série_B&oldid=54643703",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Campeonato_Amazonense_de_Futebol_de_2008_-_Série_B&oldid=54643703"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q9676286-138DA80E-0633-4BCB-8121-931B289A31CB",
+    "subject": "Campeonato Amazonense de Futebol de 2008 - Série B",
+    "predicate": "vencido por",
+    "object": "Atlético Rio Negro Clube (Amazonas)",
+    "g_id": 0
+  },
+  {
+    "reference_id": "cbee91806240f9308e5216f332c6f5f18cc8169d",
+    "url": "http://enciclopedia.itaucultural.org.br/pessoa8666/carmela-gross",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://enciclopedia.itaucultural.org.br/pessoa8666/carmela-gross"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q42534215-b236bb41-4e44-beaf-be51-9a183c40a658",
+    "subject": "Carmela Gross",
+    "predicate": "data de nascimento",
+    "object": "1946-02-16T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "e326f6c0256faa44d66811d10d6efc9ef2d1bf6a",
+    "url": "http://divulgacandcontas.tse.jus.br/divulga/#/candidato/2012/1699/61727/250000011158",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://divulgacandcontas.tse.jus.br/divulga/#/candidato/2012/1699/61727/250000011158"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q64862034-E531CC83-75C4-44EE-B69F-934DFBC657BB",
+    "subject": "Edivaldo Sousa Araújo",
+    "predicate": "país de nacionalidade",
+    "object": "Brasil",
+    "g_id": 0
+  },
+  {
+    "reference_id": "f5b2bbb4fc1b6a3e7ee1ac333cf0e716db9cdf15",
+    "url": "http://acervo.mp.usp.br/IconografiaV2.aspx",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Museu Paulista collection catalog->Q87513189",
+      "retrieved": "time:>+2020-04-07T00:00:00Z",
+      "inventory number": "value:>1-07-03-000-05747-01-02"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q89818561-57B9236C-0F1B-4685-A2A3-E1A84B52A75A",
+    "subject": "Xícara de Chá e Pires",
+    "predicate": "localização",
+    "object": "Museu Paulista",
+    "g_id": 0
+  },
+  {
+    "reference_id": "de68e8568c174ff9b0943a4f61a2c361455ced86",
+    "url": "http://divulgacandcontas.tse.jus.br/divulga/#/candidato/2012/1699/11533/180000010055",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://divulgacandcontas.tse.jus.br/divulga/#/candidato/2012/1699/11533/180000010055"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q64849844-F880AA73-4DC0-4D07-BCE7-346EB70446FE",
+    "subject": "João Batista Gonçalves de Sousa",
+    "predicate": "sexo ou género",
+    "object": "masculino",
+    "g_id": 0
+  },
+  {
+    "reference_id": "6613a48e26688437a713fb4cfbcbb56fb2d1a68b",
+    "url": "http://acervo.mp.usp.br/IconografiaV2.aspx",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Museu Paulista collection catalog->Q87513189",
+      "retrieved": "time:>+2020-04-07T00:00:00Z",
+      "inventory number": "value:>1-02-01-001-00658-00-00"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q89814061-AFD99802-1D2B-4875-8FC5-C665F434FE97",
+    "subject": "Medalha Esportiva - Coleção Genésio Luis da Silva",
+    "predicate": "coleção",
+    "object": "Coleção Genésio Luis da Silva",
+    "g_id": 0
+  },
+  {
+    "reference_id": "2f4b2b6f318e37adcedc8a3fec37eb29f9ff1d93",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Taça_Belo_Horizonte_de_Futebol_Júnior_de_1985&oldid=52824640",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Taça_Belo_Horizonte_de_Futebol_Júnior_de_1985&oldid=52824640"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q56346964-AF724108-0A6C-4FF6-95FA-53B1A1DC5E63",
+    "subject": "Taça Belo Horizonte de Futebol Júnior de 1985",
+    "predicate": "organizador",
+    "object": "Federação Mineira de Futebol",
+    "g_id": 0
+  },
+  {
+    "reference_id": "94399444a93a07136905310a103bb3f5ace17060",
+    "url": "https://filmow.com/rec-4-apocalipse-t24397/",
+    "ref_node_pairs": {
+      "reference URL": "url:>https://filmow.com/rec-4-apocalipse-t24397/",
+      "retrieved": "time:>+2016-05-22T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "q3928247-ED633FD7-C4D9-4775-B57B-59DFBEE1486F",
+    "subject": "REC 4: Apocalipsis",
+    "predicate": "diretor",
+    "object": "Jaume Balagueró",
+    "g_id": 0
+  },
+  {
+    "reference_id": "d45716f507a8a5721af29a536bf577c4a4c0436c",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Rachel_Novaes&oldid=55163262",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Rachel_Novaes&oldid=55163262"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q10356882-207B4A26-1A43-4BED-817E-ECF19DAD205D",
+    "subject": "Rachel Novaes",
+    "predicate": "género artístico",
+    "object": "música gospel",
+    "g_id": 0
+  },
+  {
+    "reference_id": "57a90ced020019b90d2764049fbf73bf69fc5692",
+    "url": "https://masp.org.br/acervo/obra/dois-cavaleiros",
+    "ref_node_pairs": {
+      "reference URL": "url:>https://masp.org.br/acervo/obra/dois-cavaleiros",
+      "retrieved": "time:>+2018-02-22T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q49867918-5575A43B-2A2D-490C-BC95-AF84EB396D15",
+    "subject": "Dois cavaleiros",
+    "predicate": "material utilizado",
+    "object": "tinta a óleo",
+    "g_id": 0
+  },
+  {
+    "reference_id": "f2ca4ad16c451453838e00631fadc922cb5ff5bc",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Aeroclube_de_São_Carlos&oldid=55346989",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Aeroclube_de_São_Carlos&oldid=55346989"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q16144840-E95EDB4A-AA3B-437A-9D3C-4252A32F4C33",
+    "subject": "Aeroclube de São Carlos",
+    "predicate": "página inicial oficial",
+    "object": "http://www.daesp.sp.gov.br/aeroporto-detalhe/?id=885",
+    "g_id": 0
+  },
+  {
+    "reference_id": "d2a11bcdf6d8eca4eb760febd192e4aefd6b21ac",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Segunda_Liga_de_2018–19&oldid=55204478",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Segunda_Liga_de_2018–19&oldid=55204478"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q54666384-A508477F-4517-46C8-BE6D-71A962620515",
+    "subject": "Segunda Liga de 2018–19",
+    "predicate": "número de participantes",
+    "object": "18",
+    "g_id": 0
+  },
+  {
+    "reference_id": "60e3c1d051423373d24e79ad4d522bbdac106948",
+    "url": "http://acervo.mp.usp.br/IconografiaV2.aspx",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Museu Paulista collection catalog->Q87513189",
+      "retrieved": "time:>+2020-04-07T00:00:00Z",
+      "inventory number": "value:>1-16-03-000-10373-00-05"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q89814771-B5B5CD13-9833-496D-BAF1-BBC1EC56D8B6",
+    "subject": "Molde (5)",
+    "predicate": "material utilizado",
+    "object": "papel",
+    "g_id": 0
+  },
+  {
+    "reference_id": "1ce838a2c54e2f67e6cb5e91bca4b8204a8c84dd",
+    "url": "http://acervo.mp.usp.br/IconografiaV2.aspx",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Museu Paulista collection catalog->Q87513189",
+      "retrieved": "time:>+2020-04-07T00:00:00Z",
+      "inventory number": "value:>1-05-02-000-03252-00-00"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q89812185-6604F318-594C-4A4C-9DD2-B076F2A23522",
+    "subject": "Cadeira",
+    "predicate": "coleção",
+    "object": "Coleção Museu Paulista",
+    "g_id": 0
+  },
+  {
+    "reference_id": "ae42845615402d11081a4654e346f49ee0a0fd00",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Oi!_Warning&oldid=38752864",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Oi!_Warning&oldid=38752864"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q883416-34EC43CD-14C1-4421-91B7-47C7A5789E5C",
+    "subject": "Oi! Warning",
+    "predicate": "página inicial oficial",
+    "object": "http://www.oiwarning.de/",
+    "g_id": 0
+  },
+  {
+    "reference_id": "940da6f1a4217c21a4f0a7bb4743a0c0e614577c",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Luzper_Esporte_Clube&oldid=27237598",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Luzper_Esporte_Clube&oldid=27237598"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q10321207-91F411E4-A36D-446F-91CC-AF2D8FA669AD",
+    "subject": "Luzper Esporte Clube",
+    "predicate": "sede",
+    "object": "Nova Andradina",
+    "g_id": 0
+  },
+  {
+    "reference_id": "106b32c820a67de0901f3bc5fac1133aba2d923c",
+    "url": "http://girp.uma.pt/download/Curriculo%20breve-Rcarita-2016-s%C3%A9%20do%20Funchal.pdf",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://girp.uma.pt/download/Curriculo%20breve-Rcarita-2016-s%C3%A9%20do%20Funchal.pdf"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q67605179-187fe20c-4fd8-531d-1149-210bc5d39667",
+    "subject": "Rui Carita",
+    "predicate": "data de nascimento",
+    "object": "1946-01-01T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "c330eec8daaccd763e402286c6bac36e8d6d9ee3",
+    "url": "http://acervo.mp.usp.br/IconografiaV2.aspx",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Museu Paulista collection catalog->Q87513189",
+      "retrieved": "time:>+2020-04-07T00:00:00Z",
+      "inventory number": "value:>1-02-01-001-00859-00-00"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q89809134-A0295C19-ED79-43D7-A4BC-0AADDB218346",
+    "subject": "Distintivo da Revolução de 32",
+    "predicate": "coleção",
+    "object": "Coleção Museu Paulista",
+    "g_id": 0
+  },
+  {
+    "reference_id": "a7da70c9c871364fbeea27c302a9b5419c204e70",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Tatata_Pimentel&oldid=51390272",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Tatata_Pimentel&oldid=51390272"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q10378319-78FA8E24-0E34-4014-B2F2-0D9BD502DF5A",
+    "subject": "Tatata Pimentel",
+    "predicate": "local de morte",
+    "object": "Porto Alegre",
+    "g_id": 0
+  },
+  {
+    "reference_id": "03d31072fe060addbb77162839d5fd9a0efe42fb",
+    "url": "http://www.cidadesglocais.org/index.php?municipio=45#.Wf68g5Rb7Dc",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://www.cidadesglocais.org/index.php?municipio=45#.Wf68g5Rb7Dc"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q189328-36626b9f-4f5c-8ec6-7dcf-e73d49755045",
+    "subject": "Lovech",
+    "predicate": "geminação",
+    "object": "Lotoshino",
+    "g_id": 0
+  },
+  {
+    "reference_id": "1ff6b7ea1232c85a6b298f1f0de0520e3892bc21",
+    "url": "http://data.bnf.fr/ark:/12148/cb11886950t",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>BnF authorities->Q19938912",
+      "Bibliothèque nationale de France ID": "value:>11886950t",
+      "reference URL": "url:>http://data.bnf.fr/ark:/12148/cb11886950t",
+      "retrieved": "time:>+2015-10-10T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q1152840-BA2C0953-82A2-40E0-B5E4-CFDB308EE129",
+    "subject": "João Cabral de Melo Neto",
+    "predicate": "línguas faladas",
+    "object": "português",
+    "g_id": 0
+  },
+  {
+    "reference_id": "94035ea57316db65088cfccf04ffd9eb37040749",
+    "url": "http://www.ipatrimonio.org/goiana-igreja-de-nossa-senhora-do-rosario-dos-pretos",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://www.ipatrimonio.org/goiana-igreja-de-nossa-senhora-do-rosario-dos-pretos"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q10300545-12ADCBB3-E5FA-4127-829A-7045DF24BCB8",
+    "subject": "Igreja de Nossa Senhora do Rosário dos Pretos (Goiana)",
+    "predicate": "coordenadas geográficas",
+    "object": "Point(-35.22607 -7.7422)",
+    "g_id": 0
+  },
+  {
+    "reference_id": "7ddde0c9c787268cf49f9f8dd7b0eae9eb70d0c4",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Paróquia_Santa_Teresinha_(São_Paulo)&oldid=54293791",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Paróquia_Santa_Teresinha_(São_Paulo)&oldid=54293791"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q10345802-4D512B69-3622-463E-8239-42390E4E309D",
+    "subject": "Paróquia Santa Teresinha (São Paulo)",
+    "predicate": "data de fundação ou criação",
+    "object": "1945-01-01T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "26ae1737ceff3a2bf0ab692d25e48adcd5e55f14",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Sparta_Rotterdam_Mutual_Football_Club&oldid=55028781",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Sparta_Rotterdam_Mutual_Football_Club&oldid=55028781"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q864888-02AE3969-16F8-41C9-88D7-38A6984FA93F",
+    "subject": "Mutual FC",
+    "predicate": "data de fundação ou criação",
+    "object": "1995-01-01T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "8027ae890d98b7136c829cbb1ad4571595efcf34",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Acústico_II_(álbum_de_Bruno_&_Marrone)&oldid=56106177",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Acústico_II_(álbum_de_Bruno_&_Marrone)&oldid=56106177"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q9667776-698CB414-8160-492F-814E-7CBEDCD2C245",
+    "subject": "Bruno e Marrone Acústico 2 Vol. 1",
+    "predicate": "editora discográfica",
+    "object": "Sony BMG Music Entertainment",
+    "g_id": 0
+  },
+  {
+    "reference_id": "24c886f52d7ceadb9ff8c37598f700a8c8ab7212",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Liga_Insular_de_Santo_Antão_(Zona_Sul)_de_2013–14&oldid=55861491",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Liga_Insular_de_Santo_Antão_(Zona_Sul)_de_2013–14&oldid=55861491"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q16542067-1351BB72-0F07-4297-A584-FF8A3E7358C5",
+    "subject": "Liga Insular de Santo Antão",
+    "predicate": "número de pontos, acertos ou gols/golos marcados",
+    "object": "115",
+    "g_id": 0
+  },
+  {
+    "reference_id": "8dd0a5bde3c70be8c580fc1e4ef41b36ffd6e9c1",
+    "url": "http://divulgacandcontas.tse.jus.br/divulga/#/candidato/2016/2/23612/170000015736",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://divulgacandcontas.tse.jus.br/divulga/#/candidato/2016/2/23612/170000015736"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q61878264-B7EE4B90-4B6E-4328-8237-44FF2165BA06",
+    "subject": "Joao Cardozo dos Santos",
+    "predicate": "ocupação",
+    "object": "agricultor",
+    "g_id": 0
+  },
+  {
+    "reference_id": "c5944ddb05b44ec92b4fa5c0eba24c226cb34691",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Olga_da_Grécia,_Duquesa_de_Apulia&oldid=55100009",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Olga_da_Grécia,_Duquesa_de_Apulia&oldid=55100009"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q26256223-DA3B2DBE-1161-48E4-AA9E-00F598744FB9",
+    "subject": "Olga da Grécia, Duquesa de Apulia",
+    "predicate": "local de nascimento",
+    "object": "Atenas",
+    "g_id": 0
+  },
+  {
+    "reference_id": "2c019a3afe2e9228e132f6b772d4cded3a6231ef",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Estação_Mendes–Vila_Natal&oldid=53792012",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Estação_Mendes–Vila_Natal&oldid=53792012"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q18475676-8DF286FF-4B2E-4551-AF63-93AB4E11C5D9",
+    "subject": "Estação Mendes-Vila Natal",
+    "predicate": "código de estação",
+    "object": "MVN",
+    "g_id": 0
+  },
+  {
+    "reference_id": "40edaaf0fffc2db79bc60351cad22342ddd841fe",
+    "url": "http://acervo.mp.usp.br/IconografiaV2.aspx",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Museu Paulista collection catalog->Q87513189",
+      "retrieved": "time:>+2020-04-07T00:00:00Z",
+      "inventory number": "value:>1-08-04-000-07745-00-00"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q89806239-72B1B3A7-FF36-4EAA-9EDD-E44FBDA8B085",
+    "subject": "Camisa",
+    "predicate": "coleção",
+    "object": "Coleção Carmencita da Silveira Bettenfeld Jullien",
+    "g_id": 0
+  },
+  {
+    "reference_id": "4d2dfdfd6e95e77044f05e8b77bc58aacccf6014",
+    "url": "https://www.brasilianaiconografica.art.br/obras/19188/prospectus-e-jugo-serra-destrella-in-sinum-sebastianopolitanum",
+    "ref_node_pairs": {
+      "reference URL": "url:>https://www.brasilianaiconografica.art.br/obras/19188/prospectus-e-jugo-serra-destrella-in-sinum-sebastianopolitanum",
+      "retrieved": "time:>+2018-12-17T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q59826154-8776EE72-5ECD-4444-9DCB-A6AA04B7B542",
+    "subject": "Prospectus e Jugo Serra D’Estrella in Sinum Sebastianopolitanum",
+    "predicate": "data de fundação ou criação",
+    "object": "1851-01-01T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "40089e4f464af6104c02b483350ae4f9951b7147",
+    "url": "http://justica.gov.br/noticias/classificacao-indicativa-divulga-faixa-etaria-de-filmes-em-cartaz-1",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://justica.gov.br/noticias/classificacao-indicativa-divulga-faixa-etaria-de-filmes-em-cartaz-1"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q919649-F8C44E49-1837-4D29-87E1-B0F2E04EE003",
+    "subject": "The Hobbit: The Battle of the Five Armies",
+    "predicate": "ClassInd category",
+    "object": "12",
+    "g_id": 0
+  },
+  {
+    "reference_id": "7e02d8f05c2d73d66e4f9f4423f874047d71da88",
+    "url": "http://divulgacandcontas.tse.jus.br/divulga/#/candidato/2012/1699/43656/130000086569",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://divulgacandcontas.tse.jus.br/divulga/#/candidato/2012/1699/43656/130000086569"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q64833710-C97CC2EC-AD85-48BF-8DE5-30B3EAFD4873",
+    "subject": "Ana Lucia de Assis",
+    "predicate": "membro do partido político",
+    "object": "Partido Comunista do Brasil",
+    "g_id": 0
+  },
+  {
+    "reference_id": "e9be76a25c80fff7d13e23f07c2efbe221086a23",
+    "url": "http://museus.cultura.gov.br/espaco/6604",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://museus.cultura.gov.br/espaco/6604"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q10333903-9359BD59-43F5-46C3-BC67-F693541057F7",
+    "subject": "Museu do Homem do Norte",
+    "predicate": "data de fundação ou criação",
+    "object": "1985-01-01T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "4f073b62957d3eab33244b9455f943c74fa18d90",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Bandeira_de_Fortaleza&oldid=49952358",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Bandeira_de_Fortaleza&oldid=49952358"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q9646700-C6FCCC1F-5F80-4C8A-B957-D0407E08E295",
+    "subject": "Bandeira de Fortaleza",
+    "predicate": "imagem",
+    "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Bandeira%20de%20Fortaleza.svg",
+    "g_id": 0
+  },
+  {
+    "reference_id": "05def5b43c2b41d4b34a2ef4097057ec9439ffc3",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Hori_(álbum)&oldid=55089610",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Hori_(álbum)&oldid=55089610"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q10298208-BCD1AA68-6CCF-4E8E-9AC9-EE96FD5FAC50",
+    "subject": "Hori (álbum)",
+    "predicate": "intérprete",
+    "object": "Hori (banda)",
+    "g_id": 0
+  },
+  {
+    "reference_id": "921ccfcc1c916849c4ab447bd9fcffe2f709aad2",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Afinidades&oldid=48221943",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Afinidades&oldid=48221943"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q4689258-FB14B8E3-9439-4B3D-928E-15375C98E646",
+    "subject": "Afinidades",
+    "predicate": "editora discográfica",
+    "object": "EMI",
+    "g_id": 0
+  },
+  {
+    "reference_id": "81a3f8725bcba27018e6f704a5a98ad78ef4453c",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Manda_Chuva_(álbum)&oldid=54063328",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Manda_Chuva_(álbum)&oldid=54063328"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q10323541-AA348478-4F26-44BF-9873-ADC16E43DCD4",
+    "subject": "Manda Chuva",
+    "predicate": "editora discográfica",
+    "object": "Valentim de Carvalho",
+    "g_id": 0
+  },
+  {
+    "reference_id": "d7053c1dae56e669547efe420aea28dc815373bc",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Campo_de_Provas_Brigadeiro_Velloso&oldid=52601114",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Campo_de_Provas_Brigadeiro_Velloso&oldid=52601114"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q5028481-32B79CD3-CCE6-4B34-B318-398A99E4EAB1",
+    "subject": "Campo de Provas Brigadeiro Velloso",
+    "predicate": "página inicial oficial",
+    "object": "http://www2.fab.mil.br/cpbv/",
+    "g_id": 0
+  },
+  {
+    "reference_id": "4c0a2948eaffa422ff8fa3dfe966be69a596e28e",
+    "url": "http://acervo.mp.usp.br/IconografiaV2.aspx",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Museu Paulista collection catalog->Q87513189",
+      "retrieved": "time:>+2020-04-07T00:00:00Z",
+      "inventory number": "value:>1-08-07-000-07068-00-00"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q89806313-02DDFAB7-2635-4935-991D-96688932444D",
+    "subject": "Camisola",
+    "predicate": "material utilizado",
+    "object": "fibra da seda",
+    "g_id": 0
+  },
+  {
+    "reference_id": "ba45a2f27eeaeed0870378a86f8ec39ed0829912",
+    "url": "http://divulgacandcontas.tse.jus.br/divulga/#/candidato/2016/2/46256/130000032320",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://divulgacandcontas.tse.jus.br/divulga/#/candidato/2016/2/46256/130000032320"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q61992801-EF111E7A-51E3-4539-A34D-8D1D28772735",
+    "subject": "Ipatinga no Coração",
+    "predicate": "composto de",
+    "object": "Solidariedade",
+    "g_id": 0
+  },
+  {
+    "reference_id": "0eb5b3dcfaf1c81deeedbd82c350ffc7bfb83ff0",
+    "url": "http://divulgacandcontas.tse.jus.br/divulga/#/candidato/2012/1699/92215/90000021848",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://divulgacandcontas.tse.jus.br/divulga/#/candidato/2012/1699/92215/90000021848"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q64846208-94BEF48E-4D95-443F-BD72-12B9A0915302",
+    "subject": "Jesus Fernandes Abrenhosa",
+    "predicate": "país de nacionalidade",
+    "object": "Brasil",
+    "g_id": 0
+  },
+  {
+    "reference_id": "ec9058644c21da4094804c1c17434fe92a30b03a",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Mighty_Avengers_Football_Club&oldid=44553752",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Mighty_Avengers_Football_Club&oldid=44553752"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q25428870-6A490F1B-352C-4AFE-9A6E-2CB7DD5091FD",
+    "subject": "Mighty Avengers Football Club",
+    "predicate": "sede",
+    "object": "Belize",
+    "g_id": 0
+  },
+  {
+    "reference_id": "feac85535a2bc83037727cfaa3c3b3b5dca7df6f",
+    "url": "http://www.desaparecidospoliticos.org.br/pessoa.php?id=90",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://www.desaparecidospoliticos.org.br/pessoa.php?id=90",
+      "retrieved": "time:>+2020-03-17T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q17413833-CFB41EF8-060C-4A68-8400-F763CF1C4D7D",
+    "subject": "Hamilton Fernando da Cunha",
+    "predicate": "morto por",
+    "object": "governo federal do Brasil",
+    "g_id": 0
+  },
+  {
+    "reference_id": "d8548f1edc02d0c825fe5b4f7cde9857fd83fd75",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Simone_Moreno&oldid=55235896",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Simone_Moreno&oldid=55235896"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q4968098-EFBA6E14-BFEF-4AB8-9769-9437F3F01254",
+    "subject": "Simone Moreno",
+    "predicate": "género artístico",
+    "object": "Axé",
+    "g_id": 0
+  },
+  {
+    "reference_id": "6e0f32b68db233b22fb4d2119bd90e23ccd9928b",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Bianca_(cantora)&oldid=56142482",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Bianca_(cantora)&oldid=56142482"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q9656306-E8C904A8-FE75-4605-A247-3489774589C2",
+    "subject": "Bianca (cantora)",
+    "predicate": "género artístico",
+    "object": "rock",
+    "g_id": 0
+  },
+  {
+    "reference_id": "864df0d708823ab2d0450fa455de08e7c1f0fb7e",
+    "url": "https://www.rtp.pt/noticias/pais/militante-comunista-e-ultimo-preso-politico-do-tarrafal-evocado-em-beja_n54250",
+    "ref_node_pairs": {
+      "reference URL": "url:>https://www.rtp.pt/noticias/pais/militante-comunista-e-ultimo-preso-politico-do-tarrafal-evocado-em-beja_n54250"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q5483712-0a0e12a1-498b-6eaa-6860-0cf6b4584768",
+    "subject": "Francisco Miguel Duarte",
+    "predicate": "alcunha",
+    "object": "Chico sapateiro",
+    "g_id": 0
+  },
+  {
+    "reference_id": "d4545a8c20f488110cdc9e5b3733c1c6118a9c4c",
+    "url": "http://www.interfilmes.com/filme_72200_Um.Sequestro.de.Natal-(Holiday.in.Handcuffs).html",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://www.interfilmes.com/filme_72200_Um.Sequestro.de.Natal-(Holiday.in.Handcuffs).html",
+      "retrieved": "time:>+2016-05-13T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "q1091671-9E0E3B5F-48A3-4499-B9B7-2058D3BE5691",
+    "subject": "Holiday in Handcuffs",
+    "predicate": "protagonistas",
+    "object": "Mario López",
+    "g_id": 0
+  },
+  {
+    "reference_id": "646de23209124b3258541268a5be817921af6d91",
+    "url": "http://www.monumentos.gov.pt/Site/APP_PagesUser/SIPA.aspx?id=20517",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://www.monumentos.gov.pt/Site/APP_PagesUser/SIPA.aspx?id=20517"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q77460993-0fafe7fe-4356-9229-25eb-0eccf34bec1d",
+    "subject": "Casa-Museu de Leal da Câmara",
+    "predicate": "designação do património",
+    "object": "Sem protecção legal",
+    "g_id": 0
+  },
+  {
+    "reference_id": "7f139e02c90cb94f0f26dffd96fa6b3531c5cc1d",
+    "url": "https://especiais.gazetadopovo.com.br/eleicoes/2018/resultados/",
+    "ref_node_pairs": {
+      "reference URL": "url:>https://especiais.gazetadopovo.com.br/eleicoes/2018/resultados/",
+      "retrieved": "time:>+2018-11-21T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q59011103-63C9CFBF-EEAA-4389-83E5-099F4294D22D",
+    "subject": "Pedro Lucas Fernandes",
+    "predicate": "cargo ocupado",
+    "object": "deputado federal",
+    "g_id": 0
+  },
+  {
+    "reference_id": "09d5db66a10fb48bee7ffced7006969defbcf757",
+    "url": "http://www.utad.pt",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://www.utad.pt",
+      "retrieved": "time:>+2019-05-21T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q3309132-11350931-28FB-4292-AE98-5FF4F6551B25",
+    "subject": "Universidade de Trás-os-Montes e Alto Douro",
+    "predicate": "nome do perfil no Twitter",
+    "object": "UTAD_RS",
+    "g_id": 0
+  },
+  {
+    "reference_id": "1704669faa986eb4f0e5cf6c8fd00fb779389b92",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Lista_de_presidentes_da_Guiana&oldid=55528235",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Lista_de_presidentes_da_Guiana&oldid=55528235"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q14940077-38BBD396-BD22-4C0A-88E4-7B111FF746BD",
+    "subject": "Lista de presidentes da Guiana",
+    "predicate": "página inicial oficial",
+    "object": "http://www.motp.gov.gy",
+    "g_id": 0
+  },
+  {
+    "reference_id": "bba9cb387b4666f024bd71c65da9459ef90ac45f",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Estação_Terminal_Ceilândia&oldid=53182554",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Estação_Terminal_Ceilândia&oldid=53182554"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q10276182-1A1D21C2-2131-4C01-B4E0-066B8B63FB19",
+    "subject": "Estação Terminal Ceilândia",
+    "predicate": "código de estação",
+    "object": "CEI",
+    "g_id": 0
+  },
+  {
+    "reference_id": "78219f6193184ff2a5712ae4f6fb917ac2e53f0b",
+    "url": "http://museus.cultura.gov.br/espaco/8345",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://museus.cultura.gov.br/espaco/8345"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q56693821-9CAAADBE-CDCA-4F01-A557-40826267935A",
+    "subject": "Museu Antropológico da Universidade Federal de Goiás",
+    "predicate": "coordenadas geográficas",
+    "object": "Point(-49.239271 -16.675721)",
+    "g_id": 0
+  },
+  {
+    "reference_id": "f2435fc6bc6ce5eff7002461e3be375209c5d1ba",
+    "url": "http://divulgacandcontas.tse.jus.br/divulga/#/candidato/2012/1699/58378/190000019487",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://divulgacandcontas.tse.jus.br/divulga/#/candidato/2012/1699/58378/190000019487"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q64832390-B53AE463-9A29-4EF5-9D5A-AF72E450324B",
+    "subject": "Jose Manoel Gonçalves",
+    "predicate": "membro do partido político",
+    "object": "Partido Verde",
+    "g_id": 0
+  },
+  {
+    "reference_id": "67951d3c6e01e9b95188262803d5c56c51808437",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Instituto_de_Doenças_do_Tórax_da_Universidade_Federal_do_Rio_de_Janeiro&oldid=54923760",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Instituto_de_Doenças_do_Tórax_da_Universidade_Federal_do_Rio_de_Janeiro&oldid=54923760"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q10302808-AE7D4190-57B4-4A41-AFA2-9D8FA968F94C",
+    "subject": "Instituto de Doenças do Tórax da Universidade Federal do Rio de Janeiro",
+    "predicate": "página inicial oficial",
+    "object": "http://www.idt.ufrj.br/",
+    "g_id": 0
+  },
+  {
+    "reference_id": "bbdaf9e3cd43ee1240f8b5765e74c998c7448364",
+    "url": "http://mubevirtual.com.br/pt_br?Dados&area=ver&id=111",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://mubevirtual.com.br/pt_br?Dados&area=ver&id=111"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q44991915-BED5018E-4239-4B26-AC7E-3B687A565DFA",
+    "subject": "Diálogo",
+    "predicate": "morada (obsoleta)",
+    "object": "Praça da Sé, 194 - Sé, São Paulo - SP, 01001-001",
+    "g_id": 0
+  },
+  {
+    "reference_id": "78f5a633cb90689d982e9f509e4d6ab563c631a0",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Prayer_for_Cleansing&oldid=56435697",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Prayer_for_Cleansing&oldid=56435697"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q7239017-12B5D3A9-E1B0-4F1B-9B90-342E83C9AC42",
+    "subject": "Prayer for Cleansing",
+    "predicate": "work period (start)",
+    "object": "1996-01-01T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "155fcbb5d30892dd120457fcdda8f67b13e2878a",
+    "url": "http://divulgacandcontas.tse.jus.br/divulga/#/candidato/2012/1699/17612/200000005898",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://divulgacandcontas.tse.jus.br/divulga/#/candidato/2012/1699/17612/200000005898"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q64850899-EAF05825-9388-4E4A-B214-68C0D617909D",
+    "subject": "Bertonne Borges Marinho",
+    "predicate": "ocupação",
+    "object": "advogado",
+    "g_id": 0
+  },
+  {
+    "reference_id": "9b533a5785d0a4c2937b6e2ea99683e6a0fb1e40",
+    "url": "http://acervo.mp.usp.br/IconografiaV2.aspx",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Museu Paulista collection catalog->Q87513189",
+      "retrieved": "time:>+2020-04-13T00:00:00Z",
+      "inventory number": "value:>1-22822-0166-0293"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q90184304-0AA4E724-A505-4F45-82FD-EF42A1AE1424",
+    "subject": "Vista Distante de uma Construção à Margem de um Rio",
+    "predicate": "altura",
+    "object": "5.7",
+    "g_id": 0
+  },
+  {
+    "reference_id": "52fef56e2ec4ee5235a7eb39e54cb7c0cc4c4ad8",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Mortágua_Futebol_Clube&oldid=52901922",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Mortágua_Futebol_Clube&oldid=52901922"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q17520938-24205AA3-22A4-4F58-AB54-CF1CE0BDC831",
+    "subject": "Mortágua Futebol Clube",
+    "predicate": "sede",
+    "object": "Mortágua",
+    "g_id": 0
+  },
+  {
+    "reference_id": "55869e985f17d1e2660efc5f28f95d956dcee3b7",
+    "url": "https://imslp.org/wiki/Category:Garcia,_José_Maurício_Nunes",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>International Music Score Library Project->Q523660",
+      "IMSLP ID": "value:>Category:Garcia,_José_Maurício_Nunes",
+      "named as": "value:>José Maurício Nunes Garcia",
+      "retrieved": "time:>+2017-10-09T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q636408-E97AC050-3924-4E53-BF09-24FEC655B3C9",
+    "subject": "José Maurício Nunes Garcia",
+    "predicate": "data de morte",
+    "object": "1830-04-18T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "b5e0dd64d89ec861aa8c78b254b1b12afe1e4c15",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Consórcio_Público_de_Saúde_da_Microrregião_de_Itapipoca&oldid=51304202",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Consórcio_Público_de_Saúde_da_Microrregião_de_Itapipoca&oldid=51304202"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q25419378-6F170F6A-4CCF-47FF-B4F5-F0BBEAAC0ACD",
+    "subject": "CPSMIT",
+    "predicate": "sede",
+    "object": "Itapipoca",
+    "g_id": 0
+  },
+  {
+    "reference_id": "63b4c81e0074f290670dae5866e51d0506e5fa3e",
+    "url": "http://acervo.mp.usp.br/IconografiaV2.aspx",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Museu Paulista collection catalog->Q87513189",
+      "retrieved": "time:>+2020-04-07T00:00:00Z",
+      "inventory number": "value:>1-18-03-000-07641-00-00"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q89817020-FA77DE50-321C-40EE-8014-016AFC763D4D",
+    "subject": "Recipiente (Acessório de Veículo)",
+    "predicate": "material utilizado",
+    "object": "vidro",
+    "g_id": 0
+  },
+  {
+    "reference_id": "82c9a032e34b6e873067a5014007d66fbfef9400",
+    "url": "http://museus.cultura.gov.br/espaco/8931",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://museus.cultura.gov.br/espaco/8931"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q56694983-70AA825D-B95C-4BCE-BB07-B8846B1D3FE2",
+    "subject": "Museu Sacro-Militar",
+    "predicate": "localizado no endereço",
+    "object": "Rua Primeiro de Março 36, Térreo, Centro, 20010-000, Rio de Janeiro, RJ",
+    "g_id": 0
+  },
+  {
+    "reference_id": "a35ddc06a90d638ef3eb768248f9799ec07991e4",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Eu_Sou_Mais_Eu&oldid=54229920",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Eu_Sou_Mais_Eu&oldid=54229920"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q60675637-E1F8D7BC-EDF5-4986-991F-F38151FB3F33",
+    "subject": "Eu Sou Mais Eu",
+    "predicate": "identificador IMDb",
+    "object": "tt9214280",
+    "g_id": 0
+  },
+  {
+    "reference_id": "614a73b6d64e26eaec18e773cb56f142e0f883ed",
+    "url": "http://www.adorocinema.com/filmes/filme-980/",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://www.adorocinema.com/filmes/filme-980/",
+      "retrieved": "time:>+2016-07-11T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "q202548-B1CF6477-6F52-46D8-877D-E6D3E00F7F29",
+    "subject": "Vertigo",
+    "predicate": "protagonistas",
+    "object": "Kim Novak",
+    "g_id": 0
+  },
+  {
+    "reference_id": "bf5a7dd03b730b2356788784694a433f8400f560",
+    "url": "http://g1.globo.com/bahia/noticia/2012/04/usuarios-temem-seguranca-no-terminal-da-calcada-em-salvador.html",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://g1.globo.com/bahia/noticia/2012/04/usuarios-temem-seguranca-no-terminal-da-calcada-em-salvador.html"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q66715210-54BD86C2-FFAD-4C87-B0AC-896241403AA2",
+    "subject": "Terminal Calçada",
+    "predicate": "localizado na unidade administrativa",
+    "object": "Salvador",
+    "g_id": 0
+  },
+  {
+    "reference_id": "deeac78160853e87e5ab930a68f159f976525d85",
+    "url": "http://museus.cultura.gov.br/espaco/6828",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://museus.cultura.gov.br/espaco/6828"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q10333409-27B68609-F994-40BE-89A5-570D080FE139",
+    "subject": "Museu Barão de Mauá",
+    "predicate": "localizado no endereço",
+    "object": "Avenida Getulio Vargas 276, Vl. Guarani, 09310-180, Mauá, SP",
+    "g_id": 0
+  },
+  {
+    "reference_id": "52eb4078d0e0361674bcf2b2523388e28779dd0f",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Ministério_da_Justiça_e_da_Reforma_Administrativa&oldid=48437898",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Ministério_da_Justiça_e_da_Reforma_Administrativa&oldid=48437898"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q25422322-EA5A0E86-8BFA-4B91-A7D8-E1A95429AA12",
+    "subject": "Ministério da Justiça e da Reforma Administrativa",
+    "predicate": "data de dissolução ou encerramento",
+    "object": "1983-01-01T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "e1587e5ca68f8357364843981a8332a249a3ec37",
+    "url": "https://enciclopedia.itaucultural.org.br/pessoa12592/paulinho-da-viola",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Enciclopédia Itaú Cultural->Q41599984",
+      "Itaú Cultural ID": "value:>pessoa12592/paulinho-da-viola",
+      "named as": "value:>Paulinho da Viola",
+      "retrieved": "time:>+2017-10-09T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q241801-E47F8106-0DEA-409D-A5AD-DCD18AE7B145",
+    "subject": "Paulinho da Viola",
+    "predicate": "data de nascimento",
+    "object": "1942-11-12T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "f64e8141e87255c55c2734e9bee8c3464bd4abd3",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Estação_Amazonas&oldid=55484095",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Estação_Amazonas&oldid=55484095"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q65162464-9D8EE851-8B6B-42FB-BF60-A6618110776F",
+    "subject": "Estação Amazonas",
+    "predicate": "imagem",
+    "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Amazonasbhminasgerais.jpg",
+    "g_id": 0
+  },
+  {
+    "reference_id": "7508df508b61cc102dbd643cf267cd89fb9d8555",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Grêmio_Bela_Vista_Esporte_Clube&oldid=56194116",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Grêmio_Bela_Vista_Esporte_Clube&oldid=56194116"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q48866444-6BA3D27D-FA72-4861-B042-8002B507749E",
+    "subject": "Grêmio Bela Vista Esporte Clube",
+    "predicate": "sede",
+    "object": "Rio Claro",
+    "g_id": 0
+  },
+  {
+    "reference_id": "7ced259db50be437f8ff63d478977a33de3b35e6",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Campeonato_Europeu_de_Futebol_Feminino_de_1991&oldid=55445604",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Campeonato_Europeu_de_Futebol_Feminino_de_1991&oldid=55445604"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q916142-BBBF192E-E606-4956-8444-B3BEE160F25E",
+    "subject": "Campeonato Europeu de Futebol Feminino de 1991",
+    "predicate": "data inicial",
+    "object": "1990-11-14T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "affa5b869b2af89df2da771f1571de38763b6579",
+    "url": "https://comarcas.tribunais.org.pt/comarcas/nucleo.php?com=guarda&nucleo=CELORICO+DA+BEIRA&id_nucleo=102",
+    "ref_node_pairs": {
+      "reference URL": "url:>https://comarcas.tribunais.org.pt/comarcas/nucleo.php?com=guarda&nucleo=CELORICO+DA+BEIRA&id_nucleo=102"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q88847920-f7a6c28a-4646-c289-b239-350b08b537f5",
+    "subject": "Juízo de Competência Genérica de Celorico da Beira",
+    "predicate": "instância de",
+    "object": "tribunal",
+    "g_id": 0
+  },
+  {
+    "reference_id": "e38e4cb8fbef1f5a4379ca4a79ac4cf906b882d9",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Club_Sportivo_América&oldid=52979532",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Club_Sportivo_América&oldid=52979532"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q18470713-8C42ABA0-68E9-4B82-93D3-37D47282AFF3",
+    "subject": "Club Sportivo América",
+    "predicate": "data de fundação ou criação",
+    "object": "1930-01-01T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "5f8048144b5feabd1fb6b323a86bd771ea446b25",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Igreja_da_Trofa&oldid=54265239",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Igreja_da_Trofa&oldid=54265239"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q16892613-B7B5CB02-8022-44F7-8D74-16DC45546C18",
+    "subject": "Igreja da Trofa",
+    "predicate": "estilo arquitetónico",
+    "object": "arquitetura gótica",
+    "g_id": 0
+  },
+  {
+    "reference_id": "39591745d215a80961d609e4df6278e5b4e29e5f",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Walter_Hugo_de_Andrade_Cunha&oldid=50724488",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Walter_Hugo_de_Andrade_Cunha&oldid=50724488"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q47537774-DEF28FC9-560F-4052-B5FD-EE7CA97EEC7C",
+    "subject": "Walter Hugo de Andrade Cunha",
+    "predicate": "país de nacionalidade",
+    "object": "Brasileiros",
+    "g_id": 0
+  },
+  {
+    "reference_id": "0af2d0748b5bd66964c1c3295c8133da2d114172",
+    "url": "http://divulgacandcontas.tse.jus.br/divulga/#/candidato/2016/2/87718/210000009126",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://divulgacandcontas.tse.jus.br/divulga/#/candidato/2016/2/87718/210000009126"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q61878394-1E040B0D-08C3-48C6-A060-16D4DDB21B57",
+    "subject": "Gilson Leonardo Thoen",
+    "predicate": "grupo étnico",
+    "object": "brasileiro caucasiano",
+    "g_id": 0
+  },
+  {
+    "reference_id": "cf0b993ba65a88203344af34d52fc297f39e1896",
+    "url": "http://acervo.mp.usp.br/IconografiaV2.aspx",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Museu Paulista collection catalog->Q87513189",
+      "retrieved": "time:>+2020-04-10T00:00:00Z",
+      "inventory number": "value:>1-09527-0000-0000"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q90300233-EFB2D46E-8953-40D6-8438-CD43A3268F88",
+    "subject": "(32) S. Paulo (Brasil) Vista Parcial",
+    "predicate": "instância de",
+    "object": "cartão-postal",
+    "g_id": 0
+  },
+  {
+    "reference_id": "c2f5e3d977c63630207e2a2fa40ad8da15e610d1",
+    "url": "https://www2.camara.leg.br/deputados/pesquisa/layouts_deputados_resultado_pesquisa?nome=&Partido=QQ&UF=QQ&SX=QQ&Legislatura=54&condic=QQ&ordem=nome&forma=lista&Pesquisa=Buscar",
+    "ref_node_pairs": {
+      "reference URL": "url:>https://www2.camara.leg.br/deputados/pesquisa/layouts_deputados_resultado_pesquisa?nome=&Partido=QQ&UF=QQ&SX=QQ&Legislatura=54&condic=QQ&ordem=nome&forma=lista&Pesquisa=Buscar",
+      "retrieved": "time:>+2019-02-03T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q6761707-2a74729f-4dab-bfa9-b00f-861802d1a1c7",
+    "subject": "Maria do Rosário",
+    "predicate": "cargo ocupado",
+    "object": "deputado federal pelo Rio Grande do Sul",
+    "g_id": 0
+  },
+  {
+    "reference_id": "8aa992fe63e4b788bdec5e5a8c1e94ecf99711f4",
+    "url": "http://www.adorocinema.com/filmes/filme-31685/",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://www.adorocinema.com/filmes/filme-31685/",
+      "retrieved": "time:>+2016-04-14T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "q436988-C293706A-F26C-40D2-92CE-44CFC6FEB323",
+    "subject": "Operation Dumbo Drop",
+    "predicate": "protagonistas",
+    "object": "Doug E. Doug",
+    "g_id": 0
+  },
+  {
+    "reference_id": "341aa38855acf07487ff3a8eb63227f8cb653955",
+    "url": "http://divulgacandcontas.tse.jus.br/divulga/#/candidato/2016/2/80551/240000015757",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://divulgacandcontas.tse.jus.br/divulga/#/candidato/2016/2/80551/240000015757"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q61992798-D4E6BB00-E108-4FBC-B560-DBEE4B399619",
+    "subject": "Inova Brusque",
+    "predicate": "instância de",
+    "object": "coligação política",
+    "g_id": 0
+  },
+  {
+    "reference_id": "9b18cded753923eb963c9d4df601b099c76a4169",
+    "url": "http://acervo.mp.usp.br/IconografiaV2.aspx",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Museu Paulista collection catalog->Q87513189",
+      "retrieved": "time:>+2020-04-07T00:00:00Z",
+      "inventory number": "value:>1-08-04-000-07115-00-00"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q89818206-14DF8E11-81BC-42A4-B000-01FADD1CFB7A",
+    "subject": "Vestido",
+    "predicate": "localização",
+    "object": "Museu Paulista",
+    "g_id": 0
+  },
+  {
+    "reference_id": "616b11e141e33880150d7e17ec4f6be30ca23581",
+    "url": "https://placar.eleicoes.uol.com.br/2016/1turno/mg/santa-luzia",
+    "ref_node_pairs": {
+      "reference URL": "url:>https://placar.eleicoes.uol.com.br/2016/1turno/mg/santa-luzia"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q61868811-83AE407F-A90B-41A8-83AD-6E7FAED67498",
+    "subject": "Eleição municipal de Santa Luzia em 2016 para Prefeito",
+    "predicate": "data de ocorrência",
+    "object": "2016-10-02T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "8c61e82174811080435173fa63c0d40d78f05c52",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Lista_de_governadores_do_Rio_Grande_do_Norte&oldid=56367720",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Lista_de_governadores_do_Rio_Grande_do_Norte&oldid=56367720"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q15813123-33900999-7E4B-4DC8-A70F-46D5A5974B5C",
+    "subject": "Lista de governadores do Rio Grande do Norte",
+    "predicate": "data de fundação ou criação",
+    "object": "1889-11-17T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "375c7e2d0d4b17255f0a5a10d261f2682bf9ab25",
+    "url": "http://divulgacandcontas.tse.jus.br/divulga/#/candidato/2016/2/58041/190000018894",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://divulgacandcontas.tse.jus.br/divulga/#/candidato/2016/2/58041/190000018894"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q61881476-F400E92D-CDC4-47CD-A720-90DC7AF2B075",
+    "subject": "Luiz Eduardo Santos de Araujo",
+    "predicate": "local de nascimento",
+    "object": "Rio de Janeiro",
+    "g_id": 0
+  },
+  {
+    "reference_id": "f33049b8f4fcb87e7ede836957e8d8f0c2c40991",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Antônio_dos_Santos_Nascimento&oldid=55784197",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Antônio_dos_Santos_Nascimento&oldid=55784197"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q85853092-89BE3E58-F003-4AC1-9E00-DE6AF1138A55",
+    "subject": "Antônio dos Santos Nascimento",
+    "predicate": "data de nascimento",
+    "object": "1938-05-19T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "8fb16aa56ce34b7a10063c195e4ee81513375c15",
+    "url": "https://www.transfermarkt.com/transfermarkt/profil/spieler/380478",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Transfermarkt->Q2449070",
+      "Transfermarkt player ID": "value:>380478",
+      "named as": "value:>Victor Braga",
+      "retrieved": "time:>+2017-10-09T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q29043238-79048F5D-0319-4781-B754-C48DF90DBA66",
+    "subject": "Victor Braga",
+    "predicate": "data de nascimento",
+    "object": "1992-02-17T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "eac1c1654363afb3581b61550b9a08eedbe26194",
+    "url": "https://www.jf-avenidasnovas.pt/noticias-educacao/1941-escritor-joao-tordo-na-academia-senior-das-avenidas-novas",
+    "ref_node_pairs": {
+      "reference URL": "url:>https://www.jf-avenidasnovas.pt/noticias-educacao/1941-escritor-joao-tordo-na-academia-senior-das-avenidas-novas"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q81547158-9868205b-43f5-94e8-19f4-ba4ac73e323d",
+    "subject": "Academia Sénior das Avenidas Novas",
+    "predicate": "instância de",
+    "object": "universidade sénior",
+    "g_id": 0
+  },
+  {
+    "reference_id": "1f78cbf1b3f0987ae2654e0bd895d944603e1ca0",
+    "url": "http://pt.wikipedia.org/wiki/Francisco_B%C3%A9nard_Guedes",
+    "ref_node_pairs": {
+      "Wikimedia import URL": "url:>http://pt.wikipedia.org/wiki/Francisco_B%C3%A9nard_Guedes"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q10284660-9F4730B2-136A-473B-A6FD-6CF14C587893",
+    "subject": "Francisco Bénard Guedes",
+    "predicate": "data de morte",
+    "object": "1965-04-23T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "5c782aa9b14311928348b9ee1e09b68aca549a94",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Solimão_ibne_Hixam&oldid=53726031",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Solimão_ibne_Hixam&oldid=53726031"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q3300780-2DDF984A-6544-4882-91E7-8103D3788677",
+    "subject": "Sulayman ibn Hisham",
+    "predicate": "país de nacionalidade",
+    "object": "Califado Omíada",
+    "g_id": 0
+  },
+  {
+    "reference_id": "fc68a88c19ff0a7775aeb73e8997c00dfe7db43e",
+    "url": "https://en.wikipedia.org/w/index.php?title=2016–17_Vitória_S.C._season&oldid=860457960",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>English Wikipedia->Q328",
+      "Wikimedia import URL": "url:>https://en.wikipedia.org/w/index.php?title=2016–17_Vitória_S.C._season&oldid=860457960"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q30644682-D4FF81A3-F9C9-4485-8748-A668F3A1780D",
+    "subject": "2016–17 Vitória S.C. season",
+    "predicate": "página inicial oficial",
+    "object": "http://www.vitoriasc.pt/",
+    "g_id": 0
+  },
+  {
+    "reference_id": "7112a4fc37c6e4ed4b81834f09720f1f0a303619",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Acústico_MTV_-_Roberto_Carlos&oldid=55669941",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Acústico_MTV_-_Roberto_Carlos&oldid=55669941"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q16141989-0002F34C-0BF5-42F8-9327-EEBC1301E51A",
+    "subject": "Acústico MTV",
+    "predicate": "editora discográfica",
+    "object": "Sony Music Entertainment",
+    "g_id": 0
+  },
+  {
+    "reference_id": "c4dda2066fbc8dc9c18b5f56cc7fb911efcf33a5",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Campeonato_Goiano_de_Futebol_de_1976&oldid=56278690",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Campeonato_Goiano_de_Futebol_de_1976&oldid=56278690"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q16143259-2F789D27-FDA9-4FEC-B7AA-770D5EF19AC8",
+    "subject": "Campeonato Goiano de Futebol de 1976",
+    "predicate": "número de pontos, acertos ou gols/golos marcados",
+    "object": "307",
+    "g_id": 0
+  },
+  {
+    "reference_id": "19a3e50291f0210a8c1b146a430d4252c28044bb",
+    "url": "http://divulgacandcontas.tse.jus.br/divulga/#/candidato/2012/1699/85413/210000017025",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://divulgacandcontas.tse.jus.br/divulga/#/candidato/2012/1699/85413/210000017025"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q64832632-07BADD25-0631-4444-9869-B0B37293F44A",
+    "subject": "Marcos Rodrigues Barbosa",
+    "predicate": "data de nascimento",
+    "object": "1969-03-06T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "ca104e87e8ec3806ee8f5391c45c392a0e97996a",
+    "url": "http://divulgacandcontas.tse.jus.br/divulga/#/candidato/2016/2/34134/50000009209",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://divulgacandcontas.tse.jus.br/divulga/#/candidato/2016/2/34134/50000009209"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q61877870-ABA9EB4A-CE0A-43FA-8E24-26155D868471",
+    "subject": "Alan Costa Cerqueira",
+    "predicate": "grupo étnico",
+    "object": "pardo",
+    "g_id": 0
+  },
+  {
+    "reference_id": "b694d077bd67d1fe71c9a151235eb04a9a19e104",
+    "url": "http://sicnoticias.sapo.pt/cultura/2016-03-14-Morreu-Nicolau-Breyner",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://sicnoticias.sapo.pt/cultura/2016-03-14-Morreu-Nicolau-Breyner",
+      "retrieved": "time:>+2016-03-14T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q1277002-79d50b65-4669-12b0-24b6-e2cd930a9a6d",
+    "subject": "Nicolau Breyner",
+    "predicate": "data de morte",
+    "object": "2016-03-14T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "bd6cafa86be7676c36453ea30bd3455f185ac05e",
+    "url": "https://en.wikipedia.org/w/index.php?title=Eucaliptos_(São_Paulo_Metro)&oldid=853745056",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>English Wikipedia->Q328",
+      "Wikimedia import URL": "url:>https://en.wikipedia.org/w/index.php?title=Eucaliptos_(São_Paulo_Metro)&oldid=853745056"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q8779010-FE6FCD1A-524D-4314-86A5-CBA8B0B6FDFC",
+    "subject": "Estação Eucaliptos",
+    "predicate": "data de abertura oficial",
+    "object": "2018-03-02T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "100047998314fdc82586730d418930be7c90ccc2",
+    "url": "http://divulgacandcontas.tse.jus.br/divulga/#/candidato/2012/1699/27855/20000008522",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://divulgacandcontas.tse.jus.br/divulga/#/candidato/2012/1699/27855/20000008522"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q64852594-6E6AD795-3B47-488C-A377-6FFD1386B0EF",
+    "subject": "Joao Eduardo Martins Coelho da Paz",
+    "predicate": "instância de",
+    "object": "ser humano",
+    "g_id": 0
+  },
+  {
+    "reference_id": "23cb3da502390b4fc2cc18305c8a7c819a1a05bf",
+    "url": "https://www.brasilianaiconografica.art.br/obras/19229/water-seller",
+    "ref_node_pairs": {
+      "reference URL": "url:>https://www.brasilianaiconografica.art.br/obras/19229/water-seller",
+      "retrieved": "time:>+2018-12-17T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q59824559-23531461-01FC-4A5C-8F44-8F5985C59E94",
+    "subject": "Water-Seller",
+    "predicate": "data mais recente",
+    "object": "1849-01-01T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "765f55e70a95ed1f2546fc845764d9eb8ed698f2",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Hóquei_Clube_de_Braga&oldid=56568012",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Hóquei_Clube_de_Braga&oldid=56568012"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q3393589-551F4057-B779-4AA0-9C9D-69260A5C06FC",
+    "subject": "Hóquei Clube de Braga",
+    "predicate": "página inicial oficial",
+    "object": "http://www.hcbraga.pt/",
+    "g_id": 0
+  },
+  {
+    "reference_id": "5c521edfeb54bf1844daa6b4407893a1ab4d31d0",
+    "url": "http://www.adorocinema.com/filmes/filme-217618/",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://www.adorocinema.com/filmes/filme-217618/",
+      "retrieved": "time:>+2016-07-01T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q14783869-2C68FE74-684D-4201-BE0E-811C1DCB6266",
+    "subject": "Flores Raras",
+    "predicate": "protagonistas",
+    "object": "Miranda Otto",
+    "g_id": 0
+  },
+  {
+    "reference_id": "e91e1f28acf541773644ca667a7e7c19a3fa5895",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Andreas_Bourani&oldid=55365299",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Andreas_Bourani&oldid=55365299"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q106071-5B906BC8-87F6-4FB3-B010-DEBCA04A92D6",
+    "subject": "Andreas Bourani",
+    "predicate": "género artístico",
+    "object": "pop rock",
+    "g_id": 0
+  },
+  {
+    "reference_id": "ecde370f4f588c0543ca321bba6ce34425cf80a4",
+    "url": "http://divulgacandcontas.tse.jus.br/divulga/#/candidato/2016/2/85898/210000004024",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://divulgacandcontas.tse.jus.br/divulga/#/candidato/2016/2/85898/210000004024"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q61881381-D7A442B9-3BB1-4A1D-9E39-0E7C59763BD3",
+    "subject": "Emilio Millan Neto",
+    "predicate": "grupo étnico",
+    "object": "brasileiro caucasiano",
+    "g_id": 0
+  },
+  {
+    "reference_id": "f3638d6a627c9c8c2a86d50f64f2369419b5995d",
+    "url": "https://enciclopedia.itaucultural.org.br/pessoa359860/alan-ayckbourn",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Enciclopédia Itaú Cultural->Q41599984",
+      "Itaú Cultural ID": "value:>pessoa359860/alan-ayckbourn",
+      "named as": "value:>Alan Ayckbourn",
+      "retrieved": "time:>+2017-10-09T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "q712848-85B13389-5D12-4FF5-8782-CED12A82C69F",
+    "subject": "Alan Ayckbourn",
+    "predicate": "data de nascimento",
+    "object": "1939-04-12T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "dcf8f4c7ac7702dc6b66d47156a1151ef6296864",
+    "url": "https://www12.senado.leg.br/noticias/materias/2008/09/22/ha-20-anos-era-aprovada-a-redacao-final-da-constituicao-de-1988",
+    "ref_node_pairs": {
+      "reference URL": "url:>https://www12.senado.leg.br/noticias/materias/2008/09/22/ha-20-anos-era-aprovada-a-redacao-final-da-constituicao-de-1988"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q2386422-5d9c4c62-478c-c931-6388-c41f5f799497",
+    "subject": "Constituição brasileira de 1988",
+    "predicate": "aprovado por",
+    "object": "Assembleia Constituinte de 1988",
+    "g_id": 0
+  },
+  {
+    "reference_id": "c8fb7e77606f6b7a01b13c58181b61da7c794efd",
+    "url": "http://acervo.mp.usp.br/IconografiaV2.aspx",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Museu Paulista collection catalog->Q87513189",
+      "retrieved": "time:>+2020-04-10T00:00:00Z",
+      "inventory number": "value:>1-17768-0000-0000"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q90089235-EDB70BAA-83BE-4452-AAB8-D7BFEBEF7822",
+    "subject": "D. João VI, óleo de Jean Baptiste Debret",
+    "predicate": "local de fabricação",
+    "object": "Museu Paulista",
+    "g_id": 0
+  }
+]

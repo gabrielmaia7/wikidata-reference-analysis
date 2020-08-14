@@ -1,0 +1,100 @@
+    {
+        "question": "Dat is de ober ___ ik ken.",
+        "options": [
+            "dat",
+            "die",
+            "Wat",
+            "wie"
+        ],
+        "answer": -1
+    },
+    {
+        "question": "Dit pak is heel ___",
+        "options": [
+            "netjes",
+            "goeds",
+            "afgeprijsd",
+            "moois"
+        ],
+        "answer": -1
+    },
+    {
+        "question": "___ kost die?",
+        "options": [
+            "Waar",
+            "Hoeveel",
+            "Wie",
+            "Hoe"
+        ],
+        "answer": -1
+    },
+    {
+        "question": "Zouden jullie een vakantiehuis ___?",
+        "options": [
+            "huren willen",
+            "willen huren",
+            "hebben willen",
+            "wouden huren"
+        ],
+        "answer": -1
+    },
+    {
+        "question": "Ogenblik, ik verbind u ___",
+        "options": [
+            "-",
+            "samen",
+            "door",
+            "met"
+        ],
+        "answer": -1
+    },
+    {
+        "question": "Van welk spoor ___ de trein?",
+        "options": [
+            "vertrekt",
+            "komt",
+            "met",
+            "aan"
+        ],
+        "answer": -1
+    },
+    {
+        "question": "Ik ___ door meneer Balsma afgehaald.",
+        "options": [
+            "Word",
+            "Werde",
+            "Worde",
+            "Wordt"
+        ],
+        "answer": -1
+    },
+    {
+        "question": "Heb je al een kaartje ___?",
+        "options": [
+            "gekoopt",
+            "gekokt",
+            "gekocht",
+            "gekookt"
+        ],
+        "answer": -1
+    },
+    {
+        "question": "Zal ik voor vanmiddag een afspraak ___?",
+        "options": [
+            "doen",
+            "nemen",
+            "maken",
+            "laten"
+        ],
+        "answer": -1
+    },
+    {
+        "question": "Spreek je ___ Nederlands ook andere vreemde talen?",
+        "options": [
+            "behalve",
+            "met",
+            "buiten",
+            "zonder"
+        ],
+        "answer": -1
+    }

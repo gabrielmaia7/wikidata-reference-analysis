@@ -1,0 +1,354 @@
+[
+  {
+    "_id": "36e66db3-5d2b-4cbd-8920-6d2c60da2b96",
+    "taskSet": [
+      {
+        "reference_id": "40ea1bddfcd253337df8cfa0c7e1d50f871f38a4",
+        "url": "https://ja.wikipedia.org/w/index.php?title=\u9df2\u5bae\u4fe1\u53f7\u5834&oldid=68452443",
+        "ref_node_pairs": {
+          "imported from Wikimedia project": "wikibase-item:>Japanese Wikipedia->Q177837",
+          "Wikimedia import URL": "url:>https://ja.wikipedia.org/w/index.php?title=\u9df2\u5bae\u4fe1\u53f7\u5834&oldid=68452443"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q11174065-220CACEF-5E13-4B32-9E1D-722FC82AC85E",
+        "subject": "\u9df2\u5bae\u4fe1\u53f7\u5834",
+        "predicate": "\u99c5\u30b3\u30fc\u30c9",
+        "object": "\u30ef\u30b7",
+        "g_id": 0
+      },
+      {
+        "reference_id": "b668fd70dcf25fca24de289054e6813ffcd39ad7",
+        "url": "https://viaf.org/viaf/253802417",
+        "ref_node_pairs": {
+          "VIAF ID": "value:>253802417"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q8978811-A0EB19BA-0100-4C2D-97A4-BE3E66F6AEE6",
+        "subject": "\u5317\u91ce\u52c7\u4f5c",
+        "predicate": "WorldCat \u8b58\u5225ID",
+        "object": "viaf-253802417",
+        "g_id": 0
+      },
+      {
+        "reference_id": "e4b8fe77ea04acd8245ed67522979dc48759a275",
+        "url": "https://viaf.org/viaf/264165703",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+          "retrieved": "time:>+2018-04-09T00:00:00Z",
+          "VIAF ID": "value:>264165703"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q29643946-976A05EE-C9D8-4B2D-AFBE-5F662429A19D",
+        "subject": "\u5c71\u672c\u79c0\u96c4",
+        "predicate": "NTA PPN \u8b58\u5225\u5b50",
+        "object": "291330649",
+        "g_id": 0
+      },
+      {
+        "reference_id": "f9c2fa1527623fb364185886c98664072ca32d69",
+        "url": "https://viaf.org/viaf/256212121",
+        "ref_node_pairs": {
+          "VIAF ID": "value:>256212121"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q11434291-4E2C1FD1-B24C-4B21-8C36-122C659C50A6",
+        "subject": "\u5927\u5b66\u901a\u4fe1",
+        "predicate": "WorldCat \u8b58\u5225ID",
+        "object": "viaf-256212121",
+        "g_id": 0
+      },
+      {
+        "reference_id": "f3d5f341509d4198d940c92346c0aa44a5037e06",
+        "url": "https://ja.wikipedia.org/w/index.php?title=\u30c0\u30f3\u30b7\u30f3\u30b0!_\u590f\u796d\u308a&oldid=74977662",
+        "ref_node_pairs": {
+          "imported from Wikimedia project": "wikibase-item:>Japanese Wikipedia->Q177837",
+          "Wikimedia import URL": "url:>https://ja.wikipedia.org/w/index.php?title=\u30c0\u30f3\u30b7\u30f3\u30b0!_\u590f\u796d\u308a&oldid=74977662"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q43417054-61EDE9D7-7210-4D07-85A7-5C76A92AC0F7",
+        "subject": "\u30c0\u30f3\u30b7\u30f3\u30b0! \u590f\u796d\u308a",
+        "predicate": "\u6f14\u8005\u30fb\u6f14\u594f\u8005\u30fb\u6b4c\u624b",
+        "object": "\u30b7\u30e3\u30c3\u30d5\u30eb\u30e6\u30cb\u30c3\u30c8",
+        "g_id": 0
+      },
+      {
+        "reference_id": "be3e3e2e0d041608c510355a6b826985c5b47142",
+        "url": "https://viaf.org/viaf/70243363",
+        "ref_node_pairs": {
+          "VIAF ID": "value:>70243363"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q2657055-52015F02-5699-4703-86CC-336D5DCEE1D3",
+        "subject": "\u6a4b\u672c\u5b87\u592a\u90ce",
+        "predicate": "WorldCat \u8b58\u5225ID",
+        "object": "lccn-n81015336",
+        "g_id": 0
+      }
+    ]
+  },
+  {
+    "_id": "3aac4a80-0997-46f7-845b-dcc5c18928e1",
+    "taskSet": [
+      {
+        "reference_id": "e4b8fe77ea04acd8245ed67522979dc48759a275",
+        "url": "https://viaf.org/viaf/264165703",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+          "retrieved": "time:>+2018-04-09T00:00:00Z",
+          "VIAF ID": "value:>264165703"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q29643946-976A05EE-C9D8-4B2D-AFBE-5F662429A19D",
+        "subject": "\u5c71\u672c\u79c0\u96c4",
+        "predicate": "NTA PPN \u8b58\u5225\u5b50",
+        "object": "291330649",
+        "g_id": 0
+      },
+      {
+        "reference_id": "c76bcfe92afade0fdb2fcdc8a337647f45acb41f",
+        "url": "https://viaf.org/viaf/55703004",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+          "retrieved": "time:>+2018-04-09T00:00:00Z",
+          "VIAF ID": "value:>55703004"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q11482553-D5146EB9-8685-41B9-83E0-8479A8074BAD",
+        "subject": "\u5e73\u5c71\u8606\u6c5f",
+        "predicate": "NTA PPN \u8b58\u5225\u5b50",
+        "object": "250145766",
+        "g_id": 0
+      },
+      {
+        "reference_id": "4f67bc90332fe9c72118a767c4125b74ad1e9348",
+        "url": "https://viaf.org/viaf/67595570",
+        "ref_node_pairs": {
+          "VIAF ID": "value:>67595570",
+          "retrieved": "time:>+2017-11-20T00:00:00Z",
+          "stated in": "wikibase-item:>Virtual International Authority File->Q54919"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q1620313-2A2FF2F3-60FB-4D33-9EE2-16B5EC9BD24B",
+        "subject": "\u4e94\u6728\u5bdb\u4e4b",
+        "predicate": "BIBSYS\u8b58\u5225\u5b50",
+        "object": "1042362",
+        "g_id": 0
+      },
+      {
+        "reference_id": "433c3c664818923218b15b9c502fd50dfcc207ad",
+        "url": "https://ja.wikipedia.org/w/index.php?title=\u6728\u4e0b\u307b\u3046\u304b&oldid=73914140",
+        "ref_node_pairs": {
+          "imported from Wikimedia project": "wikibase-item:>Japanese Wikipedia->Q177837",
+          "Wikimedia import URL": "url:>https://ja.wikipedia.org/w/index.php?title=\u6728\u4e0b\u307b\u3046\u304b&oldid=73914140"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q10298639-3237162B-6969-42CE-896D-38290B24E73B",
+        "subject": "\u6728\u4e0b\u307b\u3046\u304b",
+        "predicate": "allcinema\u4eba\u7269\u8b58\u5225\u5b50",
+        "object": "124149",
+        "g_id": 0
+      },
+      {
+        "reference_id": "fc269bdd22d6d43e09099e106cd203dd65659143",
+        "url": "https://cbdb.fas.harvard.edu/cbdbapi/person.php?id=0093347",
+        "ref_node_pairs": {
+          "reference URL": "url:>https://cbdb.fas.harvard.edu/cbdbapi/person.php?id=0093347"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q8249793-984beaaa-43e6-9fbf-0738-6e14ce1a244a",
+        "subject": "\u5b8b\u82e5\u662d",
+        "predicate": "\u7236\u89aa",
+        "object": "\u5b8b\u5ead\u82ac",
+        "g_id": 0
+      },
+      {
+        "reference_id": "ea6dd22bf78952e00c575c8e44e84b51aa7b17c8",
+        "url": "https://viaf.org/viaf/67779457",
+        "ref_node_pairs": {
+          "VIAF ID": "value:>67779457"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q11476939-D1A9E314-1E27-4A2A-83D7-966E1831A67C",
+        "subject": "\u5cf6\u7530\u6b63\u90ce",
+        "predicate": "WorldCat \u8b58\u5225ID",
+        "object": "lccn-n81019924",
+        "g_id": 0
+      }
+    ]
+  },
+  {
+    "_id": "e43b1aef-7efd-416a-8a62-4faf734ffcd2",
+    "taskSet": [
+      {
+        "reference_id": "ea6dd22bf78952e00c575c8e44e84b51aa7b17c8",
+        "url": "https://viaf.org/viaf/67779457",
+        "ref_node_pairs": {
+          "VIAF ID": "value:>67779457"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q11476939-D1A9E314-1E27-4A2A-83D7-966E1831A67C",
+        "subject": "\u5cf6\u7530\u6b63\u90ce",
+        "predicate": "WorldCat \u8b58\u5225ID",
+        "object": "lccn-n81019924",
+        "g_id": 0
+      },
+      {
+        "reference_id": "23800e59a1fb989df59bacca433ef941bc648def",
+        "url": "https://ja.wikipedia.org/w/index.php?title=\u5ca1\u5c71\u96fb\u6c17\u8ecc\u9053\u5ca1\u8ecc7100\u578b\u96fb\u8eca&oldid=68931951",
+        "ref_node_pairs": {
+          "imported from Wikimedia project": "wikibase-item:>Japanese Wikipedia->Q177837",
+          "Wikimedia import URL": "url:>https://ja.wikipedia.org/w/index.php?title=\u5ca1\u5c71\u96fb\u6c17\u8ecc\u9053\u5ca1\u8ecc7100\u578b\u96fb\u8eca&oldid=68931951"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q11472770-4E868C47-AE0C-4F8A-83BD-EE564013A292",
+        "subject": "\u5ca1\u5c71\u96fb\u6c17\u8ecc\u9053\u5ca1\u8ecc7100\u578b\u96fb\u8eca",
+        "predicate": "\u753b\u50cf",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Okayama%20Electric%20Tramway%207101%20TAMA%20Densya.JPG",
+        "g_id": 0
+      },
+      {
+        "reference_id": "b07007bd4cfb5707252ad0a5ca7648fd59e8d2be",
+        "url": "https://ja.wikipedia.org/w/index.php?title=\u30de\u30a4\u30cd\u30eb\u30cd\u30aa\u30b9&oldid=55895111",
+        "ref_node_pairs": {
+          "imported from Wikimedia project": "wikibase-item:>Japanese Wikipedia->Q177837",
+          "Wikimedia import URL": "url:>https://ja.wikipedia.org/w/index.php?title=\u30de\u30a4\u30cd\u30eb\u30cd\u30aa\u30b9&oldid=55895111"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q11339762-75C8C973-680B-499B-8649-771C42F3812C",
+        "subject": "\u30de\u30a4\u30cd\u30eb\u30cd\u30aa\u30b9",
+        "predicate": "\u751f\u5e74\u6708\u65e5",
+        "object": "2003-03-30T00:00:00Z",
+        "g_id": 0
+      },
+      {
+        "reference_id": "983d246b27bb27f8cd0450302160eabb8617ff8e",
+        "url": "https://viaf.org/viaf/294839375",
+        "ref_node_pairs": {
+          "VIAF ID": "value:>294839375"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q11267509-048FBA40-6316-472E-9E16-BA892F458F5F",
+        "subject": "\u3055\u3044\u305f\u307e\u5e02\u9752\u5c11\u5e74\u5b87\u5b99\u79d1\u5b66\u9928",
+        "predicate": "WorldCat \u8b58\u5225ID",
+        "object": "viaf-294839375",
+        "g_id": 0
+      },
+      {
+        "reference_id": "5b9483a99c53ad1cb97b06c179b252dda45920d0",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25327186",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+          "PubMed ID": "value:>25327186",
+          "retrieved": "time:>+2017-08-04T00:00:00Z"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q34766073-62040F17-3760-457C-B091-3FA13267A507",
+        "subject": "Maternal smoking during pregnancy and growth in infancy: a covariance structure analysis.",
+        "predicate": "\u8457\u8005\u540d\uff08\u6587\u5b57\u5217\uff09",
+        "object": "Kohta Suzuki",
+        "g_id": 0
+      },
+      {
+        "reference_id": "e69271aeb562ea8f9d80adbec2a9b251239b7cca",
+        "url": "https://viaf.org/viaf/255103577",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+          "retrieved": "time:>+2018-08-28T00:00:00Z",
+          "VIAF ID": "value:>255103577"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q9016212-31E3F2D4-A341-41CB-AC9A-718CC84F1C08",
+        "subject": "\u897f\u6fa4\u4fdd\u5f66",
+        "predicate": "NTA PPN \u8b58\u5225\u5b50",
+        "object": "327692561",
+        "g_id": 0
+      }
+    ]
+  },
+  {
+    "_id": "4bc70422-e18a-497b-8367-32020a699183",
+    "taskSet": [
+      {
+        "reference_id": "ea6dd22bf78952e00c575c8e44e84b51aa7b17c8",
+        "url": "https://viaf.org/viaf/67779457",
+        "ref_node_pairs": {
+          "VIAF ID": "value:>67779457"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q11476939-D1A9E314-1E27-4A2A-83D7-966E1831A67C",
+        "subject": "\u5cf6\u7530\u6b63\u90ce",
+        "predicate": "WorldCat \u8b58\u5225ID",
+        "object": "lccn-n81019924",
+        "g_id": 0
+      },
+      {
+        "reference_id": "9c9ee4fef9b2c04a756c2328f590353e35fed2ab",
+        "url": "https://viaf.org/viaf/61839023",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+          "VIAF ID": "value:>61839023",
+          "retrieved": "time:>+2018-10-07T00:00:00Z"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q1942999-06D97E15-A574-4988-ADEE-2B859F860A7A",
+        "subject": "\u6817\u672c\u85ab",
+        "predicate": "BNF",
+        "object": "150749791",
+        "g_id": 0
+      },
+      {
+        "reference_id": "40ea1bddfcd253337df8cfa0c7e1d50f871f38a4",
+        "url": "https://ja.wikipedia.org/w/index.php?title=\u9df2\u5bae\u4fe1\u53f7\u5834&oldid=68452443",
+        "ref_node_pairs": {
+          "imported from Wikimedia project": "wikibase-item:>Japanese Wikipedia->Q177837",
+          "Wikimedia import URL": "url:>https://ja.wikipedia.org/w/index.php?title=\u9df2\u5bae\u4fe1\u53f7\u5834&oldid=68452443"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q11174065-220CACEF-5E13-4B32-9E1D-722FC82AC85E",
+        "subject": "\u9df2\u5bae\u4fe1\u53f7\u5834",
+        "predicate": "\u99c5\u30b3\u30fc\u30c9",
+        "object": "\u30ef\u30b7",
+        "g_id": 0
+      },
+      {
+        "reference_id": "c7b5cfec3d18bf1e5cc7c8a195c760feb2cf8119",
+        "url": "https://viaf.org/viaf/258352619",
+        "ref_node_pairs": {
+          "VIAF ID": "value:>258352619"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q11364825-70FA487C-68DE-4511-8C4D-830DE386F67C",
+        "subject": "\u4e2d\u5ddd\u654f",
+        "predicate": "WorldCat \u8b58\u5225ID",
+        "object": "viaf-258352619",
+        "g_id": 0
+      },
+      {
+        "reference_id": "6996e6e31fb61ff0207e74434518689cfb02cb0c",
+        "url": "https://viaf.org/viaf/123265607",
+        "ref_node_pairs": {
+          "VIAF ID": "value:>123265607"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q496531-7C6017DA-A758-43E9-8A71-96F5229E9E1D",
+        "subject": "\u56db\u56fd\u65c5\u5ba2\u9244\u9053",
+        "predicate": "WorldCat \u8b58\u5225ID",
+        "object": "lccn-n88239962",
+        "g_id": 0
+      },
+      {
+        "reference_id": "82813634af7ecdcebadb8007d53dd23f43872fe0",
+        "url": "https://kunishitei.bunka.go.jp/heritage/detail/101/00010883",
+        "ref_node_pairs": {
+          "reference URL": "url:>https://kunishitei.bunka.go.jp/heritage/detail/101/00010883"
+        },
+        "language_crawl": "ja",
+        "statement_node": "Q83528901-62bed55b-4dbc-6169-3b22-4a5090d12996",
+        "subject": "\u5869\u8c37\u5b9a\u597d\u5199\u771f\u8a18\u5ff5\u9928",
+        "predicate": "\u907a\u7523\u4fdd\u8b77\u6307\u5b9a",
+        "object": "\u767b\u9332\u6709\u5f62\u6587\u5316\u8ca1",
+        "g_id": 0
+      }
+    ]
+  }
+]

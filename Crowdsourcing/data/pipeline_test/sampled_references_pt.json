@@ -1,0 +1,228 @@
+[
+  {
+    "reference_id": "37e13851db0af824df6e7a21d2938c8bd5cc0b0d",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Banda_Worst&oldid=56367713",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Banda_Worst&oldid=56367713"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q16496616-6B0E61B7-C2CC-477C-B355-6AA45BB8A740",
+    "subject": "Banda Worst",
+    "predicate": "work period (start)",
+    "object": "2011-01-01T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "7b4b400eddfa62f4d9ac21dcc56299e2d0e70cee",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Jamba_(produtor_musical)&oldid=54933722",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Jamba_(produtor_musical)&oldid=54933722"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q10305042-B9C313AC-F41C-492A-899B-A9DAC99CDCC5",
+    "subject": "Jammes \"Jamba\" Castro",
+    "predicate": "género artístico",
+    "object": "jazz",
+    "g_id": 0
+  },
+  {
+    "reference_id": "9e8c3a75ba1f70971b022a6f884efeca7cbcffed",
+    "url": "https://api.crossref.org/works/10.1590%2FS0034-89102011005000043",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Crossref->Q5188229",
+      "reference URL": "url:>https://api.crossref.org/works/10.1590%2FS0034-89102011005000043",
+      "retrieved": "time:>+2018-01-21T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q43538913-192B1D82-2399-44D5-A96C-B030BB2F3187",
+    "subject": "Factors associated to relapse of leprosy in Mato Grosso, Central-Western Brazil.",
+    "predicate": "cita",
+    "object": "Pharmacoepidemiology of potential alcohol-prescription drug interactions among primary care patients with alcohol-use disorders.",
+    "g_id": 0
+  },
+  {
+    "reference_id": "ca94f98985b19b3398f7de956ce83c3d7e12d3ef",
+    "url": "http://divulgacandcontas.tse.jus.br/divulga/#/candidato/2012/1699/71498/250000044805",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://divulgacandcontas.tse.jus.br/divulga/#/candidato/2012/1699/71498/250000044805"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q64846933-FC4F7879-2A75-4B04-B6CF-3BB35677F1FC",
+    "subject": "Clauduir Aparecido Menes",
+    "predicate": "instância de",
+    "object": "ser humano",
+    "g_id": 0
+  },
+  {
+    "reference_id": "c7df17a827a7183b20ddd3fc429f4adeda2a3c16",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Vanessa_Damo&oldid=56208905",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Vanessa_Damo&oldid=56208905"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q10389064-4D8606E8-EEB4-438D-9F22-BA1C8E1CDB44",
+    "subject": "Vanessa Damo",
+    "predicate": "local de nascimento",
+    "object": "Mauá",
+    "g_id": 0
+  },
+  {
+    "reference_id": "e4cb344c84bd9fc41a88ce3772e51ef46182f17f",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:19669026%20AND%20SRC:MED&resulttype=core&format=json",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>19669026",
+      "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:19669026%20AND%20SRC:MED&resulttype=core&format=json",
+      "retrieved": "time:>+2020-02-05T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q84382227-19CDFE3E-81E3-4334-9606-160CA8A780A3",
+    "subject": "[Epidemiology of breast cancer]",
+    "predicate": "data de publicação",
+    "object": "2009-05-01T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "2041fdc020c9ef546af5bd32d0e375c9f0cdfb5d",
+    "url": "http://memoriasdaditadura.org.br/memorial/antonio-joaquim-de-souza-machado/",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://memoriasdaditadura.org.br/memorial/antonio-joaquim-de-souza-machado/"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q63071197-e45f9061-4031-0447-fd2a-dc58623454ad",
+    "subject": "Antônio Joaquim Machado",
+    "predicate": "primeiro nome",
+    "object": "Antônio",
+    "g_id": 0
+  },
+  {
+    "reference_id": "9af21492c35d54c7b334c0163b85dd8d6ca84708",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:26024416%20AND%20SRC:MED&resulttype=core&format=json",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PMCID": "value:>4507598",
+      "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:26024416%20AND%20SRC:MED&resulttype=core&format=json",
+      "retrieved": "time:>+2020-02-16T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q35866654-1FAC2527-F3A9-4B0E-B069-5F89D74D2D2C",
+    "subject": "Ultrasonic sensor signals and optimum path forest classifier for the microstructural characterization of thermally-aged inconel 625 alloy.",
+    "predicate": "nome do autor",
+    "object": "Pedro P Rebouças Filho",
+    "g_id": 0
+  },
+  {
+    "reference_id": "8fb16aa56ce34b7a10063c195e4ee81513375c15",
+    "url": "https://www.transfermarkt.com/transfermarkt/profil/spieler/380478",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Transfermarkt->Q2449070",
+      "Transfermarkt player ID": "value:>380478",
+      "named as": "value:>Victor Braga",
+      "retrieved": "time:>+2017-10-09T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q29043238-79048F5D-0319-4781-B754-C48DF90DBA66",
+    "subject": "Victor Braga",
+    "predicate": "data de nascimento",
+    "object": "1992-02-17T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "deeac78160853e87e5ab930a68f159f976525d85",
+    "url": "http://museus.cultura.gov.br/espaco/6828",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://museus.cultura.gov.br/espaco/6828"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q10333409-5701d50c-43bc-076c-8ae6-4b2c1a8e00db",
+    "subject": "Museu Barão de Mauá",
+    "predicate": "coordenadas geográficas",
+    "object": "Point(-46.4525103 -23.6663935)",
+    "g_id": 0
+  },
+  {
+    "reference_id": "6700b8b4ab5965a7a555363233ebe92e973c55e8",
+    "url": "http://www.interfilmes.com/filme_24557_A.Ocasiao.Faz.o.Ladrao-(Henry.s.Crime).html",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://www.interfilmes.com/filme_24557_A.Ocasiao.Faz.o.Ladrao-(Henry.s.Crime).html",
+      "retrieved": "time:>+2016-04-27T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "q127414-23105398-AC79-4416-84D9-2B265C9F9874",
+    "subject": "Henry’s Crime",
+    "predicate": "protagonistas",
+    "object": "Keanu Reeves",
+    "g_id": 0
+  },
+  {
+    "reference_id": "c2f5e3d977c63630207e2a2fa40ad8da15e610d1",
+    "url": "https://www2.camara.leg.br/deputados/pesquisa/layouts_deputados_resultado_pesquisa?nome=&Partido=QQ&UF=QQ&SX=QQ&Legislatura=54&condic=QQ&ordem=nome&forma=lista&Pesquisa=Buscar",
+    "ref_node_pairs": {
+      "reference URL": "url:>https://www2.camara.leg.br/deputados/pesquisa/layouts_deputados_resultado_pesquisa?nome=&Partido=QQ&UF=QQ&SX=QQ&Legislatura=54&condic=QQ&ordem=nome&forma=lista&Pesquisa=Buscar",
+      "retrieved": "time:>+2019-02-03T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q6761707-2a74729f-4dab-bfa9-b00f-861802d1a1c7",
+    "subject": "Maria do Rosário",
+    "predicate": "cargo ocupado",
+    "object": "deputado federal pelo Rio Grande do Sul",
+    "g_id": 0
+  },
+  {
+    "reference_id": "3229521f2b568348f6de9c323659e9cbae87bb31",
+    "url": "http://www.lexmagister.com.br/legis_27289267_DECRETO_DE_30_DE_JANEIRO_DE_2017.aspx",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://www.lexmagister.com.br/legis_27289267_DECRETO_DE_30_DE_JANEIRO_DE_2017.aspx"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q26036340-22dce928-4249-113e-1f43-64c9b3c7bc83",
+    "subject": "Christophe Prazuck",
+    "predicate": "distinção",
+    "object": "Ordem do Mérito Naval",
+    "g_id": 0
+  },
+  {
+    "reference_id": "614a73b6d64e26eaec18e773cb56f142e0f883ed",
+    "url": "http://www.adorocinema.com/filmes/filme-980/",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://www.adorocinema.com/filmes/filme-980/",
+      "retrieved": "time:>+2016-07-11T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "q202548-B1CF6477-6F52-46D8-877D-E6D3E00F7F29",
+    "subject": "Vertigo",
+    "predicate": "protagonistas",
+    "object": "Kim Novak",
+    "g_id": 0
+  },
+  {
+    "reference_id": "02e44f544a0cd452fddcb104475ea3acb3a461ee",
+    "url": "https://pt.wikipedia.org/w/index.php?title=Memorial_Aeroespacial_Brasileiro&oldid=52975160",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Portuguese Wikipedia->Q11921",
+      "Wikimedia import URL": "url:>https://pt.wikipedia.org/w/index.php?title=Memorial_Aeroespacial_Brasileiro&oldid=52975160"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q25428941-69CA2479-9C32-414C-B8D8-68677F9E9C21",
+    "subject": "Memorial Aeroespacial Brasileiro",
+    "predicate": "data de fundação ou criação",
+    "object": "2004-02-19T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "a6a5545c9ff3106b6091a181239fc9a88be47a10",
+    "url": "http://divulgacandcontas.tse.jus.br/divulga/#/candidato/2016/2/56634/80000012824",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://divulgacandcontas.tse.jus.br/divulga/#/candidato/2016/2/56634/80000012824"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q61877964-886E143D-282D-4F60-BFCB-34AE8231FBD2",
+    "subject": "Marciano Caliman Júnior",
+    "predicate": "sexo ou género",
+    "object": "masculino",
+    "g_id": 0
+  }
+]

@@ -1,0 +1,100 @@
+    {
+        "question": "Waar kom je ___?",
+        "options": [
+            "van",
+            "vandaar",
+            "vandaan",
+            "vandaag"
+        ],
+        "answer": -1
+    },
+    {
+        "question": "___ u Nederlander?",
+        "options": [
+            "Bent",
+            "Ben",
+            "Zijn",
+            "Waren"
+        ],
+        "answer": -1
+    },
+    {
+        "question": "___ heet jij?",
+        "options": [
+            "Wie",
+            "Wat",
+            "Waar",
+            "Hoe"
+        ],
+        "answer": -1
+    },
+    {
+        "question": "Hoe gaat het met ___?",
+        "options": [
+            "jou",
+            "jij",
+            "jouw",
+            "jouwe"
+        ],
+        "answer": -1
+    },
+    {
+        "question": "___ ik me even voorstellen?",
+        "options": [
+            "Kan",
+            "Wil",
+            "Moet",
+            "Mag"
+        ],
+        "answer": -1
+    },
+    {
+        "question": "Wat is ___ adres?",
+        "options": [
+            "uw",
+            "u",
+            "uwe",
+            "de"
+        ],
+        "answer": -1
+    },
+    {
+        "question": "___ zijn twee vrouwen op de foto te zien.",
+        "options": [
+            "Daar",
+            "Die",
+            "Er",
+            "Hoeveel"
+        ],
+        "answer": -1
+    },
+    {
+        "question": "Mijn man is ___ slordig.",
+        "options": [
+            "veel",
+            "weinig",
+            "geen",
+            "helemaal niet"
+        ],
+        "answer": -1
+    },
+    {
+        "question": "___ klasgenoten vergeet ik nooit!",
+        "options": [
+            "Dit ",
+            "Die",
+            "Dat",
+            "Het"
+        ],
+        "answer": -1
+    },
+    {
+        "question": "Jullie zijn de beste ___!",
+        "options": [
+            "collegas",
+            "collegen",
+            "collega",
+            "collega’s"
+        ],
+        "answer": -1
+    }

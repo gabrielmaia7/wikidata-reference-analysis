@@ -1,0 +1,4 @@
+"In this task, we want your help classifying the nature of some websites. You will be asked to take a look at six
+websites, and, for each, we'll ask:<br>1) What is the kind of author that normally puts information in that
+website;<br>2) What is the type of publisher that the website most closely classifies as;<br>3) Depending on the
+publisher type, a sub-type of publisher will also be asked."

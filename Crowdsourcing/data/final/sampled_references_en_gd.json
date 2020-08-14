@@ -1,0 +1,693 @@
+[
+  {
+    "reference_id": "a4e7281c6909b7cb2dc251f84627a41204abe07e",
+    "url": "https://viaf.org/viaf/64195194",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>64195194",
+      "retrieved": "time:>+2017-10-16T00:00:00Z",
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q7172351-D3F236F2-D920-4CF4-965E-0F33F68142A0",
+    "subject": "Pete Wylie",
+    "predicate": "GND ID",
+    "object": "134561961",
+    "g_id": 0
+  },
+  {
+    "reference_id": "eec01187c078f8e4994ae4edd38a7e8c1a300233",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:23666324%20AND%20SRC:MED&resulttype=core&format=json",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>23666324",
+      "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:23666324%20AND%20SRC:MED&resulttype=core&format=json",
+      "retrieved": "time:>+2020-03-01T00:00:00Z"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q44753358-59ACE205-1F9D-44F9-A74B-BF6FD0979EA2",
+    "subject": "An assessment of heavy metal bioaccumulation in Asian swamp eel, Monopterus albus, during plowing stages of a paddy cycle.",
+    "predicate": "PubMed ID",
+    "object": "23666324",
+    "g_id": 0
+  },
+  {
+    "reference_id": "5fcb9535013745aa366695b0ad4447f5cd7d3224",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:22832743%20AND%20SRC:MED&resulttype=core&format=json",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>22832743",
+      "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:22832743%20AND%20SRC:MED&resulttype=core&format=json",
+      "retrieved": "time:>+2020-02-09T00:00:00Z"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q84622415-AE4E1E00-DD0C-413F-9356-DEE4A4045E35",
+    "subject": "Bottom-up optimization of SERS hot-spots",
+    "predicate": "page(s)",
+    "object": "9346-9348",
+    "g_id": 0
+  },
+  {
+    "reference_id": "a10885a0cc7258364dd9f3b7cc39491d3793aa4d",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:18824271%20AND%20SRC:MED&resulttype=core&format=json",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>18824271",
+      "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:18824271%20AND%20SRC:MED&resulttype=core&format=json",
+      "retrieved": "time:>+2020-01-14T00:00:00Z"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q82111771-70D99A66-3CE8-435C-BA6E-6615C847C4CA",
+    "subject": "Safety and efficacy of inhaled human insulin (Exubera) during discontinuation and readministration of therapy in adults with type 1 diabetes: A 3-year randomized controlled trial",
+    "predicate": "PubMed ID",
+    "object": "18824271",
+    "g_id": 0
+  },
+  {
+    "reference_id": "6831ccb51015d8641bff0db303fd8e21dc342c67",
+    "url": "https://api.crossref.org/works/10.1111%2FPALA.12330",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Crossref->Q5188229",
+      "reference URL": "url:>https://api.crossref.org/works/10.1111%2FPALA.12330",
+      "retrieved": "time:>+2018-01-21T00:00:00Z"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q48109821-D3B78AF9-6CEF-4F46-BC57-E879A6FC51BA",
+    "subject": "Probabilistic methods surpass parsimony when assessing clade support in phylogenetic analyses of discrete morphological data.",
+    "predicate": "cites work",
+    "object": "TNT, a free program for phylogenetic analysis",
+    "g_id": 0
+  },
+  {
+    "reference_id": "d8f59eaf3ae061cf6ddca2020b8dcb18ff1b873a",
+    "url": "http://purl.uniprot.org/uniprot/Q7W0C7",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>UniProt->Q905695",
+      "retrieved": "time:>+2017-06-08T00:00:00Z",
+      "UniProt protein ID": "value:>Q7W0C7"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q23369355-5F102B62-D804-4C28-94DB-41135DF61910",
+    "subject": "short-chain fatty acids transporter BP0218",
+    "predicate": "encodes",
+    "object": "Short-chain fatty acids transporter BP0218",
+    "g_id": 0
+  },
+  {
+    "reference_id": "b38f9e1b3b3dd9d6bae24750110b00c1e14aede1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:20308698%20AND%20SRC:MED&resulttype=core&format=json",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>20308698",
+      "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:20308698%20AND%20SRC:MED&resulttype=core&format=json",
+      "retrieved": "time:>+2020-01-28T00:00:00Z"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q56649271-B092D78C-A416-4BF6-8F56-1B10D70BB9ED",
+    "subject": "The physical and physiological demands of basketball training and competition",
+    "predicate": "published in",
+    "object": "International Journal of Sports Physiology and Performance",
+    "g_id": 0
+  },
+  {
+    "reference_id": "8415c6268cc43138efbe72c70dbf3e6f98e6b03e",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:28537710%20AND%20SRC:MED&resulttype=core&format=json",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>28537710",
+      "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:28537710%20AND%20SRC:MED&resulttype=core&format=json",
+      "retrieved": "time:>+2020-03-21T00:00:00Z"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q48108018-43A8AC27-38AF-4CD9-8CD4-CF349420623E",
+    "subject": "Elucidating Adsorptive Fractions of Natural Organic Matter on Carbon Nanotubes.",
+    "predicate": "author",
+    "object": "Mohamed Ateia",
+    "g_id": 0
+  },
+  {
+    "reference_id": "50938e16888b4c78a841c72a5aa4b05d088bbb2f",
+    "url": "https://en.wikipedia.org/w/index.php?title=WURV&oldid=837771911",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>English Wikipedia->Q328",
+      "Wikimedia import URL": "url:>https://en.wikipedia.org/w/index.php?title=WURV&oldid=837771911"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q7956674-C57F47D4-20CB-41AF-97E9-343C7ADD5C7E",
+    "subject": "WURV",
+    "predicate": "owned by",
+    "object": "SummitMedia",
+    "g_id": 0
+  },
+  {
+    "reference_id": "b581a59fa8ca5c4e9788df29a6eb10457b5716d0",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:8324340%20AND%20SRC:MED&resulttype=core&format=json",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>8324340",
+      "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:8324340%20AND%20SRC:MED&resulttype=core&format=json",
+      "retrieved": "time:>+2019-10-29T00:00:00Z"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q72813204-1ADC505C-3303-42A4-9605-7CC84EAC75DE",
+    "subject": "Closure of a perineal sinus connected with the small bowel developing after radical surgery for rectal carcinoma: a report of the operative procedures used in two cases",
+    "predicate": "issue",
+    "object": "5",
+    "g_id": 0
+  },
+  {
+    "reference_id": "e316ee0eacfeed0dabe13b2ca5eca145f5dd156f",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:4840978%20AND%20SRC:MED&resulttype=core&format=json",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>4840978",
+      "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:4840978%20AND%20SRC:MED&resulttype=core&format=json",
+      "retrieved": "time:>+2019-10-05T00:00:00Z"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q69793851-A27AD0CB-BDAD-4712-A324-318B445007CD",
+    "subject": "[Hansen's disease in a clinical medicine department]",
+    "predicate": "issue",
+    "object": "1",
+    "g_id": 0
+  },
+  {
+    "reference_id": "7a4cd76ab9b0380a49c1e6d0e316c7eeb3c04b56",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/23324996",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>23324996",
+      "retrieved": "time:>+2017-08-28T00:00:00Z"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q38074563-54C21C9E-13BE-4618-9CC9-5ED77CB11DC8",
+    "subject": "ATP2B1 and blood pressure:  from associations to pathophysiology.",
+    "predicate": "volume",
+    "object": "22",
+    "g_id": 0
+  },
+  {
+    "reference_id": "07b52d9539d8320ed2b383952dd584a5ccb9c9ac",
+    "url": "http://purl.uniprot.org/uniprot/P36145",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>UniProt->Q905695",
+      "retrieved": "time:>+2020-02-26T00:00:00Z",
+      "UniProt protein ID": "value:>P36145"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q27551567-313BC548-0C7C-43F0-AD9B-01F49D371805",
+    "subject": "Transcription factor TFIIE subunit TFA2 YKR062W",
+    "predicate": "encoded by",
+    "object": "TFA2",
+    "g_id": 0
+  },
+  {
+    "reference_id": "3e4e1c8f9035e22bb23de93ef7bddf89677a7ab5",
+    "url": "https://api.crossref.org/works/10.3109%2F10799899109066417",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Crossref->Q5188229",
+      "reference URL": "url:>https://api.crossref.org/works/10.3109%2F10799899109066417",
+      "retrieved": "time:>+2018-01-21T00:00:00Z"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q46518307-0270C82D-6D00-468B-BFB5-064124725833",
+    "subject": "Photoaffinity ligands for the [3H]TBOB binding site of the GABAA receptor.",
+    "predicate": "cites work",
+    "object": "t-[3H]butylbicycloorthobenzoate: new radioligand probe for the gamma-aminobutyric acid-regulated chloride ionophore.",
+    "g_id": 0
+  },
+  {
+    "reference_id": "8fdd8e80b3a5b0c6e6bcb5efed051095f3747962",
+    "url": "http://geonames.nga.mil/",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>GEOnet Names Server->Q1194038",
+      "publication date": "time:>+2018-06-11T00:00:00Z",
+      "GNS Unique Feature ID": "value:>-699802"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q21796746-346B266C-9C61-441A-86E0-7A0969066596",
+    "subject": "Mina San Antonio",
+    "predicate": "located in the administrative territorial entity",
+    "object": "La Paz Department",
+    "g_id": 0
+  },
+  {
+    "reference_id": "3ef702da6f632264ebd2624acfca6a3ee5894dd4",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/12598971",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>12598971",
+      "retrieved": "time:>+2017-12-02T00:00:00Z"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q44323663-922DBEA5-372C-4B3E-93AC-4A0CC9E86561",
+    "subject": "Intraluminal casein model of necrotizing enterocolitis for assessment of mucosal destruction, bacterial translocation, and the effects of allopurinol and N-acetylcysteine.",
+    "predicate": "publication date",
+    "object": "2002-10-26T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "ddf3ca3b9b8cd991029103286f60ee098b2fe7d3",
+    "url": "http://europepmc.org/abstract/MED/16410216",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>16410216",
+      "retrieved": "time:>+2017-12-26T00:00:00Z",
+      "reference URL": "url:>http://europepmc.org/abstract/MED/16410216"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q46892740-557802E7-3691-473F-893E-FF89217177C2",
+    "subject": "Testosterone improves motor function in Parkinson's disease.",
+    "predicate": "volume",
+    "object": "13",
+    "g_id": 0
+  },
+  {
+    "reference_id": "1bfff99aa4326ad6e37201698ca6c655f76a0566",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:2585716%20AND%20SRC:MED&resulttype=core&format=json",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>2585716",
+      "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:2585716%20AND%20SRC:MED&resulttype=core&format=json",
+      "retrieved": "time:>+2019-10-01T00:00:00Z"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q69387241-A857252D-DAE6-4BD4-B286-4AC5083F9FA1",
+    "subject": "[Hemodynamic changes before and after anesthesia for renal transplantation]",
+    "predicate": "author name string",
+    "object": "Itoh S",
+    "g_id": 0
+  },
+  {
+    "reference_id": "d6aa09222d4a70bf903d3cf0a0380b0a6d051507",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:1667439%20AND%20SRC:MED&resulttype=core&format=json",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>1667439",
+      "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:1667439%20AND%20SRC:MED&resulttype=core&format=json",
+      "retrieved": "time:>+2019-09-23T00:00:00Z"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q68279621-4E092FE2-7EB3-47D4-BBE7-23104946BF2B",
+    "subject": "[ELISA for detecting antibodies against herpes simplex virus]",
+    "predicate": "PubMed ID",
+    "object": "1667439",
+    "g_id": 0
+  },
+  {
+    "reference_id": "472f1111976e8c654438961c2630554715451068",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:10383077%20AND%20SRC:MED&resulttype=core&format=json",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>10383077",
+      "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:10383077%20AND%20SRC:MED&resulttype=core&format=json",
+      "retrieved": "time:>+2019-12-09T00:00:00Z"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q77925868-245BDEDF-2DEC-4DA3-9D55-9E995AC64812",
+    "subject": "A comparison of ELISA assays as routine diagnostic test for detection of autoantibodies against extractable nuclear antigens",
+    "predicate": "author name string",
+    "object": "H L Van Duijnhoven",
+    "g_id": 0
+  },
+  {
+    "reference_id": "050009ecce26fdb8ddca4f7166af86562a94e732",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:20940693%20AND%20SRC:MED&resulttype=core&format=json",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>20940693",
+      "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:20940693%20AND%20SRC:MED&resulttype=core&format=json",
+      "retrieved": "time:>+2020-02-15T00:00:00Z"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q37799713-9E0F2995-EA39-4960-83DA-0F8351D4A888",
+    "subject": "Personalized approach to prostate cancer prognosis.",
+    "predicate": "issue",
+    "object": "3",
+    "g_id": 0
+  },
+  {
+    "reference_id": "b3149c70dda85173a5e3b0b012c1b30447cd7474",
+    "url": "https://api.crossref.org/works/10.1080%2F01926180701291238",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Crossref->Q5188229",
+      "reference URL": "url:>https://api.crossref.org/works/10.1080%2F01926180701291238",
+      "retrieved": "time:>+2018-01-21T00:00:00Z"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q58267113-ADFCD6A1-741F-4E9C-ADAB-B3AFBE2B33C7",
+    "subject": "Avoiding Expert Testimony About Family Therapy",
+    "predicate": "cites work",
+    "object": "Sexual abuse evaluations: conceptual and empirical obstacles.",
+    "g_id": 0
+  },
+  {
+    "reference_id": "d42dc4bad81c516fa6f5aab2bcf925ab108a3a30",
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pmc&linkname=pmc_refs_pubmed&retmode=json&id=2997310",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>PubMed Central->Q229883",
+      "reference URL": "url:>https://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pmc&linkname=pmc_refs_pubmed&retmode=json&id=2997310",
+      "retrieved": "time:>+2018-12-09T00:00:00Z"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q34381344-5DE453DA-AB2E-445C-8EC1-41DC9195BA17",
+    "subject": "Effects of renal impairment on the pharmacokinetics, pharmacodynamics and safety of rivaroxaban, an oral, direct Factor Xa inhibitor",
+    "predicate": "cites work",
+    "object": "Treatment of Proximal Deep-Vein Thrombosis With the Oral Direct Factor Xa Inhibitor Rivaroxaban (BAY 59-7939): The ODIXa-DVT (Oral Direct Factor Xa Inhibitor BAY 59-7939 in Patients With Acute Symptomatic Deep-Vein Thrombosis) Study",
+    "g_id": 0
+  },
+  {
+    "reference_id": "ab9242e98ce49f94c229764bb4319812f5a11a05",
+    "url": "https://www.ncbi.nlm.nih.gov/gene/1029626",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>NCBI Gene->Q20641742",
+      "language of work or name": "wikibase-item:>English->Q1860",
+      "Entrez Gene ID": "value:>1029626",
+      "retrieved": "time:>+2016-12-13T00:00:00Z"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q23217082-A5C096CD-7C2A-4022-AB20-4BD8A1A3087F",
+    "subject": "hypothetical protein SMU_39",
+    "predicate": "subclass of",
+    "object": "gene",
+    "g_id": 0
+  },
+  {
+    "reference_id": "4c7031eb73301ecb969c8315aac1fce86585d26a",
+    "url": "https://api.crossref.org/works/10.1111%2FCBDD.12883",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Crossref->Q5188229",
+      "reference URL": "url:>https://api.crossref.org/works/10.1111%2FCBDD.12883",
+      "retrieved": "time:>+2018-01-21T00:00:00Z"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q48478276-005C3EA6-E711-4C6B-84E8-C3C2F476F0AB",
+    "subject": "Identification of ginkgolide targets in brain by photoaffinity labeling.",
+    "predicate": "cites work",
+    "object": "In vivoBiodistribution of Ginkgolide B, a Constituent ofGinkgo biloba, Visualized by MicroPET",
+    "g_id": 0
+  },
+  {
+    "reference_id": "702d948cd78d5f1e6dc934e9e5089b5506761608",
+    "url": "https://ndclist.com/ndc/59212-700",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>OpenFDA->Q22907487",
+      "National Drug Code": "value:>59212-700",
+      "retrieved": "time:>+2018-01-30T00:00:00Z"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q47521941-C48BFDD8-2F65-4CAA-9125-CB1F93C8F93D",
+    "subject": "Orapred",
+    "predicate": "RxNorm ID",
+    "object": "285077",
+    "g_id": 0
+  },
+  {
+    "reference_id": "22b45a04b03a64f0d49990165a3ec3d0c204634e",
+    "url": "https://api.crossref.org/works/10.1007%2FS00128-013-1018-3",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Crossref->Q5188229",
+      "reference URL": "url:>https://api.crossref.org/works/10.1007%2FS00128-013-1018-3",
+      "retrieved": "time:>+2018-01-21T00:00:00Z"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q44892066-5968A8EF-975C-4CA4-AEC5-5E493FE3691D",
+    "subject": "MSPD sample preparation approach for reversed-phase liquid chromatographic analysis of pesticide residues in stem of coconut palm.",
+    "predicate": "cites work",
+    "object": "A matrix solid-phase dispersion method for the extraction of seven pesticides from mango and papaya.",
+    "g_id": 0
+  },
+  {
+    "reference_id": "abe33d63b2542f672ab4f66038156d839ce5a37d",
+    "url": "https://www.ncbi.nlm.nih.gov/gene/3082014",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>NCBI Gene->Q20641742",
+      "retrieved": "time:>+2018-12-07T00:00:00Z",
+      "Entrez Gene ID": "value:>3082014"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q23453728-55A317A5-23FC-4B48-A8DC-AC2ACF126700",
+    "subject": "Hypothetical protein BF3376",
+    "predicate": "RefSeq protein ID",
+    "object": "YP_100654",
+    "g_id": 0
+  },
+  {
+    "reference_id": "b4af416944960697943e1a2aec4555da8e07f947",
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pmc&linkname=pmc_refs_pubmed&retmode=json&id=4660265",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>PubMed Central->Q229883",
+      "reference URL": "url:>https://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pmc&linkname=pmc_refs_pubmed&retmode=json&id=4660265",
+      "retrieved": "time:>+2018-06-02T00:00:00Z"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q28087614-AA2846DA-04D5-4D45-80CB-951FF2933F94",
+    "subject": "Hypoxic Episodes in Bronchopulmonary Dysplasia",
+    "predicate": "cites work",
+    "object": "Maturational changes in airway smooth muscle structure-function relationships.",
+    "g_id": 0
+  },
+  {
+    "reference_id": "f262e22a2f2ce9e0598413073af5590d5c692abc",
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pmc&linkname=pmc_refs_pubmed&retmode=json&id=4159995",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>PubMed Central->Q229883",
+      "reference URL": "url:>https://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pmc&linkname=pmc_refs_pubmed&retmode=json&id=4159995",
+      "retrieved": "time:>+2018-07-05T00:00:00Z"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q34159178-3C49A21C-CB6A-45DA-98A9-A3F7695B7B8F",
+    "subject": "Toward literature-based feature selection for diagnostic classification: a meta-analysis of resting-state fMRI in depression.",
+    "predicate": "cites work",
+    "object": "Disease and the brain's dark energy.",
+    "g_id": 0
+  },
+  {
+    "reference_id": "615b114f65ca169d4ee8f0eafd25122b3066efa5",
+    "url": "http://europepmc.org/abstract/MED/5426656",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>5426656",
+      "retrieved": "time:>+2017-12-25T00:00:00Z",
+      "reference URL": "url:>http://europepmc.org/abstract/MED/5426656"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q46864010-A22475C2-D849-4918-BE4D-CE36D8ED83D5",
+    "subject": "Calcium content and exchange in neocortical tissues during the cation movements induced by glutamates.",
+    "predicate": "published in",
+    "object": "Journal of Neurochemistry",
+    "g_id": 0
+  },
+  {
+    "reference_id": "ed37db87bfe0b809ea09cfc0769162c0f156f20f",
+    "url": "http://purl.uniprot.org/uniprot/Q9BXT6",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>UniProt->Q905695",
+      "retrieved": "time:>+2017-07-06T00:00:00Z",
+      "UniProt protein ID": "value:>Q9BXT6"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q18041012-9C65D35E-304A-40F5-91D3-DE4266CF8DAA",
+    "subject": "MOV10L1",
+    "predicate": "encodes",
+    "object": "Mov10 like RISC complex RNA helicase 1",
+    "g_id": 0
+  },
+  {
+    "reference_id": "08c75701a4326cb8ac9811a8c579e2a2211f65e1",
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pmc&linkname=pmc_refs_pubmed&retmode=json&id=5830077",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>PubMed Central->Q229883",
+      "reference URL": "url:>https://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pmc&linkname=pmc_refs_pubmed&retmode=json&id=5830077",
+      "retrieved": "time:>+2018-07-10T00:00:00Z"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q55351009-0942076A-575F-418C-B7C8-90356122F9B2",
+    "subject": "Tilapia fish microbial spoilage monitored by a single optical gas sensor.",
+    "predicate": "cites work",
+    "object": "Tunable Gas Sensing Gels by Cooperative Assembly.",
+    "g_id": 0
+  },
+  {
+    "reference_id": "6aec56481d2758661939ce4f95dee6495ddc6200",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/15446947",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>15446947",
+      "retrieved": "time:>+2017-12-09T00:00:00Z"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q45077531-B1C90AD1-D50D-4429-AA56-39AE4EB0140D",
+    "subject": "Relaxation modes in glass forming meta-toluidine.",
+    "predicate": "page(s)",
+    "object": "6470-6477",
+    "g_id": 0
+  },
+  {
+    "reference_id": "2a0b4114a9f81c5b2d7c6513641e308447dbbb86",
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pmc&linkname=pmc_refs_pubmed&retmode=json&id=2676448",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>PubMed Central->Q229883",
+      "reference URL": "url:>https://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pmc&linkname=pmc_refs_pubmed&retmode=json&id=2676448",
+      "retrieved": "time:>+2018-11-26T00:00:00Z"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q30489840-9B90973C-95F3-4C53-84C2-D8263BA28F3A",
+    "subject": "Noninvasive, in vivo imaging of blood-oxygenation dynamics within the mouse brain using photoacoustic microscopy",
+    "predicate": "cites work",
+    "object": "In vivo imaging of subcutaneous structures using functional photoacoustic microscopy.",
+    "g_id": 0
+  },
+  {
+    "reference_id": "c2db4d9674b00fdac3951022106853f6bd72323d",
+    "url": "http://purl.uniprot.org/uniprot/P95187",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>UniProt->Q905695",
+      "retrieved": "time:>+2020-02-26T00:00:00Z",
+      "UniProt protein ID": "value:>P95187"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q22923578-17E7B024-5553-443F-ABFC-123F55216638",
+    "subject": "Acyl-CoA dehydrogenase Rv3139",
+    "predicate": "encoded by",
+    "object": "acyl-CoA dehydrogenase Rv3139",
+    "g_id": 0
+  },
+  {
+    "reference_id": "0ed3d3c3eee9921afc0c53e9c947a0bddcb193a6",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/25633484",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>25633484",
+      "retrieved": "time:>+2017-09-07T00:00:00Z"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q38915284-97039B92-0EB5-40F0-8618-25040677670C",
+    "subject": "MMP-9 is increased in the pathogenesis of gastric cancer by the mediation of HER2.",
+    "predicate": "volume",
+    "object": "22",
+    "g_id": 0
+  },
+  {
+    "reference_id": "fac620a15f30a0589d1fd3b04e93af1472ba4bd3",
+    "url": "http://geonames.nga.mil/",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>GEOnet Names Server->Q1194038",
+      "publication date": "time:>+2018-06-11T00:00:00Z",
+      "GNS Unique Feature ID": "value:>-1502353"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q32735068-54941DF1-726F-4B7D-B6CA-4F2F8D072323",
+    "subject": "Dirty River",
+    "predicate": "country",
+    "object": "Ireland",
+    "g_id": 0
+  },
+  {
+    "reference_id": "48b4be1d759c57dc75876a2257bb6631f1cbe711",
+    "url": "http://europepmc.org/abstract/MED/2217924",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>2217924",
+      "retrieved": "time:>+2018-02-26T00:00:00Z",
+      "reference URL": "url:>http://europepmc.org/abstract/MED/2217924"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q50152393-978A3EF1-0C76-43D0-8CD4-4CEEAA157E69",
+    "subject": "[Emphysematous cholecystitis. Description of a case]",
+    "predicate": "author name string",
+    "object": "Balboni G",
+    "g_id": 0
+  },
+  {
+    "reference_id": "5dc9a368994766cc818af9b8634fd49d27673420",
+    "url": "https://www.ncbi.nlm.nih.gov/gene/107381674",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>NCBI Gene->Q20641742",
+      "retrieved": "time:>+2018-08-31T00:00:00Z",
+      "Entrez Gene ID": "value:>107381674"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q56473091-6EAE897A-705E-4A7B-ACEB-08606A8E8B29",
+    "subject": "transmembrane protein 39A tmem39a",
+    "predicate": "instance of",
+    "object": "gene",
+    "g_id": 0
+  },
+  {
+    "reference_id": "272369c8375b934a43d47920fbc603e992ee1bd6",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/9109387",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>9109387",
+      "retrieved": "time:>+2017-06-17T00:00:00Z"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q30321323-C17F60D6-DE65-4503-B56A-7D4F3DAF1ACF",
+    "subject": "Photoactivation of the nitric oxide donor SIN-1.",
+    "predicate": "author name string",
+    "object": "Ullrich T",
+    "g_id": 0
+  },
+  {
+    "reference_id": "1dfd3a477923e0dd41ef4521d9804791ebe76c5a",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:17254868%20AND%20SRC:MED&resulttype=core&format=json",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>17254868",
+      "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:17254868%20AND%20SRC:MED&resulttype=core&format=json",
+      "retrieved": "time:>+2019-12-24T00:00:00Z"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q48297352-23630A72-08CA-4B6D-B8F3-2DF1DA41E86E",
+    "subject": "Anatomical identification of active contacts in subthalamic deep brain stimulation.",
+    "predicate": "page(s)",
+    "object": "140-6; discussion 146-7",
+    "g_id": 0
+  },
+  {
+    "reference_id": "47e0493a93a1fbde7570c629508a054ca6e8dc14",
+    "url": "https://api.crossref.org/works/10.7717%2FPEERJ.2485",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Crossref->Q5188229",
+      "reference URL": "url:>https://api.crossref.org/works/10.7717%2FPEERJ.2485",
+      "retrieved": "time:>+2018-01-21T00:00:00Z"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q37347140-D099DF06-C9E4-40A1-8A98-5FEFAFF0FF6E",
+    "subject": "Judgement bias in goats (Capra hircus): investigating the effects of human grooming.",
+    "predicate": "cites work",
+    "object": "Reconciliation in Domestic Goats",
+    "g_id": 0
+  },
+  {
+    "reference_id": "ccc0cec5ecb05730f709e314a253fb9ae3035bb0",
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pmc&linkname=pmc_refs_pubmed&retmode=json&id=3722411",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>PubMed Central->Q229883",
+      "reference URL": "url:>https://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pmc&linkname=pmc_refs_pubmed&retmode=json&id=3722411",
+      "retrieved": "time:>+2018-06-06T00:00:00Z"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q41827385-5E651F43-DC6E-4E31-9FE2-CB979E8135E4",
+    "subject": "Relationship of sensory and instrumental aroma measurements of dark chocolate as influenced by fermentation method, roasting and conching conditions.",
+    "predicate": "cites work",
+    "object": "Cocoa and chocolate flavonoids: Implications for cardiovascular health",
+    "g_id": 0
+  },
+  {
+    "reference_id": "6f5d8f76d65a078a139cd94b54091efd4724d141",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:13744258%20AND%20SRC:MED&resulttype=core&format=json",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>13744258",
+      "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:13744258%20AND%20SRC:MED&resulttype=core&format=json",
+      "retrieved": "time:>+2019-12-18T00:00:00Z"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q79004643-4C049B82-332A-461F-AEF1-D1AA8E1996C1",
+    "subject": "[A device for double contrasting of the stomach in roentgenological examination.]",
+    "predicate": "instance of",
+    "object": "scholarly article",
+    "g_id": 0
+  }
+]

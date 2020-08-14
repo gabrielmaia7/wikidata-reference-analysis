@@ -1,0 +1,76 @@
+[
+  {
+    "reference_block_hash": "09d04d57db880602bb46b24ee9be2e1df19a3b89",
+    "url": "https://es.wikipedia.org/w/index.php?title=Zdravko_Zdravkov&oldid=113719838",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Spanish Wikipedia->Q8449",
+      "Wikimedia import URL": "url:>https://es.wikipedia.org/w/index.php?title=Zdravko_Zdravkov&oldid=113719838"
+    },
+    "language_crawl": "es",
+    "statement_node": "Q2312981-941942C9-61D9-4208-B974-0B6937C44191",
+    "subject": "Zdravko Zdravkov",
+    "predicate": "inicio del periodo de actividad",
+    "object": "1989-01-01T00:00:00Z",
+    "g_id": {
+      "is_present": 1,
+      "difficulty":[3,4],
+      "reason":[-1,0,1,2,3,4,5,6]
+    }
+  },
+  {
+    "reference_block_hash": "774253e76b22a4a0ba1b38ff388d4da225b9ae90",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:4767874%20AND%20SRC:MED&resulttype=core&format=json",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>4767874",
+      "retrieved": "time:>+2019-10-04T00:00:00Z",
+      "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:4767874%20AND%20SRC:MED&resulttype=core&format=json"
+    },
+    "language_crawl": "es",
+    "statement_node": "Q54058903-24C8E81D-31AC-471D-AD85-6FABC9D6122B",
+    "subject": "[A variant of Prinzmetal's spontaneous angina]",
+    "predicate": "página",
+    "object": "399-404",
+    "g_id": {
+      "is_present": 1,
+      "difficulty":[2,3,4],
+      "reason":[-1,0,1,2,3,4,5,6]
+    }
+  },
+  {
+    "reference_block_hash": "9d307d1138f49db4dbcf577118a42ead5461d450",
+    "url": "http://www.dicelacancion.com/video-feeling-alive-gomo",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://www.dicelacancion.com/video-feeling-alive-gomo"
+    },
+    "language_crawl": "es",
+    "statement_node": "Q5581217-B23B6E78-4AAC-4EA5-A7C4-E9E3B6E1C488",
+    "subject": "Gomo",
+    "predicate": "género",
+    "object": "pop",
+    "g_id": {
+      "is_present": 0,
+      "difficulty":[-1,0,1,2,3,4],
+      "reason":[0,1,5]
+    }
+  },
+  {
+    "reference_block_hash": "697b1f0eb04edc90d60d2887f2931f4eb4045cf9",
+    "url": "https://es.wikipedia.org/w/index.php?title=La_hormigonera_asesina&oldid=119119062",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Spanish Wikipedia->Q8449",
+      "Wikimedia import URL": "url:>https://es.wikipedia.org/w/index.php?title=La_hormigonera_asesina&oldid=119119062"
+    },
+    "language_crawl": "es",
+    "statement_node": "Q20728355-6B48ED58-5E32-4EFC-94CC-916D3131BC49",
+    "subject": "La hormigonera asesina",
+    "predicate": "precedido por",
+    "object": "Submarines a pleno sol",
+    "g_id": {
+      "is_present": 1,
+      "difficulty":[3,4],
+      "reason":[-1,0,1,2,3,4,5,6]
+    }
+  }
+  
+]

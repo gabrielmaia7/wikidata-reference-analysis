@@ -1,0 +1,921 @@
+[
+  {
+    "reference_id": "4354b3744780fb4dd77822a58c5b703c3861cde0",
+    "url": "https://sync.nm.delorean.se/objects?id=15787",
+    "ref_node_pairs": {
+      "reference URL": "url:>https://sync.nm.delorean.se/objects?id=15787",
+      "retrieved": "time:>+2018-11-23T00:00:00Z"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q18577349-3875DE96-99A7-4CCA-993A-1B55B55BB2D0",
+    "subject": "Sofia Hedvig, 1677-1735, prinsessa av Danmark",
+    "predicate": "IIIF manifest",
+    "object": "http://nationalmuseumse.iiifhosting.com/iiif/ae86eda68c0c2d7cfe47c44a4d8bf6f1807fa97452e9f77b98d22d3d02ac54ca/manifest.json",
+    "g_id": 0
+  },
+  {
+    "reference_id": "156efae7b15767600b37d2f15a472d20af1db7e5",
+    "url": "https://sok.riksarkivet.se/bildvisning/A0012916_00057#?c=&m=&s=&cv=56&xywh=1358%2C1852%2C2615%2C1489",
+    "ref_node_pairs": {
+      "retrieved": "time:>+2019-05-06T00:00:00Z",
+      "stated in": "wikibase-item:>Swedish church birth records->Q10501038",
+      "title": "value:>Umeå landsförsamlings kyrkoarkiv, Födelse- och dopböcker, SE/HLA/1010219/C/4 (1783-1797), bildid: A0012916_00057, sida 52",
+      "reference URL": "url:>https://sok.riksarkivet.se/bildvisning/A0012916_00057#?c=&m=&s=&cv=56&xywh=1358%2C1852%2C2615%2C1489"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q5819456-b283abad-4437-5637-2830-7c5888dea599",
+    "subject": "Zacharias Hæggström",
+    "predicate": "födelsedatum",
+    "object": "1787-08-06T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "9098a897be28977bd0a2cb77b68380bfbe9f19d4",
+    "url": "http://kulturarvsdata.se/raa/fornvannen/html/1915_001",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://kulturarvsdata.se/raa/fornvannen/html/1915_001",
+      "stated in": "wikibase-item:>Samla->Q45095660",
+      "retrieved": "time:>+2017-12-11T00:00:00Z"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q45361377-D8CBECDE-1EC2-49FE-B13D-C791E9FD6DA7",
+    "subject": "Studier över ortnamnen på -lösa",
+    "predicate": "K-samsök URI",
+    "object": "raa/fornvannen/1915_001",
+    "g_id": 0
+  },
+  {
+    "reference_id": "3903bcde3ea394983fc324a02be917cb7790fa78",
+    "url": "https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-bbr&srlanguage=sv&srid=21300000014709",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Monuments database->Q28563569",
+      "reference URL": "url:>https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-bbr&srlanguage=sv&srid=21300000014709",
+      "publication date": "time:>+2017-05-06T00:00:00Z"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q26256922-C8E9175D-36AA-41A2-89A6-247DE27AA51C",
+    "subject": "Linghallen",
+    "predicate": "arkitekt",
+    "object": "Torben Grut",
+    "g_id": 0
+  },
+  {
+    "reference_id": "23f72cc523197842836efcda06878bc5ab05955d",
+    "url": "https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-bbr&srlanguage=sv&srid=21300000000582",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Monuments database->Q28563569",
+      "reference URL": "url:>https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-bbr&srlanguage=sv&srid=21300000000582",
+      "publication date": "time:>+2017-05-06T00:00:00Z"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q10593440-5E602CD0-5287-46B1-8CC1-4206FC9A4F44",
+    "subject": "Mårten Skinnares hus",
+    "predicate": "har delar från klassen",
+    "object": "byggnad",
+    "g_id": 0
+  },
+  {
+    "reference_id": "3590417727752a01884e037e71b42faf964bd8cb",
+    "url": "https://sync.nm.delorean.se/objects?id=16539",
+    "ref_node_pairs": {
+      "reference URL": "url:>https://sync.nm.delorean.se/objects?id=16539",
+      "retrieved": "time:>+2018-11-23T00:00:00Z"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q43223179-CD49FFC0-6456-4C81-8B5A-9839FB00DD6F",
+    "subject": "Asmund Arle, 1918-1990",
+    "predicate": "IIIF manifest",
+    "object": "http://nationalmuseumse.iiifhosting.com/iiif/ad88e9f6f42498bab5924c4632baa87ced256a3113e44ba6370dd997279988cf/manifest.json",
+    "g_id": 0
+  },
+  {
+    "reference_id": "c359103acccab27c5024a5d45436a44f5c24ab68",
+    "url": "http://www.expressen.se/kultur/kulturpersonligheten-lars-gustafsson-dod/",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://www.expressen.se/kultur/kulturpersonligheten-lars-gustafsson-dod/"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q372210-3aa5fb24-430e-9bbc-7a83-c62350164545",
+    "subject": "Lars Gustafsson",
+    "predicate": "dödsdatum",
+    "object": "2016-04-03T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "6bd7cfc389f7393b5e85ea425b33e43af0f60685",
+    "url": "https://biblioteksdatabasen.libris.kb.se/library/8bhv",
+    "ref_node_pairs": {
+      "reference URL": "url:>https://biblioteksdatabasen.libris.kb.se/library/8bhv",
+      "stated in": "wikibase-item:>Libris library database->Q55502519",
+      "retrieved": "time:>+2019-02-12T00:00:00Z"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q61753412-980A3093-3B22-47F0-89BB-14634ADCC6FC",
+    "subject": "Skolbiblioteket på Furutåskolan",
+    "predicate": "inom administrativt område",
+    "object": "Växjö kommun",
+    "g_id": 0
+  },
+  {
+    "reference_id": "afb7db3ae9bcfed63c5b46c54451e79d284e8fb9",
+    "url": "http://runeberg.org/authors/herleemi.html",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://runeberg.org/authors/herleemi.html"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q5798520-C54229C9-5FEB-4CCA-B1E9-A0DE008DFA66",
+    "subject": "Emil Herlenius",
+    "predicate": "sysselsättning",
+    "object": "skribent",
+    "g_id": 0
+  },
+  {
+    "reference_id": "6be99d9b8ec0d01614793fda3ab357fea99efe12",
+    "url": "https://libris.kb.se/auth/269428",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>LIBRIS->Q1798125",
+      "SELIBR ID": "value:>269428",
+      "named as": "value:>Sara Wennerberg-Reuter",
+      "retrieved": "time:>+2017-10-09T00:00:00Z"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q4990297-92D90451-406B-484A-B6C6-207688E33A2D",
+    "subject": "Sara Wennerberg-Reuter",
+    "predicate": "födelsedatum",
+    "object": "1875-02-11T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "d9819a0e05c179b0c37ae14a2db4c8de3ce66113",
+    "url": "https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-fornmin&srlanguage=sv&srid=10082400490001",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Monuments database->Q28563569",
+      "publication date": "time:>+2017-04-14T00:00:00Z",
+      "reference URL": "url:>https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-fornmin&srlanguage=sv&srid=10082400490001"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q29405746-14F1E4B2-E641-4A41-B3D2-86B7DE0EC93A",
+    "subject": "Högsrum 49:1",
+    "predicate": "instans av",
+    "object": "grundläggning",
+    "g_id": 0
+  },
+  {
+    "reference_id": "dd1869fca62f3b19006c74f4b2c6d591acf5bf4d",
+    "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=7729",
+    "ref_node_pairs": {
+      "Dictionary of Swedish National Biography ID": "value:>7729"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q6025226-31C285B9-3BDA-434C-A665-603BDEC58A45",
+    "subject": "Ivan Oljelund",
+    "predicate": "beskriven av källa",
+    "object": "Svenskt biografiskt lexikon",
+    "g_id": 0
+  },
+  {
+    "reference_id": "6cd10a245d3c48397c7dbc8d5e4906f83ae561e8",
+    "url": "https://biblioteksdatabasen.libris.kb.se/library/Emma",
+    "ref_node_pairs": {
+      "reference URL": "url:>https://biblioteksdatabasen.libris.kb.se/library/Emma",
+      "stated in": "wikibase-item:>Libris library database->Q55502519",
+      "retrieved": "time:>+2019-02-12T00:00:00Z"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q61751506-A08EA393-6ED9-4028-A03E-5040CBA5139A",
+    "subject": "Emmaboda bibliotek",
+    "predicate": "inom administrativt område",
+    "object": "Emmaboda kommun",
+    "g_id": 0
+  },
+  {
+    "reference_id": "136d2c16f4c770f8a68ca1ef464325d89f0339a2",
+    "url": "http://kulturnav.org/deee7374-c468-44da-b166-2e20f5e18ee1",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>no-label->Q60644424",
+      "publication date": "time:>+2015-10-05T00:00:00Z",
+      "retrieved": "time:>+2019-02-20T00:00:00Z",
+      "reference URL": "url:>http://kulturnav.org/deee7374-c468-44da-b166-2e20f5e18ee1"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q61790856-C06803B5-9343-40B1-9E8C-3A91B5F49486",
+    "subject": "Bergs hembygdsförening (Heimbygda)",
+    "predicate": "instans av",
+    "object": "hembygdsförening",
+    "g_id": 0
+  },
+  {
+    "reference_id": "617f4638d1bfff41a5e4b3f522f2eead01621152",
+    "url": "https://libris.kb.se/katalogisering/c9prlddw1c7n8km",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>LIBRIS->Q1798125",
+      "reference URL": "url:>https://libris.kb.se/katalogisering/c9prlddw1c7n8km",
+      "publication date": "time:>+2018-03-26T00:00:00Z",
+      "retrieved": "time:>+2018-08-24T00:00:00Z"
+    },
+    "language_crawl": "sv",
+    "statement_node": "q68117-F835951F-0A8B-48E3-A50F-09C5707637F1",
+    "subject": "Charlotte Birch-Pfeiffer",
+    "predicate": "medborgarskap",
+    "object": "Tyskland",
+    "g_id": 0
+  },
+  {
+    "reference_id": "e85c0a629e354ae19abc5e7178c00bb2204834c3",
+    "url": "https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-fornmin&srlanguage=sv&srid=10119200010001",
+    "ref_node_pairs": {
+      "reference URL": "url:>https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-fornmin&srlanguage=sv&srid=10119200010001",
+      "publication date": "time:>+2017-04-16T00:00:00Z",
+      "stated in": "wikibase-item:>Monuments database->Q28563569"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q29476966-C4E4B881-2886-4F2E-A3F1-B82EE922D960",
+    "subject": "Bode hög",
+    "predicate": "instans av",
+    "object": "gravhög",
+    "g_id": 0
+  },
+  {
+    "reference_id": "fc26aa62cf2f00313409805df4926aa35033dd54",
+    "url": "https://libris.kb.se/katalogisering/gdsw1ck035ctzb7",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>LIBRIS->Q1798125",
+      "reference URL": "url:>https://libris.kb.se/katalogisering/gdsw1ck035ctzb7",
+      "publication date": "time:>+2012-11-13T00:00:00Z",
+      "retrieved": "time:>+2018-08-24T00:00:00Z"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q3393564-53E11912-3FC5-4D64-9DB2-1F394F48585E",
+    "subject": "Pau Vila i Dinarès",
+    "predicate": "medborgarskap",
+    "object": "Spanien",
+    "g_id": 0
+  },
+  {
+    "reference_id": "f7ce1a4e42dc632ee6852560590179c4ced49adf",
+    "url": "http://www.svenskagravar.se/gravsatt/45620791",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://www.svenskagravar.se/gravsatt/45620791",
+      "publisher": "wikibase-item:>SvenskaGravar->Q26699962",
+      "retrieved": "time:>+2017-06-29T00:00:00Z",
+      "title": "value:>Böttiger, GUSTAF"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q17265776-7ee242f3-4cf3-6dc5-9ae1-127e888b64d6",
+    "subject": "Gustaf Böttiger",
+    "predicate": "gravort",
+    "object": "Norra begravningsplatsen",
+    "g_id": 0
+  },
+  {
+    "reference_id": "68e0503ecebff80593d0584bad9837b3094f4ab9",
+    "url": "http://kulturarvsdata.se/raa/fornvannen/html/1994_233",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://kulturarvsdata.se/raa/fornvannen/html/1994_233",
+      "stated in": "wikibase-item:>Samla->Q45095660",
+      "retrieved": "time:>+2017-12-11T00:00:00Z"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q45355292-2E3E55E4-37D7-4D41-8289-64B7C10C0023",
+    "subject": "Aktuella avhandlingar 1992-1993 = Recent doctoral theses",
+    "predicate": "huvudtema",
+    "object": "Medeltidsarkeologi",
+    "g_id": 0
+  },
+  {
+    "reference_id": "ec541c304acc99f4b6d09f8b3f567b8a9761eb66",
+    "url": "http://www.nordicwomeninfilm.com/person/ragna-jorming/",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://www.nordicwomeninfilm.com/person/ragna-jorming/"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q73984468-193D16C8-E150-4550-8AA6-DCA4E2AD21E0",
+    "subject": "Ragna Jorming",
+    "predicate": "sysselsättning",
+    "object": "fotograf",
+    "g_id": 0
+  },
+  {
+    "reference_id": "2e56ecc5471b905c3b7be948c7709240a0efabb6",
+    "url": "https://sok.riksarkivet.se/?postid=Folk_115865791",
+    "ref_node_pairs": {
+      "retrieved": "time:>+2018-04-01T00:00:00Z",
+      "stated in": "wikibase-item:>Swedish Census 1900->Q50287368",
+      "reference URL": "url:>https://sok.riksarkivet.se/?postid=Folk_115865791",
+      "named as": "value:>von Otter, Casten Folke Salomon, f. 1876 i Kristianstads Heliga Trefaldighet Kristianstads län, Underlöjtnant"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q51216791-2ef67742-4320-fca1-ae36-a6e94d8be690",
+    "subject": "Salomon von Otter",
+    "predicate": "födelseplats",
+    "object": "Kristianstad",
+    "g_id": 0
+  },
+  {
+    "reference_id": "db93ae17475abed575fbae7ced0a6523bd1da47e",
+    "url": "https://libris.kb.se/auth/246819",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>LIBRIS->Q1798125",
+      "SELIBR ID": "value:>246819",
+      "named as": "value:>Henry Malter",
+      "retrieved": "time:>+2017-10-09T00:00:00Z"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q256984-21A432C7-C26B-41EC-80CD-B63E0DEE5EB0",
+    "subject": "Henry Malter",
+    "predicate": "dödsdatum",
+    "object": "1925-01-01T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "a211a2fdf7733236551d7837b2c9aead28d3798c",
+    "url": "https://sok.riksarkivet.se/bildvisning/F0000678_00018#?c=&m=&s=&cv=17&xywh=615%2C3594%2C2474%2C1758",
+    "ref_node_pairs": {
+      "retrieved": "time:>+2019-02-19T00:00:00Z",
+      "stated in": "wikibase-item:>Swedish church birth records->Q10501038",
+      "reference URL": "url:>https://sok.riksarkivet.se/bildvisning/F0000678_00018#?c=&m=&s=&cv=17&xywh=615%2C3594%2C2474%2C1758",
+      "title": "value:>Tensta kyrkoarkiv, Födelse- och dopböcker, SE/ULA/11538/C/8 (1884-1894), bildid: F0000678_00018",
+      "quotation": "value:>15,April,30,1,,Axel Wilhelm Martin 2nd"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q6027483-7d0219e7-469d-0ddd-51ac-4c6ee1f22b80",
+    "subject": "Martin Olsson",
+    "predicate": "födelseplats",
+    "object": "Tensta församling",
+    "g_id": 0
+  },
+  {
+    "reference_id": "1257bde4dbd4492fa7a71ff2895f9af1ce48192c",
+    "url": "http://kulturarvsdata.se/raa/fornvannen/html/1995_019",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Samla->Q45095660",
+      "retrieved": "time:>+2017-12-11T00:00:00Z",
+      "reference URL": "url:>http://kulturarvsdata.se/raa/fornvannen/html/1995_019"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q45348559-7446D28A-850C-4894-B4E8-32527C1553DD",
+    "subject": "Neolithic ceramic chronology in the south-eastern Baltic Area in view of 14C accelerator datings",
+    "predicate": "huvudtema",
+    "object": "neolitikum",
+    "g_id": 0
+  },
+  {
+    "reference_id": "19c5d913951b78162be4c7b70b861666283de41b",
+    "url": "https://libris.kb.se/auth/342979",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>LIBRIS->Q1798125",
+      "SELIBR ID": "value:>342979",
+      "named as": "value:>Anna Dahlin"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q57660426-DF7D35B3-26FA-4064-BA6A-69BC2FCBD2A2",
+    "subject": "Anna M Dahlin",
+    "predicate": "födelsedatum",
+    "object": "1979-01-01T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "da4519ca3e2669a6c56a6525b56d3057151b1328",
+    "url": "https://sok.riksarkivet.se/?postid=ArkisRef%20SE/068024000",
+    "ref_node_pairs": {
+      "Swedish National Archive ID": "value:>SE/068024000",
+      "retrieved": "time:>+2018-08-11T00:00:00Z"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q10602596-1FE8374A-F511-4DB5-9BBC-E0538CDE55F9",
+    "subject": "Norra Unnaryds församling",
+    "predicate": "inom administrativt område",
+    "object": "Jönköpings kommun",
+    "g_id": 0
+  },
+  {
+    "reference_id": "90b453da50ac1ed59b72540c8cf5f55b05771319",
+    "url": "https://sok.riksarkivet.se/Sbl/Presentation.aspx?id=6297",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Dictionary of Swedish National Biography->Q379406",
+      "reference URL": "url:>https://sok.riksarkivet.se/Sbl/Presentation.aspx?id=6297",
+      "Dictionary of Swedish National Biography ID": "value:>6297",
+      "title": "value:>Åke Rålamb"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q6166560-C1684161-4768-4559-A482-3E6B72F744CC",
+    "subject": "Åke Rålamb",
+    "predicate": "dödsdatum",
+    "object": "1718-09-25T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "216d228a3987c8b93685fcd0a436f5be4f27e232",
+    "url": "https://sync.nm.delorean.se/objects?id=15536",
+    "ref_node_pairs": {
+      "reference URL": "url:>https://sync.nm.delorean.se/objects?id=15536",
+      "retrieved": "time:>+2018-11-23T00:00:00Z"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q18586535-D2924993-1C98-4267-A3FB-322EE6CAA662",
+    "subject": "Gustav Adolf, 1633-1695, hertig av Mecklenburg-Gustrow",
+    "predicate": "IIIF manifest",
+    "object": "http://nationalmuseumse.iiifhosting.com/iiif/fa7d7df3b99e2838d8725477e454af161fa3f604497d107c3698d288a41e04ef/manifest.json",
+    "g_id": 0
+  },
+  {
+    "reference_id": "6382bca76a03fe77c8ec8d0920335b60e101e7d7",
+    "url": "https://libris.kb.se/auth/278188",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>LIBRIS->Q1798125",
+      "SELIBR ID": "value:>278188",
+      "named as": "value:>Karol Boromeusz Aleksander Hoffmann",
+      "retrieved": "time:>+2017-10-09T00:00:00Z"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q836348-0CC17D68-7FA4-4FF0-9177-F6BC99A3ADB0",
+    "subject": "Karol Boromeusz Hoffman",
+    "predicate": "födelsedatum",
+    "object": "1798-01-01T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "54c24140959a7123a71caab34d2a353d0c3faa54",
+    "url": "https://libris.kb.se/auth/249168",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>LIBRIS->Q1798125",
+      "SELIBR ID": "value:>249168",
+      "named as": "value:>G. Benediktsson",
+      "retrieved": "time:>+2017-10-09T00:00:00Z"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q1554710-A8302029-99EE-4F61-A02D-CC56CECAAB0C",
+    "subject": "Gunnar Benediktsson",
+    "predicate": "dödsdatum",
+    "object": "1981-01-01T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "4043c41a2040905a74cec6ac7f62f358a4e4a392",
+    "url": "http://kulturarvsdata.se/raa/fornvannen/html/1929_reg",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Samla->Q45095660",
+      "retrieved": "time:>+2017-12-11T00:00:00Z",
+      "reference URL": "url:>http://kulturarvsdata.se/raa/fornvannen/html/1929_reg"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q45342315-D51347B7-565B-453F-B2A0-ED18355FE128",
+    "subject": "Innehåll 1929",
+    "predicate": "utgivningsdatum",
+    "object": "1929-01-01T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "c5d4aa7b604573d5252e284cf216e2e6f48d17c4",
+    "url": "http://nvpub.vic-metria.nu/naturvardsregistret/rest/omrade/2005647/Gällande",
+    "ref_node_pairs": {
+      "retrieved": "time:>+2018-07-16T00:00:00Z",
+      "reference URL": "url:>http://nvpub.vic-metria.nu/naturvardsregistret/rest/omrade/2005647/Gällande"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q55693391-00AB82A1-0C89-4E24-B399-058F7608119E",
+    "subject": "Kroksjöskogen",
+    "predicate": "operatör",
+    "object": "Länsstyrelsen i Örebro län",
+    "g_id": 0
+  },
+  {
+    "reference_id": "8082efcc159b239456acde55a9225231d90b1910",
+    "url": "https://www.transfermarkt.com/transfermarkt/profil/spieler/400978",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Transfermarkt->Q2449070",
+      "Transfermarkt player ID": "value:>400978",
+      "named as": "value:>Oscar Petersson",
+      "retrieved": "time:>+2017-10-09T00:00:00Z"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q42393771-D77FC22B-4635-4F5F-80E0-7FFE8E79008E",
+    "subject": "Oscar Petersson",
+    "predicate": "födelsedatum",
+    "object": "1999-02-26T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "0a35c27edc75aa6719cd093baf5e15b37c0a179f",
+    "url": "http://runeberg.org/vemarvem/svea64/0168.html",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>no-label->Q21586310",
+      "retrieved": "time:>+2019-12-09T00:00:00Z",
+      "named as": "value:>CEDERSTRÖM, BROR-GÖSTA",
+      "page(s)": "value:>144",
+      "reference URL": "url:>http://runeberg.org/vemarvem/svea64/0168.html"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q23989602-B01F8686-81CD-43C5-BE94-D81AFE80BA70",
+    "subject": "Bror-Gösta Cederström",
+    "predicate": "födelsedatum",
+    "object": "1900-04-28T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "258722fcd6701eec0dbaee2c7443698ffc9118ad",
+    "url": "https://www.ne.se/uppslagsverk/encyklopedi/lång/lennart-lundquist",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Nationalencyklopedin->Q1165538",
+      "NE[dot]se ID": "value:>lennart-lundquist",
+      "named as": "value:>Lennart Lundquist",
+      "retrieved": "time:>+2017-10-09T00:00:00Z"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q5967416-79FA6AB7-BB44-4BB0-B0DD-CFA20273496B",
+    "subject": "Lennart Lundquist",
+    "predicate": "dödsdatum",
+    "object": "2014-01-01T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "dbb24cbcd1db1a547507448c06be4b3b382fa243",
+    "url": "https://libris.kb.se/auth/272608",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>LIBRIS->Q1798125",
+      "SELIBR ID": "value:>272608",
+      "named as": "value:>Eva Mattsson",
+      "retrieved": "time:>+2017-10-09T00:00:00Z"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q4966419-8A6A1FF2-9C52-46E7-9143-80923A946F73",
+    "subject": "Eva Mattsson",
+    "predicate": "födelsedatum",
+    "object": "1940-01-01T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "93ca13ed4f5348a196b2fcacec493ae6a8a8b570",
+    "url": "https://sok.riksarkivet.se/Sbl/Presentation.aspx?id=10481",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Dictionary of Swedish National Biography->Q379406",
+      "reference URL": "url:>https://sok.riksarkivet.se/Sbl/Presentation.aspx?id=10481",
+      "Dictionary of Swedish National Biography ID": "value:>10481",
+      "title": "value:>Erik Larsson Linde, von der"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q5954639-81ED175E-6754-44CE-BA75-17598F268FA5",
+    "subject": "Erik Larsson von der Linde",
+    "predicate": "dödsdatum",
+    "object": "1636-01-23T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "a8bf25137c5d0f45d607f6b59091d2795ef50c6b",
+    "url": "http://nvpub.vic-metria.nu/naturvardsregistret/rest/omrade/2000154/G%C3%A4llande",
+    "ref_node_pairs": {
+      "retrieved": "time:>+2017-01-20T00:00:00Z",
+      "reference URL": "url:>http://nvpub.vic-metria.nu/naturvardsregistret/rest/omrade/2000154/G%C3%A4llande",
+      "publication date": "time:>+2015-12-18T00:00:00Z",
+      "stated in": "wikibase-item:>Protected Areas (Nature Reserves)->Q29580583"
+    },
+    "language_crawl": "sv",
+    "statement_node": "q10481121-7775501D-0AD4-4C27-9260-764E6EBD653D",
+    "subject": "Eldgarnsö naturreservat",
+    "predicate": "land",
+    "object": "Sverige",
+    "g_id": 0
+  },
+  {
+    "reference_id": "f4b97c957f9416b430cd72ddce67092140f8fe0b",
+    "url": "https://sok.riksarkivet.se/Sbl/Presentation.aspx?id=14218",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Dictionary of Swedish National Biography->Q379406",
+      "reference URL": "url:>https://sok.riksarkivet.se/Sbl/Presentation.aspx?id=14218",
+      "Dictionary of Swedish National Biography ID": "value:>14218",
+      "title": "value:>Klas Fleming"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q1572141-5ac6b882-4e5b-38cb-a95f-d0ea279b3c34",
+    "subject": "Claes Fleming",
+    "predicate": "dödsort",
+    "object": "Aachen",
+    "g_id": 0
+  },
+  {
+    "reference_id": "4493e78069ab51680748eeb711025f7e3e218eff",
+    "url": "https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-bbr&srlanguage=sv&srid=21300000013264",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Monuments database->Q28563569",
+      "reference URL": "url:>https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-bbr&srlanguage=sv&srid=21300000013264",
+      "publication date": "time:>+2017-04-12T00:00:00Z"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q29373854-1D4CEB91-AC36-442B-A8B0-E5729EEFEDD7",
+    "subject": "Skottsila f.d. mönsterskrivarboställe",
+    "predicate": "datum för grundande eller skapande",
+    "object": "1792-01-01T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "e14b463946c059b20ff3104c5e6b508c98fe5e1d",
+    "url": "https://sync.nm.delorean.se/objects?id=212705",
+    "ref_node_pairs": {
+      "reference URL": "url:>https://sync.nm.delorean.se/objects?id=212705",
+      "retrieved": "time:>+2018-11-23T00:00:00Z"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q43251540-92150608-8E7F-4E1F-86CF-E2361C4C9C15",
+    "subject": "Del av kuliss till \"Skog\", 12 delar: Kuliss för vänstra delen av scenen, träd",
+    "predicate": "IIIF manifest",
+    "object": "http://nationalmuseumse.iiifhosting.com/iiif/a3f11c51b931fafdb9cbdd0320763d64fc548aec7d8a8b568306470c8f6a0552/manifest.json",
+    "g_id": 0
+  },
+  {
+    "reference_id": "3a66e8abb8cbf29d34daff49be85f88f9ad6e31c",
+    "url": "https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-arbetsl&srlanguage=sv&srid=2481",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Monuments database->Q28563569",
+      "publication date": "time:>+2017-03-11T00:00:00Z",
+      "reference URL": "url:>https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-arbetsl&srlanguage=sv&srid=2481"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q28935483-7F89DC27-07E6-4924-A8EF-51998B886A7E",
+    "subject": "Nässjö kvarn",
+    "predicate": "plats",
+    "object": "Ramsele",
+    "g_id": 0
+  },
+  {
+    "reference_id": "c32c658f4dd6c8e2437c088ea0234c0cba8f9355",
+    "url": "https://sok.riksarkivet.se/Sbl/Presentation.aspx?id=16567",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Dictionary of Swedish National Biography->Q379406",
+      "reference URL": "url:>https://sok.riksarkivet.se/Sbl/Presentation.aspx?id=16567",
+      "Dictionary of Swedish National Biography ID": "value:>16567",
+      "title": "value:>Hans (Eberstein) Everstein, greve av"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q26239841-3857ddcf-4b01-029d-5b31-8df23ec74ede",
+    "subject": "Hans Ludvigsson av Everstein",
+    "predicate": "dödsdatum",
+    "object": "1446-01-01T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "239e72b7b91dacef6b460813faed84405679c5d2",
+    "url": "https://calmview.musikverk.se/CalmView/Record.aspx?src=CalmView.Catalog&id=SvT041",
+    "ref_node_pairs": {
+      "publication date": "time:>+2019-11-27T00:00:00Z",
+      "retrieved": "time:>+2019-11-29T00:00:00Z",
+      "reference URL": "url:>https://calmview.musikverk.se/CalmView/Record.aspx?src=CalmView.Catalog&id=SvT041"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q77043203-5DFB81CD-CAA2-4219-8908-7AFD9E4168D9",
+    "subject": "Monna Vanna, Svenska teatern 1903. Rollporträtt",
+    "predicate": "inventarienummer",
+    "object": "SvT041",
+    "g_id": 0
+  },
+  {
+    "reference_id": "ab77af6cdea4332152ec9d5753e5aa2ab36a6f20",
+    "url": "http://kulturnav.org/db8e7a52-545f-4a18-91ca-aa9f80d1555f",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Arkitekter verksamma i Sverige->Q17373699",
+      "publication date": "time:>+2015-01-09T00:00:00Z",
+      "retrieved": "time:>+2016-10-23T00:00:00Z",
+      "reference URL": "url:>http://kulturnav.org/db8e7a52-545f-4a18-91ca-aa9f80d1555f"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q16043384-9E9FD3FA-9F10-487B-B03A-90B9B81CB755",
+    "subject": "Olle Lagergren",
+    "predicate": "efternamn",
+    "object": "Lagergren",
+    "g_id": 0
+  },
+  {
+    "reference_id": "001c30fe5102fe7c05179190a1358b94c624ed88",
+    "url": "http://nvpub.vic-metria.nu/naturvardsregistret/rest/omrade/2001193/G%C3%A4llande",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://nvpub.vic-metria.nu/naturvardsregistret/rest/omrade/2001193/G%C3%A4llande",
+      "stated in": "wikibase-item:>Protected Areas (Nature Reserves)->Q29580583",
+      "retrieved": "time:>+2017-01-20T00:00:00Z",
+      "publication date": "time:>+2015-12-18T00:00:00Z"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q921197-3CC2E0DB-B9E7-48CB-AF16-A37F80A57C37",
+    "subject": "Korallgrottan",
+    "predicate": "area",
+    "object": "2603.92",
+    "g_id": 0
+  },
+  {
+    "reference_id": "7b3a6d1fbf1ba5008d91bea6e294af76c54b4742",
+    "url": "http://www.svenskagravar.se/gravsatt/45677576",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://www.svenskagravar.se/gravsatt/45677576",
+      "publisher": "wikibase-item:>SvenskaGravar->Q26699962",
+      "retrieved": "time:>+2017-06-19T00:00:00Z",
+      "title": "value:>Kylberg, CARL OSKAR"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q5927817-4aa76a3b-4c32-9815-b3d9-8c911f6de751",
+    "subject": "Carl Kylberg",
+    "predicate": "gravort",
+    "object": "Norra begravningsplatsen",
+    "g_id": 0
+  },
+  {
+    "reference_id": "bacbe37476e28a6ddf6f000dd3194aa10ce0167f",
+    "url": "https://libris.kb.se/n5zv1ll00vjp5d2",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>LIBRIS->Q1798125",
+      "retrieved": "time:>+2019-09-11T00:00:00Z",
+      "reference URL": "url:>https://libris.kb.se/n5zv1ll00vjp5d2"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q67366486-0387796C-B543-490B-9D0C-9124525CE997",
+    "subject": "Himla många kungar: historier kring den svenska historien",
+    "predicate": "serie",
+    "object": "Fataburen",
+    "g_id": 0
+  },
+  {
+    "reference_id": "9905fb6898d2f28f8830ff30d82e15f7b12785b4",
+    "url": "http://nvpub.vic-metria.nu/naturvardsregistret/rest/omrade/2001958/G%C3%A4llande",
+    "ref_node_pairs": {
+      "retrieved": "time:>+2017-01-20T00:00:00Z",
+      "reference URL": "url:>http://nvpub.vic-metria.nu/naturvardsregistret/rest/omrade/2001958/G%C3%A4llande",
+      "stated in": "wikibase-item:>Protected Areas (Nature Reserves)->Q29580583",
+      "publication date": "time:>+2015-12-18T00:00:00Z"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q10532594-9F53AB29-5344-4410-B9E9-CB6BA71B2BE7",
+    "subject": "Hördalens naturreservat",
+    "predicate": "instans av",
+    "object": "naturreservat",
+    "g_id": 0
+  },
+  {
+    "reference_id": "6ba8345b3dd56d7d469333480907fc2734357b7e",
+    "url": "http://calmview.musikverk.se/CalmView/Record.aspx?src=CalmView.Persons&id=DS/UK/1203",
+    "ref_node_pairs": {
+      "publication date": "time:>+2017-10-06T00:00:00Z",
+      "stated in": "wikibase-item:>Musikverkets auktoritetsdatabas->Q42160060",
+      "reference URL": "url:>http://calmview.musikverk.se/CalmView/Record.aspx?src=CalmView.Persons&id=DS/UK/1203",
+      "retrieved": "time:>+2017-10-06T00:00:00Z"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q4351832-C93BCA0C-528F-4FBD-BBA0-34D47F3F7F82",
+    "subject": "John Forsell",
+    "predicate": "efternamn",
+    "object": "Forsell",
+    "g_id": 0
+  },
+  {
+    "reference_id": "7a2a5f611cb292b765780853f9a60dd56e8c0005",
+    "url": "http://nvpub.vic-metria.nu/naturvardsregistret/rest/omrade/2001660/G%C3%A4llande",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Protected Areas (Nature Reserves)->Q29580583",
+      "retrieved": "time:>+2020-02-25T00:00:00Z",
+      "reference URL": "url:>http://nvpub.vic-metria.nu/naturvardsregistret/rest/omrade/2001660/G%C3%A4llande",
+      "publication date": "time:>+2020-02-25T00:00:00Z"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q30158123-CCCA0EBA-8C37-4F90-B520-766292EAA424",
+    "subject": "Lilla Stutvattnet",
+    "predicate": "area",
+    "object": "99.63",
+    "g_id": 0
+  },
+  {
+    "reference_id": "8dd56fd046453c519924a6cb757d76258f3bf9c7",
+    "url": "https://sync.nm.delorean.se/objects?id=14990",
+    "ref_node_pairs": {
+      "reference URL": "url:>https://sync.nm.delorean.se/objects?id=14990",
+      "retrieved": "time:>+2018-11-23T00:00:00Z"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q18584537-8D989A44-8EDE-4F51-8971-9C604510C6B1",
+    "subject": "Ulrika Eleonora d.ä. 1656-93, drottning av Sverige prinsessa av Danmark",
+    "predicate": "IIIF manifest",
+    "object": "http://nationalmuseumse.iiifhosting.com/iiif/d595a47c3f67c0b6bfa17816cf404555058ed1577311417955f40735e78578e1/manifest.json",
+    "g_id": 0
+  },
+  {
+    "reference_id": "3a3db0b4d6ded212a654055ac8053842d68ae88f",
+    "url": "http://nvpub.vic-metria.nu/naturvardsregistret/rest/omrade/2043934/G%C3%A4llande",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://nvpub.vic-metria.nu/naturvardsregistret/rest/omrade/2043934/G%C3%A4llande",
+      "publication date": "time:>+2015-12-18T00:00:00Z",
+      "retrieved": "time:>+2017-01-20T00:00:00Z",
+      "stated in": "wikibase-item:>Protected Areas (Nature Reserves)->Q29580583"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q30170498-BC648E3D-A4D3-459C-8F88-BDDA693274A9",
+    "subject": "Rökberget",
+    "predicate": "operatör",
+    "object": "Länsstyrelsen i Jämtlands län",
+    "g_id": 0
+  },
+  {
+    "reference_id": "1a78e1f1421d79ca8aaa2dac6ccb6ede1265699c",
+    "url": "http://nvpub.vic-metria.nu/naturvardsregistret/rest/omrade/2001394/G%C3%A4llande",
+    "ref_node_pairs": {
+      "retrieved": "time:>+2017-01-20T00:00:00Z",
+      "publication date": "time:>+2015-12-18T00:00:00Z",
+      "reference URL": "url:>http://nvpub.vic-metria.nu/naturvardsregistret/rest/omrade/2001394/G%C3%A4llande",
+      "stated in": "wikibase-item:>Protected Areas (Nature Reserves)->Q29580583"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q23929994-54d94382-4ad1-eab3-eb2f-990eda081866",
+    "subject": "Velamsunds naturreservat",
+    "predicate": "instans av",
+    "object": "naturreservat",
+    "g_id": 0
+  },
+  {
+    "reference_id": "d1118cc7ccaaba2dc1ff584cf66bd44f795e70ad",
+    "url": "http://nvpub.vic-metria.nu/naturvardsregistret/rest/omrade/2000609/G%C3%A4llande",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Protected Areas (Nature Reserves)->Q29580583",
+      "retrieved": "time:>+2017-01-20T00:00:00Z",
+      "reference URL": "url:>http://nvpub.vic-metria.nu/naturvardsregistret/rest/omrade/2000609/G%C3%A4llande",
+      "publication date": "time:>+2015-12-18T00:00:00Z"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q18292128-1090EED6-179A-4A2E-8C77-59B1678E104A",
+    "subject": "Löjtnantsholm",
+    "predicate": "area",
+    "object": "15.33",
+    "g_id": 0
+  },
+  {
+    "reference_id": "c8a51af63e6812709228e616fd7b7d926cbeeb91",
+    "url": "http://nvpub.vic-metria.nu/naturvardsregistret/rest/omrade/2005093/G%C3%A4llande",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>no-label->Q86904537",
+      "retrieved": "time:>+2020-02-18T00:00:00Z",
+      "reference URL": "url:>http://nvpub.vic-metria.nu/naturvardsregistret/rest/omrade/2005093/G%C3%A4llande"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q86968680-A82B0FF8-2626-4B5A-9481-79D4378E144B",
+    "subject": "En åsgrop benämnd Fornebytratten",
+    "predicate": "geografiska koordinater",
+    "object": "Point(16.535567628 60.057656705)",
+    "g_id": 0
+  },
+  {
+    "reference_id": "f68d2d2679cd0be9ff353816effdc72e5bb3469a",
+    "url": "http://nvpub.vic-metria.nu/naturvardsregistret/rest/omrade/2002088/G%C3%A4llande",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Protected Areas (Nature Reserves)->Q29580583",
+      "retrieved": "time:>+2017-01-20T00:00:00Z",
+      "reference URL": "url:>http://nvpub.vic-metria.nu/naturvardsregistret/rest/omrade/2002088/G%C3%A4llande",
+      "publication date": "time:>+2015-12-18T00:00:00Z"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q30166523-41617C3F-1DD5-44C9-BB0C-5BE6BD23B1DD",
+    "subject": "Stackharen",
+    "predicate": "Naturvårdsregistret-id",
+    "object": "2002088",
+    "g_id": 0
+  },
+  {
+    "reference_id": "1b13c2e34973745f2b088684b14a389a0e020585",
+    "url": "http://www.svenskagravar.se/gravsatt/45607885",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://www.svenskagravar.se/gravsatt/45607885",
+      "publisher": "wikibase-item:>SvenskaGravar->Q26699962",
+      "retrieved": "time:>+2017-03-21T00:00:00Z",
+      "title": "value:>Cervin, CARL GUSTAF"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q5606087-60117340-FC8E-4044-B630-7F7C893F94BF",
+    "subject": "Carl Cervin den äldre",
+    "predicate": "gravort",
+    "object": "Norra begravningsplatsen",
+    "g_id": 0
+  },
+  {
+    "reference_id": "a211489ba5cab245c915e7b3691b009df3460d0f",
+    "url": "https://sok.riksarkivet.se/bildvisning/00196550_00387#?c=&m=&s=&cv=386&xywh=237%2C2761%2C2397%2C1724",
+    "ref_node_pairs": {
+      "retrieved": "time:>+2020-03-26T00:00:00Z",
+      "stated in": "wikibase-item:>Death record->Q10478639",
+      "reference URL": "url:>https://sok.riksarkivet.se/bildvisning/00196550_00387#?c=&m=&s=&cv=386&xywh=237%2C2761%2C2397%2C1724",
+      "title": "value:>Gävle Heliga Trefaldighets kyrkoarkiv, Död- och begravningsböcker, huvudserien, SE/HLA/1010056/F I/5 (1902-1908), bildid: 00196550_00387, sida 384"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q88576872-855e1b56-48c2-4c3a-90d2-05e4277b884e",
+    "subject": "Robert Holmstrand",
+    "predicate": "beskriven av källa",
+    "object": "död- och begravningsbok",
+    "g_id": 0
+  },
+  {
+    "reference_id": "c881a132f75819fee89f2ff581357c2b7b60307d",
+    "url": "https://calmview.musikverk.se/CalmView/Record.aspx?src=CalmView.Catalog&id=DTM+1939-1672",
+    "ref_node_pairs": {
+      "publication date": "time:>+2019-11-05T00:00:00Z",
+      "retrieved": "time:>+2019-11-25T00:00:00Z",
+      "reference URL": "url:>https://calmview.musikverk.se/CalmView/Record.aspx?src=CalmView.Catalog&id=DTM+1939-1672"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q76604072-73A4868D-BF9B-47E2-8387-87E8EF348403",
+    "subject": "Scenografiskiss av Christian Jansson",
+    "predicate": "bredd",
+    "object": "500",
+    "g_id": 0
+  }
+]

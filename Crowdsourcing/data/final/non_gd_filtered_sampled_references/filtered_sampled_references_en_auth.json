@@ -1,0 +1,1298 @@
+[
+  {
+    "reference_id": "fdca31ba19a072bdedaa9a03d7759db7076ebbf8",
+    "url": "https://artgallery.yale.edu/collections/objects/14891",
+    "ref_node_pairs": {
+      "reference URL": "url:>https://artgallery.yale.edu/collections/objects/14891",
+      "retrieved": "time:>+2018-02-18T00:00:00Z"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q49173571-C1B34F36-6A4D-442C-B0E5-22B1A91DCF6C",
+    "subject": "Falls of Tivoli",
+    "predicate": "location",
+    "object": "Yale University Art Gallery",
+    "g_id": 0
+  },
+  {
+    "reference_id": "3ee8d51c88bec75e0bab34c759829af0bb4d828f",
+    "url": "https://wikidata-externalid-url.toolforge.org/?p=4638&url_prefix=http://www.thepeerage.com/&id=p25966.htm#i259651",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>The Peerage->Q21401824",
+      "The Peerage person ID": "value:>p25966.htm#i259651",
+      "named as": "value:>Esther Belinda Riberiro Adair Allen"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q75633475-9D926C63-70C1-4CBA-AAA8-B41AF5F3F313",
+    "subject": "Esther Belinda Riberiro Adair Allen",
+    "predicate": "date of birth",
+    "object": "1966-11-24T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "4df038777ecf889d12435ee1f8a42d4e72bfc9cd",
+    "url": "http://www.ebi.ac.uk/interpro/protein/Q8N4F0",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>InterPro Release 71.0->Q58943792",
+      "reference URL": "url:>http://www.ebi.ac.uk/interpro/protein/Q8N4F0"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q21115554-EF10816C-E214-4ACC-BA3C-DEF1D0293264",
+    "subject": "BPI fold containing family B member 2",
+    "predicate": "part of",
+    "object": "Lipid binding protein BPI/LBP",
+    "g_id": 0
+  },
+  {
+    "reference_id": "51c5020b94d008646058bbbe2c191f4eb0002609",
+    "url": "http://geonames.nga.mil/",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>GEOnet Names Server->Q1194038",
+      "publication date": "time:>+2018-06-11T00:00:00Z",
+      "GNS Unique Feature ID": "value:>-2203701"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q34754440-52B22F52-BF4A-47AF-B389-57DEBD6DB170",
+    "subject": "Wolpiei Rock",
+    "predicate": "instance of",
+    "object": "reef",
+    "g_id": 0
+  },
+  {
+    "reference_id": "8656fd08b3d60e79016fcfaa33319e9c1d9ee74a",
+    "url": "https://www.ncbi.nlm.nih.gov/gene/1023101",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>NCBI Gene->Q20641742",
+      "retrieved": "time:>+2017-01-28T00:00:00Z",
+      "Entrez Gene ID": "value:>1023101"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q23338183-CA5C0E02-BEE1-41DF-B9CF-AEE613980F6F",
+    "subject": "gidB BL0646",
+    "predicate": "subclass of",
+    "object": "protein-coding gene",
+    "g_id": 0
+  },
+  {
+    "reference_id": "4a8c3ad951c2a2faccbde7f22421b25afbdd443c",
+    "url": "https://www.ncbi.nlm.nih.gov/gene/105479554",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>NCBI Gene->Q20641742",
+      "retrieved": "time:>+2018-02-24T00:00:00Z",
+      "Entrez Gene ID": "value:>105479554"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q24584194-FA86E70F-96DB-4058-BEC5-5B12F223ED89",
+    "subject": "LOC105479554",
+    "predicate": "found in taxon",
+    "object": "Southern pig-tailed macaque",
+    "g_id": 0
+  },
+  {
+    "reference_id": "5af435792eb1bdfa1a3dc03ca01e0ae0288c80ab",
+    "url": "https://www.ethnologue.com/language/luj",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Ethnologue->Q14790",
+      "retrieved": "time:>+2019-05-09T00:00:00Z",
+      "reference URL": "url:>https://www.ethnologue.com/language/luj"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q11003832-4866BC6A-5937-4CAF-8623-E8D1D4BDD2EE",
+    "subject": "luna",
+    "predicate": "Ethnologue language status",
+    "object": "6a Vigorous",
+    "g_id": 0
+  },
+  {
+    "reference_id": "1484d82967284660b71eb43bb8fd910d5ee53f8a",
+    "url": "http://americanart.si.edu/collections/search/artwork/?id=75091",
+    "ref_node_pairs": {
+      "retrieved": "time:>+2018-01-28T00:00:00Z",
+      "reference URL": "url:>http://americanart.si.edu/collections/search/artwork/?id=75091"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q20539502-EC63C0E8-A4B6-4369-9D75-F4B5BF27E78A",
+    "subject": "Flower Machine",
+    "predicate": "inception",
+    "object": "1964-01-01T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "6d034375c12910a5f67e93a3ffd935468596f04d",
+    "url": "https://purl.org/nga/collection/artobject/23455",
+    "ref_node_pairs": {
+      "reference URL": "url:>https://purl.org/nga/collection/artobject/23455"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q64557775-60FEE1BB-4875-4506-9400-2505B4DBCDA1",
+    "subject": "Grave Marker",
+    "predicate": "title",
+    "object": "Grave Marker",
+    "g_id": 0
+  },
+  {
+    "reference_id": "ccf6e7b55418f0ae5f7d99584df5724e741e81ce",
+    "url": "http://id.worldcat.org/fast/25418",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Faceted Application of Subject Terminology->Q3294867",
+      "retrieved": "time:>+2016-11-24T00:00:00Z",
+      "reference URL": "url:>http://id.worldcat.org/fast/25418"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q1882350-88C32E40-6B90-47DD-8F6D-52343C011390",
+    "subject": "Mabel Howard",
+    "predicate": "Library of Congress authority ID",
+    "object": "n78050060",
+    "g_id": 0
+  },
+  {
+    "reference_id": "b17372244dcc607649aabc7a623b517c2a5a8ef4",
+    "url": "http://purl.uniprot.org/uniprot/A0A0H3N263",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>UniProt->Q905695",
+      "retrieved": "time:>+2018-12-05T00:00:00Z",
+      "UniProt protein ID": "value:>A0A0H3N263"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q23490244-9F5606F9-CDEB-483A-9886-DB2E20078FF1",
+    "subject": "GntR family transcriptional regulator SSUBM407_0344",
+    "predicate": "found in taxon",
+    "object": "Streptococcus suis BM407",
+    "g_id": 0
+  },
+  {
+    "reference_id": "5218ff0ef5205fdce63800835aaf9e91baec9134",
+    "url": "https://www.ncbi.nlm.nih.gov/gene/2665494",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>NCBI Gene->Q20641742",
+      "retrieved": "time:>+2017-01-28T00:00:00Z",
+      "Entrez Gene ID": "value:>2665494"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q23369452-B9D7433F-A37C-4F67-8907-E659D5C40EF0",
+    "subject": "elongation factor 4 BP2433",
+    "predicate": "subclass of",
+    "object": "protein-coding gene",
+    "g_id": 0
+  },
+  {
+    "reference_id": "ba9f0eede68ac76e32fd060801fe5290c89b6178",
+    "url": "http://www.phillipscollection.org/collection/browse-the-collection?id=0733",
+    "ref_node_pairs": {
+      "retrieved": "time:>+2016-04-30T00:00:00Z",
+      "reference URL": "url:>http://www.phillipscollection.org/collection/browse-the-collection?id=0733"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q23946070-62A31DBA-46EE-431B-8880-F16E9AA5516B",
+    "subject": "Ice House in the Fog",
+    "predicate": "collection",
+    "object": "The Phillips Collection",
+    "g_id": 0
+  },
+  {
+    "reference_id": "cd7878c3348ebce199545479a572bd69e1a54073",
+    "url": "https://www.ncbi.nlm.nih.gov/gene/3718006",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>NCBI Gene->Q20641742",
+      "retrieved": "time:>+2019-03-18T00:00:00Z",
+      "Entrez Gene ID": "value:>3718006"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q23052089-1303FD46-05AF-4078-9FF5-9A854DE62FB6",
+    "subject": "Cold-shock DNA-binding protein family RSP_0591",
+    "predicate": "RefSeq protein ID",
+    "object": "YP_353667",
+    "g_id": 0
+  },
+  {
+    "reference_id": "93004bd5885165b4db6ee89b2121bc686f5576b8",
+    "url": "https://www.arqiva.com/overviews/radio/south-east-wales/",
+    "ref_node_pairs": {
+      "reference URL": "url:>https://www.arqiva.com/overviews/radio/south-east-wales/"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q57209471-944b286a-4fa9-4865-ea4c-83d93cc5e7c0",
+    "subject": "Now Digital South East Wales DAB",
+    "predicate": "inception",
+    "object": "2000-10-31T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "af68a7e1e31a3da94f1e16127d444f95f3c6c482",
+    "url": "http://www.nndc.bnl.gov/nudat2/reCenter.jsp?z=46&n=53",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://www.nndc.bnl.gov/nudat2/reCenter.jsp?z=46&n=53",
+      "stated in": "wikibase-item:>NuDat->Q21234191",
+      "edition number": "value:>2.6",
+      "retrieved": "time:>+2015-10-29T00:00:00Z"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q18881129-EF6E9E73-7259-45F2-92ED-3CDDAED69DCC",
+    "subject": "palladium-99",
+    "predicate": "half-life",
+    "object": "21.4",
+    "g_id": 0
+  },
+  {
+    "reference_id": "7c0b4be51c530c2b71ae83ace0023c1f7ce53055",
+    "url": "http://www.ebi.ac.uk/QuickGO/annotations?geneProductId=UniProtKB:A0A0H3CNZ8",
+    "ref_node_pairs": {
+      "retrieved": "time:>+2019-05-09T00:00:00Z",
+      "stated in": "wikibase-item:>UniProt-GOA->Q28018111",
+      "curator": "wikibase-item:>InterPro->Q3047275",
+      "reference URL": "url:>http://www.ebi.ac.uk/QuickGO/annotations?geneProductId=UniProtKB:A0A0H3CNZ8",
+      "determination method": "wikibase-item:>IEA->Q23190881"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q24134789-A94E76FD-146F-4689-8A86-DABF80D64079",
+    "subject": "Bicyclomycin/multidrug efflux system protein ECL_03501",
+    "predicate": "cell component",
+    "object": "integral component of membrane",
+    "g_id": 0
+  },
+  {
+    "reference_id": "a8122c3b9474573c64ec34c2e183be9cc7344b93",
+    "url": "https://geonames.usgs.gov/apex/f?p=gnispq:3:::NO::P3_FID:262534",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Geographic Names Information System->Q136736",
+      "publication date": "time:>+2018-06-01T00:00:00Z",
+      "GNIS ID": "value:>262534"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q49936534-F54C2020-ADC6-4A05-A885-B214417A17F5",
+    "subject": "Little Bear Valley",
+    "predicate": "country",
+    "object": "United States of America",
+    "g_id": 0
+  },
+  {
+    "reference_id": "8dfee4531869b4d500e5f9df46442190ea9ffd88",
+    "url": "https://www.genealogics.org/getperson.php?personID=I00348924&tree=LEO",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Genealogics->Q19847326",
+      "genealogics[dot]org person ID": "value:>I00348924",
+      "named as": "value:>Prof. Jacques LeFort"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q55854616-4C72C48B-8FB6-4200-AC8E-0411DABE4BEC",
+    "subject": "Jacques von Le Fort",
+    "predicate": "date of death",
+    "object": "1826-01-01T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "19e35f68a0fd536a8f8783e216a3f8eb6c724f31",
+    "url": "http://geonames.nga.mil/",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>GEOnet Names Server->Q1194038",
+      "publication date": "time:>+2018-06-11T00:00:00Z",
+      "GNS Unique Feature ID": "value:>-3869064"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q32294661-6F5BC12D-3C8F-498E-A516-67BBA1BE9D52",
+    "subject": "Avlyn",
+    "predicate": "country",
+    "object": "Russia",
+    "g_id": 0
+  },
+  {
+    "reference_id": "afdd74d767056f986d2558bb6732ab98de0ab123",
+    "url": "https://www.wikidata.org/wiki/Q77210099",
+    "ref_node_pairs": {
+      "inferred from": "wikibase-item:>Particulars, plans and conditions of sale of freehold properties, being the outlying portions of the Glynllifon Estate->Q77210099"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q76744744-02c455cb-b1f6-424e-ab99-20381a71d56e",
+    "subject": "Particulars, plans and conditions of sale of freehold properties, being the outlying portions of the Glynllifon Estate",
+    "predicate": "edition or translation of",
+    "object": "Particulars, plans and conditions of sale of freehold properties, being the outlying portions of the Glynllifon Estate",
+    "g_id": 0
+  },
+  {
+    "reference_id": "49a097bae4e2352c16484b717d6b3d8c2e14cd59",
+    "url": "https://www.ncbi.nlm.nih.gov/gene/1795041",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>NCBI Gene->Q20641742",
+      "language of work or name": "wikibase-item:>English->Q1860",
+      "Entrez Gene ID": "value:>1795041",
+      "retrieved": "time:>+2017-01-15T00:00:00Z"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q23367378-201C94C3-79B1-4FEC-8993-006EE6A8A48A",
+    "subject": "hypothetical protein RB580",
+    "predicate": "encodes",
+    "object": "Hypothetical protein RB580",
+    "g_id": 0
+  },
+  {
+    "reference_id": "6313e3609cf1ba60125a613fc5842fda7e379f1f",
+    "url": "https://github.com/doxygen/doxygen/releases/tag/Release_1_3_3",
+    "ref_node_pairs": {
+      "reference URL": "url:>https://github.com/doxygen/doxygen/releases/tag/Release_1_3_3",
+      "retrieved": "time:>+2019-03-05T00:00:00Z",
+      "title": "value:>Release 1.3.3",
+      "publication date": "time:>+2003-07-25T00:00:00Z"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q1253530-458D78E3-564C-4367-ADA7-B2E70AA2ED26",
+    "subject": "Doxygen",
+    "predicate": "software version identifier",
+    "object": "1.3.3",
+    "g_id": 0
+  },
+  {
+    "reference_id": "1c43db28c67e58bf7532a88ef8ef887ea7bdf64b",
+    "url": "https://www.ncbi.nlm.nih.gov/gene/19832484",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>NCBI Gene->Q20641742",
+      "language of work or name": "wikibase-item:>English->Q1860",
+      "Entrez Gene ID": "value:>19832484",
+      "retrieved": "time:>+2016-12-22T00:00:00Z"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q22331294-F74ED4D6-32F5-437B-9CCA-C7135EED9DAE",
+    "subject": "erythronate-4-phosphate dehydrogenase lpg0918",
+    "predicate": "subclass of",
+    "object": "gene",
+    "g_id": 0
+  },
+  {
+    "reference_id": "e606c8096c90001515072532ebc96fb8984a2aa7",
+    "url": "https://www.ncbi.nlm.nih.gov/gene/7789707",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>NCBI Gene->Q20641742",
+      "retrieved": "time:>+2019-06-07T00:00:00Z",
+      "Entrez Gene ID": "value:>7789707"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q24103731-C1FFD651-DAFE-4EAD-804B-5E6771D0B162",
+    "subject": "ABC transporter permease NGR_b01690",
+    "predicate": "RefSeq protein ID",
+    "object": "YP_002822388",
+    "g_id": 0
+  },
+  {
+    "reference_id": "e8b7e2dfccbf0557e781e44f31ff5c4105218b4d",
+    "url": "https://orcid.org/0000-0001-5774-034X",
+    "ref_node_pairs": {
+      "reference URL": "url:>https://orcid.org/0000-0001-5774-034X",
+      "retrieved": "time:>+2019-01-06T00:00:00Z"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q41265438-61FC2882-4D68-4B17-9B30-9A7E362B5989",
+    "subject": "Bram P Prins",
+    "predicate": "employer",
+    "object": "University of Cambridge",
+    "g_id": 0
+  },
+  {
+    "reference_id": "540efe887e71bee42f20738b6734ed5a9d211290",
+    "url": "https://www.ncbi.nlm.nih.gov/gene/5187619",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>NCBI Gene->Q20641742",
+      "retrieved": "time:>+2017-01-28T00:00:00Z",
+      "Entrez Gene ID": "value:>5187619"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q23202189-2F2D4007-5B70-472E-BFEC-6395EC52BBB0",
+    "subject": "amino acid permease CBO2472",
+    "predicate": "subclass of",
+    "object": "protein-coding gene",
+    "g_id": 0
+  },
+  {
+    "reference_id": "072052983b1bac428de0a530349367786bc9a4f7",
+    "url": "http://geonames.nga.mil/",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>GEOnet Names Server->Q1194038",
+      "publication date": "time:>+2018-06-11T00:00:00Z",
+      "GNS Unique Feature ID": "value:>-2279693"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q34771707-96058FEF-DBCA-4CEF-A25B-ABA0DE72BB8E",
+    "subject": "Chikoli",
+    "predicate": "country",
+    "object": "Zambia",
+    "g_id": 0
+  },
+  {
+    "reference_id": "6aac61a12fb6a0abc18c09abb9e415f74f412999",
+    "url": "https://www.metacritic.com/tv/billions",
+    "ref_node_pairs": {
+      "Metacritic ID": "value:>tv/billions"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q20656755-f777d457-4aeb-f89d-14b9-fdfe15a61e59",
+    "subject": "Billions",
+    "predicate": "start time",
+    "object": "2016-01-17T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "db884d70e007fa54ead091e4588368cdbc454410",
+    "url": "http://www.ebi.ac.uk/interpro/protein/A0A0H3CDN6",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>InterPro Release 71.0->Q58943792",
+      "reference URL": "url:>http://www.ebi.ac.uk/interpro/protein/A0A0H3CDN6"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q38147133-C109BF32-36BA-425A-8ED0-DDB47E796C3E",
+    "subject": "L-aspartate oxidase CCNA_03007",
+    "predicate": "has part",
+    "object": "Fumarate reductase/succinate dehydrogenase flavoprotein-like, C-terminal",
+    "g_id": 0
+  },
+  {
+    "reference_id": "4c65680ef93037000e0914af9ce4409d1bde75a2",
+    "url": "http://identifiers.org/ensembl/FBpp0309278",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Ensembl Release 99->Q83867711",
+      "Ensembl protein ID": "value:>FBpp0309278"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q29814946-46009AB5-ECA5-495A-B8D8-F2FE08D5144E",
+    "subject": "Uncharacterized protein Dmel_CG10431",
+    "predicate": "Ensembl protein ID",
+    "object": "FBpp0309278",
+    "g_id": 0
+  },
+  {
+    "reference_id": "465032d54c1b183de9d427b80483803bb4673aae",
+    "url": "http://www.ebi.ac.uk/interpro/protein/Q180S9",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>InterPro Release 71.0->Q58943792",
+      "reference URL": "url:>http://www.ebi.ac.uk/interpro/protein/Q180S9"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q23531982-0DAE14A6-BC17-401D-A94E-96FD0CE6508C",
+    "subject": "Threonine-phosphate decarboxylase CD630_34320",
+    "predicate": "part of",
+    "object": "Pyridoxal phosphate-dependent transferase, major domain",
+    "g_id": 0
+  },
+  {
+    "reference_id": "1221da68e72a3a81db7736bae1251f624d7aa35e",
+    "url": "https://www.ncbi.nlm.nih.gov/gene/360622",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>NCBI Gene->Q20641742",
+      "retrieved": "time:>+2020-02-15T00:00:00Z",
+      "Entrez Gene ID": "value:>360622"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q28555924-325B48D0-E6FC-4A3D-9C38-A270BB901272",
+    "subject": "Insulin-like growth factor binding protein 4",
+    "predicate": "RefSeq protein ID",
+    "object": "NP_001004274",
+    "g_id": 0
+  },
+  {
+    "reference_id": "8afcc72f9bb8302cf0c541ec93a824f4d9208fdf",
+    "url": "http://www.ebi.ac.uk/QuickGO/annotations?geneProductId=UniProtKB:Q03AZ2",
+    "ref_node_pairs": {
+      "retrieved": "time:>+2019-02-14T00:00:00Z",
+      "stated in": "wikibase-item:>UniProt-GOA->Q28018111",
+      "curator": "wikibase-item:>InterPro->Q3047275",
+      "reference URL": "url:>http://www.ebi.ac.uk/QuickGO/annotations?geneProductId=UniProtKB:Q03AZ2",
+      "determination method": "wikibase-item:>IEA->Q23190881"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q28772277-56CB67A0-DCDF-40F0-B85F-5E5B8C1B07FF",
+    "subject": "D-alanine-activating enzyme LSEI_0794",
+    "predicate": "biological process",
+    "object": "lipoteichoic acid biosynthetic process",
+    "g_id": 0
+  },
+  {
+    "reference_id": "94d5129b8049a4a4e30c7dd5da930b48743f2022",
+    "url": "https://w3id.org/oc/corpus/br/479749.html",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Consolidated OpenCitations Corpus – April 2017->Q30068043",
+      "OpenCitations bibliographic resource ID": "value:>479749"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q22336963-9CD09D51-C7EB-42A6-ABCC-E0FB911B789A",
+    "subject": "Male-mediated developmental toxicity",
+    "predicate": "PubMed ID",
+    "object": "24369136",
+    "g_id": 0
+  },
+  {
+    "reference_id": "d27054d5187b32c705a07da493a69825c59881df",
+    "url": "http://en.cnki.com.cn/Article_en/CJFDTOTAL-GXXB201612025.htm",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>CNKI->Q12857515",
+      "reference URL": "url:>http://en.cnki.com.cn/Article_en/CJFDTOTAL-GXXB201612025.htm",
+      "retrieved": "time:>+2019-09-01T00:00:00Z"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q66998305-7ADA9105-089A-4FE8-AF6F-04D857DDD6C7",
+    "subject": "Improved Binocular Calibration Based on ICP Algorithm",
+    "predicate": "title",
+    "object": "Improved Binocular Calibration Based on ICP Algorithm",
+    "g_id": 0
+  },
+  {
+    "reference_id": "d52b5bb891b9c9409cf1a59b699b8fcd7942d436",
+    "url": "http://purl.uniprot.org/uniprot/A0A0E0Y2Z7",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>UniProt->Q905695",
+      "retrieved": "time:>+2019-06-05T00:00:00Z",
+      "UniProt protein ID": "value:>A0A0E0Y2Z7"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q24278325-EC95C680-4CEF-43E8-96DB-2B754DC48FC6",
+    "subject": "Anti-RssB factor O3K_19600",
+    "predicate": "UniProt protein ID",
+    "object": "A0A0E0Y2Z7",
+    "g_id": 0
+  },
+  {
+    "reference_id": "59dbaa2f847abf357bac4a4b758d8a13c27cc0ea",
+    "url": "https://wikidata-externalid-url.toolforge.org/?p=4638&url_prefix=http://www.thepeerage.com/&id=p49038.htm#i490378",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>The Peerage->Q21401824",
+      "The Peerage person ID": "value:>p49038.htm#i490378",
+      "named as": "value:>Mary Morris"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q76043857-E55A1D49-9E61-434D-8EB8-4A66490A82B6",
+    "subject": "Mary Morris",
+    "predicate": "date of death",
+    "object": "1854-11-26T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "53c314af60008bce00020cece2988d3e38e357bf",
+    "url": "https://www.wikidata.org/wiki/Q3136027#P3603",
+    "ref_node_pairs": {
+      "inferred from": "wikibase-item:>Minneapolis Institute of Art->Q1700481",
+      "Wikimedia import URL": "url:>https://www.wikidata.org/wiki/Property:P3603#P2302"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q3136027-221D7F4C-209A-46C0-9C87-A257A600ACA9",
+    "subject": "Hippolyte Bellangé",
+    "predicate": "has works in the collection",
+    "object": "Minneapolis Institute of Art",
+    "g_id": 0
+  },
+  {
+    "reference_id": "34d14858d2d8fbed8da4c0581507fc28571a76e4",
+    "url": "http://purl.uniprot.org/uniprot/E8TGH3",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>UniProt->Q905695",
+      "retrieved": "time:>+2017-06-08T00:00:00Z",
+      "UniProt protein ID": "value:>E8TGH3"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q28984399-F45A89CA-CA5B-41DE-AF1A-F64140954B1C",
+    "subject": "P-type conjugative transfer protein VirB9 Mesci_5592",
+    "predicate": "encodes",
+    "object": "P-type conjugative transfer protein VirB9 Mesci_5592",
+    "g_id": 0
+  },
+  {
+    "reference_id": "c29a673f2cc55800ffd4c8fc897c9b14cff3f69c",
+    "url": "https://www.ncbi.nlm.nih.gov/gene/4534942",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>NCBI Gene->Q20641742",
+      "retrieved": "time:>+2020-02-21T00:00:00Z",
+      "Entrez Gene ID": "value:>4534942"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q23267736-5BF0EE87-FC78-4D2A-BAFE-D6DFE3737D72",
+    "subject": "nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase MSMEG_4275",
+    "predicate": "Entrez Gene ID",
+    "object": "4534942",
+    "g_id": 0
+  },
+  {
+    "reference_id": "5c00e325de487563f1a273cd3eecff1d01176eb1",
+    "url": "http://geonames.nga.mil/",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>GEOnet Names Server->Q1194038",
+      "publication date": "time:>+2018-06-11T00:00:00Z",
+      "GNS Unique Feature ID": "value:>-1856753"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q31333582-FB0B4150-28D8-4390-8622-DBAF0375DC2B",
+    "subject": "Schattenberg",
+    "predicate": "country",
+    "object": "Germany",
+    "g_id": 0
+  },
+  {
+    "reference_id": "4dc3400f219e709f0fe3f981ccc7f39deaca7a94",
+    "url": "https://w3id.org/oc/corpus/br/2346016.html",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Consolidated OpenCitations Corpus – April 2017->Q30068043",
+      "OpenCitations bibliographic resource ID": "value:>2346016"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q27931396-DA419795-4CF0-4C2E-B5B3-3D19A5D90FE1",
+    "subject": "TOR1 and TOR2 have distinct locations in live cells",
+    "predicate": "OpenCitations bibliographic resource ID",
+    "object": "2346016",
+    "g_id": 0
+  },
+  {
+    "reference_id": "8e10eaf43577c668b82a39248eb1d6dfd700c030",
+    "url": "http://id.worldcat.org/fast/255136",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Faceted Application of Subject Terminology->Q3294867",
+      "retrieved": "time:>+2016-11-23T00:00:00Z",
+      "reference URL": "url:>http://id.worldcat.org/fast/255136"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q335100-0452AF27-8FDE-4E0B-8DD2-FD265B0AFB6A",
+    "subject": "Sylvia Browne",
+    "predicate": "Library of Congress authority ID",
+    "object": "n88183542",
+    "g_id": 0
+  },
+  {
+    "reference_id": "9a7a06bf451e21301de7b11c5b45183eb66e6ed2",
+    "url": "http://www.ebi.ac.uk/QuickGO/annotations?protein=Q9WTZ0&geneProductId=UniProtKB:Q9WTZ0",
+    "ref_node_pairs": {
+      "retrieved": "time:>+2018-06-21T00:00:00Z",
+      "stated in": "wikibase-item:>UniProt-GOA->Q28018111",
+      "curator": "wikibase-item:>GO Central->Q27927716",
+      "reference URL": "url:>http://www.ebi.ac.uk/QuickGO/annotations?protein=Q9WTZ0&geneProductId=UniProtKB:Q9WTZ0",
+      "determination method": "wikibase-item:>IBA->Q23190827"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q21992679-C51DFF53-F4C6-4FA0-B8F1-24C87117488A",
+    "subject": "Ubiquitously expressed prefoldin like chaperone",
+    "predicate": "cell component",
+    "object": "centrosome",
+    "g_id": 0
+  },
+  {
+    "reference_id": "3d39fd362b9fdcbc3cc59b9e00241a6601fc1cd4",
+    "url": "http://witches.shca.ed.ac.uk/index.cfm?fuseaction=home.caserecord&caseref=C%2FEGD%2F1045&search_type=searchtrial&search_string=",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://witches.shca.ed.ac.uk/index.cfm?fuseaction=home.caserecord&caseref=C%2FEGD%2F1045&search_type=searchtrial&search_string="
+    },
+    "language_crawl": "en",
+    "statement_node": "Q43392576-94B516E9-F687-4BC2-9BB8-27FEB0D94BD2",
+    "subject": "Steven Malcome",
+    "predicate": "significant event",
+    "object": "witchcraft investigation",
+    "g_id": 0
+  },
+  {
+    "reference_id": "23309ca7a256a33937ed88ce343d7530b9147f35",
+    "url": "https://www.grid.ac/institutes/grid.414745.7",
+    "ref_node_pairs": {
+      "GRID ID": "value:>grid.414745.7"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q6276620-B45F8CF8-954E-45EC-B2DF-CF0522B23015",
+    "subject": "Jordan Hospital",
+    "predicate": "official website",
+    "object": "http://www.bidhplymouth.com/",
+    "g_id": 0
+  },
+  {
+    "reference_id": "82414870a52396fd300bb04271282370d142759c",
+    "url": "http://www.ebi.ac.uk/QuickGO/annotations?protein=P20334&geneProductId=UniProtKB:P20334",
+    "ref_node_pairs": {
+      "retrieved": "time:>+2018-03-27T00:00:00Z",
+      "stated in": "wikibase-item:>UniProt-GOA->Q28018111",
+      "curator": "wikibase-item:>Mouse Genome Informatics->Q1951035",
+      "reference URL": "url:>http://www.ebi.ac.uk/QuickGO/annotations?protein=P20334&geneProductId=UniProtKB:P20334",
+      "determination method": "wikibase-item:>IDA->Q23174122"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q14913235-5D01579E-5DC3-4899-9354-59BD408303C5",
+    "subject": "Tumor necrosis factor receptor superfamily, member 9",
+    "predicate": "cell component",
+    "object": "external side of plasma membrane",
+    "g_id": 0
+  },
+  {
+    "reference_id": "279cdb03e41a99b4d4bd9a8461f8d7d967c74fb0",
+    "url": "http://www.ebi.ac.uk/QuickGO/annotations?geneProductId=UniProtKB:Q62839",
+    "ref_node_pairs": {
+      "retrieved": "time:>+2019-02-14T00:00:00Z",
+      "stated in": "wikibase-item:>UniProt-GOA->Q28018111",
+      "curator": "wikibase-item:>IntAct protein interaction database->Q27901835",
+      "reference URL": "url:>http://www.ebi.ac.uk/QuickGO/annotations?geneProductId=UniProtKB:Q62839",
+      "determination method": "wikibase-item:>IPI->Q23174389"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q28563151-112B8348-CF19-40E0-80C3-6B95AC4A8ED7",
+    "subject": "Golgin A2",
+    "predicate": "molecular function",
+    "object": "protein binding",
+    "g_id": 0
+  },
+  {
+    "reference_id": "4c6d5614830a1107a144143d8638d5929cfc2967",
+    "url": "http://geonames.nga.mil/",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>GEOnet Names Server->Q1194038",
+      "publication date": "time:>+2018-06-11T00:00:00Z",
+      "GNS Unique Feature ID": "value:>-163296"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q35443179-78122283-34BC-4B87-8905-625B42ED35DB",
+    "subject": "Quebrada La Balandra",
+    "predicate": "coordinate location",
+    "object": "Point(-80.916666666 8.3)",
+    "g_id": 0
+  },
+  {
+    "reference_id": "6275dffd81835a0c6ef3bee49337a95b7235ae65",
+    "url": "http://www.ebi.ac.uk/interpro/protein/Q9X279",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>InterPro Release 71.0->Q58943792",
+      "reference URL": "url:>http://www.ebi.ac.uk/interpro/protein/Q9X279"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q27761927-0BE68D1D-D253-496B-BD83-591A4FF39682",
+    "subject": "hypothetical protein    TM1757",
+    "predicate": "has part",
+    "object": "CobQ/CobB/MinD/ParA nucleotide binding domain",
+    "g_id": 0
+  },
+  {
+    "reference_id": "8803ccb0d9f2f17613f60eff39982b991448a52c",
+    "url": "http://geonames.nga.mil/",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>GEOnet Names Server->Q1194038",
+      "publication date": "time:>+2018-06-11T00:00:00Z",
+      "GNS Unique Feature ID": "value:>10915952"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q22068438-95C8F8A1-780C-4F07-92CF-EA5F458CBBF9",
+    "subject": "Córrego Luzia dos Santos",
+    "predicate": "located in the administrative territorial entity",
+    "object": "Minas Gerais",
+    "g_id": 0
+  },
+  {
+    "reference_id": "828279e98a795e3b5895eb058640a08513019b14",
+    "url": "http://www.historyofparliamentonline.org/volume/1604-1629/member/martyn-henry-1564-1626",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://www.historyofparliamentonline.org/volume/1604-1629/member/martyn-henry-1564-1626"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q10294929-41BE7CD0-947C-4335-91AE-7F4C05BC352C",
+    "subject": "Henry Marten",
+    "predicate": "country of citizenship",
+    "object": "Kingdom of England",
+    "g_id": 0
+  },
+  {
+    "reference_id": "d8d5970164d1ad6d70afd9d4de573018824651c2",
+    "url": "https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:16953",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>ChEBI->Q902623",
+      "ChEBI ID": "value:>16953",
+      "language of work or name": "wikibase-item:>English->Q1860",
+      "title": "value:>N-acetyl-L-aspartate(2-)",
+      "retrieved": "time:>+2016-10-05T00:00:00Z"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q27102150-6B88ED5D-8B9A-460F-8E73-0D720CD54956",
+    "subject": "N-acetyl-L-aspartate(2-)",
+    "predicate": "ChEBI ID",
+    "object": "16953",
+    "g_id": 0
+  },
+  {
+    "reference_id": "f13893654848e2f5a9766a6cdb34ddf412fc6db3",
+    "url": "https://www.ncbi.nlm.nih.gov/gene/12819",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>NCBI Gene->Q20641742",
+      "retrieved": "time:>+2020-02-15T00:00:00Z",
+      "Entrez Gene ID": "value:>12819"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q21983787-96E72DE0-578B-4C5C-B674-CA2890AD65F6",
+    "subject": "Collagen, type XV, alpha 1",
+    "predicate": "RefSeq protein ID",
+    "object": "NP_034058",
+    "g_id": 0
+  },
+  {
+    "reference_id": "a23d07eb1aec145b5e1aef9bdd24c4b48ca725fe",
+    "url": "http://geonames.nga.mil/",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>GEOnet Names Server->Q1194038",
+      "publication date": "time:>+2018-06-11T00:00:00Z",
+      "GNS Unique Feature ID": "value:>-3182586"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q31284188-B2986579-33EC-4798-9F7B-895FE5A47DA5",
+    "subject": "Al ‘Awāliq",
+    "predicate": "instance of",
+    "object": "tribal area",
+    "g_id": 0
+  },
+  {
+    "reference_id": "b5762b40b08d75373560a6cb04242aaf06b81a66",
+    "url": "http://geonames.nga.mil/",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>GEOnet Names Server->Q1194038",
+      "publication date": "time:>+2018-06-11T00:00:00Z",
+      "GNS Unique Feature ID": "value:>-3038198"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q85369-C5657A3F-3ACD-4FCB-B995-920BE349AC7A",
+    "subject": "Yakhroma River",
+    "predicate": "coordinate location",
+    "object": "Point(37.116666666 56.516666666)",
+    "g_id": 0
+  },
+  {
+    "reference_id": "8125634c70eda3607d56c8d6f289c7bf38053f94",
+    "url": "http://www.ebi.ac.uk/interpro/protein/Q7NG95",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>InterPro Release 71.0->Q58943792",
+      "reference URL": "url:>http://www.ebi.ac.uk/interpro/protein/Q7NG95"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q23571674-AFC4B908-4162-4E1D-AC1B-6F100B1B9877",
+    "subject": "Shikimate 5-dehydrogenase gvip451",
+    "predicate": "part of",
+    "object": "NAD(P)-binding domain superfamily",
+    "g_id": 0
+  },
+  {
+    "reference_id": "9af74f51aa1a649298f86ef28ee3a0030a475f7b",
+    "url": "https://www.ncbi.nlm.nih.gov/gene/84905",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>NCBI Gene->Q20641742",
+      "retrieved": "time:>+2020-02-08T00:00:00Z",
+      "Entrez Gene ID": "value:>84905"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q18047864-3554F3A8-EF2E-4D90-B274-881F16FFCE08",
+    "subject": "ZNF341",
+    "predicate": "RefSeq RNA ID",
+    "object": "NM_001282933",
+    "g_id": 0
+  },
+  {
+    "reference_id": "ab864067e98c907a1982d9f94a62e1c88d4e7731",
+    "url": "https://www.grid.ac/institutes/grid.475802.c",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Microsoft Academic Knowledge Graph->Q60683589",
+      "GRID ID": "value:>grid.475802.c",
+      "retrieved": "time:>+2019-01-19T00:00:00Z"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q4732340-FC1A4E92-D825-4A19-B7DE-D8C6E1BE42D5",
+    "subject": "Alliance for Aging Research",
+    "predicate": "Microsoft Academic ID",
+    "object": "2802315654",
+    "g_id": 0
+  },
+  {
+    "reference_id": "c4dccd9581bdc7176170a562f567b547a07ab812",
+    "url": "http://geonames.nga.mil/",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>GEOnet Names Server->Q1194038",
+      "publication date": "time:>+2018-06-11T00:00:00Z",
+      "GNS Unique Feature ID": "value:>-803114"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q21570815-0635D3D1-6EEA-4496-8C54-0F6A18DFD21D",
+    "subject": "Aïn el Faouâr",
+    "predicate": "coordinate location",
+    "object": "Point(36.030277777 34.330555555)",
+    "g_id": 0
+  },
+  {
+    "reference_id": "ccb058c1d4b1bdfe243f0ddd50bf73b72d80484a",
+    "url": "https://geonames.usgs.gov/apex/f?p=gnispq:3:::NO::P3_FID:896519",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Geographic Names Information System->Q136736",
+      "publication date": "time:>+2018-06-01T00:00:00Z",
+      "GNIS ID": "value:>896519"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q49699028-DA67EFF6-EE3D-483B-A7E9-677D1B6BFAA7",
+    "subject": "White Ridge",
+    "predicate": "located in the administrative territorial entity",
+    "object": "Valencia County",
+    "g_id": 0
+  },
+  {
+    "reference_id": "5ffed865caf9be3b99cd2b64774800b2ed7920c5",
+    "url": "http://orcid.org/0000-0001-8244-5246",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://orcid.org/0000-0001-8244-5246",
+      "retrieved": "time:>+2019-01-12T00:00:00Z"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q59993116-9804C7BC-442A-437C-8DC2-ED073CBF18AA",
+    "subject": "Mosayyeb Arjmandi",
+    "predicate": "employer",
+    "object": "University of Western Australia",
+    "g_id": 0
+  },
+  {
+    "reference_id": "c1c79dadb704227282db26cdc9b1bc02f4f87ba9",
+    "url": "https://geonames.usgs.gov/apex/f?p=gnispq:3:::NO::P3_FID:1460728",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Geographic Names Information System->Q136736",
+      "publication date": "time:>+2018-06-01T00:00:00Z",
+      "GNIS ID": "value:>1460728"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q49700268-69AC3A9C-AF40-45B1-962E-90C3F5274E81",
+    "subject": "Chittenden Reservoir",
+    "predicate": "coordinate location",
+    "object": "Point(-72.910833333 43.730833333)",
+    "g_id": 0
+  },
+  {
+    "reference_id": "3e2583371e95c7d9c007e355b867bb8ab9a342e2",
+    "url": "http://www.biodiversitylibrary.org/bibliography/77712",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Biodiversity Heritage Library->Q172266",
+      "BHL bibliography ID": "value:>77712"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q51515756-1F5E79F2-4A41-44A8-859D-8E647CDC7764",
+    "subject": "Our new guide to rose culture : now you can have famous Dingee roses for planting spring summer and fall",
+    "predicate": "publisher",
+    "object": "t155098690",
+    "g_id": 0
+  },
+  {
+    "reference_id": "47ba535e821ab3f8385376f88c6993577df7b10b",
+    "url": "http://www.historyofparliamentonline.org/volume/1509-1558/member/dudley-sir-john-15046-53",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>The History of Parliament->Q7739799",
+      "History of Parliament ID": "value:>1509-1558/member/dudley-sir-john-15046-53"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q347125-1C766E88-750D-43AA-904D-D8CCFE280503",
+    "subject": "John Dudley, 1st Duke of Northumberland",
+    "predicate": "position held",
+    "object": "Member of the 1542-44 Parliament",
+    "g_id": 0
+  },
+  {
+    "reference_id": "32686e4bfc60c01e734e062a8694e08d2d4e3722",
+    "url": "https://commons.wikimedia.org/wiki/File:Giotto_-_The_Entombment_of_Mary_-_Google_Art_Project.jpg",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Wikimedia Commons->Q565",
+      "retrieved": "time:>+2018-06-25T00:00:00Z",
+      "Wikimedia import URL": "url:>https://commons.wikimedia.org/wiki/File:Giotto_-_The_Entombment_of_Mary_-_Google_Art_Project.jpg"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q3714311-64E3F09E-7378-418B-A6ED-0B6A4189CEBD",
+    "subject": "The Entombment of the Virgin",
+    "predicate": "height",
+    "object": "75",
+    "g_id": 0
+  },
+  {
+    "reference_id": "86583a81b8d1757a77c24459cd6ad8fb1d3911cf",
+    "url": "http://amigo.geneontology.org/amigo/term/GO:0003420",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Gene Ontology release 2019-10-07->Q70472376",
+      "retrieved": "time:>+2019-10-11T00:00:00Z",
+      "Gene Ontology ID": "value:>GO:0003420"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q14909337-CF7647FB-EBDD-4296-8733-CCD0569563A6",
+    "subject": "regulation of growth plate cartilage chondrocyte proliferation",
+    "predicate": "Gene Ontology ID",
+    "object": "GO:0003420",
+    "g_id": 0
+  },
+  {
+    "reference_id": "0660b8900be368009a75152631f34b3d9b106559",
+    "url": "https://github.com/denoland/deno/releases/tag/v0.3.3",
+    "ref_node_pairs": {
+      "reference URL": "url:>https://github.com/denoland/deno/releases/tag/v0.3.3",
+      "retrieved": "time:>+2019-08-25T00:00:00Z",
+      "title": "value:>Release 0.3.3",
+      "publication date": "time:>+2019-03-13T00:00:00Z"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q65070939-33dc8173-ec94-4c27-9815-d52bb01b51b5",
+    "subject": "Deno",
+    "predicate": "software version identifier",
+    "object": "0.3.3",
+    "g_id": 0
+  },
+  {
+    "reference_id": "687dcf15e86b1242516ead37f01ec8947074dffa",
+    "url": "https://www.ncbi.nlm.nih.gov/gene/1200011",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>NCBI Gene->Q20641742",
+      "language of work or name": "wikibase-item:>English->Q1860",
+      "Entrez Gene ID": "value:>1200011",
+      "retrieved": "time:>+2017-01-07T00:00:00Z"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q23171608-BAE3F535-962A-4DBA-851A-3FB23BC22534",
+    "subject": "iron-sulfur cluster binding protein EF1109",
+    "predicate": "subclass of",
+    "object": "gene",
+    "g_id": 0
+  },
+  {
+    "reference_id": "5ecc280574bbe3f80c57a1c9f37e663f1b86f69e",
+    "url": "https://geonames.usgs.gov/apex/f?p=gnispq:3:::NO::P3_FID:211719",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Geographic Names Information System->Q136736",
+      "publication date": "time:>+2018-06-01T00:00:00Z",
+      "GNIS ID": "value:>211719"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q31823811-92E35B54-A42E-4A57-BBB9-BE22B1E4C5C6",
+    "subject": "Valley Falls Park",
+    "predicate": "coordinate location",
+    "object": "Point(-72.443611111 41.818055555)",
+    "g_id": 0
+  },
+  {
+    "reference_id": "5e65d38b1029850c152e5fe4d6172d7bde2e51ba",
+    "url": "http://www.ebi.ac.uk/QuickGO/annotations?geneProductId=UniProtKB:Q8CJP2",
+    "ref_node_pairs": {
+      "retrieved": "time:>+2019-02-14T00:00:00Z",
+      "stated in": "wikibase-item:>UniProt-GOA->Q28018111",
+      "curator": "wikibase-item:>Gene Ontology Consortium->Q23809253",
+      "reference URL": "url:>http://www.ebi.ac.uk/QuickGO/annotations?geneProductId=UniProtKB:Q8CJP2",
+      "determination method": "wikibase-item:>IEA->Q23190881"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q27755115-DB380D03-2E93-49E4-B49B-BE74AB56761D",
+    "subject": "Peptide-binding transport protein SCO6114",
+    "predicate": "biological process",
+    "object": "amide transport",
+    "g_id": 0
+  },
+  {
+    "reference_id": "0333ce73cb87eb9817ee69fe39dd00dc4e70f17d",
+    "url": "http://geonames.nga.mil/",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>GEOnet Names Server->Q1194038",
+      "publication date": "time:>+2018-06-11T00:00:00Z",
+      "GNS Unique Feature ID": "value:>-1893089"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q35468431-46CDCB04-5C8E-4895-9A84-D9CF11C263DF",
+    "subject": "Ziskauer Tal",
+    "predicate": "located in the administrative territorial entity",
+    "object": "Thuringia",
+    "g_id": 0
+  },
+  {
+    "reference_id": "ae34453d0eb22d805675d8b228c7ad92a15432fe",
+    "url": "http://quickstats.censusdata.abs.gov.au/census_services/getproduct/census/2016/quickstat/SSC60221",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://quickstats.censusdata.abs.gov.au/census_services/getproduct/census/2016/quickstat/SSC60221"
+    },
+    "language_crawl": "en",
+    "statement_node": "q1497778-28DC21A1-7DCD-4C9E-ADEA-5534ED9E2DF3",
+    "subject": "Geeveston",
+    "predicate": "country",
+    "object": "Australia",
+    "g_id": 0
+  },
+  {
+    "reference_id": "56e9b70648fbe853696b8b1791f92a2eadd3838d",
+    "url": "https://www.ncbi.nlm.nih.gov/gene/3169437",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>NCBI Gene->Q20641742",
+      "retrieved": "time:>+2020-02-21T00:00:00Z",
+      "Entrez Gene ID": "value:>3169437"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q21687921-19AEBDCF-A3AF-46EB-AA09-0DDF840E56B1",
+    "subject": "hypothetical protein TTHA1765",
+    "predicate": "strand orientation",
+    "object": "reverse strand",
+    "g_id": 0
+  },
+  {
+    "reference_id": "c2ac2bf7fb36322b69f58456b008bdabc39f5a74",
+    "url": "https://wikidata-externalid-url.toolforge.org/?p=4638&url_prefix=http://www.thepeerage.com/&id=p66352.htm#i663511",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>The Peerage->Q21401824",
+      "The Peerage person ID": "value:>p66352.htm#i663511",
+      "named as": "value:>Anna Margaretha Gravin van Heemskerck"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q76286790-15FBCC50-8CCD-47BE-99D6-8A737E49A42E",
+    "subject": "Anna Margaretha Gravin van Heemskerck",
+    "predicate": "date of death",
+    "object": "1842-05-05T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "34aa6625faf2d963e4f7bcc98499c22ee2242d4e",
+    "url": "https://trove.nla.gov.au/people/1194982",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>National Library of Australia->Q623578",
+      "NLA Trove ID": "value:>1194982",
+      "named as": "value:>George G. Loane",
+      "retrieved": "time:>+2017-10-09T00:00:00Z"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q63225427-aacc4abf-9ad5-4455-84be-375897fc36f3",
+    "subject": "George Green Loane",
+    "predicate": "date of death",
+    "object": "1945-01-01T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "27023036872ce5b877b06736ec225407c9e7102b",
+    "url": "https://wikidata-externalid-url.toolforge.org/?p=4638&url_prefix=http://www.thepeerage.com/&id=p997.htm#i9966",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>The Peerage->Q21401824",
+      "The Peerage person ID": "value:>p997.htm#i9966",
+      "named as": "value:>George Granville Francis Egerton, 2nd Earl of Ellesmere",
+      "retrieved": "time:>+2017-10-09T00:00:00Z"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q5538925-6FDC7A57-740E-441A-8AF2-C62413D61784",
+    "subject": "George Egerton, 2nd Earl of Ellesmere",
+    "predicate": "date of death",
+    "object": "1862-09-19T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "101b3df7f95de4db2b5317943f36cbc1936647fc",
+    "url": "http://identifiers.org/ensembl/ENSRNOP00000042159",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Ensembl Release 99->Q83867711",
+      "Ensembl protein ID": "value:>ENSRNOP00000042159"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q28557394-055184DA-FC77-4846-ACA2-8532D1795F56",
+    "subject": "Heat shock protein family A (Hsp70) member 8",
+    "predicate": "Ensembl protein ID",
+    "object": "ENSRNOP00000042159",
+    "g_id": 0
+  },
+  {
+    "reference_id": "4818328aba5d2ee28d5f443eebb6dbb1043c45bf",
+    "url": "https://www.ncbi.nlm.nih.gov/gene/1176682",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>NCBI Gene->Q20641742",
+      "retrieved": "time:>+2020-02-21T00:00:00Z",
+      "Entrez Gene ID": "value:>1176682"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q22567874-D6B15D61-5EB1-45E6-B802-7A8E16B41DFD",
+    "subject": "frataxin-like protein YPO3847",
+    "predicate": "genomic start",
+    "object": "4316053",
+    "g_id": 0
+  },
+  {
+    "reference_id": "591c2470df54632b7eb9a5b07a43e73de3ed195d",
+    "url": "https://www.mfa.org/collections/object/william-lloyd-garrison-30992",
+    "ref_node_pairs": {
+      "reference URL": "url:>https://www.mfa.org/collections/object/william-lloyd-garrison-30992",
+      "retrieved": "time:>+2019-04-14T00:00:00Z"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q20777857-3cb730bc-2f47-46bb-8b6c-3ef8b42d5a20",
+    "subject": "William Lloyd Garrison",
+    "predicate": "title",
+    "object": "William Lloyd Garrison",
+    "g_id": 0
+  },
+  {
+    "reference_id": "bca617d35ed6735ade4ce722f4b99e0a5dbb7220",
+    "url": "https://www.ncbi.nlm.nih.gov/gene/1095096",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>NCBI Gene->Q20641742",
+      "language of work or name": "wikibase-item:>English->Q1860",
+      "Entrez Gene ID": "value:>1095096",
+      "retrieved": "time:>+2016-12-10T00:00:00Z"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q23294010-8B924B0A-4B3A-47F2-BE9E-BDF2493352BB",
+    "subject": "hypothetical protein SCP1.17",
+    "predicate": "subclass of",
+    "object": "gene",
+    "g_id": 0
+  },
+  {
+    "reference_id": "a6a430dc530085b4f8c8cf2c799af1e8212a60d2",
+    "url": "http://id.library.wales/99287093502419",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>National Library of Wales Catalogue->Q28913614",
+      "reference URL": "url:>http://id.library.wales/99287093502419",
+      "retrieved": "time:>+2018-07-22T00:00:00Z"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q57208740-B5D5DE54-4CCF-4504-9B42-1D80D8B8F7F8",
+    "subject": "Y Cenhedloedd Unedig",
+    "predicate": "author name string",
+    "object": "John W. Roberts",
+    "g_id": 0
+  },
+  {
+    "reference_id": "014ff1bd53b175ff82561ecf77d4bf73cb0145c4",
+    "url": "https://orcid.org/0000-0002-2230-4289",
+    "ref_node_pairs": {
+      "ORCID iD": "value:>0000-0002-2230-4289",
+      "retrieved": "time:>+2019-01-12T00:00:00Z"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q43238205-C3EA5DDE-8C0C-4B43-A622-469F3F721222",
+    "subject": "Jiansheng Jie",
+    "predicate": "employer",
+    "object": "City University of Hong Kong",
+    "g_id": 0
+  },
+  {
+    "reference_id": "927a36051b2734f34a2c3ddb5f3a7c1ec3998684",
+    "url": "http://geonames.nga.mil/",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>GEOnet Names Server->Q1194038",
+      "publication date": "time:>+2018-06-11T00:00:00Z",
+      "GNS Unique Feature ID": "value:>10209908"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q25258896-69C14009-97F9-4AD3-A0E8-D7790BDC1343",
+    "subject": "Plalangan",
+    "predicate": "coordinate location",
+    "object": "Point(111.521111111 -7.843333333)",
+    "g_id": 0
+  },
+  {
+    "reference_id": "ffa9df9f0a8189d442d24b00c7b5fa8b26a03ccf",
+    "url": "https://www.ncbi.nlm.nih.gov/gene/888781",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>NCBI Gene->Q20641742",
+      "retrieved": "time:>+2020-03-07T00:00:00Z",
+      "Entrez Gene ID": "value:>888781"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q22235444-E99E846D-C050-4A87-8CBF-7CFE4394235C",
+    "subject": "Phosphatase Rv3113",
+    "predicate": "RefSeq protein ID",
+    "object": "NP_217629",
+    "g_id": 0
+  },
+  {
+    "reference_id": "298430d68b58c18aba0ed9796e849eb200d2cf89",
+    "url": "http://www.ebi.ac.uk/QuickGO/annotations?geneProductId=UniProtKB:Q89EV3",
+    "ref_node_pairs": {
+      "retrieved": "time:>+2019-02-14T00:00:00Z",
+      "stated in": "wikibase-item:>UniProt-GOA->Q28018111",
+      "curator": "wikibase-item:>UniProt->Q905695",
+      "UniProt protein ID": "value:>Q89EV3",
+      "reference URL": "url:>http://www.ebi.ac.uk/QuickGO/annotations?geneProductId=UniProtKB:Q89EV3",
+      "determination method": "wikibase-item:>IEA->Q23190881"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q24224834-C74B1DA9-AB50-4691-94C7-BAE0AB5073F9",
+    "subject": "MFS permease blr6967",
+    "predicate": "cell component",
+    "object": "membrane",
+    "g_id": 0
+  }
+]

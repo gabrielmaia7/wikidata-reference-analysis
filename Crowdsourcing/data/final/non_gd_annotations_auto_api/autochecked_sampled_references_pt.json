@@ -1,0 +1,2503 @@
+[
+  {
+    "reference_id": "ea674392b118615280993ae9d6e3269b8c1971be",
+    "url": "https://api.crossref.org/works/10.1590%2F1980-5497201700020007",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Crossref->Q5188229",
+      "reference URL": "url:>https://api.crossref.org/works/10.1590%2F1980-5497201700020007",
+      "retrieved": "time:>+2018-01-21T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q38612458-AC50DC58-4319-4DD0-919C-8FF922A454E9",
+    "subject": "Overweight and associated factors in adolescents from a brazilian capital.",
+    "predicate": "cita",
+    "object": "Prevalence of High Body Mass Index in US Children and Adolescents, 2007-2008",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 1,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 2
+      }
+    }
+  },
+  {
+    "reference_id": "2dd5a2f966dd318efe0818bc63a26f681bd475fc",
+    "url": "https://viaf.org/viaf/48292325",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>48292325"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q712082-BCFA0674-1112-4F76-879F-CDF53454BDD9",
+    "subject": "Jorge Listopad",
+    "predicate": "identificador WorldCat Identities",
+    "object": "lccn-n87870435",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "90a1341197f061de0b948d95c52b264dd4378cff",
+    "url": "https://viaf.org/viaf/25821",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>25821"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q1905941-C8D27887-7630-4F9F-A8B9-B1D14A5FED79",
+    "subject": "Gustavo Corção",
+    "predicate": "identificador WorldCat Identities",
+    "object": "lccn-n81058817",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "4d6878bca4ef5c3d126a9108092b3a30270ac4b9",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:31553354%20AND%20SRC:MED&resulttype=core&format=json",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>31553354",
+      "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:31553354%20AND%20SRC:MED&resulttype=core&format=json",
+      "retrieved": "time:>+2020-04-12T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q90276723-65C39A4B-E3C4-4E6A-8660-5A1BB342A4DC",
+    "subject": "EDITORIAL NOTE: Special Volume by the Affiliated Members of the Brazilian Academy of Sciences",
+    "predicate": "identificador PubMed",
+    "object": "31553354",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 0
+      }
+    }
+  },
+  {
+    "reference_id": "851146ef8d6f389c042a543722fd2e7a035e92e7",
+    "url": "https://viaf.org/viaf/37172890",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>37172890"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q10290570-8770E9DA-D132-40B5-BF49-690574CE244E",
+    "subject": "Gonçalo Junior",
+    "predicate": "identificador WorldCat Identities",
+    "object": "lccn-nr2001036760",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "7ee0f239220e2a3d2c4b04923a6c973df3f8a85b",
+    "url": "https://viaf.org/viaf/124393311",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>124393311"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q3551702-8F8CBB1B-93FB-4083-A8CF-FA93D98B21E7",
+    "subject": "Universidade do Estado de Santa Catarina",
+    "predicate": "identificador WorldCat Identities",
+    "object": "lccn-n85018598",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "6e54464d5eef1b9b3801ec11f9b634c549910b09",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:25942060%20AND%20SRC:MED&resulttype=core&format=json",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>25942060",
+      "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:25942060%20AND%20SRC:MED&resulttype=core&format=json",
+      "retrieved": "time:>+2020-03-07T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q57033503-7853FD97-2443-436B-B34E-5A478704F83C",
+    "subject": "Design, synthesis and structure–activity relationship of phthalimides endowed with dual antiproliferative and immunomodulatory activities",
+    "predicate": "nome do autor",
+    "object": "José Wanderlan Pontes Espíndola",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 0
+      }
+    }
+  },
+  {
+    "reference_id": "cc63e9e2ccff3539e909a8821f0f41cb2cb4c459",
+    "url": "https://viaf.org/viaf/125045478",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>125045478"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q10330400-45BADD42-115B-403F-B0D4-D79309D984E3",
+    "subject": "Ministério das Colónias",
+    "predicate": "identificador WorldCat Identities",
+    "object": "lccn-n85209883",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "5011419fdf881d7d68ab3708a64ee65016c601b2",
+    "url": "https://viaf.org/viaf/31991142",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+      "VIAF ID": "value:>31991142",
+      "retrieved": "time:>+2019-12-02T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q10308684-76dc2316-810d-48c7-a23e-0759dfdcd577",
+    "subject": "José Adjuto Castelo-Branco Chaves",
+    "predicate": "identificador PTBNP",
+    "object": "23943",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "0e2618616dd17a1521c698c68968efc150ebbc87",
+    "url": "https://api.crossref.org/works/10.1590%2FS1413-81232013000900032",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Crossref->Q5188229",
+      "reference URL": "url:>https://api.crossref.org/works/10.1590%2FS1413-81232013000900032",
+      "retrieved": "time:>+2018-01-21T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q45896378-ADAAA7A0-AE59-48C5-9206-0DD683E76609",
+    "subject": "[The influence of mourning on feeding habits and its implications for nutritional behavior].",
+    "predicate": "cita",
+    "object": "Health outcomes of bereavement.",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 1,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 2
+      }
+    }
+  },
+  {
+    "reference_id": "d54ffdea03e701e30fe701dbfc6f4cc8965bdb68",
+    "url": "https://api.crossref.org/works/10.1590%2FS0365-05962011000600029",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Crossref->Q5188229",
+      "reference URL": "url:>https://api.crossref.org/works/10.1590%2FS0365-05962011000600029",
+      "retrieved": "time:>+2018-01-21T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q40298197-9A85567D-0F9F-4189-9D20-F688B23472AE",
+    "subject": "Cutaneous and pulmonary paracoccidioidomycosis in a patient with a malignant visceral tumor.",
+    "predicate": "cita",
+    "object": "Paracoccidioidomycosis and AIDS: an overview.",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 1,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 2
+      }
+    }
+  },
+  {
+    "reference_id": "c0e5935bb5aa24251ee701843fa7944710c755aa",
+    "url": "https://viaf.org/viaf/66617925",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+      "VIAF ID": "value:>66617925",
+      "retrieved": "time:>+2018-10-07T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q9697339-314308DA-48E7-47EA-A5AF-8569D57E0AC9",
+    "subject": "Carlos Scliar",
+    "predicate": "identificador BnF",
+    "object": "13484318s",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "95fc7375b9b77288f5419240298edcf049350c5f",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:28327803%20AND%20SRC:MED&resulttype=core&format=json",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>28327803",
+      "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:28327803%20AND%20SRC:MED&resulttype=core&format=json",
+      "retrieved": "time:>+2020-03-13T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q40281246-B92C8630-558B-4E65-A6FC-D2592A0CC721",
+    "subject": "Serodiagnosis of visceral and cutaneous leishmaniasis in human and canine populations living in Indigenous Reserves in the Brazilian Amazon Region.",
+    "predicate": "nome do autor",
+    "object": "Fernando Silveira Marques",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 0
+      }
+    }
+  },
+  {
+    "reference_id": "c2eeaa6462577a7fcef6b97aabce32dffbc94834",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:25362126%20AND%20SRC:MED&resulttype=core&format=json",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>25362126",
+      "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:25362126%20AND%20SRC:MED&resulttype=core&format=json",
+      "retrieved": "time:>+2020-02-22T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q85895650-D96E7F63-E28A-49BC-8A38-93E4D2A5733B",
+    "subject": "From the authors: comparison against baseline in randomised control trials (again)",
+    "predicate": "DOI",
+    "object": "10.1183/09031936.00117314",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 0
+      }
+    }
+  },
+  {
+    "reference_id": "30a313e94c09e0af7168cfcdf8d78b8b696331dc",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:31591674%20AND%20SRC:MED&resulttype=core&format=json",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PMCID": "value:>7089087",
+      "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:31591674%20AND%20SRC:MED&resulttype=core&format=json",
+      "retrieved": "time:>+2020-04-14T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q84315835-76219B70-47F7-4C5A-BF5E-9B39EE8337C2",
+    "subject": "Prevalence and risk factors for agents causing diarrhea (Coronavirus, Rotavirus, Cryptosporidium spp., Eimeria spp., and nematodes helminthes) according to age in dairy calves from Brazil",
+    "predicate": "nome do autor",
+    "object": "Amauri Alcindo Alfieri",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 0
+      }
+    }
+  },
+  {
+    "reference_id": "1249d63d37eabe18993221dffdffcc428d3607e9",
+    "url": "https://api.crossref.org/works/10.1590%2F1806-90882017000100002",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Crossref->Q5188229",
+      "reference URL": "url:>https://api.crossref.org/works/10.1590%2F1806-90882017000100002",
+      "retrieved": "time:>+2018-01-21T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q58878915-8D22CE9A-514B-47E5-A711-8F60DBDF5147",
+    "subject": "PHYSIOLOGICAL RELATIONSHIPS IN Aleurites fordii Hemsl. SEEDLINGS",
+    "predicate": "cita",
+    "object": "Light regulation of stomatal movement.",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 1,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 2
+      }
+    }
+  },
+  {
+    "reference_id": "d73801b4ec20b6d64594bcc7c1e3ad08acd1366b",
+    "url": "https://api.crossref.org/journals/2182-7907",
+    "ref_node_pairs": {
+      "retrieved": "time:>+2018-03-23T00:00:00Z",
+      "reference URL": "url:>https://api.crossref.org/journals/2182-7907"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q50497622-543CFBA9-5EC3-4EC0-B2B2-904D5475CAC8",
+    "subject": "Sociologia",
+    "predicate": "ISSN",
+    "object": "2182-7907",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 1,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 2
+      }
+    }
+  },
+  {
+    "reference_id": "f097da25377819cfd242878137aa5e7fabff553d",
+    "url": "https://viaf.org/viaf/39371975",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+      "VIAF ID": "value:>39371975",
+      "retrieved": "time:>+2019-12-02T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q10308686-49df3fb7-ffa2-45e5-a449-6b3939b31345",
+    "subject": "José Adriano Borges de Carvalho",
+    "predicate": "identificador PTBNP",
+    "object": "37635",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "4c61460b8eb70d42f78462eb1181eea8dbd97b85",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:16789410%20AND%20SRC:MED&resulttype=core&format=json",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>16789410",
+      "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:16789410%20AND%20SRC:MED&resulttype=core&format=json",
+      "retrieved": "time:>+2019-12-25T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q79763595-0396AF92-7997-4304-B717-1BF8CE0186F1",
+    "subject": "Sinus venosus atrial septal defect in an adult, diagnosed by transesophageal echocardiography",
+    "predicate": "título",
+    "object": "Sinus venosus atrial septal defect in an adult, diagnosed by transesophageal echocardiography",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 0
+      }
+    }
+  },
+  {
+    "reference_id": "801d8fe3d89db4f63b16a35c07dac7399ad42b54",
+    "url": "https://viaf.org/viaf/99771865",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>99771865",
+      "retrieved": "time:>+2017-10-20T00:00:00Z",
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q16491862-8B52E0EC-D4A3-41D4-9683-078CF3C71553",
+    "subject": "António Júlio de Castro Fernandes",
+    "predicate": "identificador GND",
+    "object": "1068591862",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "36b6dc7bf6ac36662677d6822842f4a7c0fe8895",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:25742590%20AND%20SRC:MED&resulttype=core&format=json",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>25742590",
+      "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:25742590%20AND%20SRC:MED&resulttype=core&format=json",
+      "retrieved": "time:>+2020-03-02T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q86873156-7F632677-B8A3-47FE-BEBA-2A4861B790C3",
+    "subject": "The corneomandibular reflex: a light touch and wide conclusions",
+    "predicate": "instância de",
+    "object": "artigo científico",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 0
+      }
+    }
+  },
+  {
+    "reference_id": "6f7503ac978bf745bc2003f3dcc5e3cee18c8963",
+    "url": "https://api.crossref.org/works/10.3109%2F19401736.2015.1022731",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Crossref->Q5188229",
+      "reference URL": "url:>https://api.crossref.org/works/10.3109%2F19401736.2015.1022731",
+      "retrieved": "time:>+2018-01-21T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q40897631-F0CE043E-ED11-4701-880A-94F86BB2DF75",
+    "subject": "DNA barcoding reveals species level divergence between populations of the microhylid frog genus Arcovomer (Anura: Microhylidae) in the Atlantic Rainforest of southeastern Brazil.",
+    "predicate": "cita",
+    "object": "Evolutionary trees from DNA sequences: a maximum likelihood approach",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 1,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 2
+      }
+    }
+  },
+  {
+    "reference_id": "c44db87ecb34e51f84f7067a990eea07774dad89",
+    "url": "https://api.crossref.org/works/10.1590%2FS0037-86821986000300002",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Crossref->Q5188229",
+      "reference URL": "url:>https://api.crossref.org/works/10.1590%2FS0037-86821986000300002",
+      "retrieved": "time:>+2018-01-21T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q47913555-A1ACA19A-E0BB-442A-B007-53CC77CF09B8",
+    "subject": "[Use of tetracycline and quinine combination in the treatment of Plasmodium falciparum malaria]",
+    "predicate": "cita",
+    "object": "Tetracycline treatment of chloroquine-resistant falciparum malaria in Thailand.",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 1,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 2
+      }
+    }
+  },
+  {
+    "reference_id": "1b636a9bdb3702bcaaafe0e485d4fa925ebe522e",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:17435897%20AND%20SRC:MED&resulttype=core&format=json",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>17435897",
+      "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:17435897%20AND%20SRC:MED&resulttype=core&format=json",
+      "retrieved": "time:>+2019-12-29T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q80161985-FBCA3DDC-C4AB-4026-A8A7-D4B6C28CFCCE",
+    "subject": "Silicosis (still) among us",
+    "predicate": "instância de",
+    "object": "artigo científico",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 0
+      }
+    }
+  },
+  {
+    "reference_id": "f3430e521dbedd01a55a410c8c72b34403856180",
+    "url": "https://viaf.org/viaf/38525821",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+      "VIAF ID": "value:>38525821",
+      "retrieved": "time:>+2019-12-02T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q10263917-fb139350-3b7c-4091-bd86-7f229cdcd616",
+    "subject": "Daniel Bessa",
+    "predicate": "identificador PTBNP",
+    "object": "65821",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "ed5853e2970fa2745540fa8b9f4540768a1f83a4",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:22743940%20AND%20SRC:MED&resulttype=core&format=json",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>22743940",
+      "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:22743940%20AND%20SRC:MED&resulttype=core&format=json",
+      "retrieved": "time:>+2020-02-06T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q84489430-FAFF09EF-412E-4E78-A26E-7A48AFAE7C9B",
+    "subject": "Training rhinoseptoplasty, sinusectomy, and turbinectomy in an animal model",
+    "predicate": "nome do autor",
+    "object": "Hamilton Aleardo Gonella",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 0
+      }
+    }
+  },
+  {
+    "reference_id": "d704140551ddadcc511afeac4655df0cff293b3f",
+    "url": "https://viaf.org/viaf/99531261",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+      "retrieved": "time:>+2019-11-29T00:00:00Z",
+      "VIAF ID": "value:>99531261"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q38080933-ac106d83-02b7-4ba0-8189-f905fc739829",
+    "subject": "Inácio de Oliveira Bernardes",
+    "predicate": "identificador PTBNP",
+    "object": "217156",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "7c9b2de7e263a108b537e75f86ab5a603d0e2ad0",
+    "url": "https://viaf.org/viaf/11292273",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+      "retrieved": "time:>+2018-04-09T00:00:00Z",
+      "VIAF ID": "value:>11292273"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q10334544-306A6E55-2B78-48B8-9276-7D57EABA451F",
+    "subject": "Mário Tavares Chicó",
+    "predicate": "identificador NTA PPN",
+    "object": "06932364X",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "7463ace9c047452d9111bda284e0a69af45d9e6a",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:16850567%20AND%20SRC:MED&resulttype=core&format=json",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>16850567",
+      "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:16850567%20AND%20SRC:MED&resulttype=core&format=json",
+      "retrieved": "time:>+2019-12-27T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q79932567-D12635A3-9A01-47FF-AD0E-6187CE481421",
+    "subject": "National Programme of Prevention and Control of Chronic Obstructive Pulmonary Disease",
+    "predicate": "página(s)",
+    "object": "185-209",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 0
+      }
+    }
+  },
+  {
+    "reference_id": "d09b53dd533e399a6e31aee35fd5728463353d6c",
+    "url": "https://api.crossref.org/works/10.1080%2F14786419.2017.1315573",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Crossref->Q5188229",
+      "reference URL": "url:>https://api.crossref.org/works/10.1080%2F14786419.2017.1315573",
+      "retrieved": "time:>+2018-01-21T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q54041518-80AFCD4B-4E3E-4123-A178-78D789F78152",
+    "subject": "Potential use of secondary products of the agri-food industry for topical formulations and comparative analysis of antioxidant activity of grape leaf polyphenols.",
+    "predicate": "cita",
+    "object": "Antioxidant and antimicrobial activities of Bauhinia racemosa L. stem bark.",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 1,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 2
+      }
+    }
+  },
+  {
+    "reference_id": "12511281b57728b51141164758715f151253514f",
+    "url": "https://viaf.org/viaf/50620082",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+      "VIAF ID": "value:>50620082",
+      "retrieved": "time:>+2018-10-07T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q10338267-C88B36B2-68EA-4D94-97C6-D8E103681BF1",
+    "subject": "Nuno de Sampayo",
+    "predicate": "identificador SUDOC",
+    "object": "067295851",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "9120faa4fb716cf4bc6af02deeb5bc708a102052",
+    "url": "https://viaf.org/viaf/65342309",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>65342309",
+      "retrieved": "time:>+2017-10-20T00:00:00Z",
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q10336738-A818D498-71DF-4905-8EF2-390899DA19F3",
+    "subject": "Nicola Aslan",
+    "predicate": "número de controlo da Biblioteca do Congresso",
+    "object": "n82017797",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "7369b275ef38591dec385d81021cc263c9d30cc3",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:999091%20AND%20SRC:MED&resulttype=core&format=json",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>999091",
+      "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:999091%20AND%20SRC:MED&resulttype=core&format=json",
+      "retrieved": "time:>+2019-09-18T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q67875971-5B2E4C44-0B44-40B7-92D9-731F3B1A60E0",
+    "subject": "[A biologia marinha no Brasil]",
+    "predicate": "página(s)",
+    "object": "7-10",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 0
+      }
+    }
+  },
+  {
+    "reference_id": "eee0c62d54448ae7589fdfaa0e92a312db2a8252",
+    "url": "https://viaf.org/viaf/118846794",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+      "VIAF ID": "value:>118846794",
+      "retrieved": "time:>+2019-12-02T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q65163215-c57498fa-5fd5-4b10-a9ff-e7f0a30e70c9",
+    "subject": "Abel Viana",
+    "predicate": "identificador PTBNP",
+    "object": "53318",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "e8216f9d75c762edf4b43245fc9275fc599e735a",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:32130316%20AND%20SRC:MED&resulttype=core&format=json",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>32130316",
+      "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:32130316%20AND%20SRC:MED&resulttype=core&format=json",
+      "retrieved": "time:>+2020-04-10T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q90039921-9C9EBDDA-AEB1-4FD7-9307-36CEE9A45D53",
+    "subject": "Is the local food environment associated with excess body weight in adolescents in São Paulo, Brazil?",
+    "predicate": "número de jornal",
+    "object": "2",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 0
+      }
+    }
+  },
+  {
+    "reference_id": "e6f91aa262511260220061d2d8d689841a2fd671",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/29217383",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>29217383",
+      "retrieved": "time:>+2017-12-13T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q45323625-88FC8D56-3223-4F11-9C1B-648631249915",
+    "subject": "DETECTION OF LATINO VIRUS (ARENAVIRIDAE: MAMMARENAVIRUS) NATURALLY INFECTING CALOMYS CALLIDUS.",
+    "predicate": "nome do autor",
+    "object": "Sergio Paulo D'Andrea",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 0
+      }
+    }
+  },
+  {
+    "reference_id": "7e154ad8b6914a2d117637f7182f34a4e4a6cd1d",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:3251459%20AND%20SRC:MED&resulttype=core&format=json",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>3251459",
+      "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:3251459%20AND%20SRC:MED&resulttype=core&format=json",
+      "retrieved": "time:>+2019-09-21T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q68078445-7F3FCFC9-A83C-43EC-8B23-D5E505C02881",
+    "subject": "[Diagnostic aspects of infective endocarditis in the elderly]",
+    "predicate": "título",
+    "object": "[Diagnostic aspects of infective endocarditis in the elderly]",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 0
+      }
+    }
+  },
+  {
+    "reference_id": "24a6e291af9437559984d2bc4933e3e133c404d5",
+    "url": "https://viaf.org/viaf/124922916",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>124922916"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q10279519-878CC434-4066-493E-B9BA-3ED527E3D04B",
+    "subject": "Faculdade de Medicina da Bahia da Universidade Federal da Bahia",
+    "predicate": "identificador WorldCat Identities",
+    "object": "lccn-n81012340",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "0a033efaa95f25e55505791c928ec813b2f61deb",
+    "url": "https://viaf.org/viaf/68913560",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>68913560"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q9618583-A5A33D7A-E8DD-4032-AE79-FFCB15CA17C1",
+    "subject": "António Almeida Costa",
+    "predicate": "identificador WorldCat Identities",
+    "object": "lccn-n89618250",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "d6e95c3c7bdd89063921f87df663e57848295b72",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:31016578%20AND%20SRC:MED&resulttype=core&format=json",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>31016578",
+      "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:31016578%20AND%20SRC:MED&resulttype=core&format=json",
+      "retrieved": "time:>+2020-04-12T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q90260122-A2F9D51D-B8CB-4505-930B-3541EE18E506",
+    "subject": "Changing rate of serious infections in biologic-exposed rheumatoid arthritis patients. Data from South American registries BIOBADABRASIL and BIOBADASAR",
+    "predicate": "número de jornal",
+    "object": "8",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 0
+      }
+    }
+  },
+  {
+    "reference_id": "d8d448c3a73250006c0987780c0a2817bf964ddd",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:16474858%20AND%20SRC:MED&resulttype=core&format=json",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>16474858",
+      "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:16474858%20AND%20SRC:MED&resulttype=core&format=json",
+      "retrieved": "time:>+2020-01-16T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q82537724-0AE9972C-AC4E-4804-82A0-D39FDF65C9C5",
+    "subject": "[Why is surgical innovation so badly needed]",
+    "predicate": "identificador PubMed",
+    "object": "16474858",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 0
+      }
+    }
+  },
+  {
+    "reference_id": "6a720139fe15777f43f2839de807922ac51d7ca3",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:29768559%20AND%20SRC:MED&resulttype=core&format=json",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>29768559",
+      "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:29768559%20AND%20SRC:MED&resulttype=core&format=json",
+      "retrieved": "time:>+2020-03-26T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q58842300-0EB1F1C1-7739-4879-B639-408C4042011D",
+    "subject": "Epidemiological and clinical profile of patients with Chagas disease in the Central-North area of Paraná, Southern Brazil",
+    "predicate": "instância de",
+    "object": "artigo científico",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 0
+      }
+    }
+  },
+  {
+    "reference_id": "9af21492c35d54c7b334c0163b85dd8d6ca84708",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:26024416%20AND%20SRC:MED&resulttype=core&format=json",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PMCID": "value:>4507598",
+      "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:26024416%20AND%20SRC:MED&resulttype=core&format=json",
+      "retrieved": "time:>+2020-02-16T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q35866654-AA2EDC3B-BB4E-4D24-B1A5-A8FC5EE6B6FC",
+    "subject": "Ultrasonic sensor signals and optimum path forest classifier for the microstructural characterization of thermally-aged inconel 625 alloy.",
+    "predicate": "nome do autor",
+    "object": "Elineudo P Moura",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 0
+      }
+    }
+  },
+  {
+    "reference_id": "7a1bca38bfab30daa2b142a18e3a4961c653eed4",
+    "url": "https://viaf.org/viaf/99835903",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>99835903"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q9619113-177A1EA6-7C2E-413E-8FFA-94F53527305C",
+    "subject": "António Fogaça",
+    "predicate": "identificador WorldCat Identities",
+    "object": "lccn-nb2012003230",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "ecb7a723ac79011c25717daad7a92f856ce82a08",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:27286769%20AND%20SRC:MED&resulttype=core&format=json",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>27286769",
+      "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:27286769%20AND%20SRC:MED&resulttype=core&format=json",
+      "retrieved": "time:>+2020-03-13T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q87637597-AA06D028-8098-476B-8F5B-217C8DE393EE",
+    "subject": "Selective molecularly imprinted polymer combined with restricted access material for in-tube SPME/UHPLC-MS/MS of parabens in breast milk samples",
+    "predicate": "nome do autor",
+    "object": "Lidervan P Melo",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 0
+      }
+    }
+  },
+  {
+    "reference_id": "f996f513aed6002c5a611b95766008804eba777a",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:13769079%20AND%20SRC:MED&resulttype=core&format=json",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>13769079",
+      "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:13769079%20AND%20SRC:MED&resulttype=core&format=json",
+      "retrieved": "time:>+2019-12-19T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q50728974-0E6F717B-B094-420F-A111-B88CBA1AF990",
+    "subject": "[Annual report of the Missao Permanente de Estudo e Combate de Endemias de Cabo Verde (1957).]",
+    "predicate": "publicado em",
+    "object": "Anais do Instituto de Medicina Tropical",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 0
+      }
+    }
+  },
+  {
+    "reference_id": "78807c6f6fb0dfe7123d29ea8828e16f1e05d136",
+    "url": "https://viaf.org/viaf/9116809",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+      "VIAF ID": "value:>9116809",
+      "retrieved": "time:>+2019-11-29T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q15106668-dedcda15-b9c6-477e-a641-bdc9982d4d14",
+    "subject": "João Hall Themido",
+    "predicate": "identificador PTBNP",
+    "object": "177304",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "575aac370ef070c153159249e90cc2f795592f45",
+    "url": "https://viaf.org/viaf/131741634",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>131741634"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q17123737-BB50E64F-7D87-443F-8345-248A428E82B8",
+    "subject": "Instituto Nacional de Estatística",
+    "predicate": "identificador WorldCat Identities",
+    "object": "lccn-no2008113777",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "0689c298ba3975fc709860b3e438bffa24882ab0",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/28513768",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>28513768",
+      "retrieved": "time:>+2017-07-29T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q33782715-3661A39B-E7BA-4CE7-B0C7-00FDCD519948",
+    "subject": "Microbiological testing of devices used in maintaining peripheral venous catheters.",
+    "predicate": "nome do autor",
+    "object": "Evandro Watanabe",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 0
+      }
+    }
+  },
+  {
+    "reference_id": "7317c149fae75117725cd8919f94ba95329e62de",
+    "url": "https://viaf.org/viaf/309858351",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>309858351"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q7894392-209BDAE7-532E-4A20-8B00-B48F885661FE",
+    "subject": "Universidade Positivo",
+    "predicate": "identificador WorldCat Identities",
+    "object": "lccn-no2014103852",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "b003157222ac802508e9e0c3d9a62312fc11c6d7",
+    "url": "https://viaf.org/viaf/107592272",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>107592272"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q9618785-2913CD09-A0B0-4275-A15D-7507F20BE430",
+    "subject": "António Cabral (escritor)",
+    "predicate": "identificador WorldCat Identities",
+    "object": "lccn-n82252104",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "98891002dbb025d1a6fc2ba7eed174fe083d85eb",
+    "url": "https://api.crossref.org/works/10.1080%2F13510002.2017.1315513",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Crossref->Q5188229",
+      "reference URL": "url:>https://api.crossref.org/works/10.1080%2F13510002.2017.1315513",
+      "retrieved": "time:>+2018-01-21T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q48283538-067F0951-6E58-458D-881D-F8B0FF756DB4",
+    "subject": "Swimming training induces liver adaptations to oxidative stress and insulin sensitivity in rats submitted to high-fat diet.",
+    "predicate": "cita",
+    "object": "A rapid and sensitive method for the quantitation of microgram quantities of protein utilizing the principle of protein-dye binding",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 1,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 2
+      }
+    }
+  },
+  {
+    "reference_id": "c5c75f9c0a9b81a32df7977e71eda2991dad583b",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:5344267%20AND%20SRC:MED&resulttype=core&format=json",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>5344267",
+      "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:5344267%20AND%20SRC:MED&resulttype=core&format=json",
+      "retrieved": "time:>+2019-10-17T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q47961269-83F18230-DC22-4CB2-9A81-B09D7DCCF101",
+    "subject": "[Malaria eradication program in the State of São Paulo].",
+    "predicate": "nome do autor",
+    "object": "R de R Corrêa",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 0
+      }
+    }
+  },
+  {
+    "reference_id": "731db4881159de5cb63d177ff6c88f1cbcc6463c",
+    "url": "https://viaf.org/viaf/98930270",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+      "VIAF ID": "value:>98930270",
+      "retrieved": "time:>+2018-10-07T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q9620788-BB8808F7-AA9C-44A5-9483-1C4BD8CDB001",
+    "subject": "Antônio Alves Câmara Júnior",
+    "predicate": "identificador na VIAF",
+    "object": "98930270",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "1621059eb135afcda47aa75f57b7b165cf85be61",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:5132764%20AND%20SRC:MED&resulttype=core&format=json",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>5132764",
+      "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:5132764%20AND%20SRC:MED&resulttype=core&format=json",
+      "retrieved": "time:>+2019-10-12T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q70635081-F98ADD2E-3E49-4753-B5A3-E29194676754",
+    "subject": "[Ayre's method and its variants]",
+    "predicate": "identificador PubMed",
+    "object": "5132764",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 0
+      }
+    }
+  },
+  {
+    "reference_id": "b258a9ef566665595d3d4e4a67d04f9277d73548",
+    "url": "https://viaf.org/viaf/96517508",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>96517508",
+      "retrieved": "time:>+2017-10-18T00:00:00Z",
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q3187293-1953F65E-D9BE-4E88-9FF1-D880A40402D0",
+    "subject": "João Câmara Filho",
+    "predicate": "identificador GND",
+    "object": "124061508",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "f7038f4be7b9b6f6e94fbe5e734e0aa7ae6a90d3",
+    "url": "https://api.crossref.org/works/10.1590%2F0034-7167.2016690405I",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Crossref->Q5188229",
+      "reference URL": "url:>https://api.crossref.org/works/10.1590%2F0034-7167.2016690405I",
+      "retrieved": "time:>+2018-01-21T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q39504773-6043AB1A-8E61-41AE-B4C9-333A8CAA8C6A",
+    "subject": "Nursing care through the perception of hospitalized children.",
+    "predicate": "cita",
+    "object": "Including children in medical decisions and treatments: perceptions and practices of healthcare providers.",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 1,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 2
+      }
+    }
+  },
+  {
+    "reference_id": "08f59d9850b321a4904cd5a2cc434a798f9646a2",
+    "url": "https://api.crossref.org/works/10.1590%2FS0034-89101990000500008",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Crossref->Q5188229",
+      "reference URL": "url:>https://api.crossref.org/works/10.1590%2FS0034-89101990000500008",
+      "retrieved": "time:>+2018-01-21T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q41941521-79811AF7-64F5-4F75-8E6E-F63611FFC96D",
+    "subject": "[The control of solid waste with the participation of a low-income population].",
+    "predicate": "cita",
+    "object": "Anti-litter procedures in an urban high-density area.",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 1,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 2
+      }
+    }
+  },
+  {
+    "reference_id": "3255efb2432ad763f04ed5693ede33e720ac84f2",
+    "url": "https://viaf.org/viaf/99900596",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>99900596"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q23778157-47650EBA-D127-47EB-AD63-3BF52ED9FA78",
+    "subject": "Jorge Augusto da Silva Horta",
+    "predicate": "identificador WorldCat Identities",
+    "object": "viaf-99900596",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "7c3e69acd763d234b31ea9c71582f3f81dabdb6d",
+    "url": "https://viaf.org/viaf/72145768",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>72145768"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q55896666-221BC0DF-1701-46B3-871E-FFE32EDBB7AA",
+    "subject": "Joãs Lins Vieira Cansansão do Sinimbu",
+    "predicate": "identificador WorldCat Identities",
+    "object": "viaf-72145768",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "4b66aa2f2ee5577f65d5fa1bf7d738942144e440",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:26646480%20AND%20SRC:MED&resulttype=core&format=json",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PMCID": "value:>4994830",
+      "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:26646480%20AND%20SRC:MED&resulttype=core&format=json",
+      "retrieved": "time:>+2020-03-02T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q37197338-580EA1A0-5DA3-4719-8D2F-7A36781ABE57",
+    "subject": "Decreased expression of 14-3-3 in Paracoccidioides brasiliensis confirms its involvement in fungal pathogenesis.",
+    "predicate": "instância de",
+    "object": "artigo científico",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 0
+      }
+    }
+  },
+  {
+    "reference_id": "4d2f809c3315159b81424f8a6a199089e6bbf865",
+    "url": "https://viaf.org/viaf/136608254",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>136608254"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q63253138-DA2EAE8B-37B4-4967-9D73-C9C2B313CA5B",
+    "subject": "Oikos",
+    "predicate": "identificador WorldCat Identities",
+    "object": "viaf-136608254",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "b1d8ae89c658ea8f803c25ebe97d4867b1aed04d",
+    "url": "https://viaf.org/viaf/187199531",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>187199531"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q10302879-51641D78-618A-4712-B944-93F7DEA03EF4",
+    "subject": "Instituto de Infectologia Emílio Ribas",
+    "predicate": "identificador WorldCat Identities",
+    "object": "lccn-n2011183837",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "24677c04e1f06a167d716cdc7186c7aba5d365bf",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:14790244%20AND%20SRC:MED&resulttype=core&format=json",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>14790244",
+      "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:14790244%20AND%20SRC:MED&resulttype=core&format=json",
+      "retrieved": "time:>+2019-11-18T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q75578305-2366E07B-20F7-4F72-B4E2-15CA2A68B645",
+    "subject": "[Forceps, cranial trauma, intrauterine pneumonia, fetal death.]",
+    "predicate": "nome do autor",
+    "object": "CORREA da COSTA C",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 0
+      }
+    }
+  },
+  {
+    "reference_id": "cbc0e7e87635f5a5bd0155a8c4dcfa70f67203bc",
+    "url": "https://api.crossref.org/works/10.1590%2FS0104-026X2013000100006",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Crossref->Q5188229",
+      "reference URL": "url:>https://api.crossref.org/works/10.1590%2FS0104-026X2013000100006",
+      "retrieved": "time:>+2018-01-21T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q58048362-AAD52788-DA06-412B-A670-CB8184B9193D",
+    "subject": "Entre percursos e discursos identitários: etnicidade, classe e género na cultura hip-hop",
+    "predicate": "cita",
+    "object": "Keepin' it Real: Black Youth, Hip-Hop Culture, and Black Identity",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 1,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 2
+      }
+    }
+  },
+  {
+    "reference_id": "ee4d11a4d96677bea2a68e7bcd0f6c4ba22bcb69",
+    "url": "https://api.crossref.org/works/10.1590%2FS0100-736X2010000600005",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Crossref->Q5188229",
+      "reference URL": "url:>https://api.crossref.org/works/10.1590%2FS0100-736X2010000600005",
+      "retrieved": "time:>+2018-01-21T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q58371650-85DFC431-FE6B-4E05-AA40-76DB32ABC7E5",
+    "subject": "Enfermidades de cutias (Dasyprocta aguti) criadas em cativeiro diagnosticadas pelo exame anatomopatológico",
+    "predicate": "cita",
+    "object": "Enterolith intestinal obstruction owing to acquired and congenital diverticulosis. Report of two cases and review of the literature.",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 1,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 2
+      }
+    }
+  },
+  {
+    "reference_id": "804d8e71f9aea95b86cb53def29b6899b63803fe",
+    "url": "https://viaf.org/viaf/58016904",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>58016904"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q43129280-B61EE589-0848-4C12-88C9-FE92D74F536B",
+    "subject": "Raimundo de Oliveira",
+    "predicate": "identificador WorldCat Identities",
+    "object": "lccn-n84101264",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "66562c80b10fe0e050a5de0615c82079151579ce",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:28658419%20AND%20SRC:MED&resulttype=core&format=json",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>28658419",
+      "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:28658419%20AND%20SRC:MED&resulttype=core&format=json",
+      "retrieved": "time:>+2020-03-24T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q88407978-A8AE5754-8808-4800-8B38-BC38377DC9B9",
+    "subject": "EDITORS' NOTE",
+    "predicate": "instância de",
+    "object": "artigo científico",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 0
+      }
+    }
+  },
+  {
+    "reference_id": "fa0ec9bd9b5290dd68fc7f8f8e6c2ba63662bcba",
+    "url": "https://api.crossref.org/works/10.1590%2FS0034-89101975000200007",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Crossref->Q5188229",
+      "reference URL": "url:>https://api.crossref.org/works/10.1590%2FS0034-89101975000200007",
+      "retrieved": "time:>+2018-01-21T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q43989476-9AEDEF04-93B4-453F-A869-C0280243E8C9",
+    "subject": "[The cost of disease: economical repercussions in the City of Salvador, Ba, Brazil]",
+    "predicate": "cita",
+    "object": "Contribution of health to development.",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 1,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 2
+      }
+    }
+  },
+  {
+    "reference_id": "3d0f09b88da519a8f5cba8ddc886d5ddc206186f",
+    "url": "https://api.crossref.org/works/10.3897%2FBDJ.4.E10274",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Crossref->Q5188229",
+      "reference URL": "url:>https://api.crossref.org/works/10.3897%2FBDJ.4.E10274",
+      "retrieved": "time:>+2018-01-21T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q28830736-705BADB6-9DB8-4DD5-91A1-313DE94D46BD",
+    "subject": "Species conservation profile of the cave spider Turinyphia cavernicola (Araneae, Linyphiidae) from Terceira Island, Azores, Portugal",
+    "predicate": "cita",
+    "object": "Using taxonomically unbiased criteria to prioritize resource allocation for oceanic island species conservation",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 1,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 2
+      }
+    }
+  },
+  {
+    "reference_id": "8a18a6a891ac732d6b5cc615b91ad59f87c27200",
+    "url": "https://api.crossref.org/works/10.1590%2FS1807-55092011000400015",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Crossref->Q5188229",
+      "reference URL": "url:>https://api.crossref.org/works/10.1590%2FS1807-55092011000400015",
+      "retrieved": "time:>+2018-01-21T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q58823923-6CDD6A31-5EE7-474F-AD8E-CDCB5A771B9C",
+    "subject": "Desafios no estudo de famílias nucleares: etapas iniciais de análise",
+    "predicate": "cita",
+    "object": "PEDSTATS: descriptive statistics, graphics and quality assessment for gene mapping data.",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 1,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 2
+      }
+    }
+  },
+  {
+    "reference_id": "fbbe9d317760af697abaed664f5d325687930a14",
+    "url": "https://viaf.org/viaf/107334886",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+      "retrieved": "time:>+2018-05-25T00:00:00Z",
+      "VIAF ID": "value:>107334886"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q20022573-308E2C99-9F0D-45BD-89A7-DF2343436A79",
+    "subject": "Vítor Cintra",
+    "predicate": "data de nascimento",
+    "object": "1941-01-01T00:00:00Z",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "72d3bcd8cc9478c9dde3e5f9cfce7f332a4196e5",
+    "url": "https://viaf.org/viaf/135433947",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>135433947"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q18474145-76C90D17-8774-46FC-87B4-E3FA99FD5E77",
+    "subject": "Superintendência de Fomento ao Turismo do Estado da Bahia",
+    "predicate": "identificador WorldCat Identities",
+    "object": "lccn-n2008217245",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "c9aa2a1de248afc9eb386282fdd75e3ed2cb97ee",
+    "url": "https://viaf.org/viaf/87456675",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+      "retrieved": "time:>+2019-12-03T00:00:00Z",
+      "VIAF ID": "value:>87456675"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q9621455-c79b79b5-1a30-4821-9cfb-dc6ffccb7ef2",
+    "subject": "Antônio Cândido da Cruz Machado",
+    "predicate": "identificador PTBNP",
+    "object": "1318913",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "6c0012fe3385a1fc054c38be45498c1c8249212a",
+    "url": "https://viaf.org/viaf/54015618",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+      "VIAF ID": "value:>54015618",
+      "retrieved": "time:>+2018-08-11T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q6293593-2B2E6F8F-1735-4F21-A0DC-D8A7A0C38C92",
+    "subject": "José Oiticica",
+    "predicate": "identificador BnF",
+    "object": "129448705",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "7f18e1d432b96ffd03d609d5dac49290c4abc394",
+    "url": "https://viaf.org/viaf/3624150325530610090004",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>3624150325530610090004"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q10286993-21A8478E-7D8C-4848-9A52-5A8619B308BF",
+    "subject": "Fátima Bezerra",
+    "predicate": "identificador WorldCat Identities",
+    "object": "viaf-3624150325530610090004",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "4092ffa871f265299eb49e7c5ce2220a3319dce6",
+    "url": "https://api.crossref.org/works/10.1590%2FS1413-81232012001000020",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Crossref->Q5188229",
+      "reference URL": "url:>https://api.crossref.org/works/10.1590%2FS1413-81232012001000020",
+      "retrieved": "time:>+2018-01-21T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q39239464-B7502337-B14F-4C92-8545-B2F16CF02A18",
+    "subject": "[Court-ordered access to treatment of rare genetic diseases: Fabry Disease in the state of Rio Grande do Sul, Brazil].",
+    "predicate": "cita",
+    "object": "Evidence-based medicine. A new approach to teaching the practice of medicine",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 1,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 2
+      }
+    }
+  },
+  {
+    "reference_id": "cd125ef2e222ea07cbd97c1bb800f73cbbaab42c",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:17251992%20AND%20SRC:MED&resulttype=core&format=json",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>17251992",
+      "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:17251992%20AND%20SRC:MED&resulttype=core&format=json",
+      "retrieved": "time:>+2019-12-24T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q79657009-38068E51-6893-404D-8639-DF3DCE0692AC",
+    "subject": "Low levels of triiodothyronine as an independent risk factor for death in hemodialysis patients",
+    "predicate": "título",
+    "object": "Low levels of triiodothyronine as an independent risk factor for death in hemodialysis patients",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 0
+      }
+    }
+  },
+  {
+    "reference_id": "c6e3908ef65bf2f4ed31234144fced3dc77d759c",
+    "url": "https://viaf.org/viaf/39328420",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>39328420"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q55687682-CDE44DB4-17D5-4644-9E32-E96FE8D34343",
+    "subject": "Luís Eugénio da Silva Lage",
+    "predicate": "identificador WorldCat Identities",
+    "object": "lccn-nr2004025846",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "d1297258e566341bff8a29b0584e77773fe101bb",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:7549994%20AND%20SRC:MED&resulttype=core&format=json",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>7549994",
+      "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:7549994%20AND%20SRC:MED&resulttype=core&format=json",
+      "retrieved": "time:>+2019-10-20T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q71720365-A2F8E482-E320-4736-8066-9E4E25539599",
+    "subject": "Some questions concerning science funding in Brazil: immunology as an example",
+    "predicate": "data de publicação",
+    "object": "1994-12-01T00:00:00Z",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 0
+      }
+    }
+  },
+  {
+    "reference_id": "c1617c4901ce8a0b948602898bc13105a52a5662",
+    "url": "https://viaf.org/viaf/142723775",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+      "VIAF ID": "value:>142723775",
+      "retrieved": "time:>+2018-10-07T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q769829-41C093C2-44A9-4461-AADB-ADD96901F113",
+    "subject": "Partido Comunista Português",
+    "predicate": "ISNI",
+    "object": "0000 0001 1703 4694",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "ff5552ab524f39beb374bcf9877974c3267203d7",
+    "url": "https://viaf.org/viaf/12344264",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+      "VIAF ID": "value:>12344264",
+      "retrieved": "time:>+2019-12-02T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q10334490-a521c8bb-cb75-44e3-b085-935ff6cef3e3",
+    "subject": "Mário Murteira",
+    "predicate": "identificador PTBNP",
+    "object": "69300",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "a2017f2c464dcefd827e2b652583d8c962102c1b",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:26293346%20AND%20SRC:MED&resulttype=core&format=json",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PMCID": "value:>4543966",
+      "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:26293346%20AND%20SRC:MED&resulttype=core&format=json",
+      "retrieved": "time:>+2020-02-22T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q30661899-E2BC490B-97B1-46D2-B0EA-B2E6DB30702C",
+    "subject": "Sacrificial adhesive bonding: a powerful method for fabrication of glass microchips.",
+    "predicate": "nome do autor",
+    "object": "Renato S Lima",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 0
+      }
+    }
+  },
+  {
+    "reference_id": "c7a0e39912f3760e0cf9ff96fe8e4075122524d0",
+    "url": "https://viaf.org/viaf/46337238",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>46337238"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q16561891-1A7E7B27-BDC5-4A03-84EB-85EAFDB7D5AC",
+    "subject": "Emília de Sousa Costa",
+    "predicate": "identificador WorldCat Identities",
+    "object": "lccn-no94014284",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "3a262599e8e220ceae5329ea36114ca890f9669a",
+    "url": "https://viaf.org/viaf/87180951",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>87180951"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q55687216-63FF96B9-F4ED-40C2-893B-513CC2D10564",
+    "subject": "Alberto de Almeida Teixeira",
+    "predicate": "identificador WorldCat Identities",
+    "object": "viaf-87180951",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "12f3c1203b96ed030730518b9809dc9461586b44",
+    "url": "https://viaf.org/viaf/29309110",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>29309110"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q10285819-56E9F86D-F89E-424C-90F9-291FF76CF634",
+    "subject": "Frederico Trotta",
+    "predicate": "identificador WorldCat Identities",
+    "object": "lccn-no2007054646",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "0f96562f1e9413a180d7a83b0f35807a74d603bd",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:27320658%20AND%20SRC:MED&resulttype=core&format=json",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>27320658",
+      "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:27320658%20AND%20SRC:MED&resulttype=core&format=json",
+      "retrieved": "time:>+2020-03-14T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q87705276-FA208DBB-5745-4A10-BFB6-CF40CC2FF7B0",
+    "subject": "Endoscopic endonasal access for the treatment of Vidian nerve schwannoma: a case report",
+    "predicate": "número de jornal",
+    "object": "5",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 0
+      }
+    }
+  },
+  {
+    "reference_id": "4bb9ea3cf746ac2bfaff4d1dd2579004d17c40a4",
+    "url": "https://viaf.org/viaf/100050829",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>100050829"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q672004-9A3C7AEB-CC5E-410D-AF03-4BC3EA9CC163",
+    "subject": "Mário Ferreira dos Santos",
+    "predicate": "identificador WorldCat Identities",
+    "object": "lccn-no2009108318",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "0d4427396ea865f637bfc214509e61b4b0b3d262",
+    "url": "https://api.crossref.org/works/10.1590%2FS0104-56872010000300005",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Crossref->Q5188229",
+      "reference URL": "url:>https://api.crossref.org/works/10.1590%2FS0104-56872010000300005",
+      "retrieved": "time:>+2018-01-21T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q43556574-8A32067F-3ED9-4C30-B472-29C9B1291D0D",
+    "subject": "English Language Teaching: phonetics, phonology and auditory processing contributions.",
+    "predicate": "cita",
+    "object": "Plasticity of illusory vowel perception in Brazilian-Japanese bilinguals.",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 1,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 2
+      }
+    }
+  },
+  {
+    "reference_id": "6286a944218e3ade25c66c9eda7dda023aa95245",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:28831919%20AND%20SRC:MED&resulttype=core&format=json",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>28831919",
+      "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:28831919%20AND%20SRC:MED&resulttype=core&format=json",
+      "retrieved": "time:>+2020-03-28T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q88830948-27923E4A-DC77-469D-B437-842FE9D62DF5",
+    "subject": "Editorial: Natural Compounds and Their Derivatives as a Source of Promising Drugs for Diabetes and Insulin Resistance",
+    "predicate": "data de publicação",
+    "object": "2017-01-01T00:00:00Z",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 0
+      }
+    }
+  },
+  {
+    "reference_id": "1c74634dade098b51aa60e8fe45522449fb71357",
+    "url": "https://viaf.org/viaf/99879760",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>99879760"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q5446289-491F5117-008D-4579-9716-05563FD0ADEF",
+    "subject": "José Fialho Gouveia",
+    "predicate": "identificador WorldCat Identities",
+    "object": "lccn-n2016042948",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "4fd32aeca364c3d979a7d78498b7574f66dce22f",
+    "url": "https://api.crossref.org/works/10.1590%2FS0034-89102007000200003",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Crossref->Q5188229",
+      "reference URL": "url:>https://api.crossref.org/works/10.1590%2FS0034-89102007000200003",
+      "retrieved": "time:>+2018-01-21T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q46339746-1CA296C5-C564-4A01-BBCC-B011C0423511",
+    "subject": "[Declared maternal death and the linkage between health information systems].",
+    "predicate": "cita",
+    "object": "Probabilistic record linkage and an automated procedure to minimize the undecided-matched pair problem.",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 1,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 2
+      }
+    }
+  },
+  {
+    "reference_id": "a760112ad9795fb33189513965256794df2f633c",
+    "url": "https://viaf.org/viaf/122539945",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>122539945"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q9830994-A3D18325-D2CA-47AB-9066-40A86D56FFCC",
+    "subject": "Companhia da Zambézia",
+    "predicate": "identificador WorldCat Identities",
+    "object": "viaf-122539945",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "d2f4efa2190ced899dcc75f7b608cf0023122570",
+    "url": "https://viaf.org/viaf/91373350",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+      "retrieved": "time:>+2018-08-27T00:00:00Z",
+      "VIAF ID": "value:>91373350"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q1791039-A547F366-3ABD-47A3-B37A-451E2CE03320",
+    "subject": "Francisco Iglésias",
+    "predicate": "identificador NTA PPN",
+    "object": "072265205",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "eb1485146eef90f60723dbc57fee15926b303759",
+    "url": "https://api.crossref.org/works/10.1590%2FS0102-67202013000300010",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Crossref->Q5188229",
+      "reference URL": "url:>https://api.crossref.org/works/10.1590%2FS0102-67202013000300010",
+      "retrieved": "time:>+2018-01-21T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q51144947-A631FC47-EC8D-4B0B-8BC8-AB26F8418DFB",
+    "subject": "Increase in spleen volume of rats on experimental model of pre-hepatic portal hypertension.",
+    "predicate": "cita",
+    "object": "Experimental portal hypertension in the rat.",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 1,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 2
+      }
+    }
+  },
+  {
+    "reference_id": "7e73f61f63a799da4ad1da4f4ffd4c7fcb8404e8",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:25019046%20AND%20SRC:MED&resulttype=core&format=json",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PMCID": "value:>4082535",
+      "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:25019046%20AND%20SRC:MED&resulttype=core&format=json",
+      "retrieved": "time:>+2020-03-09T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q33848447-C285A200-BA51-4F22-AAF6-4F4C76153B02",
+    "subject": "Cytotoxic effects of the compound cis-tetraammine(oxalato)ruthenium(III) dithionate on K-562 human chronic myelogenous leukemia cells.",
+    "predicate": "título",
+    "object": "Cytotoxic effects of the compound cis-tetraammine(oxalato)ruthenium(III) dithionate on K-562 human chronic myelogenous leukemia cells",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 0
+      }
+    }
+  },
+  {
+    "reference_id": "adc118d13c2b36fc02e0d800ebce1d0989f0f53b",
+    "url": "https://viaf.org/viaf/51404707",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+      "VIAF ID": "value:>51404707",
+      "retrieved": "time:>+2018-10-07T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q10336411-30C0CD45-42FB-4866-BD59-58300EE34D59",
+    "subject": "Nestor de Holanda",
+    "predicate": "identificador SUDOC",
+    "object": "165320699",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  }
+]

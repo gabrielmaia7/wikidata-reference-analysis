@@ -1,0 +1,982 @@
+[
+  {
+    "_id": "4e021a3a-8730-45ea-ac63-8fb157eb8bd9",
+    "taskSet": [
+      {
+        "reference_block_hash": "4bb4d4e143df59f8bd1e098d1c46b39e26ab86c6",
+        "url": "https://es.wikipedia.org/w/index.php?title=Masato_Otake&oldid=118501195",
+        "language_crawl": "es",
+        "g_id": 0
+      },
+      {
+        "reference_block_hash": "09d04d57db880602bb46b24ee9be2e1df19a3b89",
+        "url": "https://es.wikipedia.org/w/index.php?title=Zdravko_Zdravkov&oldid=113719838",
+        "language_crawl": "es",
+        "g_id": {
+          "author": 2,
+          "publisher": 4,
+          "sub_publisher": -1
+        }
+      },
+      {
+        "reference_block_hash": "8bd137149d748adc22a5d4805ef5c4dd7445c7e5",
+        "url": "https://es.wikipedia.org/w/index.php?title=Sebasti\u00e1n_Peluso&oldid=118204051",
+        "language_crawl": "es",
+        "g_id": 0
+      },
+      {
+        "reference_block_hash": "774253e76b22a4a0ba1b38ff388d4da225b9ae90",
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:4767874%20AND%20SRC:MED&resulttype=core&format=json",
+        "language_crawl": "es",
+        "g_id": 0
+      },
+      {
+        "reference_block_hash": "fb31ac8e84246adb35d412677a8455f7a1c8b6c6",
+        "url": "http://dialnet.unirioja.es/servlet/revista?codigo=97",
+        "language_crawl": "es",
+        "g_id": {
+          "author": 1,
+          "publisher": 0,
+          "sub_publisher": -1
+        }
+      },
+      {
+        "reference_block_hash": "697b1f0eb04edc90d60d2887f2931f4eb4045cf9",
+        "url": "https://es.wikipedia.org/w/index.php?title=La_hormigonera_asesina&oldid=119119062",
+        "language_crawl": "es",
+        "g_id": 0
+      }
+    ]
+  },
+  {
+    "_id": "a172ac8d-a790-4656-99e5-200e8aa68d61",
+    "taskSet": [
+      {
+        "reference_block_hash": "37241267a151e9ce3dc6c2e3c158a1b1542b92a9",
+        "url": "http://datos.bne.es/resource/XX882734",
+        "language_crawl": "es",
+        "g_id": {
+          "author": 1,
+          "publisher": 1,
+          "sub_publisher": 2
+        }
+      },
+      {
+        "reference_block_hash": "9d307d1138f49db4dbcf577118a42ead5461d450",
+        "url": "http://www.dicelacancion.com/video-feeling-alive-gomo",
+        "language_crawl": "es",
+        "g_id": 0
+      },
+      {
+        "reference_block_hash": "fb31ac8e84246adb35d412677a8455f7a1c8b6c6",
+        "url": "http://dialnet.unirioja.es/servlet/revista?codigo=97",
+        "language_crawl": "es",
+        "g_id": {
+          "author": 1,
+          "publisher": 0,
+          "sub_publisher": -1
+        }
+      },
+      {
+        "reference_block_hash": "66bfb2bbabbe3074275ec887589c56ef05500bb7",
+        "url": "http://data.bnf.fr/ark:/12148/cb125445981",
+        "language_crawl": "es",
+        "g_id": 0
+      },
+      {
+        "reference_block_hash": "39420e880092cce4d47e0a512e27d6d5e7bcb9f2",
+        "url": "https://es.wikipedia.org/w/index.php?title=Masashi_Miyamura&oldid=114416425",
+        "language_crawl": "es",
+        "g_id": 0
+      },
+      {
+        "reference_block_hash": "3264a3c79e378a6b957c70850fbdf605282db980",
+        "url": "https://es.wikipedia.org/w/index.php?title=Mogogi_Gabonamong&oldid=101314451",
+        "language_crawl": "es",
+        "g_id": 0
+      }
+    ]
+  },
+  {
+    "_id": "9cdc5d2b-4a93-403b-b324-2d7cd0335d47",
+    "taskSet": [
+      {
+        "reference_block_hash": "09d04d57db880602bb46b24ee9be2e1df19a3b89",
+        "url": "https://es.wikipedia.org/w/index.php?title=Zdravko_Zdravkov&oldid=113719838",
+        "language_crawl": "es",
+        "g_id": {
+          "author": 2,
+          "publisher": 4,
+          "sub_publisher": -1
+        }
+      },
+      {
+        "reference_block_hash": "01122037c140c6b47421aa199a4e742ec0321df9",
+        "url": "https://es.wikipedia.org/w/index.php?title=Ay\u00fadame_Hit_Pack_(EP)&oldid=118940066",
+        "language_crawl": "es",
+        "g_id": 0
+      },
+      {
+        "reference_block_hash": "1bd65cb6b445ff9c1df1fea0bf74980afaec137e",
+        "url": "https://hdl.handle.net/10553/2297",
+        "language_crawl": "es",
+        "g_id": 0
+      },
+      {
+        "reference_block_hash": "36b2e60865706f6dd9fa8c46bcbc948082d344f6",
+        "url": "http://digitale.beic.it/primo_library/libweb/action/search.do?fn=search&vid=BEIC&vl%283134987UI0%29=creator&vl%28freeText0%29=Vera%20Tassis%20y%20Villarroel%20Juan%20de",
+        "language_crawl": "es",
+        "g_id": 0
+      },
+      {
+        "reference_block_hash": "6a93f6698e4dceec3b02d42b223910e295a80c19",
+        "url": "https://es.wikipedia.org/w/index.php?title=Colegio_Nacional_de_Periodistas_(Venezuela)&oldid=117782693",
+        "language_crawl": "es",
+        "g_id": 0
+      },
+      {
+        "reference_block_hash": "fb31ac8e84246adb35d412677a8455f7a1c8b6c6",
+        "url": "http://dialnet.unirioja.es/servlet/revista?codigo=97",
+        "language_crawl": "es",
+        "g_id": {
+          "author": 1,
+          "publisher": 0,
+          "sub_publisher": -1
+        }
+      }
+    ]
+  },
+  {
+    "_id": "f28fe698-1bb6-477a-b966-ce7ea530dba3",
+    "taskSet": [
+      {
+        "reference_block_hash": "09d04d57db880602bb46b24ee9be2e1df19a3b89",
+        "url": "https://es.wikipedia.org/w/index.php?title=Zdravko_Zdravkov&oldid=113719838",
+        "language_crawl": "es",
+        "g_id": {
+          "author": 2,
+          "publisher": 4,
+          "sub_publisher": -1
+        }
+      },
+      {
+        "reference_block_hash": "4bb4d4e143df59f8bd1e098d1c46b39e26ab86c6",
+        "url": "https://es.wikipedia.org/w/index.php?title=Masato_Otake&oldid=118501195",
+        "language_crawl": "es",
+        "g_id": 0
+      },
+      {
+        "reference_block_hash": "6a93f6698e4dceec3b02d42b223910e295a80c19",
+        "url": "https://es.wikipedia.org/w/index.php?title=Colegio_Nacional_de_Periodistas_(Venezuela)&oldid=117782693",
+        "language_crawl": "es",
+        "g_id": 0
+      },
+      {
+        "reference_block_hash": "1bd65cb6b445ff9c1df1fea0bf74980afaec137e",
+        "url": "https://hdl.handle.net/10553/2297",
+        "language_crawl": "es",
+        "g_id": 0
+      },
+      {
+        "reference_block_hash": "fb31ac8e84246adb35d412677a8455f7a1c8b6c6",
+        "url": "http://dialnet.unirioja.es/servlet/revista?codigo=97",
+        "language_crawl": "es",
+        "g_id": {
+          "author": 1,
+          "publisher": 0,
+          "sub_publisher": -1
+        }
+      },
+      {
+        "reference_block_hash": "697b1f0eb04edc90d60d2887f2931f4eb4045cf9",
+        "url": "https://es.wikipedia.org/w/index.php?title=La_hormigonera_asesina&oldid=119119062",
+        "language_crawl": "es",
+        "g_id": 0
+      }
+    ]
+  },
+  {
+    "_id": "fd867de3-1063-4f0b-ad31-930c10bcfeac",
+    "taskSet": [
+      {
+        "reference_block_hash": "6a93f6698e4dceec3b02d42b223910e295a80c19",
+        "url": "https://es.wikipedia.org/w/index.php?title=Colegio_Nacional_de_Periodistas_(Venezuela)&oldid=117782693",
+        "language_crawl": "es",
+        "g_id": 0
+      },
+      {
+        "reference_block_hash": "e65fce7d5c221255eb458774c80bdbdbd02fef5c",
+        "url": "https://es.wikipedia.org/w/index.php?title=Roberto_Hilbert&oldid=107481216",
+        "language_crawl": "es",
+        "g_id": {
+          "author": 2,
+          "publisher": 4,
+          "sub_publisher": -1
+        }
+      },
+      {
+        "reference_block_hash": "4950cb3052faa98aef071bc34e299f7817b879d1",
+        "url": "https://es.wikipedia.org/w/index.php?title=Yoshinori_Taguchi&oldid=118499680",
+        "language_crawl": "es",
+        "g_id": 0
+      },
+      {
+        "reference_block_hash": "66bfb2bbabbe3074275ec887589c56ef05500bb7",
+        "url": "http://data.bnf.fr/ark:/12148/cb125445981",
+        "language_crawl": "es",
+        "g_id": 0
+      },
+      {
+        "reference_block_hash": "09d04d57db880602bb46b24ee9be2e1df19a3b89",
+        "url": "https://es.wikipedia.org/w/index.php?title=Zdravko_Zdravkov&oldid=113719838",
+        "language_crawl": "es",
+        "g_id": {
+          "author": 2,
+          "publisher": 4,
+          "sub_publisher": -1
+        }
+      },
+      {
+        "reference_block_hash": "9d307d1138f49db4dbcf577118a42ead5461d450",
+        "url": "http://www.dicelacancion.com/video-feeling-alive-gomo",
+        "language_crawl": "es",
+        "g_id": 0
+      }
+    ]
+  },
+  {
+    "_id": "9c99ee98-f90c-4684-bac6-704b65c3a727",
+    "taskSet": [
+      {
+        "reference_block_hash": "e65fce7d5c221255eb458774c80bdbdbd02fef5c",
+        "url": "https://es.wikipedia.org/w/index.php?title=Roberto_Hilbert&oldid=107481216",
+        "language_crawl": "es",
+        "g_id": {
+          "author": 2,
+          "publisher": 4,
+          "sub_publisher": -1
+        }
+      },
+      {
+        "reference_block_hash": "4950cb3052faa98aef071bc34e299f7817b879d1",
+        "url": "https://es.wikipedia.org/w/index.php?title=Yoshinori_Taguchi&oldid=118499680",
+        "language_crawl": "es",
+        "g_id": 0
+      },
+      {
+        "reference_block_hash": "697b1f0eb04edc90d60d2887f2931f4eb4045cf9",
+        "url": "https://es.wikipedia.org/w/index.php?title=La_hormigonera_asesina&oldid=119119062",
+        "language_crawl": "es",
+        "g_id": 0
+      },
+      {
+        "reference_block_hash": "37241267a151e9ce3dc6c2e3c158a1b1542b92a9",
+        "url": "http://datos.bne.es/resource/XX882734",
+        "language_crawl": "es",
+        "g_id": {
+          "author": 1,
+          "publisher": 1,
+          "sub_publisher": 2
+        }
+      },
+      {
+        "reference_block_hash": "274efc36f3219cb3345c9c8d4dcdeb845bacd72a",
+        "url": "http://dbe.rah.es/biografias/78773/joaquin-de-agrela-y-moreno",
+        "language_crawl": "es",
+        "g_id": 0
+      },
+      {
+        "reference_block_hash": "3264a3c79e378a6b957c70850fbdf605282db980",
+        "url": "https://es.wikipedia.org/w/index.php?title=Mogogi_Gabonamong&oldid=101314451",
+        "language_crawl": "es",
+        "g_id": 0
+      }
+    ]
+  },
+  {
+    "_id": "12ba1f10-787b-4d33-ba17-670a479bd8ec",
+    "taskSet": [
+      {
+        "reference_block_hash": "66bfb2bbabbe3074275ec887589c56ef05500bb7",
+        "url": "http://data.bnf.fr/ark:/12148/cb125445981",
+        "language_crawl": "es",
+        "g_id": 0
+      },
+      {
+        "reference_block_hash": "37241267a151e9ce3dc6c2e3c158a1b1542b92a9",
+        "url": "http://datos.bne.es/resource/XX882734",
+        "language_crawl": "es",
+        "g_id": {
+          "author": 1,
+          "publisher": 1,
+          "sub_publisher": 2
+        }
+      },
+      {
+        "reference_block_hash": "4bb4d4e143df59f8bd1e098d1c46b39e26ab86c6",
+        "url": "https://es.wikipedia.org/w/index.php?title=Masato_Otake&oldid=118501195",
+        "language_crawl": "es",
+        "g_id": 0
+      },
+      {
+        "reference_block_hash": "4950cb3052faa98aef071bc34e299f7817b879d1",
+        "url": "https://es.wikipedia.org/w/index.php?title=Yoshinori_Taguchi&oldid=118499680",
+        "language_crawl": "es",
+        "g_id": 0
+      },
+      {
+        "reference_block_hash": "830b028f9a1f7847aad4d066f3ac69eefb6d63b1",
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:16584701%20AND%20SRC:MED&resulttype=core&format=json",
+        "language_crawl": "es",
+        "g_id": 0
+      },
+      {
+        "reference_block_hash": "e65fce7d5c221255eb458774c80bdbdbd02fef5c",
+        "url": "https://es.wikipedia.org/w/index.php?title=Roberto_Hilbert&oldid=107481216",
+        "language_crawl": "es",
+        "g_id": {
+          "author": 2,
+          "publisher": 4,
+          "sub_publisher": -1
+        }
+      }
+    ]
+  },
+  {
+    "_id": "02e55ff7-c3fd-421c-b1fe-3c6fef7a3d54",
+    "taskSet": [
+      {
+        "reference_block_hash": "4bb4d4e143df59f8bd1e098d1c46b39e26ab86c6",
+        "url": "https://es.wikipedia.org/w/index.php?title=Masato_Otake&oldid=118501195",
+        "language_crawl": "es",
+        "g_id": 0
+      },
+      {
+        "reference_block_hash": "774253e76b22a4a0ba1b38ff388d4da225b9ae90",
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:4767874%20AND%20SRC:MED&resulttype=core&format=json",
+        "language_crawl": "es",
+        "g_id": 0
+      },
+      {
+        "reference_block_hash": "fb31ac8e84246adb35d412677a8455f7a1c8b6c6",
+        "url": "http://dialnet.unirioja.es/servlet/revista?codigo=97",
+        "language_crawl": "es",
+        "g_id": {
+          "author": 1,
+          "publisher": 0,
+          "sub_publisher": -1
+        }
+      },
+      {
+        "reference_block_hash": "37241267a151e9ce3dc6c2e3c158a1b1542b92a9",
+        "url": "http://datos.bne.es/resource/XX882734",
+        "language_crawl": "es",
+        "g_id": {
+          "author": 1,
+          "publisher": 1,
+          "sub_publisher": 2
+        }
+      },
+      {
+        "reference_block_hash": "39420e880092cce4d47e0a512e27d6d5e7bcb9f2",
+        "url": "https://es.wikipedia.org/w/index.php?title=Masashi_Miyamura&oldid=114416425",
+        "language_crawl": "es",
+        "g_id": 0
+      },
+      {
+        "reference_block_hash": "830b028f9a1f7847aad4d066f3ac69eefb6d63b1",
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:16584701%20AND%20SRC:MED&resulttype=core&format=json",
+        "language_crawl": "es",
+        "g_id": 0
+      }
+    ]
+  },
+  {
+    "_id": "1ddd3f27-fc32-4911-8171-c25ac6f037e4",
+    "taskSet": [
+      {
+        "reference_block_hash": "774253e76b22a4a0ba1b38ff388d4da225b9ae90",
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:4767874%20AND%20SRC:MED&resulttype=core&format=json",
+        "language_crawl": "es",
+        "g_id": 0
+      },
+      {
+        "reference_block_hash": "8bd137149d748adc22a5d4805ef5c4dd7445c7e5",
+        "url": "https://es.wikipedia.org/w/index.php?title=Sebasti\u00e1n_Peluso&oldid=118204051",
+        "language_crawl": "es",
+        "g_id": 0
+      },
+      {
+        "reference_block_hash": "fb31ac8e84246adb35d412677a8455f7a1c8b6c6",
+        "url": "http://dialnet.unirioja.es/servlet/revista?codigo=97",
+        "language_crawl": "es",
+        "g_id": {
+          "author": 1,
+          "publisher": 0,
+          "sub_publisher": -1
+        }
+      },
+      {
+        "reference_block_hash": "9d307d1138f49db4dbcf577118a42ead5461d450",
+        "url": "http://www.dicelacancion.com/video-feeling-alive-gomo",
+        "language_crawl": "es",
+        "g_id": 0
+      },
+      {
+        "reference_block_hash": "e65fce7d5c221255eb458774c80bdbdbd02fef5c",
+        "url": "https://es.wikipedia.org/w/index.php?title=Roberto_Hilbert&oldid=107481216",
+        "language_crawl": "es",
+        "g_id": {
+          "author": 2,
+          "publisher": 4,
+          "sub_publisher": -1
+        }
+      },
+      {
+        "reference_block_hash": "4950cb3052faa98aef071bc34e299f7817b879d1",
+        "url": "https://es.wikipedia.org/w/index.php?title=Yoshinori_Taguchi&oldid=118499680",
+        "language_crawl": "es",
+        "g_id": 0
+      }
+    ]
+  },
+  {
+    "_id": "16465e8a-0ed3-48c7-88b3-acb2c6b121c7",
+    "taskSet": [
+      {
+        "reference_block_hash": "1bd65cb6b445ff9c1df1fea0bf74980afaec137e",
+        "url": "https://hdl.handle.net/10553/2297",
+        "language_crawl": "es",
+        "g_id": 0
+      },
+      {
+        "reference_block_hash": "274efc36f3219cb3345c9c8d4dcdeb845bacd72a",
+        "url": "http://dbe.rah.es/biografias/78773/joaquin-de-agrela-y-moreno",
+        "language_crawl": "es",
+        "g_id": 0
+      },
+      {
+        "reference_block_hash": "fb31ac8e84246adb35d412677a8455f7a1c8b6c6",
+        "url": "http://dialnet.unirioja.es/servlet/revista?codigo=97",
+        "language_crawl": "es",
+        "g_id": {
+          "author": 1,
+          "publisher": 0,
+          "sub_publisher": -1
+        }
+      },
+      {
+        "reference_block_hash": "01122037c140c6b47421aa199a4e742ec0321df9",
+        "url": "https://es.wikipedia.org/w/index.php?title=Ay\u00fadame_Hit_Pack_(EP)&oldid=118940066",
+        "language_crawl": "es",
+        "g_id": 0
+      },
+      {
+        "reference_block_hash": "39420e880092cce4d47e0a512e27d6d5e7bcb9f2",
+        "url": "https://es.wikipedia.org/w/index.php?title=Masashi_Miyamura&oldid=114416425",
+        "language_crawl": "es",
+        "g_id": 0
+      },
+      {
+        "reference_block_hash": "37241267a151e9ce3dc6c2e3c158a1b1542b92a9",
+        "url": "http://datos.bne.es/resource/XX882734",
+        "language_crawl": "es",
+        "g_id": {
+          "author": 1,
+          "publisher": 1,
+          "sub_publisher": 2
+        }
+      }
+    ]
+  },
+  {
+    "_id": "f0709f3b-c60a-4102-aeee-ecfe051988aa",
+    "taskSet": [
+      {
+        "reference_block_hash": "37241267a151e9ce3dc6c2e3c158a1b1542b92a9",
+        "url": "http://datos.bne.es/resource/XX882734",
+        "language_crawl": "es",
+        "g_id": {
+          "author": 1,
+          "publisher": 1,
+          "sub_publisher": 2
+        }
+      },
+      {
+        "reference_block_hash": "fb31ac8e84246adb35d412677a8455f7a1c8b6c6",
+        "url": "http://dialnet.unirioja.es/servlet/revista?codigo=97",
+        "language_crawl": "es",
+        "g_id": {
+          "author": 1,
+          "publisher": 0,
+          "sub_publisher": -1
+        }
+      },
+      {
+        "reference_block_hash": "9d307d1138f49db4dbcf577118a42ead5461d450",
+        "url": "http://www.dicelacancion.com/video-feeling-alive-gomo",
+        "language_crawl": "es",
+        "g_id": 0
+      },
+      {
+        "reference_block_hash": "1bd65cb6b445ff9c1df1fea0bf74980afaec137e",
+        "url": "https://hdl.handle.net/10553/2297",
+        "language_crawl": "es",
+        "g_id": 0
+      },
+      {
+        "reference_block_hash": "6a93f6698e4dceec3b02d42b223910e295a80c19",
+        "url": "https://es.wikipedia.org/w/index.php?title=Colegio_Nacional_de_Periodistas_(Venezuela)&oldid=117782693",
+        "language_crawl": "es",
+        "g_id": 0
+      },
+      {
+        "reference_block_hash": "774253e76b22a4a0ba1b38ff388d4da225b9ae90",
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:4767874%20AND%20SRC:MED&resulttype=core&format=json",
+        "language_crawl": "es",
+        "g_id": 0
+      }
+    ]
+  },
+  {
+    "_id": "29af3d66-9b3e-41f7-bcd0-048f6ba7f4d3",
+    "taskSet": [
+      {
+        "reference_block_hash": "fb31ac8e84246adb35d412677a8455f7a1c8b6c6",
+        "url": "http://dialnet.unirioja.es/servlet/revista?codigo=97",
+        "language_crawl": "es",
+        "g_id": {
+          "author": 1,
+          "publisher": 0,
+          "sub_publisher": -1
+        }
+      },
+      {
+        "reference_block_hash": "01122037c140c6b47421aa199a4e742ec0321df9",
+        "url": "https://es.wikipedia.org/w/index.php?title=Ay\u00fadame_Hit_Pack_(EP)&oldid=118940066",
+        "language_crawl": "es",
+        "g_id": 0
+      },
+      {
+        "reference_block_hash": "09d04d57db880602bb46b24ee9be2e1df19a3b89",
+        "url": "https://es.wikipedia.org/w/index.php?title=Zdravko_Zdravkov&oldid=113719838",
+        "language_crawl": "es",
+        "g_id": {
+          "author": 2,
+          "publisher": 4,
+          "sub_publisher": -1
+        }
+      },
+      {
+        "reference_block_hash": "1bd65cb6b445ff9c1df1fea0bf74980afaec137e",
+        "url": "https://hdl.handle.net/10553/2297",
+        "language_crawl": "es",
+        "g_id": 0
+      },
+      {
+        "reference_block_hash": "830b028f9a1f7847aad4d066f3ac69eefb6d63b1",
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:16584701%20AND%20SRC:MED&resulttype=core&format=json",
+        "language_crawl": "es",
+        "g_id": 0
+      },
+      {
+        "reference_block_hash": "a9c1d58e9c17348fe4f06d243a0e40b30dcfc5f7",
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:14871634%20AND%20SRC:MED&resulttype=core&format=json",
+        "language_crawl": "es",
+        "g_id": 0
+      }
+    ]
+  },
+  {
+    "_id": "80a27375-27bc-4376-8d4c-379aefdfd157",
+    "taskSet": [
+      {
+        "reference_block_hash": "a9c1d58e9c17348fe4f06d243a0e40b30dcfc5f7",
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:14871634%20AND%20SRC:MED&resulttype=core&format=json",
+        "language_crawl": "es",
+        "g_id": 0
+      },
+      {
+        "reference_block_hash": "fb31ac8e84246adb35d412677a8455f7a1c8b6c6",
+        "url": "http://dialnet.unirioja.es/servlet/revista?codigo=97",
+        "language_crawl": "es",
+        "g_id": {
+          "author": 1,
+          "publisher": 0,
+          "sub_publisher": -1
+        }
+      },
+      {
+        "reference_block_hash": "4bb4d4e143df59f8bd1e098d1c46b39e26ab86c6",
+        "url": "https://es.wikipedia.org/w/index.php?title=Masato_Otake&oldid=118501195",
+        "language_crawl": "es",
+        "g_id": 0
+      },
+      {
+        "reference_block_hash": "36b2e60865706f6dd9fa8c46bcbc948082d344f6",
+        "url": "http://digitale.beic.it/primo_library/libweb/action/search.do?fn=search&vid=BEIC&vl%283134987UI0%29=creator&vl%28freeText0%29=Vera%20Tassis%20y%20Villarroel%20Juan%20de",
+        "language_crawl": "es",
+        "g_id": 0
+      },
+      {
+        "reference_block_hash": "830b028f9a1f7847aad4d066f3ac69eefb6d63b1",
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:16584701%20AND%20SRC:MED&resulttype=core&format=json",
+        "language_crawl": "es",
+        "g_id": 0
+      },
+      {
+        "reference_block_hash": "09d04d57db880602bb46b24ee9be2e1df19a3b89",
+        "url": "https://es.wikipedia.org/w/index.php?title=Zdravko_Zdravkov&oldid=113719838",
+        "language_crawl": "es",
+        "g_id": {
+          "author": 2,
+          "publisher": 4,
+          "sub_publisher": -1
+        }
+      }
+    ]
+  },
+  {
+    "_id": "6506482e-6272-4a64-b179-b44a14cbb6a8",
+    "taskSet": [
+      {
+        "reference_block_hash": "a9c1d58e9c17348fe4f06d243a0e40b30dcfc5f7",
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:14871634%20AND%20SRC:MED&resulttype=core&format=json",
+        "language_crawl": "es",
+        "g_id": 0
+      },
+      {
+        "reference_block_hash": "09d04d57db880602bb46b24ee9be2e1df19a3b89",
+        "url": "https://es.wikipedia.org/w/index.php?title=Zdravko_Zdravkov&oldid=113719838",
+        "language_crawl": "es",
+        "g_id": {
+          "author": 2,
+          "publisher": 4,
+          "sub_publisher": -1
+        }
+      },
+      {
+        "reference_block_hash": "39420e880092cce4d47e0a512e27d6d5e7bcb9f2",
+        "url": "https://es.wikipedia.org/w/index.php?title=Masashi_Miyamura&oldid=114416425",
+        "language_crawl": "es",
+        "g_id": 0
+      },
+      {
+        "reference_block_hash": "fb31ac8e84246adb35d412677a8455f7a1c8b6c6",
+        "url": "http://dialnet.unirioja.es/servlet/revista?codigo=97",
+        "language_crawl": "es",
+        "g_id": {
+          "author": 1,
+          "publisher": 0,
+          "sub_publisher": -1
+        }
+      },
+      {
+        "reference_block_hash": "274efc36f3219cb3345c9c8d4dcdeb845bacd72a",
+        "url": "http://dbe.rah.es/biografias/78773/joaquin-de-agrela-y-moreno",
+        "language_crawl": "es",
+        "g_id": 0
+      },
+      {
+        "reference_block_hash": "66bfb2bbabbe3074275ec887589c56ef05500bb7",
+        "url": "http://data.bnf.fr/ark:/12148/cb125445981",
+        "language_crawl": "es",
+        "g_id": 0
+      }
+    ]
+  },
+  {
+    "_id": "3f841e2a-6f6c-44b0-afe3-dccd76868948",
+    "taskSet": [
+      {
+        "reference_block_hash": "697b1f0eb04edc90d60d2887f2931f4eb4045cf9",
+        "url": "https://es.wikipedia.org/w/index.php?title=La_hormigonera_asesina&oldid=119119062",
+        "language_crawl": "es",
+        "g_id": 0
+      },
+      {
+        "reference_block_hash": "37241267a151e9ce3dc6c2e3c158a1b1542b92a9",
+        "url": "http://datos.bne.es/resource/XX882734",
+        "language_crawl": "es",
+        "g_id": {
+          "author": 1,
+          "publisher": 1,
+          "sub_publisher": 2
+        }
+      },
+      {
+        "reference_block_hash": "3264a3c79e378a6b957c70850fbdf605282db980",
+        "url": "https://es.wikipedia.org/w/index.php?title=Mogogi_Gabonamong&oldid=101314451",
+        "language_crawl": "es",
+        "g_id": 0
+      },
+      {
+        "reference_block_hash": "fb31ac8e84246adb35d412677a8455f7a1c8b6c6",
+        "url": "http://dialnet.unirioja.es/servlet/revista?codigo=97",
+        "language_crawl": "es",
+        "g_id": {
+          "author": 1,
+          "publisher": 0,
+          "sub_publisher": -1
+        }
+      },
+      {
+        "reference_block_hash": "01122037c140c6b47421aa199a4e742ec0321df9",
+        "url": "https://es.wikipedia.org/w/index.php?title=Ay\u00fadame_Hit_Pack_(EP)&oldid=118940066",
+        "language_crawl": "es",
+        "g_id": 0
+      },
+      {
+        "reference_block_hash": "4950cb3052faa98aef071bc34e299f7817b879d1",
+        "url": "https://es.wikipedia.org/w/index.php?title=Yoshinori_Taguchi&oldid=118499680",
+        "language_crawl": "es",
+        "g_id": 0
+      }
+    ]
+  },
+  {
+    "_id": "2f38427e-8510-48ee-bf57-a3000821db3e",
+    "taskSet": [
+      {
+        "reference_block_hash": "09d04d57db880602bb46b24ee9be2e1df19a3b89",
+        "url": "https://es.wikipedia.org/w/index.php?title=Zdravko_Zdravkov&oldid=113719838",
+        "language_crawl": "es",
+        "g_id": {
+          "author": 2,
+          "publisher": 4,
+          "sub_publisher": -1
+        }
+      },
+      {
+        "reference_block_hash": "3264a3c79e378a6b957c70850fbdf605282db980",
+        "url": "https://es.wikipedia.org/w/index.php?title=Mogogi_Gabonamong&oldid=101314451",
+        "language_crawl": "es",
+        "g_id": 0
+      },
+      {
+        "reference_block_hash": "66bfb2bbabbe3074275ec887589c56ef05500bb7",
+        "url": "http://data.bnf.fr/ark:/12148/cb125445981",
+        "language_crawl": "es",
+        "g_id": 0
+      },
+      {
+        "reference_block_hash": "a9c1d58e9c17348fe4f06d243a0e40b30dcfc5f7",
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:14871634%20AND%20SRC:MED&resulttype=core&format=json",
+        "language_crawl": "es",
+        "g_id": 0
+      },
+      {
+        "reference_block_hash": "39420e880092cce4d47e0a512e27d6d5e7bcb9f2",
+        "url": "https://es.wikipedia.org/w/index.php?title=Masashi_Miyamura&oldid=114416425",
+        "language_crawl": "es",
+        "g_id": 0
+      },
+      {
+        "reference_block_hash": "fb31ac8e84246adb35d412677a8455f7a1c8b6c6",
+        "url": "http://dialnet.unirioja.es/servlet/revista?codigo=97",
+        "language_crawl": "es",
+        "g_id": {
+          "author": 1,
+          "publisher": 0,
+          "sub_publisher": -1
+        }
+      }
+    ]
+  },
+  {
+    "_id": "f93da183-a1ab-4092-b720-de932d7331aa",
+    "taskSet": [
+      {
+        "reference_block_hash": "8bd137149d748adc22a5d4805ef5c4dd7445c7e5",
+        "url": "https://es.wikipedia.org/w/index.php?title=Sebasti\u00e1n_Peluso&oldid=118204051",
+        "language_crawl": "es",
+        "g_id": 0
+      },
+      {
+        "reference_block_hash": "fb31ac8e84246adb35d412677a8455f7a1c8b6c6",
+        "url": "http://dialnet.unirioja.es/servlet/revista?codigo=97",
+        "language_crawl": "es",
+        "g_id": {
+          "author": 1,
+          "publisher": 0,
+          "sub_publisher": -1
+        }
+      },
+      {
+        "reference_block_hash": "274efc36f3219cb3345c9c8d4dcdeb845bacd72a",
+        "url": "http://dbe.rah.es/biografias/78773/joaquin-de-agrela-y-moreno",
+        "language_crawl": "es",
+        "g_id": 0
+      },
+      {
+        "reference_block_hash": "9d307d1138f49db4dbcf577118a42ead5461d450",
+        "url": "http://www.dicelacancion.com/video-feeling-alive-gomo",
+        "language_crawl": "es",
+        "g_id": 0
+      },
+      {
+        "reference_block_hash": "830b028f9a1f7847aad4d066f3ac69eefb6d63b1",
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:16584701%20AND%20SRC:MED&resulttype=core&format=json",
+        "language_crawl": "es",
+        "g_id": 0
+      },
+      {
+        "reference_block_hash": "09d04d57db880602bb46b24ee9be2e1df19a3b89",
+        "url": "https://es.wikipedia.org/w/index.php?title=Zdravko_Zdravkov&oldid=113719838",
+        "language_crawl": "es",
+        "g_id": {
+          "author": 2,
+          "publisher": 4,
+          "sub_publisher": -1
+        }
+      }
+    ]
+  },
+  {
+    "_id": "83030e65-a699-4fa9-bcf2-37343ce26821",
+    "taskSet": [
+      {
+        "reference_block_hash": "a9c1d58e9c17348fe4f06d243a0e40b30dcfc5f7",
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:14871634%20AND%20SRC:MED&resulttype=core&format=json",
+        "language_crawl": "es",
+        "g_id": 0
+      },
+      {
+        "reference_block_hash": "37241267a151e9ce3dc6c2e3c158a1b1542b92a9",
+        "url": "http://datos.bne.es/resource/XX882734",
+        "language_crawl": "es",
+        "g_id": {
+          "author": 1,
+          "publisher": 1,
+          "sub_publisher": 2
+        }
+      },
+      {
+        "reference_block_hash": "774253e76b22a4a0ba1b38ff388d4da225b9ae90",
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:4767874%20AND%20SRC:MED&resulttype=core&format=json",
+        "language_crawl": "es",
+        "g_id": 0
+      },
+      {
+        "reference_block_hash": "e65fce7d5c221255eb458774c80bdbdbd02fef5c",
+        "url": "https://es.wikipedia.org/w/index.php?title=Roberto_Hilbert&oldid=107481216",
+        "language_crawl": "es",
+        "g_id": {
+          "author": 2,
+          "publisher": 4,
+          "sub_publisher": -1
+        }
+      },
+      {
+        "reference_block_hash": "36b2e60865706f6dd9fa8c46bcbc948082d344f6",
+        "url": "http://digitale.beic.it/primo_library/libweb/action/search.do?fn=search&vid=BEIC&vl%283134987UI0%29=creator&vl%28freeText0%29=Vera%20Tassis%20y%20Villarroel%20Juan%20de",
+        "language_crawl": "es",
+        "g_id": 0
+      },
+      {
+        "reference_block_hash": "8bd137149d748adc22a5d4805ef5c4dd7445c7e5",
+        "url": "https://es.wikipedia.org/w/index.php?title=Sebasti\u00e1n_Peluso&oldid=118204051",
+        "language_crawl": "es",
+        "g_id": 0
+      }
+    ]
+  },
+  {
+    "_id": "0e26cf71-903d-4265-beb7-a35bf1101e3e",
+    "taskSet": [
+      {
+        "reference_block_hash": "fb31ac8e84246adb35d412677a8455f7a1c8b6c6",
+        "url": "http://dialnet.unirioja.es/servlet/revista?codigo=97",
+        "language_crawl": "es",
+        "g_id": {
+          "author": 1,
+          "publisher": 0,
+          "sub_publisher": -1
+        }
+      },
+      {
+        "reference_block_hash": "274efc36f3219cb3345c9c8d4dcdeb845bacd72a",
+        "url": "http://dbe.rah.es/biografias/78773/joaquin-de-agrela-y-moreno",
+        "language_crawl": "es",
+        "g_id": 0
+      },
+      {
+        "reference_block_hash": "09d04d57db880602bb46b24ee9be2e1df19a3b89",
+        "url": "https://es.wikipedia.org/w/index.php?title=Zdravko_Zdravkov&oldid=113719838",
+        "language_crawl": "es",
+        "g_id": {
+          "author": 2,
+          "publisher": 4,
+          "sub_publisher": -1
+        }
+      },
+      {
+        "reference_block_hash": "6a93f6698e4dceec3b02d42b223910e295a80c19",
+        "url": "https://es.wikipedia.org/w/index.php?title=Colegio_Nacional_de_Periodistas_(Venezuela)&oldid=117782693",
+        "language_crawl": "es",
+        "g_id": 0
+      },
+      {
+        "reference_block_hash": "36b2e60865706f6dd9fa8c46bcbc948082d344f6",
+        "url": "http://digitale.beic.it/primo_library/libweb/action/search.do?fn=search&vid=BEIC&vl%283134987UI0%29=creator&vl%28freeText0%29=Vera%20Tassis%20y%20Villarroel%20Juan%20de",
+        "language_crawl": "es",
+        "g_id": 0
+      },
+      {
+        "reference_block_hash": "3264a3c79e378a6b957c70850fbdf605282db980",
+        "url": "https://es.wikipedia.org/w/index.php?title=Mogogi_Gabonamong&oldid=101314451",
+        "language_crawl": "es",
+        "g_id": 0
+      }
+    ]
+  },
+  {
+    "_id": "bbdcd0c5-bb58-4c25-9c4d-b5283b75b26f",
+    "taskSet": [
+      {
+        "reference_block_hash": "09d04d57db880602bb46b24ee9be2e1df19a3b89",
+        "url": "https://es.wikipedia.org/w/index.php?title=Zdravko_Zdravkov&oldid=113719838",
+        "language_crawl": "es",
+        "g_id": {
+          "author": 2,
+          "publisher": 4,
+          "sub_publisher": -1
+        }
+      },
+      {
+        "reference_block_hash": "8bd137149d748adc22a5d4805ef5c4dd7445c7e5",
+        "url": "https://es.wikipedia.org/w/index.php?title=Sebasti\u00e1n_Peluso&oldid=118204051",
+        "language_crawl": "es",
+        "g_id": 0
+      },
+      {
+        "reference_block_hash": "01122037c140c6b47421aa199a4e742ec0321df9",
+        "url": "https://es.wikipedia.org/w/index.php?title=Ay\u00fadame_Hit_Pack_(EP)&oldid=118940066",
+        "language_crawl": "es",
+        "g_id": 0
+      },
+      {
+        "reference_block_hash": "697b1f0eb04edc90d60d2887f2931f4eb4045cf9",
+        "url": "https://es.wikipedia.org/w/index.php?title=La_hormigonera_asesina&oldid=119119062",
+        "language_crawl": "es",
+        "g_id": 0
+      },
+      {
+        "reference_block_hash": "37241267a151e9ce3dc6c2e3c158a1b1542b92a9",
+        "url": "http://datos.bne.es/resource/XX882734",
+        "language_crawl": "es",
+        "g_id": {
+          "author": 1,
+          "publisher": 1,
+          "sub_publisher": 2
+        }
+      },
+      {
+        "reference_block_hash": "36b2e60865706f6dd9fa8c46bcbc948082d344f6",
+        "url": "http://digitale.beic.it/primo_library/libweb/action/search.do?fn=search&vid=BEIC&vl%283134987UI0%29=creator&vl%28freeText0%29=Vera%20Tassis%20y%20Villarroel%20Juan%20de",
+        "language_crawl": "es",
+        "g_id": 0
+      }
+    ]
+  }
+]

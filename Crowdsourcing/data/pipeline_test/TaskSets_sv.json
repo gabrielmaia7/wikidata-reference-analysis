@@ -1,0 +1,387 @@
+[
+  {
+    "_id": "c4730d70-4d89-4dde-8643-72a9629fb722",
+    "taskSet": [
+      {
+        "reference_id": "c678389487f12b8418ba759bf8da62aad97b31c9",
+        "url": "https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-fornmin&srlanguage=sv&srid=11100000000845",
+        "ref_node_pairs": {
+          "reference URL": "url:>https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-fornmin&srlanguage=sv&srid=11100000000845",
+          "stated in": "wikibase-item:>Monuments database->Q28563569",
+          "publication date": "time:>+2017-04-08T00:00:00Z"
+        },
+        "language_crawl": "sv",
+        "statement_node": "Q29334321-57BA8002-A874-4C8B-912B-B2EBF69DAF8F",
+        "subject": "Hejde 59:1",
+        "predicate": "geografiska koordinater",
+        "object": "Point(18.369363 57.415255)",
+        "g_id": 0
+      },
+      {
+        "reference_id": "2d18a7437c153ee9a9841ced528f0dc227880a29",
+        "url": "http://nvpub.vic-metria.nu/naturvardsregistret/rest/omrade/2021949/G%C3%A4llande",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://nvpub.vic-metria.nu/naturvardsregistret/rest/omrade/2021949/G%C3%A4llande",
+          "stated in": "wikibase-item:>Protected Areas (Nature Reserves)->Q29580583",
+          "retrieved": "time:>+2017-01-20T00:00:00Z",
+          "publication date": "time:>+2015-12-18T00:00:00Z"
+        },
+        "language_crawl": "sv",
+        "statement_node": "Q30201256-6C672352-230A-4959-BD94-486E2A28B3D1",
+        "subject": "Sularpsk\u00e4rret",
+        "predicate": "area",
+        "object": "0.358",
+        "g_id": 0
+      },
+      {
+        "reference_id": "79cfe232f001922248ece68e997240bc5f04f5f7",
+        "url": "https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-fornmin&srlanguage=sv&srid=10208600700001",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Monuments database->Q28563569",
+          "reference URL": "url:>https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-fornmin&srlanguage=sv&srid=10208600700001",
+          "publication date": "time:>+2017-04-22T00:00:00Z"
+        },
+        "language_crawl": "sv",
+        "statement_node": "Q29533173-1FD91341-1C3E-4BEE-A559-8A52EBDB6509",
+        "subject": "Vartofta-\u00c5saka 70:1",
+        "predicate": "geografiska koordinater",
+        "object": "Point(13.696353 58.074587)",
+        "g_id": 0
+      },
+      {
+        "reference_id": "162043decb4967d0936ac0a76bf14b563c4b84b0",
+        "url": "https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-fornmin&srlanguage=sv&srid=10031100680002",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Monuments database->Q28563569",
+          "reference URL": "url:>https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-fornmin&srlanguage=sv&srid=10031100680002",
+          "publication date": "time:>+2017-05-06T00:00:00Z"
+        },
+        "language_crawl": "sv",
+        "statement_node": "Q29941248-699D6F6B-78CF-46AF-978A-69748EFF6BD0",
+        "subject": "Bj\u00f6rkvik 68:2",
+        "predicate": "kulturskyddsstatus",
+        "object": "monument i Fornminnesregistret",
+        "g_id": 0
+      },
+      {
+        "reference_id": "1bcf83c279fbef3ea6c997a0d125ff83aa36185e",
+        "url": "http://libris.kb.se/bib/112391",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>LIBRIS->Q1798125",
+          "retrieved": "time:>+2019-12-16T00:00:00Z",
+          "reference URL": "url:>http://libris.kb.se/bib/112391"
+        },
+        "language_crawl": "sv",
+        "statement_node": "Q80452791-2B21F865-F3A2-452A-8FDE-C8966BB81C30",
+        "subject": "Nordisk tidsskrift for logopedi og foniatri = Scandinavian journal of logopedics and phoniatrics",
+        "predicate": "titel",
+        "object": "Nordisk tidsskrift for logopedi og foniatri = Scandinavian journal of logopedics and phoniatrics",
+        "g_id": 0
+      },
+      {
+        "reference_id": "b4fd6d68be7c780a6cdd15ce75e80fece9c2682d",
+        "url": "https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-fornmin&srlanguage=sv&srid=10031100920001",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Monuments database->Q28563569",
+          "reference URL": "url:>https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-fornmin&srlanguage=sv&srid=10031100920001",
+          "publication date": "time:>+2017-05-06T00:00:00Z"
+        },
+        "language_crawl": "sv",
+        "statement_node": "Q29941302-6C525E47-DABC-4E30-B9CD-320079F80E6B",
+        "subject": "Bj\u00f6rkvik 92:1",
+        "predicate": "land",
+        "object": "Sverige",
+        "g_id": 0
+      }
+    ]
+  },
+  {
+    "_id": "4ebb0140-e8dc-4e77-8722-fd47be51624a",
+    "taskSet": [
+      {
+        "reference_id": "366d30cb6989eff4bb52db80bdb0ca1878b25804",
+        "url": "https://libris.kb.se/katalogisering/hftx3p0126dh8zw",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>LIBRIS->Q1798125",
+          "reference URL": "url:>https://libris.kb.se/katalogisering/hftx3p0126dh8zw",
+          "publication date": "time:>+2011-04-04T00:00:00Z",
+          "retrieved": "time:>+2018-08-24T00:00:00Z"
+        },
+        "language_crawl": "sv",
+        "statement_node": "Q25690-935C0CE5-F94F-4210-BA69-C00B27B96F0D",
+        "subject": "John Russell, 6:e hertig av Bedford",
+        "predicate": "Libris-URI",
+        "object": "hftx3p0126dh8zw",
+        "g_id": 0
+      },
+      {
+        "reference_id": "ec94760b0611d796ebffde8ab8aa49e7174a16ae",
+        "url": "https://sv.wikipedia.org/w/index.php?title=Melvin_Frithzell&oldid=45497542",
+        "ref_node_pairs": {
+          "imported from Wikimedia project": "wikibase-item:>Swedish Wikipedia->Q169514",
+          "Wikimedia import URL": "url:>https://sv.wikipedia.org/w/index.php?title=Melvin_Frithzell&oldid=45497542"
+        },
+        "language_crawl": "sv",
+        "statement_node": "Q30064081-58EC42ED-29EE-43B2-AE4A-BBFAF5C52909",
+        "subject": "Melvin Frithzell",
+        "predicate": "Svenska Fotbollf\u00f6rbundet ID",
+        "object": "550015",
+        "g_id": 0
+      },
+      {
+        "reference_id": "96d14d1a31c37b67132372def149f9c4cb9fe956",
+        "url": "https://libris.kb.se/katalogisering/97mpqrtt143b7d6",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>LIBRIS->Q1798125",
+          "reference URL": "url:>https://libris.kb.se/katalogisering/97mpqrtt143b7d6",
+          "publication date": "time:>+2012-09-26T00:00:00Z",
+          "retrieved": "time:>+2018-08-24T00:00:00Z"
+        },
+        "language_crawl": "sv",
+        "statement_node": "Q897249-AC163904-8512-4117-8E2F-521DF71D6516",
+        "subject": "Max Falk",
+        "predicate": "Libris-URI",
+        "object": "97mpqrtt143b7d6",
+        "g_id": 0
+      },
+      {
+        "reference_id": "3a66e8abb8cbf29d34daff49be85f88f9ad6e31c",
+        "url": "https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-arbetsl&srlanguage=sv&srid=2481",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Monuments database->Q28563569",
+          "publication date": "time:>+2017-03-11T00:00:00Z",
+          "reference URL": "url:>https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-arbetsl&srlanguage=sv&srid=2481"
+        },
+        "language_crawl": "sv",
+        "statement_node": "Q28935483-E7A43AD6-8A1D-49BB-B364-71F8B8536164",
+        "subject": "N\u00e4ssj\u00f6 kvarn",
+        "predicate": "land",
+        "object": "Sverige",
+        "g_id": 0
+      },
+      {
+        "reference_id": "2d18a7437c153ee9a9841ced528f0dc227880a29",
+        "url": "http://nvpub.vic-metria.nu/naturvardsregistret/rest/omrade/2021949/G%C3%A4llande",
+        "ref_node_pairs": {
+          "reference URL": "url:>http://nvpub.vic-metria.nu/naturvardsregistret/rest/omrade/2021949/G%C3%A4llande",
+          "stated in": "wikibase-item:>Protected Areas (Nature Reserves)->Q29580583",
+          "retrieved": "time:>+2017-01-20T00:00:00Z",
+          "publication date": "time:>+2015-12-18T00:00:00Z"
+        },
+        "language_crawl": "sv",
+        "statement_node": "Q30201256-6C672352-230A-4959-BD94-486E2A28B3D1",
+        "subject": "Sularpsk\u00e4rret",
+        "predicate": "area",
+        "object": "0.358",
+        "g_id": 0
+      },
+      {
+        "reference_id": "abd1da10d8cf32c3e635f8a4a27bce0ffa95deb6",
+        "url": "https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-fornmin&srlanguage=sv&srid=10051500350002",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Monuments database->Q28563569",
+          "reference URL": "url:>https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-fornmin&srlanguage=sv&srid=10051500350002",
+          "publication date": "time:>+2017-05-06T00:00:00Z"
+        },
+        "language_crawl": "sv",
+        "statement_node": "Q30037338-1C2F91E9-D2D0-4504-953D-751232B5BAA2",
+        "subject": "T\u00f6rnevalla 35:2",
+        "predicate": "K-sams\u00f6k URI",
+        "object": "raa/fmi/10051500350002",
+        "g_id": 0
+      }
+    ]
+  },
+  {
+    "_id": "05c027f4-0259-4c45-99fd-27c62df9fca6",
+    "taskSet": [
+      {
+        "reference_id": "745f6ab2aa974c93f4b3d07f6aa33fb3653fb685",
+        "url": "https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-fornmin&srlanguage=sv&srid=10087300260001",
+        "ref_node_pairs": {
+          "publication date": "time:>+2017-04-14T00:00:00Z",
+          "reference URL": "url:>https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-fornmin&srlanguage=sv&srid=10087300260001",
+          "stated in": "wikibase-item:>Monuments database->Q28563569"
+        },
+        "language_crawl": "sv",
+        "statement_node": "Q29418199-30ACA596-8AF3-4F51-84C9-9E6601A10377",
+        "subject": "Tuna 26:1",
+        "predicate": "geografiska koordinater",
+        "object": "Point(16.300797 57.514629)",
+        "g_id": 0
+      },
+      {
+        "reference_id": "9bef308b4532ccc9163aca869ff53b43df1a4b00",
+        "url": "https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-fornmin&srlanguage=sv&srid=10181000680001",
+        "ref_node_pairs": {
+          "publication date": "time:>+2017-04-24T00:00:00Z",
+          "reference URL": "url:>https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-fornmin&srlanguage=sv&srid=10181000680001",
+          "stated in": "wikibase-item:>Monuments database->Q28563569"
+        },
+        "language_crawl": "sv",
+        "statement_node": "Q29569193-309E24C4-35B9-4EA2-BF5F-7DAE276A16FA",
+        "subject": "T\u00f6sse 68:1",
+        "predicate": "geografiska koordinater",
+        "object": "Point(12.601301 58.996479)",
+        "g_id": 0
+      },
+      {
+        "reference_id": "2a1a48ddb01cc09040cc9130bc175260785920f1",
+        "url": "https://libris.kb.se/katalogisering/rp3554690qs7lp9",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>LIBRIS->Q1798125",
+          "reference URL": "url:>https://libris.kb.se/katalogisering/rp3554690qs7lp9",
+          "publication date": "time:>+2002-12-18T00:00:00Z",
+          "retrieved": "time:>+2018-08-24T00:00:00Z"
+        },
+        "language_crawl": "sv",
+        "statement_node": "Q1027392-1A2F4ABF-2C91-42BD-93B8-687F5F3BA310",
+        "subject": "Thorvald Erichsen",
+        "predicate": "Libris-URI",
+        "object": "rp3554690qs7lp9",
+        "g_id": 0
+      },
+      {
+        "reference_id": "1bcf83c279fbef3ea6c997a0d125ff83aa36185e",
+        "url": "http://libris.kb.se/bib/112391",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>LIBRIS->Q1798125",
+          "retrieved": "time:>+2019-12-16T00:00:00Z",
+          "reference URL": "url:>http://libris.kb.se/bib/112391"
+        },
+        "language_crawl": "sv",
+        "statement_node": "Q80452791-2B21F865-F3A2-452A-8FDE-C8966BB81C30",
+        "subject": "Nordisk tidsskrift for logopedi og foniatri = Scandinavian journal of logopedics and phoniatrics",
+        "predicate": "titel",
+        "object": "Nordisk tidsskrift for logopedi og foniatri = Scandinavian journal of logopedics and phoniatrics",
+        "g_id": 0
+      },
+      {
+        "reference_id": "fdc22f407856675257cfc32ea80c5375f5c6419b",
+        "url": "https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-fornmin&srlanguage=sv&srid=10055202670001",
+        "ref_node_pairs": {
+          "publication date": "time:>+2017-05-14T00:00:00Z",
+          "stated in": "wikibase-item:>Monuments database->Q28563569",
+          "reference URL": "url:>https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-fornmin&srlanguage=sv&srid=10055202670001"
+        },
+        "language_crawl": "sv",
+        "statement_node": "Q30045853-43194142-B209-471A-BF79-4BFA8DEAD1CA",
+        "subject": "\u00d6stra Husby 267:1",
+        "predicate": "K-sams\u00f6k URI",
+        "object": "raa/fmi/10055202670001",
+        "g_id": 0
+      },
+      {
+        "reference_id": "18bf9a897ed3313f4ec1a62b86945934b4affd56",
+        "url": "https://sok.riksarkivet.se/Sbl/Presentation.aspx?id=8931",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Dictionary of Swedish National Biography->Q379406",
+          "reference URL": "url:>https://sok.riksarkivet.se/Sbl/Presentation.aspx?id=8931",
+          "Dictionary of Swedish National Biography ID": "value:>8931",
+          "title": "value:>Ada K Nilsson"
+        },
+        "language_crawl": "sv",
+        "statement_node": "Q4969542-2cb1e683-43fd-083d-54c2-46733e993e72",
+        "subject": "Ada Nilsson",
+        "predicate": "syssels\u00e4ttning",
+        "object": "l\u00e4kare",
+        "g_id": 0
+      }
+    ]
+  },
+  {
+    "_id": "8c953a4f-485c-4be1-9f1f-2cdd10394d66",
+    "taskSet": [
+      {
+        "reference_id": "e0ac61cf5d61491236fdad9bb2698e81416bc3a0",
+        "url": "https://sv.wikipedia.org/w/index.php?title=Willy_Granqvist&oldid=29618273",
+        "ref_node_pairs": {
+          "imported from Wikimedia project": "wikibase-item:>Swedish Wikipedia->Q169514",
+          "Wikimedia import URL": "url:>https://sv.wikipedia.org/w/index.php?title=Willy_Granqvist&oldid=29618273"
+        },
+        "language_crawl": "sv",
+        "statement_node": "Q5866816-BC17BBFE-6EDF-46DD-8271-28E4065FAE7B",
+        "subject": "Willy Granqvist",
+        "predicate": "f\u00f6delseplats",
+        "object": "M\u00e4larh\u00f6jden",
+        "g_id": 0
+      },
+      {
+        "reference_id": "b01cb41fa15b3ae714487211a13b1a59d7e75538",
+        "url": "https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-fornmin&srlanguage=sv&srid=12000000005847",
+        "ref_node_pairs": {
+          "publication date": "time:>+2017-05-06T00:00:00Z",
+          "stated in": "wikibase-item:>Monuments database->Q28563569",
+          "reference URL": "url:>https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-fornmin&srlanguage=sv&srid=12000000005847"
+        },
+        "language_crawl": "sv",
+        "statement_node": "Q29915560-6A6234F2-AF91-462B-BD8E-30AFA4F83230",
+        "subject": "Yttersel\u00f6 239",
+        "predicate": "instans av",
+        "object": "stens\u00e4ttning",
+        "g_id": 0
+      },
+      {
+        "reference_id": "3443103b98c1c0fc5ef23c4c4158f1fda5acf65d",
+        "url": "https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-fornmin&srlanguage=sv&srid=10179800800001",
+        "ref_node_pairs": {
+          "publication date": "time:>+2017-04-24T00:00:00Z",
+          "stated in": "wikibase-item:>Monuments database->Q28563569",
+          "reference URL": "url:>https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-fornmin&srlanguage=sv&srid=10179800800001"
+        },
+        "language_crawl": "sv",
+        "statement_node": "Q29565538-37B89558-5626-4BD5-A81F-62EC4994C45E",
+        "subject": "Torrskog 80:1",
+        "predicate": "instans av",
+        "object": "gravh\u00f6g",
+        "g_id": 0
+      },
+      {
+        "reference_id": "ca6e9b63fb3f8c9a98398c9f19d7b068d58d6643",
+        "url": "https://libris.kb.se/katalogisering/97mpqj1t2px5s9m",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>LIBRIS->Q1798125",
+          "reference URL": "url:>https://libris.kb.se/katalogisering/97mpqj1t2px5s9m",
+          "publication date": "time:>+2012-10-02T00:00:00Z",
+          "retrieved": "time:>+2018-08-24T00:00:00Z"
+        },
+        "language_crawl": "sv",
+        "statement_node": "Q454452-3AE9D55B-7034-44D9-B694-6410254A4B37",
+        "subject": "Egil Johansen",
+        "predicate": "Libris-URI",
+        "object": "97mpqj1t2px5s9m",
+        "g_id": 0
+      },
+      {
+        "reference_id": "3a66e8abb8cbf29d34daff49be85f88f9ad6e31c",
+        "url": "https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-arbetsl&srlanguage=sv&srid=2481",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>Monuments database->Q28563569",
+          "publication date": "time:>+2017-03-11T00:00:00Z",
+          "reference URL": "url:>https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-arbetsl&srlanguage=sv&srid=2481"
+        },
+        "language_crawl": "sv",
+        "statement_node": "Q28935483-E7A43AD6-8A1D-49BB-B364-71F8B8536164",
+        "subject": "N\u00e4ssj\u00f6 kvarn",
+        "predicate": "land",
+        "object": "Sverige",
+        "g_id": 0
+      },
+      {
+        "reference_id": "1bcf83c279fbef3ea6c997a0d125ff83aa36185e",
+        "url": "http://libris.kb.se/bib/112391",
+        "ref_node_pairs": {
+          "stated in": "wikibase-item:>LIBRIS->Q1798125",
+          "retrieved": "time:>+2019-12-16T00:00:00Z",
+          "reference URL": "url:>http://libris.kb.se/bib/112391"
+        },
+        "language_crawl": "sv",
+        "statement_node": "Q80452791-2B21F865-F3A2-452A-8FDE-C8966BB81C30",
+        "subject": "Nordisk tidsskrift for logopedi og foniatri = Scandinavian journal of logopedics and phoniatrics",
+        "predicate": "titel",
+        "object": "Nordisk tidsskrift for logopedi og foniatri = Scandinavian journal of logopedics and phoniatrics",
+        "g_id": 0
+      }
+    ]
+  }
+]

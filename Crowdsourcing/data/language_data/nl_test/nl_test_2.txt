@@ -1,0 +1,100 @@
+    {
+        "question": "___ het douchen kleed ik me aan.",
+        "options": [
+            "Naast",
+            "Na",
+            "Naar",
+            "Naartoe"
+        ],
+        "answer": -1
+    },
+    {
+        "question": "’s Ochtends eet ik ___ twee boterhammen met pindakaas.",
+        "options": [
+            "meestal",
+            "meeste",
+            "eruit",
+            "me"
+        ],
+        "answer": -1
+    },
+    {
+        "question": "Gisteren ___ ik niet op tijd ___",
+        "options": [
+            "ben / opstaan",
+            "heb / opstaan",
+            "ben / opgestaan",
+            "heb / opgestaan"
+        ],
+        "answer": -1
+    },
+    {
+        "question": "___ je al koffie ___?",
+        "options": [
+            "Heb / gezet",
+            "Hebben / gezet",
+            "Hebt / gezetten",
+            "Hebt / gezet"
+        ],
+        "answer": -1
+    },
+    {
+        "question": "Waar ___ u vanmorgen ___?",
+        "options": [
+            "zijn / geweest ",
+            "bent / geweest ",
+            "hebt / gedaan ",
+            "heeft / gedaan"
+        ],
+        "answer": -1
+    },
+    {
+        "question": "Zij is ___ 1954 geboren.",
+        "options": [
+            "in",
+            "-",
+            "op",
+            "om"
+        ],
+        "answer": -1
+    },
+    {
+        "question": "___ ben ik bij haar op de koffie geweest.",
+        "options": [
+            "Morgen",
+            "Volgende week",
+            "Twee weken geleden",
+            "Nogal"
+        ],
+        "answer": -1
+    },
+    {
+        "question": "In het ziekenhuis heb ik een aardig ___ ontmoet.",
+        "options": [
+            "verpleegster",
+            "verpleger",
+            "vrouw",
+            "meisje"
+        ],
+        "answer": -1
+    },
+    {
+        "question": "___ het jullie hier in Nederland?",
+        "options": [
+            "Vinden",
+            "Bevalt",
+            "Vindt",
+            "Bevallen"
+        ],
+        "answer": -1
+    },
+    {
+        "question": "Ik werk niet ___ kantoor maar thuis.",
+        "options": [
+            "in",
+            "bij",
+            "op",
+            "voor"
+        ],
+        "answer": -1
+    }

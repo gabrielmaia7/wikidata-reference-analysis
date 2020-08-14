@@ -1,0 +1,74 @@
+[
+  {
+    "reference_id": "cc3c6fb2c61fbf784161f7cf9e41bfb04a5e3a19",
+    "url": "http://europepmc.org/abstract/MED/5253697",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>5253697",
+      "retrieved": "time:>+2017-12-20T00:00:00Z",
+      "reference URL": "url:>http://europepmc.org/abstract/MED/5253697"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q46194513-6EA754C7-E732-43DC-B531-359F00A4FE0E",
+    "subject": "On puerto ricans: folk and scientific explanations.",
+    "predicate": "title",
+    "object": "On puerto ricans: folk and scientific explanations.",
+    "g_id": {
+      "relevance": {
+        "is_present": [0 if it is not present, 1 if it is],
+        "difficulty":[a list of numbers from 0 to 4, with 0 to 4 simbolizing possible difficulty answers as seen in the task mockup. Can also be just -1 if it does not matter.],
+        "reason":[a list of numbers from 0 to 6, with 0 to 6 simbolizing possible reason answers as seen in the task mockup. Can also be just -1 if it does not matter.]
+      },
+      "authorit":{
+        "author": [a number from 0 to 2 simbolizing the author type as seen in the task mockup],
+        "publisher": [a number from 0 to 4 simbolizing the publisher type as seen in the task mockup],
+        "sub_publisher": [a number from 0 to the amount of subpublisher types for this publisher type, simbolizing the subpublisher type as seen in the task mockup. It can also be -1 if you don't care for this field.]
+      }
+  }
+  },
+  {
+    "reference_id": "f2a909368f573397a8ee214bdf873f3937afd738",
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pmc&linkname=pmc_refs_pubmed&retmode=json&id=4551541",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>PubMed Central->Q229883",
+      "reference URL": "url:>https://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pmc&linkname=pmc_refs_pubmed&retmode=json&id=4551541",
+      "retrieved": "time:>+2018-07-11T00:00:00Z"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q36001465-06CB484E-5B07-445D-9358-2ECFB6C1CAE2",
+    "subject": "Prosystemin Overexpression in Tomato Enhances Resistance to Different Biotic Stresses by Activating Genes of Multiple Signaling Pathways.",
+    "predicate": "cites work",
+    "object": "Tomato protein kinase 1b mediates signaling of plant responses to necrotrophic fungi and insect herbivory.",
+    "g_id": 0
+  },
+  {
+    "reference_id": "01269e0f6ba91d1906f1b7f90757984cdafa1a58",
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pmc&linkname=pmc_refs_pubmed&retmode=json&id=385239",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>PubMed Central->Q229883",
+      "reference URL": "url:>https://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pmc&linkname=pmc_refs_pubmed&retmode=json&id=385239",
+      "retrieved": "time:>+2017-04-07T00:00:00Z"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q24803896-37FB4FB2-D08B-4BD3-810C-9DA429CB5BBF",
+    "subject": "Health and health care utilisation among asylum seekers and refugees in the Netherlands: design of a study",
+    "predicate": "cites work",
+    "object": "Reported health, lifestyles, and use of health care of first generation immigrants in The Netherlands: do socioeconomic factors explain their adverse position?",
+    "g_id": 0
+  },
+  {
+    "reference_id": "5b0b72fb5f72757c61626b50a0c9869857f68768",
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pmc&linkname=pmc_refs_pubmed&retmode=json&id=3864006",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>PubMed Central->Q229883",
+      "reference URL": "url:>https://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pmc&linkname=pmc_refs_pubmed&retmode=json&id=3864006",
+      "retrieved": "time:>+2018-08-16T00:00:00Z"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q42792785-214948D1-D461-4E0D-A9B9-140AFAF7C7A2",
+    "subject": "Radiographic anatomy of the infracochlear approach to the petrous apex for computer-assisted surgery.",
+    "predicate": "cites work",
+    "object": "Translating human simulation technologies to veterinary surgical training: accelerating adoption.",
+    "g_id": 0
+  }
+]

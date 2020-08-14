@@ -1,0 +1,18 @@
+Hello! Yes I do! I will send you an explanation for the questions, you tell me if they are clear and I can send you 10 questions :) Is that ok?
+
+
+
+The questions are of this form:
+
+{
+    "question": "Waar kom je ___?",
+    "options": [
+        "van",
+        "vandaar",
+        "vandaan",
+        "vandaag"
+    ],
+    "answer": -1
+}
+
+You read the question and just chose the best options to fill the blank. Then you replace the -1 in the answer line with a number from 1 to 4, signaling the option you chose. If that's clear, I'll send 10 of them through the chat. Thanks a lot for this!

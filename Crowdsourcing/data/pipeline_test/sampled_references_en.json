@@ -1,0 +1,251 @@
+[
+  {
+    "reference_id": "b0f2c73cbe5de8dddee038b93d52e08c67b6719f",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:29682850%20AND%20SRC:MED&resulttype=core&format=json",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>29682850",
+      "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:29682850%20AND%20SRC:MED&resulttype=core&format=json",
+      "retrieved": "time:>+2020-03-24T00:00:00Z"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q88437713-011B57D3-D1DA-40DC-BC7D-71BB38734F2D",
+    "subject": "The Contribution of Pyroelectricity of AgI Crystals to Ice Nucleation",
+    "predicate": "instance of",
+    "object": "scholarly article",
+    "g_id": 0
+  },
+  {
+    "reference_id": "0b2eecdfea8d8e46cdd3bfbfc5108e03a19cbed2",
+    "url": "http://europepmc.org/abstract/MED/19638951",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>19638951",
+      "retrieved": "time:>+2018-05-14T00:00:00Z",
+      "reference URL": "url:>http://europepmc.org/abstract/MED/19638951"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q53402981-520168D9-4FD2-4A78-947C-3A7738635F1C",
+    "subject": "Evaluation of cognitive impairment attributable to microvascular damage.",
+    "predicate": "page(s)",
+    "object": "814; author reply 815",
+    "g_id": 0
+  },
+  {
+    "reference_id": "94c140a34b9c6ce1ec4e688947c5c0e74bf65cb6",
+    "url": "http://mirtarbase.mbc.nctu.edu.tw/php/detail.php?mirtid=MIRT450034",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>MiRTarBase->Q6826951",
+      "mirTarBase ID": "value:>MIRT450034",
+      "language of work or name": "wikibase-item:>English->Q1860",
+      "title": "value:>hsa-miR-496",
+      "retrieved": "time:>+2016-11-01T00:00:00Z"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q27593478-73629A47-2D37-4B79-839F-786C596E81B6",
+    "subject": "hsa-miR-496",
+    "predicate": "regulates (molecular biology)",
+    "object": "LEPROTL1",
+    "g_id": 0
+  },
+  {
+    "reference_id": "437bce70fa794235a9f6e17396356511de3cf7e2",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:25523745%20AND%20SRC:MED&resulttype=core&format=json",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>25523745",
+      "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:25523745%20AND%20SRC:MED&resulttype=core&format=json",
+      "retrieved": "time:>+2020-02-25T00:00:00Z"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q86346960-AD3F1304-A16C-4EBE-B003-00C7A9DB7C7B",
+    "subject": "Factor structure and psychometric properties of the Body Appreciation Scale among adults in Hong Kong",
+    "predicate": "author name string",
+    "object": "David Barron",
+    "g_id": 0
+  },
+  {
+    "reference_id": "c4b846763cb38d9e9394aa2011158870ce2580ca",
+    "url": "https://geonames.usgs.gov/apex/f?p=gnispq:3:::NO::P3_FID:867610",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Geographic Names Information System->Q136736",
+      "publication date": "time:>+2018-06-01T00:00:00Z",
+      "GNIS ID": "value:>867610"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q34874186-09C11D14-CB53-485A-9753-6747363A5C6F",
+    "subject": "Horse Hill",
+    "predicate": "located in the administrative territorial entity",
+    "object": "Hillsborough County",
+    "g_id": 0
+  },
+  {
+    "reference_id": "d00583d554a7bf2b82bf27af067ca58603c71de2",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2148677",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PMCID": "value:>2148677",
+      "retrieved": "time:>+2017-08-13T00:00:00Z"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q36289558-04938466-D0E0-4A5E-A3DE-D9911DA158B8",
+    "subject": "Arterial oxygen desaturation during awake endotracheal intubation",
+    "predicate": "issue",
+    "object": "4",
+    "g_id": 0
+  },
+  {
+    "reference_id": "46988d85f72c6994f6f2e381439acc8e01ae4771",
+    "url": "https://en.wikipedia.org/w/index.php?title=2011_FIFA_Club_World_Cup_Final&oldid=890401717",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>English Wikipedia->Q328",
+      "Wikimedia import URL": "url:>https://en.wikipedia.org/w/index.php?title=2011_FIFA_Club_World_Cup_Final&oldid=890401717"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q1152758-427653C3-01A5-466A-99F9-DDF4A872AB38",
+    "subject": "2011 FIFA Club World Cup Final",
+    "predicate": "location",
+    "object": "International Stadium Yokohama",
+    "g_id": 0
+  },
+  {
+    "reference_id": "d30ca37a57354beb80617877f538f4d263983245",
+    "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pmc&linkname=pmc_refs_pubmed&retmode=json&id=5474719",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>PubMed Central->Q229883",
+      "reference URL": "url:>https://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pmc&linkname=pmc_refs_pubmed&retmode=json&id=5474719",
+      "retrieved": "time:>+2018-07-04T00:00:00Z"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q33810156-36A2B6D8-14C2-4C63-94D8-AB399FC8DFAD",
+    "subject": "Long-term cost of spouses' informal support for dependent midlife stroke survivors.",
+    "predicate": "cites work",
+    "object": "Global and regional burden of stroke during 1990-2010: findings from the Global Burden of Disease Study 2010",
+    "g_id": 0
+  },
+  {
+    "reference_id": "b8a295ba1faf8e5c8c94571feead0b6204fd7884",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/7772465",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>7772465",
+      "retrieved": "time:>+2017-12-09T00:00:00Z"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q45084131-EA3418A4-0282-4798-83DA-2D51381CB2D4",
+    "subject": "A survey to determine the knowledge of military members about the hazards of tobacco use, and a resulting tobacco-hazard education project.",
+    "predicate": "title",
+    "object": "A survey to determine the knowledge of military members about the hazards of tobacco use, and a resulting tobacco-hazard education project.",
+    "g_id": 0
+  },
+  {
+    "reference_id": "d7485cef6e8ab0339747e4aecd28e1ceb1d1114d",
+    "url": "http://europepmc.org/abstract/MED/4048023",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>4048023",
+      "retrieved": "time:>+2018-04-01T00:00:00Z",
+      "reference URL": "url:>http://europepmc.org/abstract/MED/4048023"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q51219738-5A7B6BE8-6FB6-44C1-982D-A8CBBDE6D704",
+    "subject": "Agoraphobia. Is fear the basis of symptoms?",
+    "predicate": "title",
+    "object": "Agoraphobia. Is fear the basis of symptoms?",
+    "g_id": 0
+  },
+  {
+    "reference_id": "433c2078d7a290bd3ff5b1d7fd2bdaa602d185c0",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:26377202%20AND%20SRC:MED&resulttype=core&format=json",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PMCID": "value:>4573482",
+      "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:26377202%20AND%20SRC:MED&resulttype=core&format=json",
+      "retrieved": "time:>+2020-02-24T00:00:00Z"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q36069377-940A510A-9BAE-4A84-A53A-F830006A1461",
+    "subject": "Aryl hydrocarbon receptor-microRNA-212/132 axis in human breast cancer suppresses metastasis by targeting SOX4",
+    "predicate": "volume",
+    "object": "14",
+    "g_id": 0
+  },
+  {
+    "reference_id": "d32ad50bbe745f416cb85c63f220dc0cf59a53c0",
+    "url": "http://www.ebi.ac.uk/QuickGO/annotations?geneProductId=UniProtKB:Q87FP4",
+    "ref_node_pairs": {
+      "retrieved": "time:>+2019-02-14T00:00:00Z",
+      "stated in": "wikibase-item:>UniProt-GOA->Q28018111",
+      "curator": "wikibase-item:>InterPro->Q3047275",
+      "reference URL": "url:>http://www.ebi.ac.uk/QuickGO/annotations?geneProductId=UniProtKB:Q87FP4",
+      "determination method": "wikibase-item:>IEA->Q23190881"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q23441300-ED526600-89B9-46DC-971C-4A586C627263",
+    "subject": "Putrescine transporter VPA1634",
+    "predicate": "biological process",
+    "object": "transmembrane transport",
+    "g_id": 0
+  },
+  {
+    "reference_id": "6af22c741042a932920d8ca69a512788c4a30b95",
+    "url": "https://www.ncbi.nlm.nih.gov/gene/1013992",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>NCBI Gene->Q20641742",
+      "retrieved": "time:>+2020-02-21T00:00:00Z",
+      "Entrez Gene ID": "value:>1013992"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q23222783-3F4CFB9B-9139-45C4-97D1-0E7E4CCF24D6",
+    "subject": "tributyrin esterase SAG1185",
+    "predicate": "Entrez Gene ID",
+    "object": "1013992",
+    "g_id": 0
+  },
+  {
+    "reference_id": "6c03d170b3f8eb254fed4c8165b1af4ce43c8f03",
+    "url": "http://www.nationaltrustcollections.org.uk/object/138277",
+    "ref_node_pairs": {
+      "retrieved": "time:>+2019-03-26T00:00:00Z",
+      "reference URL": "url:>http://www.nationaltrustcollections.org.uk/object/138277"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q52298918-98496e66-dda2-4436-829e-ee8b4378e633",
+    "subject": "An Italian Landscape",
+    "predicate": "inception",
+    "object": "1755-01-01T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_id": "fc0c22e643e85daa51031e1f8137de9215e417cf",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:23306703%20AND%20SRC:MED&resulttype=core&format=json",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PMCID": "value:>3584657",
+      "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:23306703%20AND%20SRC:MED&resulttype=core&format=json",
+      "retrieved": "time:>+2020-02-22T00:00:00Z"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q36645813-F217D9EE-5B5D-41F7-BC20-661362C15825",
+    "subject": "Acetyl salicylic acid inhibits Th17 airway inflammation via blockade of IL-6 and IL-17 positive feedback.",
+    "predicate": "author name string",
+    "object": "Yoon-Keun Kim",
+    "g_id": 0
+  },
+  {
+    "reference_id": "9d09931e02e3cad765a3fce2a351eefcf52894a8",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:21097212%20AND%20SRC:MED&resulttype=core&format=json",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>21097212",
+      "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:21097212%20AND%20SRC:MED&resulttype=core&format=json",
+      "retrieved": "time:>+2020-01-16T00:00:00Z"
+    },
+    "language_crawl": "en",
+    "statement_node": "Q44169133-BC1D736F-C961-4EAC-ABAA-2EF93B23A17D",
+    "subject": "A fast critical arrhythmic ECG waveform identification method using cross-correlation and multiple template matching.",
+    "predicate": "author name string",
+    "object": "Tao Zhang",
+    "g_id": 0
+  }
+]

@@ -1,0 +1,232 @@
+[
+  {
+    "reference_block_hash": "fb31ac8e84246adb35d412677a8455f7a1c8b6c6",
+    "url": "http://dialnet.unirioja.es/servlet/revista?codigo=97",
+    "ref_node_pairs": {
+      "retrieved": "time:>+2018-09-23T00:00:00Z",
+      "reference URL": "url:>http://dialnet.unirioja.es/servlet/revista?codigo=97"
+    },
+    "language_crawl": "es",
+    "statement_node": "Q56702569-623B14B6-2A6E-4BCE-920C-CB0C1924F952",
+    "subject": "Ansiedad y estrés",
+    "predicate": "identificador Dialnet de revista",
+    "object": "97",
+    "g_id": 0
+  },
+  {
+    "reference_block_hash": "e65fce7d5c221255eb458774c80bdbdbd02fef5c",
+    "url": "https://es.wikipedia.org/w/index.php?title=Roberto_Hilbert&oldid=107481216",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Spanish Wikipedia->Q8449",
+      "Wikimedia import URL": "url:>https://es.wikipedia.org/w/index.php?title=Roberto_Hilbert&oldid=107481216"
+    },
+    "language_crawl": "es",
+    "statement_node": "Q60191-29B0DA37-CC42-4B67-A1B5-D75AB8489547",
+    "subject": "Roberto Hilbert",
+    "predicate": "inicio del periodo de actividad",
+    "object": "2002-01-01T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_block_hash": "37241267a151e9ce3dc6c2e3c158a1b1542b92a9",
+    "url": "http://datos.bne.es/resource/XX882734",
+    "ref_node_pairs": {
+      "named as": "value:>Abraham ben'Ezra",
+      "stated in": "wikibase-item:>Biblioteca Nacional de España->Q750403",
+      "Biblioteca Nacional de España ID": "value:>XX882734"
+    },
+    "language_crawl": "es",
+    "statement_node": "Q270670-0E77F135-C4BA-4405-92C2-B55CDEDDE075",
+    "subject": "Abraham ben Meir ibn Ezra",
+    "predicate": "fecha de nacimiento",
+    "object": "1092-01-01T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_block_hash": "830b028f9a1f7847aad4d066f3ac69eefb6d63b1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:16584701%20AND%20SRC:MED&resulttype=core&format=json",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>16584701",
+      "retrieved": "time:>+2020-01-18T00:00:00Z",
+      "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:16584701%20AND%20SRC:MED&resulttype=core&format=json"
+    },
+    "language_crawl": "es",
+    "statement_node": "Q83055371-9C6D0FE3-B87D-4F96-9679-3DAABC11E8D3",
+    "subject": "[Hemostatic clip-assisted placement of enteral feeding tubes]",
+    "predicate": "nombre del autor",
+    "object": "F J Martínez-Cerezo",
+    "g_id": 0
+  },
+  {
+    "reference_block_hash": "4950cb3052faa98aef071bc34e299f7817b879d1",
+    "url": "https://es.wikipedia.org/w/index.php?title=Yoshinori_Taguchi&oldid=118499680",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Spanish Wikipedia->Q8449",
+      "Wikimedia import URL": "url:>https://es.wikipedia.org/w/index.php?title=Yoshinori_Taguchi&oldid=118499680"
+    },
+    "language_crawl": "es",
+    "statement_node": "Q246714-F28FCB3E-0540-4D42-8DE3-B4986386B155",
+    "subject": "Yoshinori Taguchi",
+    "predicate": "inicio del periodo de actividad",
+    "object": "1989-01-01T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_block_hash": "8bd137149d748adc22a5d4805ef5c4dd7445c7e5",
+    "url": "https://es.wikipedia.org/w/index.php?title=Sebastián_Peluso&oldid=118204051",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Spanish Wikipedia->Q8449",
+      "Wikimedia import URL": "url:>https://es.wikipedia.org/w/index.php?title=Sebastián_Peluso&oldid=118204051"
+    },
+    "language_crawl": "es",
+    "statement_node": "Q50629217-821340F1-22BB-4A85-A88C-C7A99C15ECB1",
+    "subject": "Sebastián Peluso",
+    "predicate": "lugar de nacimiento",
+    "object": "Flores",
+    "g_id": 0
+  },
+  {
+    "reference_block_hash": "36b2e60865706f6dd9fa8c46bcbc948082d344f6",
+    "url": "http://digitale.beic.it/primo_library/libweb/action/search.do?fn=search&vid=BEIC&vl%283134987UI0%29=creator&vl%28freeText0%29=Vera%20Tassis%20y%20Villarroel%20Juan%20de",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://digitale.beic.it/primo_library/libweb/action/search.do?fn=search&vid=BEIC&vl%283134987UI0%29=creator&vl%28freeText0%29=Vera%20Tassis%20y%20Villarroel%20Juan%20de",
+      "section, verse, paragraph, or clause": "value:>Vera Tassis y Villarroel, Juan de 1634-"
+    },
+    "language_crawl": "es",
+    "statement_node": "Q5391706-84880FF4-8476-4598-98F5-67D6B1B5E009",
+    "subject": "Diego Juan de Vera Tassis y Villarroel",
+    "predicate": "descrito en",
+    "object": "biblioteca digital BEIC",
+    "g_id": 0
+  },
+  {
+    "reference_block_hash": "1bd65cb6b445ff9c1df1fea0bf74980afaec137e",
+    "url": "https://hdl.handle.net/10553/2297",
+    "ref_node_pairs": {
+      "Handle ID": "value:>10553/2297",
+      "retrieved": "time:>+2018-07-01T00:00:00Z"
+    },
+    "language_crawl": "es",
+    "statement_node": "Q55317168-81ffa6a8-4c79-b67e-01c1-d07e9816a328",
+    "subject": "La teoría de la historia de la Ilustración. Su incidencia en Canarias",
+    "predicate": "autor",
+    "object": "Juan Manuel Santana Pérez",
+    "g_id": 0
+  },
+  {
+    "reference_block_hash": "274efc36f3219cb3345c9c8d4dcdeb845bacd72a",
+    "url": "http://dbe.rah.es/biografias/78773/joaquin-de-agrela-y-moreno",
+    "ref_node_pairs": {
+      "retrieved": "time:>+2019-04-12T00:00:00Z",
+      "reference URL": "url:>http://dbe.rah.es/biografias/78773/joaquin-de-agrela-y-moreno"
+    },
+    "language_crawl": "es",
+    "statement_node": "Q63106502-E923C70D-663E-4C84-8E82-824ADEEA2A93",
+    "subject": "Joaquín de Agrela y Moreno",
+    "predicate": "identificador del Diccionario Biográfico Español",
+    "object": "78773/joaquin-de-agrela-y-moreno",
+    "g_id": 0
+  },
+  {
+    "reference_block_hash": "6a93f6698e4dceec3b02d42b223910e295a80c19",
+    "url": "https://es.wikipedia.org/w/index.php?title=Colegio_Nacional_de_Periodistas_(Venezuela)&oldid=117782693",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Spanish Wikipedia->Q8449",
+      "Wikimedia import URL": "url:>https://es.wikipedia.org/w/index.php?title=Colegio_Nacional_de_Periodistas_(Venezuela)&oldid=117782693"
+    },
+    "language_crawl": "es",
+    "statement_node": "Q22283597-70BE2149-A972-45E8-937F-80AE4D7695AE",
+    "subject": "Colegio Nacional de Periodistas",
+    "predicate": "fundador",
+    "object": "Héctor Mujica",
+    "g_id": 0
+  },
+  {
+    "reference_block_hash": "a9c1d58e9c17348fe4f06d243a0e40b30dcfc5f7",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:14871634%20AND%20SRC:MED&resulttype=core&format=json",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>14871634",
+      "retrieved": "time:>+2019-11-20T00:00:00Z",
+      "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:14871634%20AND%20SRC:MED&resulttype=core&format=json"
+    },
+    "language_crawl": "es",
+    "statement_node": "Q75827743-01E52F58-6162-4FF2-A771-337DE37ED7CD",
+    "subject": "Nasal tuberculosis in an elderly patient",
+    "predicate": "publicado en",
+    "object": "The Lancet Infectious Diseases",
+    "g_id": 0
+  },
+  {
+    "reference_block_hash": "01122037c140c6b47421aa199a4e742ec0321df9",
+    "url": "https://es.wikipedia.org/w/index.php?title=Ayúdame_Hit_Pack_(EP)&oldid=118940066",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Spanish Wikipedia->Q8449",
+      "Wikimedia import URL": "url:>https://es.wikipedia.org/w/index.php?title=Ayúdame_Hit_Pack_(EP)&oldid=118940066"
+    },
+    "language_crawl": "es",
+    "statement_node": "Q5714970-5AC20A9B-219A-463F-9543-12D43F315417",
+    "subject": "Ayúdame Hit Pack (EP)",
+    "predicate": "sucedido por",
+    "object": "6 Súper Hits (EP)",
+    "g_id": 0
+  },
+  {
+    "reference_block_hash": "4bb4d4e143df59f8bd1e098d1c46b39e26ab86c6",
+    "url": "https://es.wikipedia.org/w/index.php?title=Masato_Otake&oldid=118501195",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Spanish Wikipedia->Q8449",
+      "Wikimedia import URL": "url:>https://es.wikipedia.org/w/index.php?title=Masato_Otake&oldid=118501195"
+    },
+    "language_crawl": "es",
+    "statement_node": "Q4387150-C79EBBDF-79E1-43D9-9037-57933870D24E",
+    "subject": "Masato Otake",
+    "predicate": "inicio del periodo de actividad",
+    "object": "1994-01-01T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_block_hash": "3264a3c79e378a6b957c70850fbdf605282db980",
+    "url": "https://es.wikipedia.org/w/index.php?title=Mogogi_Gabonamong&oldid=101314451",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Spanish Wikipedia->Q8449",
+      "Wikimedia import URL": "url:>https://es.wikipedia.org/w/index.php?title=Mogogi_Gabonamong&oldid=101314451"
+    },
+    "language_crawl": "es",
+    "statement_node": "Q2698261-B582F97D-35B1-438E-8CAD-54BD0CFB947C",
+    "subject": "Mogogi Gabonamong",
+    "predicate": "inicio del periodo de actividad",
+    "object": "1998-01-01T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_block_hash": "39420e880092cce4d47e0a512e27d6d5e7bcb9f2",
+    "url": "https://es.wikipedia.org/w/index.php?title=Masashi_Miyamura&oldid=114416425",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Spanish Wikipedia->Q8449",
+      "Wikimedia import URL": "url:>https://es.wikipedia.org/w/index.php?title=Masashi_Miyamura&oldid=114416425"
+    },
+    "language_crawl": "es",
+    "statement_node": "Q3245719-B5C5D17E-A396-44E2-9703-ED2295A12237",
+    "subject": "Masashi Miyamura",
+    "predicate": "inicio del periodo de actividad",
+    "object": "1987-01-01T00:00:00Z",
+    "g_id": 0
+  },
+  {
+    "reference_block_hash": "66bfb2bbabbe3074275ec887589c56ef05500bb7",
+    "url": "http://data.bnf.fr/ark:/12148/cb125445981",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>BnF authorities->Q19938912",
+      "retrieved": "time:>+2015-10-10T00:00:00Z",
+      "reference URL": "url:>http://data.bnf.fr/ark:/12148/cb125445981"
+    },
+    "language_crawl": "es",
+    "statement_node": "Q8201551-EE0917CE-FB32-4288-8BFA-3C5025B60522",
+    "subject": "Antonio Palau y Dulcet",
+    "predicate": "instancia de",
+    "object": "ser humano",
+    "g_id": 0
+  }
+]

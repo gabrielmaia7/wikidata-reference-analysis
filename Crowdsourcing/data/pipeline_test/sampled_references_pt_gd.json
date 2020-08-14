@@ -1,0 +1,55 @@
+[
+  {
+    "reference_id": "78219f6193184ff2a5712ae4f6fb917ac2e53f0b",
+    "url": "http://museus.cultura.gov.br/espaco/8345",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://museus.cultura.gov.br/espaco/8345"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q56693821-515FEF5D-CE1F-4B82-8E0F-58BE962C872A",
+    "subject": "Museu Antropológico da Universidade Federal de Goiás",
+    "predicate": "página inicial oficial",
+    "object": "http://www.museu.ufg.br",
+    "g_id": 0
+  },
+  {
+    "reference_id": "32fc10677ba55847690900d9fe8b6a1e4f848fb4",
+    "url": "http://www.interfilmes.com/filme_14601_Um.Tira.Muito.Suspeito-(Blue.Streak).html",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://www.interfilmes.com/filme_14601_Um.Tira.Muito.Suspeito-(Blue.Streak).html",
+      "retrieved": "time:>+2016-06-22T00:00:00Z"
+    },
+    "language_crawl": "pt",
+    "statement_node": "q1192922-274468DF-E2B6-4D3C-82C1-B47036CFF326",
+    "subject": "Blue Streak",
+    "predicate": "protagonistas",
+    "object": "Martin Lawrence",
+    "g_id": 0
+  },
+  {
+    "reference_id": "e2942525296fe0cfac6045837d3a51e06fe4b2dc",
+    "url": "https://comarcas.tribunais.org.pt/comarcas/nucleo.php?com=lisboanorte&nucleo=TORRES+VEDRAS&id_nucleo=132",
+    "ref_node_pairs": {
+      "reference URL": "url:>https://comarcas.tribunais.org.pt/comarcas/nucleo.php?com=lisboanorte&nucleo=TORRES+VEDRAS&id_nucleo=132"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q88629395-6fcd9441-43c0-9e9d-3612-e2c364edd7e1",
+    "subject": "Juízo de Família e Menores de Torres Vedras",
+    "predicate": "instância de",
+    "object": "tribunal",
+    "g_id": 0
+  },
+  {
+    "reference_id": "bf5a7dd03b730b2356788784694a433f8400f560",
+    "url": "http://g1.globo.com/bahia/noticia/2012/04/usuarios-temem-seguranca-no-terminal-da-calcada-em-salvador.html",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://g1.globo.com/bahia/noticia/2012/04/usuarios-temem-seguranca-no-terminal-da-calcada-em-salvador.html"
+    },
+    "language_crawl": "pt",
+    "statement_node": "Q66715210-54BD86C2-FFAD-4C87-B0AC-896241403AA2",
+    "subject": "Terminal Calçada",
+    "predicate": "localizado na unidade administrativa",
+    "object": "Salvador",
+    "g_id": 0
+  }
+]

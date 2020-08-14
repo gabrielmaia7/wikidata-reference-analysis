@@ -1,0 +1,45 @@
+{
+    "type": "relevance",
+    "time_thr": "5000",
+    "language": "es",
+    "tasks" : "TaskSetsForPilot.json",
+    "language_str": "Spanish",
+    "task_attributes":
+    {
+        "MaxAssignments": 5,
+        "LifetimeInSeconds": 604800,
+        "AssignmentDurationInSeconds": 3600,
+        "Reward": "0.50",
+        "Title": "Checking the relevance of websites",
+        "Keywords": "Weblinks, Statements, Information Retrieval",
+        "Description": "Help us by clicking on weblinks and making sure that they have the correct information",
+        "QualificationRequirements": [{
+            "QualificationTypeId": "000000000000000000L0",
+            "Comparator": "GreaterThanOrEqualTo",
+            "IntegerValues": [80],
+            "ActionsGuarded": "DiscoverPreviewAndAccept"
+        },
+        {
+            "QualificationTypeId": "00000000000000000040",
+            "Comparator": "GreaterThan",
+            "IntegerValues": [1000],
+            "ActionsGuarded": "DiscoverPreviewAndAccept"
+        },
+        {
+            "QualificationTypeId": "00000000000000000071",
+            "Comparator": "In",
+            "LocaleValues":[{
+                "Country":"US"
+            },{
+                "Country":"CA"
+            },{
+                "Country":"GB"
+            },{
+                "Country":"AU"
+            },{
+                "Country":"NZ"
+            }],
+            "ActionsGuarded": "DiscoverPreviewAndAccept"
+        }]
+    }
+}
