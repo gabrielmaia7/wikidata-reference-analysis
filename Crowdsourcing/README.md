@@ -6,7 +6,7 @@ This part of the repository stores and documents the scripts and data used on th
 
 - **config**: This folder contains the configuration files for running the Crowdsourcing campaign. *Please note* that you should also create here two files which are not included in this repository: *amazon_credentials.json*, with your amazon credentials, and *mongodb_credentials*, with either your mongo credentials or a connection string.
     - **final**: Contains the task configuration for the final tasks (the actual tasks done in the campaign);
-        - **task_config_authorit**: Contains the configuration for the authoritativeness tasks (see more about the structure in the README that is in the same folder as these files);
+        - **task_config_authorit**: Contains the configuration for the authoritativeness tasks (see more about the structure in the [README that is in the same folder as these files](config/final/README.md));
         - **task_config_relevance**: Contains the configuration for the relevancy tasks;
     - **pilot_config**: Contains the task configuration for the tasks carried in the pilot;
     - **pipeline_test_config**: Contains the task configuration for the tasks carried while testing the pipeline (from Wikidata parsing to task generation and deployment)
