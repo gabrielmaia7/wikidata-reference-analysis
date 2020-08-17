@@ -57,3 +57,19 @@ This part of the repository stores and documents the scripts and data used on th
 - **mockup.pdf**: This file holds the mockup used to design the tasks. Made with Balsamiq.
 - **mturk.py**: This script is a module which contains all the necessary interfacing with MTurk, done via its API and the botocore3 module.
 - **update_db.py**: This script is a python routine which keeps track of HITs as they are resolved by workers and updates the MongoDB database used to track their status. See inside the script instructions on using it.
+
+## Using these files
+
+1. After having created and populated both **reference_nodes_to_urls** and **reference_urls_parsed** tables with samples, follow the instructions and run the notebook **GenerateTaskSets**, which will create the tasksets for running the HITs. This will require:
+    1. Assembling the tables into the reference samples ready to be sent to workers;
+    2. Splitting the samples into gold standard and non gold standard;
+    3. Filtering the non gold standards based on whether or not we can check them with APIs, using the **Automated_verification_APIs-\<language\>.ipynb** notebooks;
+    4. Label the filtered non gold standard as being the samples for the *relevancy* task, and creating a copy of it for the *authoritativeness* tasks, with the difference being that for the *authoritativeness* tasks we'll remove all references using Wikipedia (because they bloat the sample and we already know their authoritativeness classification)
+    5. Annotate the gold standards;
+    6. Generate the tasksets;
+2. Make sure the HTMLs are working properly by checking for errors using the Mockups. Any needed changes must be done in the templates.
+3. Write the task configurations for the tasks about to be run, as well as modifying any needed text file used.
+4. Use the **ExperimentRunner** notebook to then launch the tasks.
+5. Use the **update_db.py** script to keep track of the status of the HITs.
+6. Use the **Crowd_Results_Analysis.ipynb** notebook to analyse the results from the crowd.
+7. Use the **Wikidata_Samples_Final_Annotations_Analysis.ipynb** notebook to analyse final results from both crowd and APIs.
