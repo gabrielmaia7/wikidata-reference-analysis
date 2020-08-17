@@ -1,7 +1,7 @@
 .ipynb_checkpoints
 
 # PDFS
-
+.pdf
 
 #ipynb checkpoints
 .ipynb_checkpoints
@@ -22,3 +22,7 @@ mongodb_credentials.json
 
 #git backup from cleopatra repo before transfer
 .gitbackup/*
+
+#other
+.vscode/*
+__pycache__/*
