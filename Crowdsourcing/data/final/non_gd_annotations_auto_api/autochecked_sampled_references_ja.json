@@ -1,0 +1,3266 @@
+[
+  {
+    "reference_id": "49e43be4b090739962bd8a80303f1cef1e8fe37b",
+    "url": "https://viaf.org/viaf/251376192",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>251376192"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11484273-D81224F4-DD2B-471C-BDF3-0907D0CAB0D5",
+    "subject": "幾野宏",
+    "predicate": "WorldCat 識別ID",
+    "object": "viaf-251376192",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "019b5654f4006feed1937ad7b5d74f99979482e4",
+    "url": "https://viaf.org/viaf/62562346",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+      "VIAF ID": "value:>62562346",
+      "retrieved": "time:>+2018-10-07T00:00:00Z"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11635630-A37A7415-AA26-4BC9-9E89-135BC59AFF5C",
+    "subject": "赤木善光",
+    "predicate": "国立国会図書館典拠ID",
+    "object": "00000909",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "f3ab3687bb103ba66c51c17f017a65bf96406a6c",
+    "url": "https://viaf.org/viaf/29848673",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>29848673"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11450466-DBE6F1CE-EEB6-4DE2-B17C-00FB0B2FCF27",
+    "subject": "安在邦夫",
+    "predicate": "WorldCat 識別ID",
+    "object": "lccn-n84194534",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "10d16ef99ddcde551f5907ab3c0c99ecc3138b07",
+    "url": "https://viaf.org/viaf/48194093",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>48194093"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11598685-A88B63D0-04D8-4F00-AB5E-35191D7503B7",
+    "subject": "竹下賢",
+    "predicate": "WorldCat 識別ID",
+    "object": "lccn-n85096297",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "ebc02f39e6739cb6774b6092b0f54f99c6f62efa",
+    "url": "https://viaf.org/viaf/79187400",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+      "VIAF ID": "value:>79187400",
+      "retrieved": "time:>+2018-10-07T00:00:00Z"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11509594-7C8ACD8F-96A1-4C9C-AA05-A5608349C7A8",
+    "subject": "日比野克彦",
+    "predicate": "VIAF識別子",
+    "object": "79187400",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "a59a1fd665ea528928df46864351628795e2158a",
+    "url": "https://viaf.org/viaf/254506313",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+      "VIAF ID": "value:>254506313",
+      "retrieved": "time:>+2018-10-07T00:00:00Z"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11623719-92BF9341-1710-450E-8F84-12FA40188EC0",
+    "subject": "藤堂省",
+    "predicate": "国立国会図書館典拠ID",
+    "object": "00804940",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "7dfe0d39475551d70dd4a55a9834ad4c47ccf898",
+    "url": "https://viaf.org/viaf/255029727",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>255029727"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q87193218-F1621FA5-E3ED-49EA-B5D5-0F01E3138267",
+    "subject": "芝山みよか",
+    "predicate": "WorldCat 識別ID",
+    "object": "viaf-255029727",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "76487a27e92299324a673bf58ebab6900e33bb20",
+    "url": "https://viaf.org/viaf/253785134",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>253785134"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11674188-C90D5A41-B43F-48D2-B6C1-13FC941D36E8",
+    "subject": "鮫島正樹",
+    "predicate": "WorldCat 識別ID",
+    "object": "viaf-253785134",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "021dadb48aea750a6884b57dcccab545a88a905f",
+    "url": "https://viaf.org/viaf/1331895",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>1331895"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11428514-0B081F61-B344-4264-BCB6-A0DD23C6BC56",
+    "subject": "塚本邦雄",
+    "predicate": "WorldCat 識別ID",
+    "object": "lccn-n81058432",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "78d048a87821449a33b7b3cb9fd17a5e2a9c44f3",
+    "url": "https://viaf.org/viaf/257956054",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>257956054"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q6040438-9CAA070E-CAE6-483A-B302-1DE2C671B276",
+    "subject": "情報セキュリティ大学院大学",
+    "predicate": "WorldCat 識別ID",
+    "object": "viaf-257956054",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "1497039e69a60578c40708cca0dba0dd74702690",
+    "url": "https://viaf.org/viaf/257619831",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>257619831"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11384067-3B96B411-B701-4BC8-A94E-D13C151773E4",
+    "subject": "佐藤文彦 (農学者)",
+    "predicate": "WorldCat 識別ID",
+    "object": "viaf-257619831",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "76ccfe2a0a901378e118a57b54a9bad8ed2302d4",
+    "url": "https://viaf.org/viaf/257642362",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>257642362"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11472086-FD19239F-A63B-4657-BD41-CB03896DF38C",
+    "subject": "岡山協立病院",
+    "predicate": "WorldCat 識別ID",
+    "object": "viaf-257642362",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "9c17498f4acde07f0ded47631f2e300fbad6009f",
+    "url": "https://viaf.org/viaf/7275678",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+      "retrieved": "time:>+2018-05-25T00:00:00Z",
+      "VIAF ID": "value:>7275678"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q38276970-657AC3EE-1599-4E93-961F-DB71BC6BF42A",
+    "subject": "宮内美沙子",
+    "predicate": "生年月日",
+    "object": "1946-01-01T00:00:00Z",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "8f043a191895d753d34bfd509f5340d9d5004c83",
+    "url": "https://viaf.org/viaf/260047981",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>260047981"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11552776-4671A3FF-6372-438E-85CA-4836ED06D6D4",
+    "subject": "沖縄県立南部医療センター・こども医療センター",
+    "predicate": "WorldCat 識別ID",
+    "object": "viaf-260047981",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "b89c8f34bb0a84006b9c7dbaa132037ee858cbdf",
+    "url": "https://viaf.org/viaf/197289153",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+      "VIAF ID": "value:>197289153",
+      "retrieved": "time:>+2018-10-07T00:00:00Z"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11619723-214B0A2A-2947-4880-8DEF-8627DE07E68E",
+    "subject": "菊池光",
+    "predicate": "VIAF識別子",
+    "object": "197289153",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "c7e592f5a68116e9e655cfd27dc3c14a0fbb163c",
+    "url": "https://viaf.org/viaf/124799156",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>124799156"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q1063071-3A220A86-FCF8-41A0-90A8-A9B1F909564E",
+    "subject": "呉市海事歴史科学館",
+    "predicate": "WorldCat 識別ID",
+    "object": "lccn-nr2006010492",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "a74b4ff0a347a506b3d65e8b4e33cbe8c4f086ce",
+    "url": "https://viaf.org/viaf/154773131",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>154773131"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q41761492-DD38CBD4-B22E-454B-93A5-AD1E5CC38EBD",
+    "subject": "浜松市立中央図書館",
+    "predicate": "WorldCat 識別ID",
+    "object": "lccn-n80147646",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "77faf48a1b0b48b44d87b03a37173bf0a8ec11cf",
+    "url": "https://viaf.org/viaf/72777829",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>72777829"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11382795-F5925411-77D1-43F8-B0DD-B4EB3817A921",
+    "subject": "佐伯千仭",
+    "predicate": "WorldCat 識別ID",
+    "object": "lccn-n83213252",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "b8e3caaa40a56ecd2c074b8a822b194dd27f16a0",
+    "url": "https://viaf.org/viaf/252053445",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>252053445"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q30930414-80044AD7-05A2-4CBD-BAAE-FF39C3C69DFA",
+    "subject": "かながわ考古学財団",
+    "predicate": "WorldCat 識別ID",
+    "object": "lccn-no2016074910",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "abda6adeaee20efcf035a25ac77bc0a2d6c5b183",
+    "url": "https://viaf.org/viaf/252574778",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>252574778"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q16769771-C6A5938A-BF39-476E-9B07-A1F0176731E9",
+    "subject": "今瀬剛一",
+    "predicate": "WorldCat 識別ID",
+    "object": "viaf-252574778",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "5f15dc68a03e8cd7d7600a8daf341359f663a81b",
+    "url": "https://viaf.org/viaf/259483107",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>259483107"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11545734-9F1E5C8F-8EF5-464F-A99B-B48918E344A1",
+    "subject": "此ノ木よしる",
+    "predicate": "WorldCat 識別ID",
+    "object": "viaf-259483107",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "a855de25b7d5f63b4a88f140e6a307b9e4e90580",
+    "url": "https://viaf.org/viaf/65488520",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>65488520"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11479357-D7CFD372-250B-4332-890C-D0CF0522B24A",
+    "subject": "川野辺敏",
+    "predicate": "WorldCat 識別ID",
+    "object": "lccn-n86073157",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "99bbb423da9d5e2fccf0b416cef5adffd6bf14df",
+    "url": "https://viaf.org/viaf/108224747",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>108224747",
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+      "retrieved": "time:>+2015-03-08T00:00:00Z"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11466270-5BAC68B0-212E-48B6-B513-325ED5CF8550",
+    "subject": "山代巴",
+    "predicate": "LNB識別子",
+    "object": "000122670",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "24a0f040d954eccf5c4f2fda2f5e3693e2bb572f",
+    "url": "https://viaf.org/viaf/108171912",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>108171912"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11364361-F61183B7-B85B-4F8B-8696-D3F3C894BCED",
+    "subject": "中島みち",
+    "predicate": "WorldCat 識別ID",
+    "object": "lccn-n82056537",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "188b923dd6c843d62355924cb9d46f1aaec426c1",
+    "url": "https://viaf.org/viaf/256644713",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>256644713"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q18817581-8E8B43EE-C9F4-4040-85F2-F1D560740610",
+    "subject": "境新一",
+    "predicate": "WorldCat 識別ID",
+    "object": "lccn-n2011054840",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "c058e64a1c1c201d015c6956c1bf06a8290afce7",
+    "url": "https://viaf.org/viaf/258957896",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>258957896"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11672894-A6AF42B1-A25B-49F0-92E7-C83DBDC75115",
+    "subject": "高辻知義",
+    "predicate": "WorldCat 識別ID",
+    "object": "viaf-258957896",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "fae951bccb28bde0d51cc4e02eb0da2e771f0746",
+    "url": "https://viaf.org/viaf/108152055",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>108152055"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11393698-6090705B-2AE3-4556-9A41-542A7898B963",
+    "subject": "兵藤裕己",
+    "predicate": "WorldCat 識別ID",
+    "object": "lccn-n85367345",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "d6553f830958ac74a04bac971baf9407532188a7",
+    "url": "https://viaf.org/viaf/124915556",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>124915556"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q17219624-DA3DCA87-5BAA-4931-B4B3-10BBCC308D44",
+    "subject": "沖縄県立博物館",
+    "predicate": "WorldCat 識別ID",
+    "object": "lccn-n50073104",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "0fba3577f19487d744869d99f2b2fb1c566b3a35",
+    "url": "https://viaf.org/viaf/257647747",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>257647747"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q65488264-CC597FC0-097A-4FC1-9282-D212A21113F7",
+    "subject": "村瀬義史",
+    "predicate": "WorldCat 識別ID",
+    "object": "viaf-257647747",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "44439e8c354240fb273955ee0aeb8c2dd7d1f416",
+    "url": "https://viaf.org/viaf/108735599",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+      "VIAF ID": "value:>108735599",
+      "retrieved": "time:>+2018-10-07T00:00:00Z"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11602548-A21BE346-499A-4F86-906E-04C2EA5E6CB3",
+    "subject": "笹山隆",
+    "predicate": "SUDOC",
+    "object": "055804381",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "4ca0224c03ba2ad5e6a19cb2b4ece610eaf80c05",
+    "url": "https://viaf.org/viaf/23554119",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+      "retrieved": "time:>+2018-05-25T00:00:00Z",
+      "VIAF ID": "value:>23554119"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q24896613-41202D99-97A4-45D2-8263-1F57C4E9D65C",
+    "subject": "近藤大生",
+    "predicate": "生年月日",
+    "object": "1933-01-01T00:00:00Z",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "d39cb65adb6986877b2f4fa731773e7ee1618e95",
+    "url": "https://viaf.org/viaf/28410339",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>28410339"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11427380-8F584FD2-150C-4ADD-830F-18EFB1DB7A2F",
+    "subject": "堀場清子",
+    "predicate": "WorldCat 識別ID",
+    "object": "lccn-n82024736",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "9f81c502341a2e994c5b386451c2254a41863fbd",
+    "url": "https://viaf.org/viaf/25933041",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+      "retrieved": "time:>+2018-08-27T00:00:00Z",
+      "VIAF ID": "value:>25933041"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11645512-6E1DD3E0-8B16-47E9-AC89-E5D21C7AF397",
+    "subject": "野本寛一",
+    "predicate": "NTA PPN 識別子",
+    "object": "256558493",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "163d9d2fc832a6f7d349a421e791a2b81d3cedb7",
+    "url": "https://viaf.org/viaf/259481735",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>259481735"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q30933421-081B7C54-A144-4A44-A04A-57208EEA62C3",
+    "subject": "金子信久",
+    "predicate": "WorldCat 識別ID",
+    "object": "lccn-no2013053709",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "6996e6e31fb61ff0207e74434518689cfb02cb0c",
+    "url": "https://viaf.org/viaf/123265607",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>123265607"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q496531-7C6017DA-A758-43E9-8A71-96F5229E9E1D",
+    "subject": "四国旅客鉄道",
+    "predicate": "WorldCat 識別ID",
+    "object": "lccn-n88239962",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "37286d2651bd43e583ffb3493fb24989ac87e6df",
+    "url": "https://viaf.org/viaf/254973821",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+      "VIAF ID": "value:>254973821",
+      "retrieved": "time:>+2018-10-07T00:00:00Z"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11667982-0FD21E5A-8463-45FF-8E54-763532E40A99",
+    "subject": "馬杉宗夫",
+    "predicate": "VIAF識別子",
+    "object": "254973821",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "c1a5d9799aa7262942ac36e7268be6a09cfac68c",
+    "url": "https://viaf.org/viaf/254293060",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>254293060"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11672453-68957A62-754C-4F1E-B79F-F4A6F205E866",
+    "subject": "高知県立宿毛工業高等学校",
+    "predicate": "WorldCat 識別ID",
+    "object": "viaf-254293060",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "efa79a14d4da4f2c4ae34da90ee372091ecff8f6",
+    "url": "https://viaf.org/viaf/261046635",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>261046635"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q30934012-20656A7D-40A0-4FCB-A35D-1331666AA835",
+    "subject": "丸谷博男",
+    "predicate": "WorldCat 識別ID",
+    "object": "viaf-261046635",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "4f7f74faf7f7e4b803aa5d2dededc28f3ce53685",
+    "url": "https://viaf.org/viaf/240025955",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+      "VIAF ID": "value:>240025955",
+      "retrieved": "time:>+2018-10-07T00:00:00Z"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q21701367-BBC03E40-8E52-4610-A39D-B3F224309D97",
+    "subject": "速川和男",
+    "predicate": "国立国会図書館典拠ID",
+    "object": "00099804",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "8c74fb09d9481276cc197051032481f716291ed3",
+    "url": "https://viaf.org/viaf/108223182",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+      "retrieved": "time:>+2018-05-25T00:00:00Z",
+      "VIAF ID": "value:>108223182"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q40033964-343EC3E6-4078-4D98-A34C-F3C00DEDA62F",
+    "subject": "若杉明",
+    "predicate": "生年月日",
+    "object": "1929-01-01T00:00:00Z",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "64a25a35c0cb2f651ba590d34e155674399e6e9b",
+    "url": "https://viaf.org/viaf/108684738",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+      "VIAF ID": "value:>108684738",
+      "retrieved": "time:>+2018-08-11T00:00:00Z"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11384550-1947EDDD-BD43-44A9-8946-0F5B83D124C7",
+    "subject": "佐藤雅彦 (理論計算機科学者)",
+    "predicate": "BNF",
+    "object": "121957478",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "9c9ee4fef9b2c04a756c2328f590353e35fed2ab",
+    "url": "https://viaf.org/viaf/61839023",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+      "VIAF ID": "value:>61839023",
+      "retrieved": "time:>+2018-10-07T00:00:00Z"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q1942999-06D97E15-A574-4988-ADEE-2B859F860A7A",
+    "subject": "栗本薫",
+    "predicate": "BNF",
+    "object": "150749791",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "7b38f108b1c3adb04059cc3c2a31f436cd1fa359",
+    "url": "https://viaf.org/viaf/38233334",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+      "retrieved": "time:>+2018-04-06T00:00:00Z",
+      "VIAF ID": "value:>38233334"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11451398-978B6055-2216-43AE-9B5B-AF31914C567B",
+    "subject": "安藤良雄",
+    "predicate": "NTA PPN 識別子",
+    "object": "304730831",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "9ab457d382bde8124aa58ad93f336076308d375f",
+    "url": "https://viaf.org/viaf/67798930",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>67798930"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q17158298-CD68BF2E-ED79-4F37-886C-F48A6E2E3ECF",
+    "subject": "小林一也",
+    "predicate": "WorldCat 識別ID",
+    "object": "lccn-n81149430",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "240f70834ede9ee34b9b5db132e9efe87ce8296f",
+    "url": "https://viaf.org/viaf/254482056",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+      "VIAF ID": "value:>254482056",
+      "retrieved": "time:>+2018-10-07T00:00:00Z"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11357347-FA7AFEDB-DA7E-4156-AC65-C7804CFC7621",
+    "subject": "三輪一雄 (イラストレーター)",
+    "predicate": "VIAF識別子",
+    "object": "254482056",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "81beaa526a07c7322bc745258b9950123bd23efe",
+    "url": "https://viaf.org/viaf/255241915",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>255241915"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q61887468-266AC369-605E-426C-914E-310D514514AF",
+    "subject": "新潟市立中央図書館",
+    "predicate": "WorldCat 識別ID",
+    "object": "viaf-255241915",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "ae071d5044d3356533c84073ef439d02fa73a26d",
+    "url": "https://viaf.org/viaf/258887651",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>258887651"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q27150847-72DBC509-CB60-4B44-A872-010CBBECFEB3",
+    "subject": "浜田満",
+    "predicate": "WorldCat 識別ID",
+    "object": "viaf-258887651",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "61d28330ecfd6d13f775aae2a58e72d4a52bc5c5",
+    "url": "https://viaf.org/viaf/259710142",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>259710142",
+      "retrieved": "time:>+2017-10-16T00:00:00Z",
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q30937064-41EDCDD8-EB44-424A-8F6F-A580A0AF96B9",
+    "subject": "片山修",
+    "predicate": "LCNAF識別子",
+    "object": "n88029698",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "a63500d1e703cf29ec0dc895d1280ad08a5c3949",
+    "url": "https://viaf.org/viaf/44156597",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>44156597"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q27151060-76199AA1-58DC-41CA-8E50-1C74D3960831",
+    "subject": "藤野陽三",
+    "predicate": "WorldCat 識別ID",
+    "object": "lccn-nr91036630",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "a45c6dbfdd832bbbede07f89cd2b3e4bc969971a",
+    "url": "https://viaf.org/viaf/258111558",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>258111558"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q212713-2930FDDF-C876-49F2-83F5-4D0B7B36DFDA",
+    "subject": "文京区",
+    "predicate": "WorldCat 識別ID",
+    "object": "viaf-258111558",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "b0e1ed13353928a61d0aa6fb3e356c96a1c713de",
+    "url": "https://viaf.org/viaf/54049987",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>54049987",
+      "retrieved": "time:>+2017-11-20T00:00:00Z",
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11459877-89B89DEF-15CF-466F-A3B0-EC4260F39DB5",
+    "subject": "小山昇",
+    "predicate": "BNF",
+    "object": "14371594g",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "9b8a27d0ac3b9384592350adf179ea0bf4b02a35",
+    "url": "https://viaf.org/viaf/75739202",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+      "retrieved": "time:>+2018-05-25T00:00:00Z",
+      "VIAF ID": "value:>75739202"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q27150339-2579BE12-E552-4479-A563-A251BCE5D9C7",
+    "subject": "鷲田祐一",
+    "predicate": "生年月日",
+    "object": "1968-01-01T00:00:00Z",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "4cfb4ca8a8667c9795fa3bfc3ba37233ace6e4b8",
+    "url": "https://viaf.org/viaf/225586942",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+      "VIAF ID": "value:>225586942",
+      "retrieved": "time:>+2018-10-07T00:00:00Z"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11459436-B3E0EA47-022C-4C7B-9F3E-171AFC81F92E",
+    "subject": "小坂狷二",
+    "predicate": "VIAF識別子",
+    "object": "225586942",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "6a27a40d380fbf0a4e5169417e839c82bbb49604",
+    "url": "https://viaf.org/viaf/92795745",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+      "VIAF ID": "value:>92795745",
+      "retrieved": "time:>+2018-08-13T00:00:00Z"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11475229-0F3649F4-B60C-479E-94B9-708F3A04A57C",
+    "subject": "岩橋小弥太",
+    "predicate": "VIAF識別子",
+    "object": "92795745",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "f9c2fa1527623fb364185886c98664072ca32d69",
+    "url": "https://viaf.org/viaf/256212121",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>256212121"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11434291-4E2C1FD1-B24C-4B21-8C36-122C659C50A6",
+    "subject": "大学通信",
+    "predicate": "WorldCat 識別ID",
+    "object": "viaf-256212121",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "7ec6e2a79887ea92a13fa9fdeb6e7239fe69c51d",
+    "url": "https://viaf.org/viaf/255530815",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>255530815"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q30924486-931C5188-BA16-4AD3-A5D3-369AB1732DEE",
+    "subject": "白井汪芳",
+    "predicate": "WorldCat 識別ID",
+    "object": "lccn-n2016058183",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "6eedd3364ac271222520c7106608f83dc6d6afb0",
+    "url": "https://viaf.org/viaf/108246790",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+      "retrieved": "time:>+2018-08-28T00:00:00Z",
+      "VIAF ID": "value:>108246790"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11538770-6EBD7D35-2DF5-4E04-A231-0FAD69CF349F",
+    "subject": "梯明秀",
+    "predicate": "NTA PPN 識別子",
+    "object": "292059876",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "3f66cdb94965b57279fbadd72ba04a34f77df778",
+    "url": "https://viaf.org/viaf/130649917",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>130649917"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11468274-81BEB336-9614-4F92-9B1C-444F178B739B",
+    "subject": "山川出版社",
+    "predicate": "WorldCat 識別ID",
+    "object": "lccn-nr2003015222",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "0792ce784b39c4ccdd4b27f8e4d482f7fd762692",
+    "url": "https://viaf.org/viaf/66586063",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+      "VIAF ID": "value:>66586063",
+      "retrieved": "time:>+2018-10-07T00:00:00Z"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q5675629-13C6903A-29DC-4CFD-BD14-0D22744A07F6",
+    "subject": "金田一春彦",
+    "predicate": "BNF",
+    "object": "12616284j",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "6c5188b5bf1a0db181410b892af78476666953a1",
+    "url": "https://viaf.org/viaf/164763892",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>164763892"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q40030672-9B0CC17D-2C7E-439C-AF15-4A3EE1A0BB63",
+    "subject": "千宗屋",
+    "predicate": "WorldCat 識別ID",
+    "object": "lccn-no2011014380",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "ef752901364ffa5c4282d45ea43f2d797d8190b6",
+    "url": "https://viaf.org/viaf/14584311",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+      "retrieved": "time:>+2018-08-27T00:00:00Z",
+      "VIAF ID": "value:>14584311"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q3139352-0FC89AC4-C242-4C00-831B-C353DB21F253",
+    "subject": "増山元三郎",
+    "predicate": "NTA PPN 識別子",
+    "object": "074807927",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "d68dfedf115f6388a2c122a6201600b6e4ddbd04",
+    "url": "https://viaf.org/viaf/108350415",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+      "retrieved": "time:>+2018-04-09T00:00:00Z",
+      "VIAF ID": "value:>108350415"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q17160934-DA77A56C-9FF1-4553-8B53-AD3B63BAD67A",
+    "subject": "田中義久",
+    "predicate": "NTA PPN 識別子",
+    "object": "292665849",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "b3b4de0f7e2752835b993adfa4ceb678537ebc0f",
+    "url": "https://viaf.org/viaf/72760840",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>72760840"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11576905-49D93043-CE3D-41D0-9F41-CF511C27DDF3",
+    "subject": "田村孝之介",
+    "predicate": "WorldCat 識別ID",
+    "object": "lccn-n83012402",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "56b43c2faa5bb1ce14989e56aefdeede979b1816",
+    "url": "https://viaf.org/viaf/3164295",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+      "VIAF ID": "value:>3164295",
+      "retrieved": "time:>+2018-10-07T00:00:00Z"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q16335975-7CFA3D1D-A79A-4EF9-A959-BC71744E83A4",
+    "subject": "小倉貞秀",
+    "predicate": "国立国会図書館典拠ID",
+    "object": "00058328",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "9e5a0e8c7ddcb79d37bae06c220ec0e25faa7a49",
+    "url": "https://viaf.org/viaf/4887102",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>4887102"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q7477236-9E9F391A-5F71-4A90-8E90-8AD0B8120C6A",
+    "subject": "荒木和博",
+    "predicate": "WorldCat 識別ID",
+    "object": "lccn-nr2005019095",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "477de1be7e40a0f33758eb68e82c058e053bd3d0",
+    "url": "https://viaf.org/viaf/70246025",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+      "retrieved": "time:>+2018-04-08T00:00:00Z",
+      "VIAF ID": "value:>70246025"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11560950-9234BBDF-63F0-4F38-AB93-6B055746BCB0",
+    "subject": "清水幾太郎",
+    "predicate": "NTA PPN 識別子",
+    "object": "241461693",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "b0f0ae019b11a909794dce1b22d0d3655ae5b8c8",
+    "url": "https://viaf.org/viaf/109301249",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>109301249",
+      "retrieved": "time:>+2018-05-08T00:00:00Z",
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11522721-473BF901-5DD2-402E-91A3-63FE7F1B4607",
+    "subject": "村上兵衛",
+    "predicate": "国立国会図書館典拠ID",
+    "object": "00048456",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "0cf0921632cf18fe76fc919316b2cacaf0b4efc5",
+    "url": "https://viaf.org/viaf/30925703",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>30925703"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q15043492-5A86EA71-8747-4845-B24F-0EB5D0A4A5BC",
+    "subject": "橘純一",
+    "predicate": "WorldCat 識別ID",
+    "object": "lccn-n83317795",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "e8217b87ec7eb80d2e2dd793ffae7678988f1db9",
+    "url": "https://viaf.org/viaf/25987083",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>25987083"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11642953-CBB25357-994B-419A-9579-F359065BCA17",
+    "subject": "那須良輔",
+    "predicate": "WorldCat 識別ID",
+    "object": "lccn-n83195450",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "6291d7dc22e73edd30adaf8244c4c61fb2762a6b",
+    "url": "https://viaf.org/viaf/255079718",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>255079718"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11508417-364BCA6B-6F0F-4734-8C5D-6BA35D6D62D4",
+    "subject": "日本毛織",
+    "predicate": "WorldCat 識別ID",
+    "object": "lccn-no2019112395",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "184b8c9561a42529e1fdd2eaa4b612a1ad2ce878",
+    "url": "https://viaf.org/viaf/38483130",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>38483130"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11585874-97A5935E-DF9C-4FE0-B661-5940DF6E1BFC",
+    "subject": "石川欣一 (ジャーナリスト)",
+    "predicate": "WorldCat 識別ID",
+    "object": "lccn-n88269362",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "a1dcd6075b89bb2fa937c1f108f3ea3e5ef0a20d",
+    "url": "https://viaf.org/viaf/123603595",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>123603595"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11456552-7402A791-4E3B-45DC-A0E5-8E79048C95D3",
+    "subject": "富山県薬剤師会",
+    "predicate": "WorldCat 識別ID",
+    "object": "viaf-123603595",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "eab58fd6410464a3e7b6f4c1a7d008fe776041e3",
+    "url": "https://viaf.org/viaf/251448237",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>251448237"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11508398-1C4F1E60-F7BF-4029-95FA-A32E7F73E377",
+    "subject": "日本歯科東洋医学会",
+    "predicate": "WorldCat 識別ID",
+    "object": "lccn-n2014183024",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "7b8d6d8ce955ea67d832fbb9c5d6ed6b87134e88",
+    "url": "https://viaf.org/viaf/21241780",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+      "VIAF ID": "value:>21241780",
+      "retrieved": "time:>+2018-10-07T00:00:00Z"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11540053-6E8320B5-42DB-4091-B760-1D2B154A4BDD",
+    "subject": "森田優三",
+    "predicate": "VIAF識別子",
+    "object": "21241780",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "1af0ee270778bb5036188711e299d3096accf593",
+    "url": "https://viaf.org/viaf/251675719",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>251675719"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q28692041-16663FFA-16DB-43F3-AB40-DCB720C4837C",
+    "subject": "丸山弘志",
+    "predicate": "WorldCat 識別ID",
+    "object": "viaf-251675719",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "b52bb59311a4933d4d94d291a6aa1992ed20592a",
+    "url": "https://viaf.org/viaf/113667889",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>113667889",
+      "retrieved": "time:>+2017-10-17T00:00:00Z",
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q20041285-FCF3D65B-7342-4811-B9D0-57EA27344D8A",
+    "subject": "田中雅志",
+    "predicate": "LCNAF識別子",
+    "object": "nr2007001764",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "ec9367a5aa5382493ac81c64e735806ccecf24f1",
+    "url": "https://viaf.org/viaf/108294371",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>108294371"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11586519-22344208-442A-4E8C-83DE-099FA5C1D161",
+    "subject": "石弘光",
+    "predicate": "WorldCat 識別ID",
+    "object": "lccn-n82132026",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "450eeafd286260274fddfa73a53bf5bf1b438134",
+    "url": "https://viaf.org/viaf/266341191",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>266341191"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11542568-D1A70690-5E5F-4DC4-B56D-BB6A75A8A153",
+    "subject": "横山昭男",
+    "predicate": "WorldCat 識別ID",
+    "object": "lccn-n88289135",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "e69271aeb562ea8f9d80adbec2a9b251239b7cca",
+    "url": "https://viaf.org/viaf/255103577",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+      "retrieved": "time:>+2018-08-28T00:00:00Z",
+      "VIAF ID": "value:>255103577"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q9016212-31E3F2D4-A341-41CB-AC9A-718CC84F1C08",
+    "subject": "西澤保彦",
+    "predicate": "NTA PPN 識別子",
+    "object": "327692561",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "fd9aab16343885d598722c14976400ebd5cb6e28",
+    "url": "https://viaf.org/viaf/256142029",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>256142029"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q3156440-001321A5-F63D-4C50-9A01-914F51FA3289",
+    "subject": "松本伊代",
+    "predicate": "WorldCat 識別ID",
+    "object": "viaf-256142029",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "da6504b5a1ef7926834a9a982210fd2cbdf6f463",
+    "url": "https://viaf.org/viaf/260294572",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+      "VIAF ID": "value:>260294572",
+      "retrieved": "time:>+2018-10-07T00:00:00Z"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q1458602-1CB7FFAA-5A24-4BEC-8C37-06993DE5DA39",
+    "subject": "深堀圭一郎",
+    "predicate": "VIAF識別子",
+    "object": "260294572",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "0c5152e995c375cf2934eb46448d5a290c0833ce",
+    "url": "https://viaf.org/viaf/260650059",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>260650059"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q28690737-9FF7C5CD-6715-4B6D-95D5-C0619C1AC1DF",
+    "subject": "加藤アカツキ",
+    "predicate": "WorldCat 識別ID",
+    "object": "viaf-260650059",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "17a78c9072880b6862f7e5c0dad600734226b1bf",
+    "url": "https://viaf.org/viaf/108563068",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+      "retrieved": "time:>+2018-12-27T00:00:00Z",
+      "VIAF ID": "value:>108563068"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q56808536-54419469-BA99-40BD-AA00-4E409698F12A",
+    "subject": "下川浩一",
+    "predicate": "NKC識別子",
+    "object": "utb2014812077",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "1a09befd40a9725d6d075b1d91d052fa5ecb92c0",
+    "url": "https://viaf.org/viaf/266675841",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+      "VIAF ID": "value:>266675841",
+      "retrieved": "time:>+2018-10-07T00:00:00Z"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11616082-6BEE16CB-4101-4945-B7E1-F5EB4E341B96",
+    "subject": "苅谷俊介",
+    "predicate": "VIAF識別子",
+    "object": "266675841",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "403f68bf1d5fdc92b1fb80ae412268f322d2395e",
+    "url": "https://viaf.org/viaf/15855532",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+      "VIAF ID": "value:>15855532",
+      "retrieved": "time:>+2018-08-11T00:00:00Z"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11451923-D915404F-E890-4DFE-8D3D-F58BD6960652",
+    "subject": "宗左近",
+    "predicate": "SUDOC",
+    "object": "094843473",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "521fcb6d1f716fcd1f43cec8fc72b3e56377b22f",
+    "url": "https://viaf.org/viaf/39708495",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>39708495"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q17229463-BB6B0A6A-AF5C-4715-83FE-FBFA3754602B",
+    "subject": "中野善達",
+    "predicate": "WorldCat 識別ID",
+    "object": "lccn-nr90021407",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "aee42af22fc54e0cb39e604e4ea58715c0a7f77a",
+    "url": "https://viaf.org/viaf/3806976",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>3806976"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11568659-341DD89F-30E3-4103-9020-8915A4B32B3C",
+    "subject": "熊王徳平",
+    "predicate": "WorldCat 識別ID",
+    "object": "lccn-n81149410",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "9f05bbe0a51e36210b4a7f5f10b830e1d8795de7",
+    "url": "https://viaf.org/viaf/50553081",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+      "VIAF ID": "value:>50553081",
+      "retrieved": "time:>+2018-10-07T00:00:00Z"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11367050-0AC6B27B-3532-4CCE-BE11-A36E35D9367B",
+    "subject": "中西悟堂",
+    "predicate": "VIAF識別子",
+    "object": "50553081",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "6dce21cf2fbd726e6ceccf7a699b791a3dfa0776",
+    "url": "https://viaf.org/viaf/76561681",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+      "VIAF ID": "value:>76561681",
+      "retrieved": "time:>+2018-10-07T00:00:00Z"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q848865-51FB7BA0-5059-4BD2-B6AB-6779B52571B0",
+    "subject": "石田衣良",
+    "predicate": "BNF",
+    "object": "14584004k",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "28c1280d27e219c488fb9b09c3ea5654394948db",
+    "url": "https://viaf.org/viaf/108414045",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+      "retrieved": "time:>+2018-08-27T00:00:00Z",
+      "VIAF ID": "value:>108414045"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q41693779-5115117C-2D2E-4FA8-8A73-47ADB1E0647D",
+    "subject": "篠原三郎",
+    "predicate": "NTA PPN 識別子",
+    "object": "292733925",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "49a640df3612807543aca783c96dd699f38361f1",
+    "url": "https://viaf.org/viaf/224428536",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>224428536"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11651505-2E92C31A-EE99-49E6-B16D-6FA586E1DE2A",
+    "subject": "長倉久子",
+    "predicate": "WorldCat 識別ID",
+    "object": "viaf-224428536",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "b668fd70dcf25fca24de289054e6813ffcd39ad7",
+    "url": "https://viaf.org/viaf/253802417",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>253802417"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q8978811-A0EB19BA-0100-4C2D-97A4-BE3E66F6AEE6",
+    "subject": "北野勇作",
+    "predicate": "WorldCat 識別ID",
+    "object": "viaf-253802417",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "3c629761b22cb53343857606c0b8fa8973647375",
+    "url": "https://viaf.org/viaf/28091642",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+      "retrieved": "time:>+2018-05-25T00:00:00Z",
+      "VIAF ID": "value:>28091642"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q30925999-6F4FD96C-6458-4AA5-91D1-E2EB98CF83EC",
+    "subject": "伊藤利男",
+    "predicate": "生年月日",
+    "object": "1931-01-01T00:00:00Z",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "187abaa6d27d270f67f93b62cb6e8624c793010c",
+    "url": "https://viaf.org/viaf/256183159",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>256183159"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11543616-676008EE-B12E-470C-B4BE-83B2C322ED0A",
+    "subject": "樹本祐季",
+    "predicate": "WorldCat 識別ID",
+    "object": "viaf-256183159",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "1d52637414b126d90b84975e1d272186972e142a",
+    "url": "https://viaf.org/viaf/96339430",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+      "retrieved": "time:>+2018-04-07T00:00:00Z",
+      "VIAF ID": "value:>96339430"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11679144-29B38C41-4EF0-444B-969E-46C1F45A1851",
+    "subject": "齋藤裕 (建築家)",
+    "predicate": "NTA PPN 識別子",
+    "object": "15894769X",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "e523a4e0c83d908a1a5c5333ad5d25fb6abfdcb7",
+    "url": "https://viaf.org/viaf/40712582",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>40712582"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11502068-93D89211-E801-41EC-BDFE-916BAD70AB7C",
+    "subject": "新川健三郎",
+    "predicate": "WorldCat 識別ID",
+    "object": "lccn-n82029501",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "5fde93057d188a590e06ba76d41195c100407c72",
+    "url": "https://viaf.org/viaf/112194965",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+      "VIAF ID": "value:>112194965",
+      "retrieved": "time:>+2018-10-07T00:00:00Z"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q6777992-D35A9FDE-86A4-4B8A-A8EB-7AA2886E92D0",
+    "subject": "マルセ太郎",
+    "predicate": "VIAF識別子",
+    "object": "112194965",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "04392507fb4ccd9f9bc0b1a1682486ff1836906f",
+    "url": "https://viaf.org/viaf/164682623",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+      "retrieved": "time:>+2018-05-25T00:00:00Z",
+      "VIAF ID": "value:>164682623"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q30931486-2113F4AE-C018-4E68-A612-1E2CBC5A52FB",
+    "subject": "内田聖二",
+    "predicate": "生年月日",
+    "object": "1949-01-01T00:00:00Z",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "cbf982806990dfff7c428b693ac08aa020d76754",
+    "url": "https://viaf.org/viaf/113336353",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>113336353"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11486684-B5DBC4F6-CB97-4BA0-A1C4-006A7A91A34E",
+    "subject": "建畠晢",
+    "predicate": "WorldCat 識別ID",
+    "object": "lccn-no00053281",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "36a39085aa9062e0c5bf250b05ae146a3b5860ce",
+    "url": "https://viaf.org/viaf/34517033",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>34517033",
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+      "retrieved": "time:>+2018-12-24T00:00:00Z"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q279973-DAF069A7-9CC6-402B-9433-93382ED9857E",
+    "subject": "山田詠美",
+    "predicate": "NKC識別子",
+    "object": "kup20020000113035",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "290c2fc00304e61d59dd69ea8278246a79307a0b",
+    "url": "https://viaf.org/viaf/251588016",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+      "VIAF ID": "value:>251588016",
+      "retrieved": "time:>+2018-10-07T00:00:00Z"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11471495-630C391A-3934-4173-9F35-6169F886FC0F",
+    "subject": "岐阜県立国際情報科学芸術アカデミー",
+    "predicate": "国立国会図書館典拠ID",
+    "object": "01090047",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "213d6c936ec13e18c9a2a0ed6be7d3a8e354faae",
+    "url": "https://viaf.org/viaf/23510608",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+      "retrieved": "time:>+2018-05-25T00:00:00Z",
+      "VIAF ID": "value:>23510608"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q28689722-156CC481-C5BF-4D58-B488-576F32FC8912",
+    "subject": "坂口義弘",
+    "predicate": "生年月日",
+    "object": "1938-01-01T00:00:00Z",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "a8f4f7163d50c0976db534615583564a09bd382a",
+    "url": "https://viaf.org/viaf/251524951",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>251524951"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11382230-44D14E2B-C78E-429F-B62F-35A37ED5017B",
+    "subject": "佐々木忠次",
+    "predicate": "WorldCat 識別ID",
+    "object": "lccn-n97863362",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "7e87d989c92559de143951d4c6178a7ab7517316",
+    "url": "https://viaf.org/viaf/134964119",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>134964119",
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+      "retrieved": "time:>+2018-12-18T00:00:00Z"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11508782-5CBD1DAE-A500-4AF6-82AE-3E7CE82AF094",
+    "subject": "日本第四紀学会",
+    "predicate": "NKC識別子",
+    "object": "ko2009549500",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "3c27ac6645ccec010346367b37cd3095e3837040",
+    "url": "https://viaf.org/viaf/8757145",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+      "VIAF ID": "value:>8757145",
+      "retrieved": "time:>+2018-08-13T00:00:00Z"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11438649-735566E6-FE6A-49AB-A844-7501FAB2D91F",
+    "subject": "大芝亮",
+    "predicate": "VIAF識別子",
+    "object": "8757145",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "b324933c88476b1064809ffe44b258cdc35ecd9f",
+    "url": "https://viaf.org/viaf/252857835",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>252857835"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q6455061-A83C5389-3F5C-4C3D-9093-AB877A1D6BAD",
+    "subject": "小島功",
+    "predicate": "WorldCat 識別ID",
+    "object": "viaf-252857835",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "e4b8fe77ea04acd8245ed67522979dc48759a275",
+    "url": "https://viaf.org/viaf/264165703",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+      "retrieved": "time:>+2018-04-09T00:00:00Z",
+      "VIAF ID": "value:>264165703"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q29643946-976A05EE-C9D8-4B2D-AFBE-5F662429A19D",
+    "subject": "山本秀雄",
+    "predicate": "NTA PPN 識別子",
+    "object": "291330649",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "3093bb5a56e7d118144418f95c70af8051e42e70",
+    "url": "https://viaf.org/viaf/124376751",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>124376751"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q838669-701CAADA-D2DC-4BAB-972C-C0FD10D3353B",
+    "subject": "大和高田市",
+    "predicate": "WorldCat 識別ID",
+    "object": "lccn-n83202881",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "7c4f885a5805bf0ddedd98beceb55ed9c3b94a69",
+    "url": "https://viaf.org/viaf/252232448",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>252232448"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q10950570-D440B582-AFD2-4AA4-B782-F91F3FD90A2D",
+    "subject": "宮原武熊",
+    "predicate": "WorldCat 識別ID",
+    "object": "lccn-n85382988",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "ea6dd22bf78952e00c575c8e44e84b51aa7b17c8",
+    "url": "https://viaf.org/viaf/67779457",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>67779457"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11476939-D1A9E314-1E27-4A2A-83D7-966E1831A67C",
+    "subject": "島田正郎",
+    "predicate": "WorldCat 識別ID",
+    "object": "lccn-n81019924",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "250fb1de1b6873adfbb1db183d6abf0358d687fa",
+    "url": "https://viaf.org/viaf/73696787",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+      "VIAF ID": "value:>73696787",
+      "retrieved": "time:>+2018-10-07T00:00:00Z"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11562060-DCD163D0-383D-4513-A200-67B83C7D4092",
+    "subject": "渡辺信一郎 (中国史学者)",
+    "predicate": "国立国会図書館典拠ID",
+    "object": "00161889",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "aaf8c3e026140b75ec659590524add4b65797012",
+    "url": "https://viaf.org/viaf/253867113",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+      "VIAF ID": "value:>253867113",
+      "retrieved": "time:>+2018-10-07T00:00:00Z"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q2080446-9411936F-E5D3-462C-A89A-FA518A785223",
+    "subject": "船木誠勝",
+    "predicate": "VIAF識別子",
+    "object": "253867113",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "e493f8b658856858c5e8352b44f6f7ab27417eb7",
+    "url": "https://viaf.org/viaf/109069484",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+      "VIAF ID": "value:>109069484",
+      "retrieved": "time:>+2018-10-07T00:00:00Z"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11672739-24CD02BE-91F6-4118-9D17-21E32A2F955B",
+    "subject": "高良とみ",
+    "predicate": "VIAF識別子",
+    "object": "109069484",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "4f67bc90332fe9c72118a767c4125b74ad1e9348",
+    "url": "https://viaf.org/viaf/67595570",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>67595570",
+      "retrieved": "time:>+2017-11-20T00:00:00Z",
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q1620313-BEE3E5A1-688C-4701-A636-CF3D091FDC29",
+    "subject": "五木寛之",
+    "predicate": "NUKAT",
+    "object": "n2015056930",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "9323d21162272dd9dd1ab1c5ba999339b5103e8e",
+    "url": "https://viaf.org/viaf/251568954",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>251568954"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11297297-DF2AA515-D2FA-481A-8343-1902DC33F249",
+    "subject": "キャリアデザインセンター",
+    "predicate": "WorldCat 識別ID",
+    "object": "viaf-251568954",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "e33afb752241d18eac9f8bbc81a8ce3c7e9674a7",
+    "url": "https://viaf.org/viaf/38300989",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+      "VIAF ID": "value:>38300989",
+      "retrieved": "time:>+2018-10-07T00:00:00Z"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11454845-2BAFF151-647E-467B-8B84-EEDE09B1BB54",
+    "subject": "宮本憲一",
+    "predicate": "SUDOC",
+    "object": "121663949",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "10fa6b238b18b932095a8ed17c6573cd0d8b36d2",
+    "url": "https://viaf.org/viaf/287144928078754340835",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>287144928078754340835"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11458954-EB2A316A-BE4D-4D08-9297-AAD5839D4A0E",
+    "subject": "小倉広",
+    "predicate": "WorldCat 識別ID",
+    "object": "viaf-287144928078754340835",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "ab5743e9dfbf990db5f1e3f264a582c2be676953",
+    "url": "https://viaf.org/viaf/167801433",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>167801433"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q8964635-E86D80D8-AC9D-4F16-9347-04E22B8B46A2",
+    "subject": "たかぎなおこ",
+    "predicate": "WorldCat 識別ID",
+    "object": "lccn-no2011029154",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "f15cc9f7c7a95266bb2385921954b657dfe07fdf",
+    "url": "https://viaf.org/viaf/256474689",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+      "VIAF ID": "value:>256474689",
+      "retrieved": "time:>+2018-10-07T00:00:00Z"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11611604-62C182D0-0450-4A7C-87CB-5AAE802AC807",
+    "subject": "肥田野直",
+    "predicate": "SUDOC",
+    "object": "178394343",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "96e0e6bc525d687932fbc7f6a7edbdc3f1cb7487",
+    "url": "https://viaf.org/viaf/38230687",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+      "retrieved": "time:>+2018-08-28T00:00:00Z",
+      "VIAF ID": "value:>38230687"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11562339-922F6E90-BDD5-42C5-85E2-6072E77840BF",
+    "subject": "渡辺格 (分子生物学者)",
+    "predicate": "NTA PPN 識別子",
+    "object": "070162573",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "5147e71dbb8b17c71e14b195d6f0561a58acc39d",
+    "url": "https://viaf.org/viaf/259767652",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+      "VIAF ID": "value:>259767652",
+      "retrieved": "time:>+2018-10-07T00:00:00Z"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11656080-0F1DD5FB-E84A-4E92-B012-7601E87867F4",
+    "subject": "関根祥六",
+    "predicate": "ISNI",
+    "object": "0000 0003 8036 1780",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "ee65d7b57e5279f7017ebb9d2dcb9a09aa811307",
+    "url": "https://viaf.org/viaf/114383201",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>114383201",
+      "retrieved": "time:>+2017-10-28T00:00:00Z",
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11500664-24390C0B-4A69-4E89-8B32-12372B75491F",
+    "subject": "斎藤英喜",
+    "predicate": "LCNAF識別子",
+    "object": "nr95036712",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "38cfcaca97044ba8847166c2de9cbd32b85805e2",
+    "url": "https://viaf.org/viaf/48088178",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>48088178"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11359535-F1B1532A-2258-4EA7-B1E2-1D0F43744087",
+    "subject": "上法快男",
+    "predicate": "WorldCat 識別ID",
+    "object": "lccn-n81091854",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "fb7dfb4923bcc03df311168dc2b91f3e1d5ecb06",
+    "url": "https://viaf.org/viaf/51604023",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>51604023"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q27920885-3A15A163-198D-4425-80E9-48CB5A525992",
+    "subject": "加藤直士",
+    "predicate": "WorldCat 識別ID",
+    "object": "lccn-nr98021155",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "9fdca2c8905f73df489f5ff0c36f4261c45b49e5",
+    "url": "https://viaf.org/viaf/258665934",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+      "VIAF ID": "value:>258665934",
+      "retrieved": "time:>+2018-10-07T00:00:00Z"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q608806-18B28823-6B36-4B55-AACC-C191FA4E0ED9",
+    "subject": "川原由美子",
+    "predicate": "VIAF識別子",
+    "object": "258665934",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "b1cc713dbf3af2be37b3d6a1fb6ece6675ca8627",
+    "url": "https://viaf.org/viaf/266416242",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>266416242"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q9046723-F5FE1A3A-062A-4B05-BA04-F77C5579CB28",
+    "subject": "高橋美由紀",
+    "predicate": "WorldCat 識別ID",
+    "object": "lccn-nr2005029977",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "86e46b3b4a13fb7358b531bbf12e6ef154145620",
+    "url": "https://viaf.org/viaf/1422170",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+      "retrieved": "time:>+2018-04-06T00:00:00Z",
+      "VIAF ID": "value:>1422170"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11436483-02EEE432-51DE-4523-A5DB-3E56ABD73BF7",
+    "subject": "大槻憲二",
+    "predicate": "NTA PPN 識別子",
+    "object": "244462607",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "3412cc9adf4e52684b32c4c6bda106da37e904dd",
+    "url": "https://viaf.org/viaf/252642322",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>252642322"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11423814-53D17A21-6018-469D-9509-939E213A9B93",
+    "subject": "土田浩翔",
+    "predicate": "WorldCat 識別ID",
+    "object": "viaf-252642322",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "e31ebd76da865854fbdf29e5a6e41112c22c1a51",
+    "url": "https://viaf.org/viaf/7216248",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>7216248"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11362785-780BB4BD-8999-490E-8208-6EF0A1153A8E",
+    "subject": "中ザワヒデキ",
+    "predicate": "WorldCat 識別ID",
+    "object": "lccn-no2008152124",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "808ca3a3fa3c4fe236c628ac67edabe2cb88d716",
+    "url": "https://viaf.org/viaf/92698424",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>92698424",
+      "retrieved": "time:>+2017-11-01T00:00:00Z",
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q11372107-8B154AA4-3216-463E-9C99-0D9CBD377AEE",
+    "subject": "五十嵐威暢",
+    "predicate": "BNF",
+    "object": "137561205",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "be3e3e2e0d041608c510355a6b826985c5b47142",
+    "url": "https://viaf.org/viaf/70243363",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>70243363"
+    },
+    "language_crawl": "ja",
+    "statement_node": "Q2657055-52015F02-5699-4703-86CC-336D5DCEE1D3",
+    "subject": "橋本宇太郎",
+    "predicate": "WorldCat 識別ID",
+    "object": "lccn-n81015336",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  }
+]

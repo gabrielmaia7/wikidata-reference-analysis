@@ -1,0 +1,732 @@
+[
+  {
+    "reference_id": "a0fa814c7bb8583fc62a26d2f74bef5a9155b735",
+    "url": "https://viaf.org/viaf/78653232",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+      "retrieved": "time:>+2018-04-04T00:00:00Z",
+      "VIAF ID": "value:>78653232"
+    },
+    "language_crawl": "nl",
+    "statement_node": "Q18757058-B46B8F3D-C69A-4A6C-8AE8-F9F4ED1A473A",
+    "subject": "Richard Reece",
+    "predicate": "NTA-identificatiecode",
+    "object": "070493286",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "0e919238322a62e285f68c56a6d411d640e79885",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:1538796%20AND%20SRC:MED&resulttype=core&format=json",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>1538796",
+      "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:1538796%20AND%20SRC:MED&resulttype=core&format=json",
+      "retrieved": "time:>+2019-09-21T00:00:00Z"
+    },
+    "language_crawl": "nl",
+    "statement_node": "Q68062157-C25BB9FB-816B-454A-9119-35E495587183",
+    "subject": "[Acarbose in the treatment of non-insulin-dependent diabetes mellitus; a new principle]",
+    "predicate": "gepubliceerd in",
+    "object": "Nederlands Tijdschrift voor Geneeskunde",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 0
+      }
+    }
+  },
+  {
+    "reference_id": "c70273f77767f1d025c27c463146d9a756360de6",
+    "url": "https://viaf.org/viaf/31763896",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>31763896"
+    },
+    "language_crawl": "nl",
+    "statement_node": "Q23645742-31499611-1375-4EBC-95B6-D55D21E387A2",
+    "subject": "Douwe Wouters",
+    "predicate": "WorldCat Identities-identificatiecode",
+    "object": "lccn-no2006135581",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "fbffbcec119c3972127eed9c95a61d25680cee44",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:14346840%20AND%20SRC:MED&resulttype=core&format=json",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>14346840",
+      "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:14346840%20AND%20SRC:MED&resulttype=core&format=json",
+      "retrieved": "time:>+2019-12-15T00:00:00Z"
+    },
+    "language_crawl": "nl",
+    "statement_node": "Q78559343-F42333A1-75D0-4437-BD09-6C4F55D02F0A",
+    "subject": "[NATIONAL HEALTH INSPECTION OF ENVIRONMENTAL HYGIENE]",
+    "predicate": "gepubliceerd in",
+    "object": "Tijdschrift voor sociale geneeskunde",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 0
+      }
+    }
+  },
+  {
+    "reference_id": "c3ed91c8ae92e9f06438cbfe9d7d8919c28f3d5f",
+    "url": "https://viaf.org/viaf/43112279",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>43112279"
+    },
+    "language_crawl": "nl",
+    "statement_node": "Q2152858-D40648ED-7374-404C-8151-2D6095E458FA",
+    "subject": "Hermanus Berserik",
+    "predicate": "WorldCat Identities-identificatiecode",
+    "object": "lccn-n79055949",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "010630c9f86410c29d66e11a043006d30279fbd8",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:25786302%20AND%20SRC:MED&resulttype=core&format=json",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>25786302",
+      "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:25786302%20AND%20SRC:MED&resulttype=core&format=json",
+      "retrieved": "time:>+2020-03-03T00:00:00Z"
+    },
+    "language_crawl": "nl",
+    "statement_node": "Q86952520-4EE6D512-CBA2-4887-94EA-2B818A6D3477",
+    "subject": "Incidentally discovered optic nerve head drusen",
+    "predicate": "auteur (als tekenreeks)",
+    "object": "M Gudelj",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 0
+      }
+    }
+  },
+  {
+    "reference_id": "965c815878be02fb7a4dc0a38986f935613202c3",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:7374836%20AND%20SRC:MED&resulttype=core&format=json",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>7374836",
+      "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:7374836%20AND%20SRC:MED&resulttype=core&format=json",
+      "retrieved": "time:>+2019-10-16T00:00:00Z"
+    },
+    "language_crawl": "nl",
+    "statement_node": "Q71194137-F5EC5E66-4598-4E59-B402-EE28780F4F97",
+    "subject": "[Left and right]",
+    "predicate": "is een",
+    "object": "wetenschappelijk artikel",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 0
+      }
+    }
+  },
+  {
+    "reference_id": "670af94123493a8451f13aa5c0f23fb6ab8d81be",
+    "url": "https://viaf.org/viaf/57883677",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>57883677"
+    },
+    "language_crawl": "nl",
+    "statement_node": "Q16070613-9B60C579-6317-4DCA-8344-D65C497F8D07",
+    "subject": "Pierre Heijboer",
+    "predicate": "WorldCat Identities-identificatiecode",
+    "object": "lccn-n79022989",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "b3fd2aa6567cbc46b32ec3d07c95d89d60d08822",
+    "url": "https://viaf.org/viaf/12429613",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>12429613"
+    },
+    "language_crawl": "nl",
+    "statement_node": "Q4043723-22F9500B-DCCB-4FEB-A76E-FDFDF0228007",
+    "subject": "Jack Kooistra",
+    "predicate": "WorldCat Identities-identificatiecode",
+    "object": "lccn-n96083682",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "14da76db5571f41a00649789a4657e8cca945c22",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:1043491%20AND%20SRC:MED&resulttype=core&format=json",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>1043491",
+      "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:1043491%20AND%20SRC:MED&resulttype=core&format=json",
+      "retrieved": "time:>+2019-09-23T00:00:00Z"
+    },
+    "language_crawl": "nl",
+    "statement_node": "Q68321519-4906EC11-8F83-414F-BBC9-2BD44F172054",
+    "subject": "[The need for Higher Professional Education for Nurses]",
+    "predicate": "pagina",
+    "object": "894-900",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 0
+      }
+    }
+  },
+  {
+    "reference_id": "03966afe6fa3a349bbb6302f4761f1412c9590ba",
+    "url": "https://viaf.org/viaf/290576979",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+      "retrieved": "time:>+2018-04-09T00:00:00Z",
+      "VIAF ID": "value:>290576979"
+    },
+    "language_crawl": "nl",
+    "statement_node": "Q3568361-BA9A14A2-555F-48E8-BD95-A0428FBAFFD4",
+    "subject": "Willem van Haecht",
+    "predicate": "NTA-identificatiecode",
+    "object": "069606528",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "e7cff80ba87d0ded388c7e75b68b7f95827a1ffd",
+    "url": "https://viaf.org/viaf/35321506",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>35321506",
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+      "retrieved": "time:>+2018-12-25T00:00:00Z"
+    },
+    "language_crawl": "nl",
+    "statement_node": "Q2037521-BDDD386D-0B39-492E-8FDF-EB27F33D8B94",
+    "subject": "Johan Lulofs",
+    "predicate": "NKC-identificatiecode",
+    "object": "ola2011663079",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "f9bbee62bc1e190a8b38533f1564d6f9e40f5f44",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:3951621%20AND%20SRC:MED&resulttype=core&format=json",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>3951621",
+      "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:3951621%20AND%20SRC:MED&resulttype=core&format=json",
+      "retrieved": "time:>+2019-10-07T00:00:00Z"
+    },
+    "language_crawl": "nl",
+    "statement_node": "Q70021012-E1E7DE7C-CF14-4404-8CCF-A8E97C14B198",
+    "subject": "[Euthanasia does not need legislation]",
+    "predicate": "datum van uitgave",
+    "object": "1986-02-01T00:00:00Z",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 0
+      }
+    }
+  },
+  {
+    "reference_id": "9cb19db659c5d626505091ea1a3e434f91bd6926",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:26956407%20AND%20SRC:MED&resulttype=core&format=json",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>26956407",
+      "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:26956407%20AND%20SRC:MED&resulttype=core&format=json",
+      "retrieved": "time:>+2020-03-10T00:00:00Z"
+    },
+    "language_crawl": "nl",
+    "statement_node": "Q87422471-28A9A36D-09D8-4BA3-A460-0503F1C06645",
+    "subject": "Psychofarmakologika VIII",
+    "predicate": "gepubliceerd in",
+    "object": "Acta Neuropsychiatrica",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 0
+      }
+    }
+  },
+  {
+    "reference_id": "5341c683e7cb47d8109c17f8b108966fd068bb2e",
+    "url": "https://viaf.org/viaf/56140431",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>56140431"
+    },
+    "language_crawl": "nl",
+    "statement_node": "Q23889015-911B758C-9D95-4735-8FFA-5A2C60B40609",
+    "subject": "Margrite Kalverboer",
+    "predicate": "WorldCat Identities-identificatiecode",
+    "object": "lccn-nb2007021071",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "00f5db95b43ab4b16e984af42001cac6d81c31c0",
+    "url": "https://viaf.org/viaf/286178223",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+      "retrieved": "time:>+2018-04-04T00:00:00Z",
+      "VIAF ID": "value:>286178223"
+    },
+    "language_crawl": "nl",
+    "statement_node": "Q13429895-D30A45FC-9DE7-4964-AEEE-0212DD0B868A",
+    "subject": "Anton Kassenaar",
+    "predicate": "NTA-identificatiecode",
+    "object": "068527020",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "5b9f0d2dc799dfce773d3c07e4d140effe199203",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:13517360%20AND%20SRC:MED&resulttype=core&format=json",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>13517360",
+      "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:13517360%20AND%20SRC:MED&resulttype=core&format=json",
+      "retrieved": "time:>+2019-11-13T00:00:00Z"
+    },
+    "language_crawl": "nl",
+    "statement_node": "Q74830240-53262CD5-61D6-4055-ABA5-808CDB976A2A",
+    "subject": "[Concrete eczema]",
+    "predicate": "datum van uitgave",
+    "object": "1958-02-01T00:00:00Z",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 0
+      }
+    }
+  },
+  {
+    "reference_id": "6f13520d23b46d05f7fecde7c9a424f3f05c7735",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:8949464%20AND%20SRC:MED&resulttype=core&format=json",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>8949464",
+      "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:8949464%20AND%20SRC:MED&resulttype=core&format=json",
+      "retrieved": "time:>+2019-10-21T00:00:00Z"
+    },
+    "language_crawl": "nl",
+    "statement_node": "Q71846436-C8EBD54B-7FBE-49A6-BECA-1FAF03254BC2",
+    "subject": "Papuloerythroderma of Ofuji in a HIV-infected patient",
+    "predicate": "volume",
+    "object": "135",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 0
+      }
+    }
+  },
+  {
+    "reference_id": "469364ba3fa97247416f63e91b7b3c86fa007da4",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:5632335%20AND%20SRC:MED&resulttype=core&format=json",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>5632335",
+      "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:5632335%20AND%20SRC:MED&resulttype=core&format=json",
+      "retrieved": "time:>+2019-10-22T00:00:00Z"
+    },
+    "language_crawl": "nl",
+    "statement_node": "Q72008329-160B7BFE-8C62-4E94-9E19-0608896C4DB0",
+    "subject": "[Lead content of human milk and substitute products]",
+    "predicate": "uitgave",
+    "object": "2",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 0
+      }
+    }
+  },
+  {
+    "reference_id": "806c676d1771ff652d46450d05748b41cc4063ee",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:5065209%20AND%20SRC:MED&resulttype=core&format=json",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>5065209",
+      "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:5065209%20AND%20SRC:MED&resulttype=core&format=json",
+      "retrieved": "time:>+2019-10-11T00:00:00Z"
+    },
+    "language_crawl": "nl",
+    "statement_node": "Q70461694-985D1855-2335-4933-9C49-0A06D08AA94B",
+    "subject": "[Hypertrophic obstructive cardiomyopathy]",
+    "predicate": "auteur (als tekenreeks)",
+    "object": "Meerschwam IS",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 0
+      }
+    }
+  },
+  {
+    "reference_id": "09c8d86082798b44509161c50bb5efb7f4a6b070",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:3861956%20AND%20SRC:MED&resulttype=core&format=json",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>3861956",
+      "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:3861956%20AND%20SRC:MED&resulttype=core&format=json",
+      "retrieved": "time:>+2019-10-06T00:00:00Z"
+    },
+    "language_crawl": "nl",
+    "statement_node": "Q69843859-D56E628C-9693-4E5B-9412-843C1FFEC7DC",
+    "subject": "[Determinants of the",
+    "predicate": "auteur (als tekenreeks)",
+    "object": "Schuurs AH",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 0
+      }
+    }
+  },
+  {
+    "reference_id": "604de4e1451d345af4ce3e11e94bf9e87b2a40d3",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:3374662%20AND%20SRC:MED&resulttype=core&format=json",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>3374662",
+      "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:3374662%20AND%20SRC:MED&resulttype=core&format=json",
+      "retrieved": "time:>+2019-09-23T00:00:00Z"
+    },
+    "language_crawl": "nl",
+    "statement_node": "Q68376740-CB3E7975-F95D-44E2-852F-7C793B461942",
+    "subject": "[Sunlight and melanoma]",
+    "predicate": "pagina",
+    "object": "784-785",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 0
+      }
+    }
+  },
+  {
+    "reference_id": "6cb7fb4b4067d3fce3fb1bb67b458c4ab8c170f6",
+    "url": "https://viaf.org/viaf/134878283",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>134878283"
+    },
+    "language_crawl": "nl",
+    "statement_node": "Q2237463-9BDFD2EB-FB9F-4374-B896-2739BFB6A2E9",
+    "subject": "Maatschappij der Nederlandse Letterkunde",
+    "predicate": "WorldCat Identities-identificatiecode",
+    "object": "lccn-n81082781",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "4d34b11bacf2d3d7e004f5c5c6c23bc4b52bc6cc",
+    "url": "https://viaf.org/viaf/78516442",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>78516442"
+    },
+    "language_crawl": "nl",
+    "statement_node": "Q45320284-FC870D4F-EDE7-4DDA-AE45-A49F0A8B6301",
+    "subject": "Berend Jakob Oosterhoff",
+    "predicate": "WorldCat Identities-identificatiecode",
+    "object": "lccn-no2005078141",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "a9b681b62edfbc46fa5a87a49dcbf029dad70557",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:3424348%20AND%20SRC:MED&resulttype=core&format=json",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>3424348",
+      "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:3424348%20AND%20SRC:MED&resulttype=core&format=json",
+      "retrieved": "time:>+2019-09-25T00:00:00Z"
+    },
+    "language_crawl": "nl",
+    "statement_node": "Q68524894-ADA0C6AC-BA0A-4576-B8E0-2CCDF3389813",
+    "subject": "[Zuster Aalbers is wide off the mark]",
+    "predicate": "volume",
+    "object": "41",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 0
+      }
+    }
+  },
+  {
+    "reference_id": "288a79c6fac91790b71b8c5a62a6f6557631cdb9",
+    "url": "https://viaf.org/viaf/284182712",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+      "retrieved": "time:>+2017-07-16T00:00:00Z",
+      "VIAF ID": "value:>284182712"
+    },
+    "language_crawl": "nl",
+    "statement_node": "Q33083322-ec23d329-409f-4208-0cd6-04fc394689bf",
+    "subject": "Constant Charles Delprat",
+    "predicate": "NTA-identificatiecode",
+    "object": "069581770",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "247db59a6383a1431698eb6128b8e7db96d56c58",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:26599965%20AND%20SRC:MED&resulttype=core&format=json",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>26599965",
+      "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:26599965%20AND%20SRC:MED&resulttype=core&format=json",
+      "retrieved": "time:>+2020-03-01T00:00:00Z"
+    },
+    "language_crawl": "nl",
+    "statement_node": "Q51632433-A3B243BA-3766-4B0C-A78D-84C3A4D84502",
+    "subject": "Advances in Ultrahigh-Pressure Liquid Chromatography Technology and System Design.",
+    "predicate": "gepubliceerd in",
+    "object": "Analytical Chemistry",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 0
+      }
+    }
+  },
+  {
+    "reference_id": "91a0257ce1cd4931ac04e252b782c88b92301267",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:6902579%20AND%20SRC:MED&resulttype=core&format=json",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>6902579",
+      "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:6902579%20AND%20SRC:MED&resulttype=core&format=json",
+      "retrieved": "time:>+2019-10-21T00:00:00Z"
+    },
+    "language_crawl": "nl",
+    "statement_node": "Q71882448-7928503C-FC96-4D61-A3DE-0F5E96D37019",
+    "subject": "[Quality improvement in nursing care]",
+    "predicate": "uitgave",
+    "object": "15",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 0
+      }
+    }
+  }
+]
