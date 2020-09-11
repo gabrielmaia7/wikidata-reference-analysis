@@ -61,3 +61,5 @@ For each object in the sampled_references_$lan_gd.json files, change the g_id fi
     0. Traditional news and media(e.g. news agencies, broad-casters);
     1. Non-traditional news and media(e.g. online magazines, platforms tocollaboratively create news).
 4. Self-published sources.
+
+Important to notice: authority controls are missing from here, and have been classified as 1/1/3

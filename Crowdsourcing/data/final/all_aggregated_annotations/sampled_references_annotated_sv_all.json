@@ -1,5 +1,4072 @@
 [
   {
+    "reference_id": "d054a99b9e4e86354493dda60b0f6499f94a6645",
+    "url": "https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-fornmin&srlanguage=sv&srid=10094202390001",
+    "ref_node_pairs": {
+      "reference URL": "url:>https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-fornmin&srlanguage=sv&srid=10094202390001",
+      "stated in": "wikibase-item:>Monuments database->Q28563569",
+      "publication date": "time:>+2017-04-08T00:00:00Z"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q29341752-37655E68-BB7F-4DCA-8C31-B49EF4A1B2C3",
+    "subject": "Kräklingbo 239:1",
+    "predicate": "kulturskyddsstatus",
+    "object": "monument i Fornminnesregistret",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "758f4cbe50266782b2f77dd4a9ae211af3193934",
+    "url": "https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-fornmin&srlanguage=sv&srid=10020903790001",
+    "ref_node_pairs": {
+      "publication date": "time:>+2017-04-24T00:00:00Z",
+      "stated in": "wikibase-item:>Monuments database->Q28563569",
+      "reference URL": "url:>https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-fornmin&srlanguage=sv&srid=10020903790001"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q29871278-9B0EE881-2D65-4F1A-A665-078502BF92C3",
+    "subject": "Boglösa 379:1",
+    "predicate": "land",
+    "object": "Sverige",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "7880f7acb4568d6caea952a0c9834563dad630c6",
+    "url": "https://calmview.musikverk.se/CalmView/Record.aspx?src=CalmView.Catalog&id=DTM+1939-4102",
+    "ref_node_pairs": {
+      "reference URL": "url:>https://calmview.musikverk.se/CalmView/Record.aspx?src=CalmView.Catalog&id=DTM+1939-4102",
+      "retrieved": "time:>+2019-11-25T00:00:00Z",
+      "publication date": "time:>+2019-11-05T00:00:00Z"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q76608558-D0B4FB08-C822-4837-930E-81FD89D00492",
+    "subject": "Dekorationsskiss av Carl Grabow",
+    "predicate": "huvudsakligt material",
+    "object": "watercolor paint",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "882555b103e550aaff57e20bc9745ba4c5d111ff",
+    "url": "https://libris.kb.se/katalogisering/c9pszh1w02tgbqt",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>LIBRIS->Q1798125",
+      "reference URL": "url:>https://libris.kb.se/katalogisering/c9pszh1w02tgbqt",
+      "publication date": "time:>+2013-01-21T00:00:00Z",
+      "retrieved": "time:>+2018-08-24T00:00:00Z"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q2426118-0E057991-3DA9-4533-A4EE-8F7B4B4ABC0C",
+    "subject": "Thomas Meurer",
+    "predicate": "Libris-URI",
+    "object": "c9pszh1w02tgbqt",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 2
+      }
+    }
+  },
+  {
+    "reference_id": "3e36465e0a2cafff51a753866f7a219011db3757",
+    "url": "http://nvpub.vic-metria.nu/naturvardsregistret/rest/omrade/2040242/G%C3%A4llande",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>no-label->Q86904537",
+      "retrieved": "time:>+2020-02-18T00:00:00Z",
+      "reference URL": "url:>http://nvpub.vic-metria.nu/naturvardsregistret/rest/omrade/2040242/G%C3%A4llande"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q86966878-0A5817E2-5D42-4A29-928C-ADAF9326A5AF",
+    "subject": "Hästmo 1:1",
+    "predicate": "land",
+    "object": "Sverige",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "8d60e036eb6002cb49fa16eea7357aed8f589782",
+    "url": "https://sok.riksarkivet.se/?postid=ArkisRef%20SE/048404000",
+    "ref_node_pairs": {
+      "Swedish National Archive ID": "value:>SE/048404000",
+      "retrieved": "time:>+2018-06-22T00:00:00Z"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q10426701-3B4E4BDC-410E-43A8-864E-6BC09CC408B4",
+    "subject": "Barva församling",
+    "predicate": "inom administrativt område",
+    "object": "Eskilstuna kommun",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 2,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "2c69f428240dedaf7dac0dc1f960dfa617096e44",
+    "url": "https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-fornmin&srlanguage=sv&srid=10102000210001",
+    "ref_node_pairs": {
+      "reference URL": "url:>https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-fornmin&srlanguage=sv&srid=10102000210001",
+      "publication date": "time:>+2017-04-06T00:00:00Z",
+      "stated in": "wikibase-item:>Monuments database->Q28563569"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q29206317-E4D8D12E-ABE5-4342-9688-C1647EDE565D",
+    "subject": "Åryd 21:1",
+    "predicate": "kulturskyddsstatus",
+    "object": "monument i Fornminnesregistret",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "035ab27f188e78ae30daab9a6e4df7e08d12740d",
+    "url": "https://sv.wikipedia.org/w/index.php?title=Lac_Chimo_(sjö_i_Kanada,_Laurentides)&oldid=41644371",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Swedish Wikipedia->Q169514",
+      "Wikimedia import URL": "url:>https://sv.wikipedia.org/w/index.php?title=Lac_Chimo_(sjö_i_Kanada,_Laurentides)&oldid=41644371"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q22400379-E9951166-C1FA-4813-A184-714FEA45FB5E",
+    "subject": "Lac Chimo",
+    "predicate": "inom administrativt område",
+    "object": "Laurentides",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "5d9aa1da6fe6a92eac66508fc2dcc852702d98e8",
+    "url": "https://sv.wikipedia.org/w/index.php?title=Lac_Thèze&oldid=38721307",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Swedish Wikipedia->Q169514",
+      "Wikimedia import URL": "url:>https://sv.wikipedia.org/w/index.php?title=Lac_Thèze&oldid=38721307"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q22502539-BDD6A389-072E-45CD-8C4E-0A1476561043",
+    "subject": "Lac Thèze",
+    "predicate": "inom administrativt område",
+    "object": "Saguenay–Lac-Saint-Jean",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "9da12694429764a2a925ca39f0201a3a9ce9f8f7",
+    "url": "https://sv.wikipedia.org/w/index.php?title=Lac_Kanamini&oldid=41661480",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Swedish Wikipedia->Q169514",
+      "Wikimedia import URL": "url:>https://sv.wikipedia.org/w/index.php?title=Lac_Kanamini&oldid=41661480"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q22660370-44D4D25D-2B36-4D45-969A-8186DC97FBD1",
+    "subject": "Lac Kanamini",
+    "predicate": "inom administrativt område",
+    "object": "Outaouais",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "2803fbdc2a730803a28a036fee550bd100024004",
+    "url": "https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-fornmin&srlanguage=sv&srid=10116101890001",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Monuments database->Q28563569",
+      "reference URL": "url:>https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-fornmin&srlanguage=sv&srid=10116101890001",
+      "publication date": "time:>+2017-04-18T00:00:00Z"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q29478982-8BAC71C4-8EA7-4422-8B84-0C58868FEE21",
+    "subject": "Östra Broby 189:1",
+    "predicate": "kulturskyddsstatus",
+    "object": "monument i Fornminnesregistret",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "5f39e986d113205ed3b30bade45c4115ad81ffb0",
+    "url": "http://www.sfi.se/sv/svensk-filmdatabas/Item/?type=PERSON&itemid=66913",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Swedish Film Database->Q1139587",
+      "reference URL": "url:>http://www.sfi.se/sv/svensk-filmdatabas/Item/?type=PERSON&itemid=66913"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q24265167-be6ec347-432a-51fb-d7f0-7378dea93cd3",
+    "subject": "Dan Landgré",
+    "predicate": "deltog i",
+    "object": "Älskande par",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 2
+      }
+    }
+  },
+  {
+    "reference_id": "9a7382aeb28f420b0dbc20f14686c2747ad69ea4",
+    "url": "https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-fornmin&srlanguage=sv&srid=10038104290001",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Monuments database->Q28563569",
+      "reference URL": "url:>https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-fornmin&srlanguage=sv&srid=10038104290001",
+      "publication date": "time:>+2017-05-06T00:00:00Z"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q29961615-A07C96C9-A80D-4D35-BB8F-960F95BC9D10",
+    "subject": "Tunaberg 429:1",
+    "predicate": "instans av",
+    "object": "ristning",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "bffc4feccb04d87b6687a4f660f96732e74f2649",
+    "url": "http://libris.kb.se/bib/10560140",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>LIBRIS->Q1798125",
+      "retrieved": "time:>+2019-12-16T00:00:00Z",
+      "reference URL": "url:>http://libris.kb.se/bib/10560140"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q78994799-923A7ABD-2C7C-41A6-A128-88CDE2558713",
+    "subject": "Norrlands kusten : ett ombordmagasin på Kustbussen/Norrlandskusten",
+    "predicate": "undertitel",
+    "object": "ett ombordmagasin på Kustbussen/Norrlandskusten",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 2
+      }
+    }
+  },
+  {
+    "reference_id": "1ef54f967fafc3f3302961ccbeda9c779ff30b15",
+    "url": "http://libris.kb.se/bib/16005792",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>LIBRIS->Q1798125",
+      "reference URL": "url:>http://libris.kb.se/bib/16005792",
+      "retrieved": "time:>+2019-12-29T00:00:00Z"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q80290503-67C9CCAC-982B-4166-BE21-40EACEFB8FB5",
+    "subject": "Att studera framtiden betänkande",
+    "predicate": "URN-NBN",
+    "object": "urn:nbn:se:kb:sou-8209792",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 2
+      }
+    }
+  },
+  {
+    "reference_id": "d7ad5132e0ede6e8970cd207b78469e481114221",
+    "url": "http://libris.kb.se/fxqfrg9r0f1zsbm",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>LIBRIS->Q1798125",
+      "retrieved": "time:>+2019-11-12T00:00:00Z",
+      "reference URL": "url:>http://libris.kb.se/fxqfrg9r0f1zsbm"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q65528506-50439375-A3B0-4029-A418-9C4A856ABC94",
+    "subject": "Motorfartyget Kungsholm",
+    "predicate": "Libris-URI",
+    "object": "fxqfrg9r0f1zsbm",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 2
+      }
+    }
+  },
+  {
+    "reference_id": "47216b1f182375f369c009a149c94ea618cf9241",
+    "url": "http://libris.kb.se/bib/17381779",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>LIBRIS->Q1798125",
+      "reference URL": "url:>http://libris.kb.se/bib/17381779",
+      "retrieved": "time:>+2019-12-29T00:00:00Z"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q80294346-CFD5CFB5-662C-4C37-B070-0FED2B1477E0",
+    "subject": "Lokal Agenda 21 en vägledning : rapport från Miljövårdsberedningen",
+    "predicate": "serie",
+    "object": "Statens offentliga utredningar",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 2
+      }
+    }
+  },
+  {
+    "reference_id": "49ecf5fbc5acbc11da665b37134f3af687bb5b48",
+    "url": "https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-fornmin&srlanguage=sv&srid=10029300410002",
+    "ref_node_pairs": {
+      "reference URL": "url:>https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-fornmin&srlanguage=sv&srid=10029300410002",
+      "publication date": "time:>+2017-05-06T00:00:00Z",
+      "stated in": "wikibase-item:>Monuments database->Q28563569"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q29921393-4DA7BCC6-A701-41EC-B5F0-1DA099FA7A2D",
+    "subject": "Vänge 41:2",
+    "predicate": "kulturskyddsstatus",
+    "object": "monument i Fornminnesregistret",
+    "g_id": {
+      "relevance": {
+        "is_present": 0,
+        "difficulty": -1,
+        "reason": 6
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "08c3a68cf4edd9bcfa6256c1438f00dc6c49ab8e",
+    "url": "https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-fornmin&srlanguage=sv&srid=10229600180001",
+    "ref_node_pairs": {
+      "publication date": "time:>+2017-04-24T00:00:00Z",
+      "reference URL": "url:>https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-fornmin&srlanguage=sv&srid=10229600180001",
+      "stated in": "wikibase-item:>Monuments database->Q28563569"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q29868920-C2A6EF5C-742B-439E-A7BC-7BAE4F4D502E",
+    "subject": "Kolsva 18:1",
+    "predicate": "K-samsök URI",
+    "object": "raa/fmi/10229600180001",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "f812580e13dc94b5712ebc6990aa7c873e2e131f",
+    "url": "http://libris.kb.se/bib/9194888",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>LIBRIS->Q1798125",
+      "retrieved": "time:>+2019-12-16T00:00:00Z",
+      "reference URL": "url:>http://libris.kb.se/bib/9194888"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q78890882-7129B6CE-88E9-49B3-8EA1-3C6776C541A8",
+    "subject": "Västkust broderskap : informationsblad för Bohusläns och Hallands broderskapsdistrikt",
+    "predicate": "instans av",
+    "object": "periodisk litteratur",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 2
+      }
+    }
+  },
+  {
+    "reference_id": "54392b8599ddd094fdadb0259e654fc34b870140",
+    "url": "https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-fornmin&srlanguage=sv&srid=11100000000486",
+    "ref_node_pairs": {
+      "publication date": "time:>+2017-04-08T00:00:00Z",
+      "stated in": "wikibase-item:>Monuments database->Q28563569",
+      "reference URL": "url:>https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-fornmin&srlanguage=sv&srid=11100000000486"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q29281195-3F12E4D3-42D4-471A-A4F6-5830348B8171",
+    "subject": "Atlingbo 1:1",
+    "predicate": "geografiska koordinater",
+    "object": "Point(18.40594 57.486119)",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "6129a36cdd1bdfa0c26598c009a77bbb6087d355",
+    "url": "https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-bbr&srlanguage=sv&srid=21300000003807",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Monuments database->Q28563569",
+      "reference URL": "url:>https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-bbr&srlanguage=sv&srid=21300000003807",
+      "publication date": "time:>+2017-05-06T00:00:00Z"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q10727358-94BA13BF-25A8-4976-9D59-9D604A2EE285",
+    "subject": "Önnestads kyrka",
+    "predicate": "K-samsök URI",
+    "object": "raa/bbr/21300000003807",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "b808481acead9af719cedd50a9d62d29846ee02c",
+    "url": "https://libris.kb.se/katalogisering/75knt9lr57z11nr",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>LIBRIS->Q1798125",
+      "reference URL": "url:>https://libris.kb.se/katalogisering/75knt9lr57z11nr",
+      "publication date": "time:>+2013-01-21T00:00:00Z",
+      "retrieved": "time:>+2018-08-24T00:00:00Z"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q3357807-496470CE-0717-421F-9765-FBF80C1DDB18",
+    "subject": "Otto Hahn",
+    "predicate": "efternamn",
+    "object": "Hahn",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 2
+      }
+    }
+  },
+  {
+    "reference_id": "46e79f17d804edd1b511971380dcbca1a29a36ec",
+    "url": "https://kulturpersoner.uppsalakyrkogardar.se/gunilla-bergsten/",
+    "ref_node_pairs": {
+      "reference URL": "url:>https://kulturpersoner.uppsalakyrkogardar.se/gunilla-bergsten/",
+      "retrieved": "time:>+2019-06-05T00:00:00Z",
+      "title": "value:>Gunilla Bergsten 1933–1988. Litteraturvetare",
+      "publisher": "wikibase-item:>Church of Sweden->Q749243"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q52554763-e7254360-4ba9-902d-381d-78a58bd59e10",
+    "subject": "Gunilla Bergsten",
+    "predicate": "gravort",
+    "object": "Uppsala gamla kyrkogård",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 1
+      }
+    }
+  },
+  {
+    "reference_id": "a0be5eb42d077bede8c8273d81432dfed0ffd3db",
+    "url": "https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-fornmin&srlanguage=sv&srid=10039700380002",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Monuments database->Q28563569",
+      "reference URL": "url:>https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-fornmin&srlanguage=sv&srid=10039700380002",
+      "publication date": "time:>+2017-05-06T00:00:00Z"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q29963804-E2E4C895-1C99-47A4-A570-D7334AD73111",
+    "subject": "Överselö 38:2",
+    "predicate": "kulturskyddsstatus",
+    "object": "monument i Fornminnesregistret",
+    "g_id": {
+      "relevance": {
+        "is_present": 0,
+        "difficulty": -1,
+        "reason": 0
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "872254628caa2fe4135a57b9300196d6d51b8450",
+    "url": "http://libris.kb.se/bib/14180982",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>LIBRIS->Q1798125",
+      "reference URL": "url:>http://libris.kb.se/bib/14180982",
+      "retrieved": "time:>+2019-12-29T00:00:00Z"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q80292968-C29B9742-3C86-4E0A-A562-83D7A7AFC0FD",
+    "subject": "Samordnad banklagstiftning betänkande",
+    "predicate": "instans av",
+    "object": "upplaga",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 2
+      }
+    }
+  },
+  {
+    "reference_id": "4b6e1c9a7b60e03073abb62856083de0d9ad7fe0",
+    "url": "http://libris.kb.se/pm134b0740q2pg1",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>LIBRIS->Q1798125",
+      "retrieved": "time:>+2019-11-11T00:00:00Z",
+      "reference URL": "url:>http://libris.kb.se/pm134b0740q2pg1"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q60541482-EB8B641B-614D-4A58-9A7B-CF3AF35FAAB1",
+    "subject": "Muhammad ibn Yaʿqub al-Janadi",
+    "predicate": "Libris-URI",
+    "object": "pm134b0740q2pg1",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 2
+      }
+    }
+  },
+  {
+    "reference_id": "171153b8b29db29ecf6d4ebea3d7e52788e15276",
+    "url": "https://sv.wikipedia.org/w/index.php?title=Lac_de_l'Herbe_à_Commis&oldid=41649387",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Swedish Wikipedia->Q169514",
+      "Wikimedia import URL": "url:>https://sv.wikipedia.org/w/index.php?title=Lac_de_l'Herbe_à_Commis&oldid=41649387"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q22449724-F7EB4668-A2F8-4640-AACD-BBD53C8DE0C2",
+    "subject": "Lac de l'Herbe à Commis",
+    "predicate": "inom administrativt område",
+    "object": "Saguenay–Lac-Saint-Jean",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "1abf57b51d3674c754b1cbae03bf8e723c365ecd",
+    "url": "https://sv.wikipedia.org/w/index.php?title=Deokgok-myeon_(socken_i_Sydkorea,_Södra_Gyeongsang)&oldid=41142160",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Swedish Wikipedia->Q169514",
+      "Wikimedia import URL": "url:>https://sv.wikipedia.org/w/index.php?title=Deokgok-myeon_(socken_i_Sydkorea,_Södra_Gyeongsang)&oldid=41142160"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q12592774-0E2567AB-4DED-41D5-BA2D-119FC56E1A28",
+    "subject": "Deokgok-myeon",
+    "predicate": "inom administrativt område",
+    "object": "Hapcheon",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "abd1da10d8cf32c3e635f8a4a27bce0ffa95deb6",
+    "url": "https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-fornmin&srlanguage=sv&srid=10051500350002",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Monuments database->Q28563569",
+      "reference URL": "url:>https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-fornmin&srlanguage=sv&srid=10051500350002",
+      "publication date": "time:>+2017-05-06T00:00:00Z"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q30037338-B175C032-B2C8-4AC3-A9D8-796049DFFC71",
+    "subject": "Törnevalla 35:2",
+    "predicate": "instans av",
+    "object": "stensättning",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "73f9128f9edc33bd92359f0fed8f399b4d54c3f0",
+    "url": "http://www.svenskfilmdatabas.se/sv/item/?type=film&itemid=36406",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Swedish Film Database->Q1139587",
+      "Swedish Film Database film ID": "value:>36406"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q18290471-bea802f5-4de5-f801-ec81-2ca85ab303b6",
+    "subject": "Halsduken",
+    "predicate": "slutdatum",
+    "object": "1962-12-08T00:00:00Z",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "1a9a487bf267b0bc120e3318bba26e14f34a8778",
+    "url": "http://libris.kb.se/bib/3614361",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>LIBRIS->Q1798125",
+      "retrieved": "time:>+2019-12-16T00:00:00Z",
+      "reference URL": "url:>http://libris.kb.se/bib/3614361"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q79008888-ED392F0D-04CD-41DB-B2FF-16C96E3998FC",
+    "subject": "JkA årsbok : med kalender för nordisk bergshantering",
+    "predicate": "ISSN",
+    "object": "0280-0985",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 2
+      }
+    }
+  },
+  {
+    "reference_id": "4daacc2c3b88280c9289e886493046046014c528",
+    "url": "http://kulturnav.org/eadc367f-218c-4316-ae5d-5b2e3bb8ef30",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>no-label->Q60644424",
+      "publication date": "time:>+2015-10-05T00:00:00Z",
+      "retrieved": "time:>+2019-02-20T00:00:00Z",
+      "reference URL": "url:>http://kulturnav.org/eadc367f-218c-4316-ae5d-5b2e3bb8ef30"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q61790995-EF75EA90-4433-4686-AA48-9C81C2C41483",
+    "subject": "Bunge-Aur hembygdsförening",
+    "predicate": "instans av",
+    "object": "hembygdsförening",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "d6275e3d0e3ed83c015de25712571cfee9a407a8",
+    "url": "https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-fornmin&srlanguage=sv&srid=10073000180001",
+    "ref_node_pairs": {
+      "reference URL": "url:>https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-fornmin&srlanguage=sv&srid=10073000180001",
+      "publication date": "time:>+2017-04-16T00:00:00Z",
+      "stated in": "wikibase-item:>Monuments database->Q28563569"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q29440929-88E11B21-8C5D-4E43-950E-66200D1C10AE",
+    "subject": "Lenhovda 18:1",
+    "predicate": "land",
+    "object": "Sverige",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "9c3fb538d0dee1fe14b5a24646f2c91482fb840a",
+    "url": "https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-bbr&srlanguage=sv&srid=21300000014535",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Monuments database->Q28563569",
+      "reference URL": "url:>https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-bbr&srlanguage=sv&srid=21300000014535",
+      "publication date": "time:>+2017-05-06T00:00:00Z"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q10502423-375E01FF-02E5-4121-A8BE-3EA4474F5F9A",
+    "subject": "Gamla Riksbankshuset, Örebro",
+    "predicate": "instans av",
+    "object": "samling av byggnader",
+    "g_id": {
+      "relevance": {
+        "is_present": 0,
+        "difficulty": -1,
+        "reason": 5
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "dbba2e21412df11dca7d47ed88bddb97ac9db0d6",
+    "url": "http://kulturarvsdata.se/raa/fornvannen/html/1923_reg",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Samla->Q45095660",
+      "reference URL": "url:>http://kulturarvsdata.se/raa/fornvannen/html/1923_reg",
+      "retrieved": "time:>+2017-12-11T00:00:00Z"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q45320387-8A640DF7-2820-4750-8D72-4BCC24F6012B",
+    "subject": "Innehåll 1923",
+    "predicate": "utgivningsdatum",
+    "object": "1923-01-01T00:00:00Z",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "967be0ea2731e3342f66e559364c9d15248b9c46",
+    "url": "https://libris.kb.se/auth/275208",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>LIBRIS->Q1798125",
+      "SELIBR ID": "value:>275208",
+      "named as": "value:>James B Twitchell",
+      "retrieved": "time:>+2017-10-09T00:00:00Z"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q15432028-3A05A81B-F3C7-488E-B78A-CCACC2D8E3BE",
+    "subject": "James B. Twitchell",
+    "predicate": "födelsedatum",
+    "object": "1943-01-01T00:00:00Z",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 2
+      }
+    }
+  },
+  {
+    "reference_id": "6780c215f69ea33ed5e02c9ef727dae7dbe197eb",
+    "url": "https://sv.wikipedia.org/w/index.php?title=Lac_Sumène&oldid=41672768",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Swedish Wikipedia->Q169514",
+      "Wikimedia import URL": "url:>https://sv.wikipedia.org/w/index.php?title=Lac_Sumène&oldid=41672768"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q22493481-2BC366E5-85F1-4C4D-BCE2-D889E8EDC683",
+    "subject": "Lac Sumène",
+    "predicate": "inom administrativt område",
+    "object": "Abitibi-Témiscamingue",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "4693961262d035c41b79e2f4a760c2a045d69035",
+    "url": "https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-fornmin&srlanguage=sv&srid=10238800570001",
+    "ref_node_pairs": {
+      "publication date": "time:>+2017-04-06T00:00:00Z",
+      "reference URL": "url:>https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-fornmin&srlanguage=sv&srid=10238800570001",
+      "stated in": "wikibase-item:>Monuments database->Q28563569"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q29250338-1992E1E3-45F8-4267-9567-DCC1FCE05485",
+    "subject": "Vika 57:1",
+    "predicate": "K-samsök URI",
+    "object": "raa/fmi/10238800570001",
+    "g_id": {
+      "relevance": {
+        "is_present": 0,
+        "difficulty": -1,
+        "reason": 0
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "19aaf7febf0656193943c1a02b76a76202ce9974",
+    "url": "https://viaf.org/viaf/25986954",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>25986954"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q76485470-C7A28299-C4FD-4604-9C10-3A0C408BE5ED",
+    "subject": "Carl Fredrik Corin",
+    "predicate": "WorldCat Identities",
+    "object": "lccn-n83194897",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 1,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "b9d854a4fe89d2271a244028a111c095ea9051c6",
+    "url": "https://sv.wikipedia.org/w/index.php?title=Lac_Nizan&oldid=38711731",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Swedish Wikipedia->Q169514",
+      "Wikimedia import URL": "url:>https://sv.wikipedia.org/w/index.php?title=Lac_Nizan&oldid=38711731"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q22392236-7DBAD46D-010B-4A45-992F-61DDDDEA29B7",
+    "subject": "Lac Nizan",
+    "predicate": "inom administrativt område",
+    "object": "Saguenay–Lac-Saint-Jean",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "bc68652c024d340e97eed7ff3d0e5cc7401d03d9",
+    "url": "https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-fornmin&srlanguage=sv&srid=10088400820001",
+    "ref_node_pairs": {
+      "reference URL": "url:>https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-fornmin&srlanguage=sv&srid=10088400820001",
+      "publication date": "time:>+2017-04-16T00:00:00Z",
+      "stated in": "wikibase-item:>Monuments database->Q28563569"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q29433153-C1CE8D08-581A-4BCB-8101-875BED76C844",
+    "subject": "Västervik 82:1",
+    "predicate": "land",
+    "object": "Sverige",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "371bed873854ffca6adc1c605827216913df3b8e",
+    "url": "https://sv.wikipedia.org/w/index.php?title=Lac_Juneau_(sjö_i_Kanada,_Saguenay/Lac-Saint-Jean)&oldid=41661234",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Swedish Wikipedia->Q169514",
+      "Wikimedia import URL": "url:>https://sv.wikipedia.org/w/index.php?title=Lac_Juneau_(sjö_i_Kanada,_Saguenay/Lac-Saint-Jean)&oldid=41661234"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q22657983-9C3B42A8-3917-4BE5-8ABC-A5F350B8AEE4",
+    "subject": "Lac Juneau",
+    "predicate": "inom administrativt område",
+    "object": "Saguenay–Lac-Saint-Jean",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "8a57569d21ce3b8e267aea0ee5f573014570acc6",
+    "url": "https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-fornmin&srlanguage=sv&srid=11100000001380",
+    "ref_node_pairs": {
+      "publication date": "time:>+2017-04-10T00:00:00Z",
+      "stated in": "wikibase-item:>Monuments database->Q28563569",
+      "reference URL": "url:>https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-fornmin&srlanguage=sv&srid=11100000001380"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q29344101-E170D5DB-D2C0-4491-A80B-39439EA653BD",
+    "subject": "Othem 60:2",
+    "predicate": "instans av",
+    "object": "ristning",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "dfa382193789d42ca9116332cc0547e2bc5af156",
+    "url": "https://libris.kb.se/katalogisering/20dgkj7l1psbg74",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>LIBRIS->Q1798125",
+      "reference URL": "url:>https://libris.kb.se/katalogisering/20dgkj7l1psbg74",
+      "publication date": "time:>+2012-10-30T00:00:00Z",
+      "retrieved": "time:>+2018-08-24T00:00:00Z"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q11860760-EE979E6F-FD14-47DC-A991-3347C321C69F",
+    "subject": "Gunnar Wahlroos",
+    "predicate": "Libris-URI",
+    "object": "20dgkj7l1psbg74",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 2
+      }
+    }
+  },
+  {
+    "reference_id": "3534ec8e3bfa3a1f76a47f4de3b21b3d48a6ac7e",
+    "url": "https://sv.wikipedia.org/w/index.php?title=Lac_Safran_(sjö_i_Kanada,_Saguenay/Lac-Saint-Jean)&oldid=38718630",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Swedish Wikipedia->Q169514",
+      "Wikimedia import URL": "url:>https://sv.wikipedia.org/w/index.php?title=Lac_Safran_(sjö_i_Kanada,_Saguenay/Lac-Saint-Jean)&oldid=38718630"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q22473429-1C127C92-D1A5-4AD6-8B7A-C3339889BB04",
+    "subject": "Lac Safran",
+    "predicate": "inom administrativt område",
+    "object": "Saguenay–Lac-Saint-Jean",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "4354b3744780fb4dd77822a58c5b703c3861cde0",
+    "url": "https://sync.nm.delorean.se/objects?id=15787",
+    "ref_node_pairs": {
+      "reference URL": "url:>https://sync.nm.delorean.se/objects?id=15787",
+      "retrieved": "time:>+2018-11-23T00:00:00Z"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q18577349-3875DE96-99A7-4CCA-993A-1B55B55BB2D0",
+    "subject": "Sofia Hedvig, 1677-1735, prinsessa av Danmark",
+    "predicate": "IIIF manifest",
+    "object": "http://nationalmuseumse.iiifhosting.com/iiif/ae86eda68c0c2d7cfe47c44a4d8bf6f1807fa97452e9f77b98d22d3d02ac54ca/manifest.json",
+    "g_id": {
+      "relevance": {
+        "is_present": 0,
+        "difficulty": -1,
+        "reason": 6
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "7c431345822ea360f90a1be66899c55a7e4e0149",
+    "url": "https://sv.wikipedia.org/w/index.php?title=Malmbäcks_socken&oldid=43177121",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Swedish Wikipedia->Q169514",
+      "Wikimedia import URL": "url:>https://sv.wikipedia.org/w/index.php?title=Malmbäcks_socken&oldid=43177121"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q10576073-4775DDCC-818E-463F-AC92-AF9353AE10CE",
+    "subject": "Malmbäcks socken",
+    "predicate": "SOFI namnregister",
+    "object": "1fx001/218203a1",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "156efae7b15767600b37d2f15a472d20af1db7e5",
+    "url": "https://sok.riksarkivet.se/bildvisning/A0012916_00057#?c=&m=&s=&cv=56&xywh=1358%2C1852%2C2615%2C1489",
+    "ref_node_pairs": {
+      "retrieved": "time:>+2019-05-06T00:00:00Z",
+      "stated in": "wikibase-item:>Swedish church birth records->Q10501038",
+      "title": "value:>Umeå landsförsamlings kyrkoarkiv, Födelse- och dopböcker, SE/HLA/1010219/C/4 (1783-1797), bildid: A0012916_00057, sida 52",
+      "reference URL": "url:>https://sok.riksarkivet.se/bildvisning/A0012916_00057#?c=&m=&s=&cv=56&xywh=1358%2C1852%2C2615%2C1489"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q5819456-b283abad-4437-5637-2830-7c5888dea599",
+    "subject": "Zacharias Hæggström",
+    "predicate": "födelsedatum",
+    "object": "1787-08-06T00:00:00Z",
+    "g_id": {
+      "relevance": {
+        "is_present": 0,
+        "difficulty": -1,
+        "reason": 0
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "a904766a91375e16727fd659ae6dc4c432b0de55",
+    "url": "https://sv.wikipedia.org/w/index.php?title=Lac_Lacosse&oldid=41662124",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Swedish Wikipedia->Q169514",
+      "Wikimedia import URL": "url:>https://sv.wikipedia.org/w/index.php?title=Lac_Lacosse&oldid=41662124"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q22594097-21381456-6554-4156-9ED3-684A4819101C",
+    "subject": "Lac Lacosse",
+    "predicate": "inom administrativt område",
+    "object": "Outaouais",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "9098a897be28977bd0a2cb77b68380bfbe9f19d4",
+    "url": "http://kulturarvsdata.se/raa/fornvannen/html/1915_001",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://kulturarvsdata.se/raa/fornvannen/html/1915_001",
+      "stated in": "wikibase-item:>Samla->Q45095660",
+      "retrieved": "time:>+2017-12-11T00:00:00Z"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q45361377-D8CBECDE-1EC2-49FE-B13D-C791E9FD6DA7",
+    "subject": "Studier över ortnamnen på -lösa",
+    "predicate": "K-samsök URI",
+    "object": "raa/fornvannen/1915_001",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "3903bcde3ea394983fc324a02be917cb7790fa78",
+    "url": "https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-bbr&srlanguage=sv&srid=21300000014709",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Monuments database->Q28563569",
+      "reference URL": "url:>https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-bbr&srlanguage=sv&srid=21300000014709",
+      "publication date": "time:>+2017-05-06T00:00:00Z"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q26256922-C8E9175D-36AA-41A2-89A6-247DE27AA51C",
+    "subject": "Linghallen",
+    "predicate": "arkitekt",
+    "object": "Torben Grut",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 1,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "23f72cc523197842836efcda06878bc5ab05955d",
+    "url": "https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-bbr&srlanguage=sv&srid=21300000000582",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Monuments database->Q28563569",
+      "reference URL": "url:>https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-bbr&srlanguage=sv&srid=21300000000582",
+      "publication date": "time:>+2017-05-06T00:00:00Z"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q10593440-5E602CD0-5287-46B1-8CC1-4206FC9A4F44",
+    "subject": "Mårten Skinnares hus",
+    "predicate": "har delar från klassen",
+    "object": "byggnad",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "3590417727752a01884e037e71b42faf964bd8cb",
+    "url": "https://sync.nm.delorean.se/objects?id=16539",
+    "ref_node_pairs": {
+      "reference URL": "url:>https://sync.nm.delorean.se/objects?id=16539",
+      "retrieved": "time:>+2018-11-23T00:00:00Z"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q43223179-CD49FFC0-6456-4C81-8B5A-9839FB00DD6F",
+    "subject": "Asmund Arle, 1918-1990",
+    "predicate": "IIIF manifest",
+    "object": "http://nationalmuseumse.iiifhosting.com/iiif/ad88e9f6f42498bab5924c4632baa87ced256a3113e44ba6370dd997279988cf/manifest.json",
+    "g_id": {
+      "relevance": {
+        "is_present": 0,
+        "difficulty": -1,
+        "reason": 5
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "c359103acccab27c5024a5d45436a44f5c24ab68",
+    "url": "http://www.expressen.se/kultur/kulturpersonligheten-lars-gustafsson-dod/",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://www.expressen.se/kultur/kulturpersonligheten-lars-gustafsson-dod/"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q372210-3aa5fb24-430e-9bbc-7a83-c62350164545",
+    "subject": "Lars Gustafsson",
+    "predicate": "dödsdatum",
+    "object": "2016-04-03T00:00:00Z",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 3,
+        "sub_publisher": 0
+      }
+    }
+  },
+  {
+    "reference_id": "6bd7cfc389f7393b5e85ea425b33e43af0f60685",
+    "url": "https://biblioteksdatabasen.libris.kb.se/library/8bhv",
+    "ref_node_pairs": {
+      "reference URL": "url:>https://biblioteksdatabasen.libris.kb.se/library/8bhv",
+      "stated in": "wikibase-item:>Libris library database->Q55502519",
+      "retrieved": "time:>+2019-02-12T00:00:00Z"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q61753412-980A3093-3B22-47F0-89BB-14634ADCC6FC",
+    "subject": "Skolbiblioteket på Furutåskolan",
+    "predicate": "inom administrativt område",
+    "object": "Växjö kommun",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 2
+      }
+    }
+  },
+  {
+    "reference_id": "afb7db3ae9bcfed63c5b46c54451e79d284e8fb9",
+    "url": "http://runeberg.org/authors/herleemi.html",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://runeberg.org/authors/herleemi.html"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q5798520-C54229C9-5FEB-4CCA-B1E9-A0DE008DFA66",
+    "subject": "Emil Herlenius",
+    "predicate": "sysselsättning",
+    "object": "skribent",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "6be99d9b8ec0d01614793fda3ab357fea99efe12",
+    "url": "https://libris.kb.se/auth/269428",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>LIBRIS->Q1798125",
+      "SELIBR ID": "value:>269428",
+      "named as": "value:>Sara Wennerberg-Reuter",
+      "retrieved": "time:>+2017-10-09T00:00:00Z"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q4990297-92D90451-406B-484A-B6C6-207688E33A2D",
+    "subject": "Sara Wennerberg-Reuter",
+    "predicate": "födelsedatum",
+    "object": "1875-02-11T00:00:00Z",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 2
+      }
+    }
+  },
+  {
+    "reference_id": "967880b302aca9cdd0cb3bb7e4adace6604872b0",
+    "url": "https://sv.wikipedia.org/w/index.php?title=Cheolsan-dong_(socken_i_Sydkorea,_lat_37,49,_long_126,87)&oldid=41142877",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Swedish Wikipedia->Q169514",
+      "Wikimedia import URL": "url:>https://sv.wikipedia.org/w/index.php?title=Cheolsan-dong_(socken_i_Sydkorea,_lat_37,49,_long_126,87)&oldid=41142877"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q27338058-EEC15733-5543-4A89-A7DB-BDFB2A274D82",
+    "subject": "Cheolsan-dong (socken i Sydkorea, lat 37,49, long 126,87)",
+    "predicate": "inom administrativt område",
+    "object": "Gwangmyeong",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "f244bc3474b5498f6254de228e0be62a5cf1db87",
+    "url": "https://sv.wikipedia.org/w/index.php?title=Lac_Kauihtut&oldid=41661630",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Swedish Wikipedia->Q169514",
+      "Wikimedia import URL": "url:>https://sv.wikipedia.org/w/index.php?title=Lac_Kauihtut&oldid=41661630"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q22584167-8A2463B5-745A-432E-8740-DEAE7DD84154",
+    "subject": "Lac Kauihtut",
+    "predicate": "inom administrativt område",
+    "object": "Côte-Nord",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "d7e152e50dc5996ff603d79e7d420423ddc8cda3",
+    "url": "https://sv.wikipedia.org/w/index.php?title=Lac_Long_(sjö_i_Kanada,_Québec,_Mauricie,_lat_47,71,_long_-72,59)&oldid=41663680",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Swedish Wikipedia->Q169514",
+      "Wikimedia import URL": "url:>https://sv.wikipedia.org/w/index.php?title=Lac_Long_(sjö_i_Kanada,_Québec,_Mauricie,_lat_47,71,_long_-72,59)&oldid=41663680"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q22611163-12303697-D5BA-4CB6-BCB7-133699B14434",
+    "subject": "Lac Long",
+    "predicate": "inom administrativt område",
+    "object": "Mauricie",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "02105452a5a99aef35e44e48dc23b22b7db0fc93",
+    "url": "https://sv.wikipedia.org/w/index.php?title=Lac_Lépingle&oldid=38706179",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Swedish Wikipedia->Q169514",
+      "Wikimedia import URL": "url:>https://sv.wikipedia.org/w/index.php?title=Lac_Lépingle&oldid=38706179"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q22605804-E267F138-762A-4F66-AD89-97B74EDB3F5E",
+    "subject": "Lac Lépingle",
+    "predicate": "inom administrativt område",
+    "object": "Côte-Nord",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "9947d3e534ce529da096b26f106b0b058fed42cf",
+    "url": "https://sv.wikipedia.org/w/index.php?title=Lac_Ginseng&oldid=41658790",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Swedish Wikipedia->Q169514",
+      "Wikimedia import URL": "url:>https://sv.wikipedia.org/w/index.php?title=Lac_Ginseng&oldid=41658790"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q22553517-D5BD5AF3-6E81-4A75-81C5-1BD062015B8D",
+    "subject": "Lac Ginseng",
+    "predicate": "inom administrativt område",
+    "object": "Abitibi-Témiscamingue",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "f667c06c2ce8c51de683d9c92bc79ee2a0e30af8",
+    "url": "https://sv.wikipedia.org/w/index.php?title=Lac_Martel_(sjö_i_Kanada,_Laurentides,_lat_46,79,_long_-75,19)&oldid=41665021",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Swedish Wikipedia->Q169514",
+      "Wikimedia import URL": "url:>https://sv.wikipedia.org/w/index.php?title=Lac_Martel_(sjö_i_Kanada,_Laurentides,_lat_46,79,_long_-75,19)&oldid=41665021"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q22627291-58861B96-BD19-48DC-84A9-3790A8F4EC86",
+    "subject": "Lac Martel",
+    "predicate": "inom administrativt område",
+    "object": "Laurentides",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "d9819a0e05c179b0c37ae14a2db4c8de3ce66113",
+    "url": "https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-fornmin&srlanguage=sv&srid=10082400490001",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Monuments database->Q28563569",
+      "publication date": "time:>+2017-04-14T00:00:00Z",
+      "reference URL": "url:>https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-fornmin&srlanguage=sv&srid=10082400490001"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q29405746-14F1E4B2-E641-4A41-B3D2-86B7DE0EC93A",
+    "subject": "Högsrum 49:1",
+    "predicate": "instans av",
+    "object": "grundläggning",
+    "g_id": {
+      "relevance": {
+        "is_present": 0,
+        "difficulty": -1,
+        "reason": 5
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "8e7b7a837ee5b151a1fa13950ee9b32713b36ded",
+    "url": "https://sv.wikipedia.org/w/index.php?title=Bara_prata_lite&oldid=43907888",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Swedish Wikipedia->Q169514",
+      "Wikimedia import URL": "url:>https://sv.wikipedia.org/w/index.php?title=Bara_prata_lite&oldid=43907888"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q10426244-FE59EFBF-A52F-45A9-931E-0B89E7299625",
+    "subject": "Bara prata lite",
+    "predicate": "genre",
+    "object": "dramafilm",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "dd1869fca62f3b19006c74f4b2c6d591acf5bf4d",
+    "url": "https://sok.riksarkivet.se/sbl/Presentation.aspx?id=7729",
+    "ref_node_pairs": {
+      "Dictionary of Swedish National Biography ID": "value:>7729"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q6025226-31C285B9-3BDA-434C-A665-603BDEC58A45",
+    "subject": "Ivan Oljelund",
+    "predicate": "beskriven av källa",
+    "object": "Svenskt biografiskt lexikon",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "1ece1f414c221fd7d87af6957bbb453da37e2872",
+    "url": "https://sv.wikipedia.org/w/index.php?title=Bananrepubliken&oldid=43890305",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Swedish Wikipedia->Q169514",
+      "Wikimedia import URL": "url:>https://sv.wikipedia.org/w/index.php?title=Bananrepubliken&oldid=43890305"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q10425811-BD28EEF8-AC17-4CD9-A6D6-E77E7467EBB1",
+    "subject": "Bananrepubliken",
+    "predicate": "upphört datum",
+    "object": "2005-01-01T00:00:00Z",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "9c387c54a8f3b38d81e8d0663ad8884d9c23435a",
+    "url": "https://sv.wikipedia.org/w/index.php?title=Alexander_Fioretos&oldid=45397940",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Swedish Wikipedia->Q169514",
+      "Wikimedia import URL": "url:>https://sv.wikipedia.org/w/index.php?title=Alexander_Fioretos&oldid=45397940"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q27299874-84B9C703-FF62-4AD7-8938-5220F8385A81",
+    "subject": "Alexander Fioretos",
+    "predicate": "Soccerway-id för spelare",
+    "object": "alexander-fioretos/434982",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "6cd10a245d3c48397c7dbc8d5e4906f83ae561e8",
+    "url": "https://biblioteksdatabasen.libris.kb.se/library/Emma",
+    "ref_node_pairs": {
+      "reference URL": "url:>https://biblioteksdatabasen.libris.kb.se/library/Emma",
+      "stated in": "wikibase-item:>Libris library database->Q55502519",
+      "retrieved": "time:>+2019-02-12T00:00:00Z"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q61751506-A08EA393-6ED9-4028-A03E-5040CBA5139A",
+    "subject": "Emmaboda bibliotek",
+    "predicate": "inom administrativt område",
+    "object": "Emmaboda kommun",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 2
+      }
+    }
+  },
+  {
+    "reference_id": "136d2c16f4c770f8a68ca1ef464325d89f0339a2",
+    "url": "http://kulturnav.org/deee7374-c468-44da-b166-2e20f5e18ee1",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>no-label->Q60644424",
+      "publication date": "time:>+2015-10-05T00:00:00Z",
+      "retrieved": "time:>+2019-02-20T00:00:00Z",
+      "reference URL": "url:>http://kulturnav.org/deee7374-c468-44da-b166-2e20f5e18ee1"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q61790856-C06803B5-9343-40B1-9E8C-3A91B5F49486",
+    "subject": "Bergs hembygdsförening (Heimbygda)",
+    "predicate": "instans av",
+    "object": "hembygdsförening",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "617f4638d1bfff41a5e4b3f522f2eead01621152",
+    "url": "https://libris.kb.se/katalogisering/c9prlddw1c7n8km",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>LIBRIS->Q1798125",
+      "reference URL": "url:>https://libris.kb.se/katalogisering/c9prlddw1c7n8km",
+      "publication date": "time:>+2018-03-26T00:00:00Z",
+      "retrieved": "time:>+2018-08-24T00:00:00Z"
+    },
+    "language_crawl": "sv",
+    "statement_node": "q68117-F835951F-0A8B-48E3-A50F-09C5707637F1",
+    "subject": "Charlotte Birch-Pfeiffer",
+    "predicate": "medborgarskap",
+    "object": "Tyskland",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 2
+      }
+    }
+  },
+  {
+    "reference_id": "e85c0a629e354ae19abc5e7178c00bb2204834c3",
+    "url": "https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-fornmin&srlanguage=sv&srid=10119200010001",
+    "ref_node_pairs": {
+      "reference URL": "url:>https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-fornmin&srlanguage=sv&srid=10119200010001",
+      "publication date": "time:>+2017-04-16T00:00:00Z",
+      "stated in": "wikibase-item:>Monuments database->Q28563569"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q29476966-C4E4B881-2886-4F2E-A3F1-B82EE922D960",
+    "subject": "Bode hög",
+    "predicate": "instans av",
+    "object": "gravhög",
+    "g_id": {
+      "relevance": {
+        "is_present": 0,
+        "difficulty": -1,
+        "reason": 6
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "d15f70846ce4a70f608b3f9a9fd21597b176c71c",
+    "url": "https://sv.wikipedia.org/w/index.php?title=Lac_Jeffrey_(sjö_i_Kanada,_Mauricie)&oldid=41660884",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Swedish Wikipedia->Q169514",
+      "Wikimedia import URL": "url:>https://sv.wikipedia.org/w/index.php?title=Lac_Jeffrey_(sjö_i_Kanada,_Mauricie)&oldid=41660884"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q22571384-BD73F057-9B91-49A9-8A26-34AFBA142819",
+    "subject": "Lac Jeffrey",
+    "predicate": "inom administrativt område",
+    "object": "Mauricie",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "fc26aa62cf2f00313409805df4926aa35033dd54",
+    "url": "https://libris.kb.se/katalogisering/gdsw1ck035ctzb7",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>LIBRIS->Q1798125",
+      "reference URL": "url:>https://libris.kb.se/katalogisering/gdsw1ck035ctzb7",
+      "publication date": "time:>+2012-11-13T00:00:00Z",
+      "retrieved": "time:>+2018-08-24T00:00:00Z"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q3393564-53E11912-3FC5-4D64-9DB2-1F394F48585E",
+    "subject": "Pau Vila i Dinarès",
+    "predicate": "medborgarskap",
+    "object": "Spanien",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 2
+      }
+    }
+  },
+  {
+    "reference_id": "f113fa341431c705bf46f05bf9a97ba04b85ab0b",
+    "url": "https://sv.wikipedia.org/w/index.php?title=Lac_La_Marelie_(sjö_i_Kanada,_Abitibi-Témiscamingue)&oldid=41662305",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Swedish Wikipedia->Q169514",
+      "Wikimedia import URL": "url:>https://sv.wikipedia.org/w/index.php?title=Lac_La_Marelie_(sjö_i_Kanada,_Abitibi-Témiscamingue)&oldid=41662305"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q22591755-DFADBAF1-28CF-423E-B612-625C4E7BEA1D",
+    "subject": "Lac La Marelie",
+    "predicate": "inom administrativt område",
+    "object": "Abitibi-Témiscamingue",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "f7ce1a4e42dc632ee6852560590179c4ced49adf",
+    "url": "http://www.svenskagravar.se/gravsatt/45620791",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://www.svenskagravar.se/gravsatt/45620791",
+      "publisher": "wikibase-item:>SvenskaGravar->Q26699962",
+      "retrieved": "time:>+2017-06-29T00:00:00Z",
+      "title": "value:>Böttiger, GUSTAF"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q17265776-7ee242f3-4cf3-6dc5-9ae1-127e888b64d6",
+    "subject": "Gustaf Böttiger",
+    "predicate": "gravort",
+    "object": "Norra begravningsplatsen",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "68e0503ecebff80593d0584bad9837b3094f4ab9",
+    "url": "http://kulturarvsdata.se/raa/fornvannen/html/1994_233",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://kulturarvsdata.se/raa/fornvannen/html/1994_233",
+      "stated in": "wikibase-item:>Samla->Q45095660",
+      "retrieved": "time:>+2017-12-11T00:00:00Z"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q45355292-2E3E55E4-37D7-4D41-8289-64B7C10C0023",
+    "subject": "Aktuella avhandlingar 1992-1993 = Recent doctoral theses",
+    "predicate": "huvudtema",
+    "object": "Medeltidsarkeologi",
+    "g_id": {
+      "relevance": {
+        "is_present": 0,
+        "difficulty": -1,
+        "reason": 5
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "ec541c304acc99f4b6d09f8b3f567b8a9761eb66",
+    "url": "http://www.nordicwomeninfilm.com/person/ragna-jorming/",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://www.nordicwomeninfilm.com/person/ragna-jorming/"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q73984468-193D16C8-E150-4550-8AA6-DCA4E2AD21E0",
+    "subject": "Ragna Jorming",
+    "predicate": "sysselsättning",
+    "object": "fotograf",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "3a7e701a1d63325ea69aaef7d4867a7ce2fbfcc7",
+    "url": "https://sv.wikipedia.org/w/index.php?title=Lac_David_(sjö_i_Kanada,_Côte-Nord,_lat_50,55,_long_-63,31)&oldid=41645993",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Swedish Wikipedia->Q169514",
+      "Wikimedia import URL": "url:>https://sv.wikipedia.org/w/index.php?title=Lac_David_(sjö_i_Kanada,_Côte-Nord,_lat_50,55,_long_-63,31)&oldid=41645993"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q22641828-88349353-7D5D-424A-8DEC-70FACAD2B495",
+    "subject": "Lac David",
+    "predicate": "inom administrativt område",
+    "object": "Côte-Nord",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "2e56ecc5471b905c3b7be948c7709240a0efabb6",
+    "url": "https://sok.riksarkivet.se/?postid=Folk_115865791",
+    "ref_node_pairs": {
+      "retrieved": "time:>+2018-04-01T00:00:00Z",
+      "stated in": "wikibase-item:>Swedish Census 1900->Q50287368",
+      "reference URL": "url:>https://sok.riksarkivet.se/?postid=Folk_115865791",
+      "named as": "value:>von Otter, Casten Folke Salomon, f. 1876 i Kristianstads Heliga Trefaldighet Kristianstads län, Underlöjtnant"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q51216791-2ef67742-4320-fca1-ae36-a6e94d8be690",
+    "subject": "Salomon von Otter",
+    "predicate": "födelseplats",
+    "object": "Kristianstad",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "87a2808bc8019bbc55c410980f833dcd5c3bda85",
+    "url": "https://sv.wikipedia.org/w/index.php?title=The_Return_of_Jesus,_Part_II&oldid=43509123",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Swedish Wikipedia->Q169514",
+      "Wikimedia import URL": "url:>https://sv.wikipedia.org/w/index.php?title=The_Return_of_Jesus,_Part_II&oldid=43509123"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q18332176-9C898D51-F41A-4D60-866E-2DECC4F78FBA",
+    "subject": "The Return of Jesus, Part II",
+    "predicate": "genre",
+    "object": "Västern",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "6caacef5b4f0e73bd670d8969dc1262bfa6d440a",
+    "url": "https://sv.wikipedia.org/w/index.php?title=Lac_Dache&oldid=41645563",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Swedish Wikipedia->Q169514",
+      "Wikimedia import URL": "url:>https://sv.wikipedia.org/w/index.php?title=Lac_Dache&oldid=41645563"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q22437736-D4AF7B0D-A259-493E-986D-C3603E292D03",
+    "subject": "Lac Dache",
+    "predicate": "inom administrativt område",
+    "object": "Côte-Nord",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "db93ae17475abed575fbae7ced0a6523bd1da47e",
+    "url": "https://libris.kb.se/auth/246819",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>LIBRIS->Q1798125",
+      "SELIBR ID": "value:>246819",
+      "named as": "value:>Henry Malter",
+      "retrieved": "time:>+2017-10-09T00:00:00Z"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q256984-21A432C7-C26B-41EC-80CD-B63E0DEE5EB0",
+    "subject": "Henry Malter",
+    "predicate": "dödsdatum",
+    "object": "1925-01-01T00:00:00Z",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 2
+      }
+    }
+  },
+  {
+    "reference_id": "a211a2fdf7733236551d7837b2c9aead28d3798c",
+    "url": "https://sok.riksarkivet.se/bildvisning/F0000678_00018#?c=&m=&s=&cv=17&xywh=615%2C3594%2C2474%2C1758",
+    "ref_node_pairs": {
+      "retrieved": "time:>+2019-02-19T00:00:00Z",
+      "stated in": "wikibase-item:>Swedish church birth records->Q10501038",
+      "reference URL": "url:>https://sok.riksarkivet.se/bildvisning/F0000678_00018#?c=&m=&s=&cv=17&xywh=615%2C3594%2C2474%2C1758",
+      "title": "value:>Tensta kyrkoarkiv, Födelse- och dopböcker, SE/ULA/11538/C/8 (1884-1894), bildid: F0000678_00018",
+      "quotation": "value:>15,April,30,1,,Axel Wilhelm Martin 2nd"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q6027483-7d0219e7-469d-0ddd-51ac-4c6ee1f22b80",
+    "subject": "Martin Olsson",
+    "predicate": "födelseplats",
+    "object": "Tensta församling",
+    "g_id": {
+      "relevance": {
+        "is_present": 0,
+        "difficulty": -1,
+        "reason": 0
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "a21d1c7e641aa00b72f93d72128a42e033b0aafa",
+    "url": "https://sv.wikipedia.org/w/index.php?title=Myodo-dong&oldid=41141501",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Swedish Wikipedia->Q169514",
+      "Wikimedia import URL": "url:>https://sv.wikipedia.org/w/index.php?title=Myodo-dong&oldid=41141501"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q12595475-CA2D0388-C504-4615-975E-06912B0BD199",
+    "subject": "Myodo-dong",
+    "predicate": "inom administrativt område",
+    "object": "Yeosu",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "abb31740b56444f9151cbb9f2ebe92258030ec90",
+    "url": "https://sv.wikipedia.org/w/index.php?title=Lasse_Carlsson&oldid=41129817",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Swedish Wikipedia->Q169514",
+      "Wikimedia import URL": "url:>https://sv.wikipedia.org/w/index.php?title=Lasse_Carlsson&oldid=41129817"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q16632848-2A1865A1-0E3D-4C6A-AFF4-DF551F938051",
+    "subject": "Lasse Carlsson",
+    "predicate": "födelseplats",
+    "object": "Ramdala",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "2e68aa98f6ba17267dbdf9ce011e55d1f480ff8e",
+    "url": "https://sv.wikipedia.org/w/index.php?title=Lac_du_Cordon_(sjö_i_Kanada,_Mauricie,_lat_46,58,_long_-73,08)&oldid=41653423",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Swedish Wikipedia->Q169514",
+      "Wikimedia import URL": "url:>https://sv.wikipedia.org/w/index.php?title=Lac_du_Cordon_(sjö_i_Kanada,_Mauricie,_lat_46,58,_long_-73,08)&oldid=41653423"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q22527688-12829995-B4C3-4942-9AEA-E45CDDE9D385",
+    "subject": "Lac du Cordon",
+    "predicate": "inom administrativt område",
+    "object": "Mauricie",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "1257bde4dbd4492fa7a71ff2895f9af1ce48192c",
+    "url": "http://kulturarvsdata.se/raa/fornvannen/html/1995_019",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Samla->Q45095660",
+      "retrieved": "time:>+2017-12-11T00:00:00Z",
+      "reference URL": "url:>http://kulturarvsdata.se/raa/fornvannen/html/1995_019"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q45348559-7446D28A-850C-4894-B4E8-32527C1553DD",
+    "subject": "Neolithic ceramic chronology in the south-eastern Baltic Area in view of 14C accelerator datings",
+    "predicate": "huvudtema",
+    "object": "neolitikum",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 1,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "19c5d913951b78162be4c7b70b861666283de41b",
+    "url": "https://libris.kb.se/auth/342979",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>LIBRIS->Q1798125",
+      "SELIBR ID": "value:>342979",
+      "named as": "value:>Anna Dahlin"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q57660426-DF7D35B3-26FA-4064-BA6A-69BC2FCBD2A2",
+    "subject": "Anna M Dahlin",
+    "predicate": "födelsedatum",
+    "object": "1979-01-01T00:00:00Z",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 2
+      }
+    }
+  },
+  {
+    "reference_id": "fcef56774e9091ed92c03bf6c833dacbb3febe59",
+    "url": "https://sv.wikipedia.org/w/index.php?title=Lac_Kauauiakamasit&oldid=41661607",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Swedish Wikipedia->Q169514",
+      "Wikimedia import URL": "url:>https://sv.wikipedia.org/w/index.php?title=Lac_Kauauiakamasit&oldid=41661607"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q22584091-AD0A0B65-7710-47BF-A57B-FA27C7BDBEFA",
+    "subject": "Lac Kauauiakamasit",
+    "predicate": "inom administrativt område",
+    "object": "Côte-Nord",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "da4519ca3e2669a6c56a6525b56d3057151b1328",
+    "url": "https://sok.riksarkivet.se/?postid=ArkisRef%20SE/068024000",
+    "ref_node_pairs": {
+      "Swedish National Archive ID": "value:>SE/068024000",
+      "retrieved": "time:>+2018-08-11T00:00:00Z"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q10602596-1FE8374A-F511-4DB5-9BBC-E0538CDE55F9",
+    "subject": "Norra Unnaryds församling",
+    "predicate": "inom administrativt område",
+    "object": "Jönköpings kommun",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 1,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "6ca778314bfcd4f833782ab6bf2d9919b85c34b6",
+    "url": "https://sv.wikipedia.org/w/index.php?title=Gyesan-dong_(socken_i_Sydkorea,_lat_37,54,_long_126,72)&oldid=40362359",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Swedish Wikipedia->Q169514",
+      "Wikimedia import URL": "url:>https://sv.wikipedia.org/w/index.php?title=Gyesan-dong_(socken_i_Sydkorea,_lat_37,54,_long_126,72)&oldid=40362359"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q27337451-1BDC2FF0-C304-4663-A4A4-845EC4BB34F0",
+    "subject": "Gyesan-dong",
+    "predicate": "inom administrativt område",
+    "object": "Gyeyang-gu",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "1a86c72b9cfa0b0b8d36628246800ee5eab55160",
+    "url": "https://sv.wikipedia.org/w/index.php?title=Lac_Radumay&oldid=38716325",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Swedish Wikipedia->Q169514",
+      "Wikimedia import URL": "url:>https://sv.wikipedia.org/w/index.php?title=Lac_Radumay&oldid=38716325"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q22454674-00E7FA65-4E29-4F1C-B87D-0C807C52FC25",
+    "subject": "Lac Radumay",
+    "predicate": "inom administrativt område",
+    "object": "Saguenay–Lac-Saint-Jean",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "3daa4f837871ac987ccee745daf745bfc54ca0ff",
+    "url": "https://sv.wikipedia.org/w/index.php?title=Lac_Saint-Paul_(sjö_i_Kanada,_Laurentides,_lat_46,08,_long_-74,91)&oldid=41671106",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Swedish Wikipedia->Q169514",
+      "Wikimedia import URL": "url:>https://sv.wikipedia.org/w/index.php?title=Lac_Saint-Paul_(sjö_i_Kanada,_Laurentides,_lat_46,08,_long_-74,91)&oldid=41671106"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q22475154-32FD929E-31B9-4643-AB04-2E18DD9DF95D",
+    "subject": "Lac Saint-Paul",
+    "predicate": "inom administrativt område",
+    "object": "Laurentides",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "90b453da50ac1ed59b72540c8cf5f55b05771319",
+    "url": "https://sok.riksarkivet.se/Sbl/Presentation.aspx?id=6297",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Dictionary of Swedish National Biography->Q379406",
+      "reference URL": "url:>https://sok.riksarkivet.se/Sbl/Presentation.aspx?id=6297",
+      "Dictionary of Swedish National Biography ID": "value:>6297",
+      "title": "value:>Åke Rålamb"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q6166560-C1684161-4768-4559-A482-3E6B72F744CC",
+    "subject": "Åke Rålamb",
+    "predicate": "dödsdatum",
+    "object": "1718-09-25T00:00:00Z",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "216d228a3987c8b93685fcd0a436f5be4f27e232",
+    "url": "https://sync.nm.delorean.se/objects?id=15536",
+    "ref_node_pairs": {
+      "reference URL": "url:>https://sync.nm.delorean.se/objects?id=15536",
+      "retrieved": "time:>+2018-11-23T00:00:00Z"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q18586535-D2924993-1C98-4267-A3FB-322EE6CAA662",
+    "subject": "Gustav Adolf, 1633-1695, hertig av Mecklenburg-Gustrow",
+    "predicate": "IIIF manifest",
+    "object": "http://nationalmuseumse.iiifhosting.com/iiif/fa7d7df3b99e2838d8725477e454af161fa3f604497d107c3698d288a41e04ef/manifest.json",
+    "g_id": {
+      "relevance": {
+        "is_present": 0,
+        "difficulty": -1,
+        "reason": 6
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "6382bca76a03fe77c8ec8d0920335b60e101e7d7",
+    "url": "https://libris.kb.se/auth/278188",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>LIBRIS->Q1798125",
+      "SELIBR ID": "value:>278188",
+      "named as": "value:>Karol Boromeusz Aleksander Hoffmann",
+      "retrieved": "time:>+2017-10-09T00:00:00Z"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q836348-0CC17D68-7FA4-4FF0-9177-F6BC99A3ADB0",
+    "subject": "Karol Boromeusz Hoffman",
+    "predicate": "födelsedatum",
+    "object": "1798-01-01T00:00:00Z",
+    "g_id": {
+      "relevance": {
+        "is_present": 0,
+        "difficulty": -1,
+        "reason": 5
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 2
+      }
+    }
+  },
+  {
+    "reference_id": "fc1772be1990c8f3ad5907060c994dd254de6a20",
+    "url": "https://sv.wikipedia.org/w/index.php?title=Norrlands_ingenjörkår_(gamla)&oldid=42870048",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Swedish Wikipedia->Q169514",
+      "Wikimedia import URL": "url:>https://sv.wikipedia.org/w/index.php?title=Norrlands_ingenjörkår_(gamla)&oldid=42870048"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q10602851-423859A2-ECB4-42DE-99B0-1B1A9630BFE4",
+    "subject": "Norrlands ingenjörkår (gamla)",
+    "predicate": "land",
+    "object": "Sverige",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "663e9d2a58ab4a75dd031b9b295b5a9807134dc5",
+    "url": "https://sv.wikipedia.org/w/index.php?title=Lac_de_la_Merveille&oldid=41647312",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Swedish Wikipedia->Q169514",
+      "Wikimedia import URL": "url:>https://sv.wikipedia.org/w/index.php?title=Lac_de_la_Merveille&oldid=41647312"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q22467914-E430D8EB-51E5-4A66-B15B-03E8C48F0113",
+    "subject": "Lac de la Merveille",
+    "predicate": "inom administrativt område",
+    "object": "Saguenay–Lac-Saint-Jean",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "54c24140959a7123a71caab34d2a353d0c3faa54",
+    "url": "https://libris.kb.se/auth/249168",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>LIBRIS->Q1798125",
+      "SELIBR ID": "value:>249168",
+      "named as": "value:>G. Benediktsson",
+      "retrieved": "time:>+2017-10-09T00:00:00Z"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q1554710-A8302029-99EE-4F61-A02D-CC56CECAAB0C",
+    "subject": "Gunnar Benediktsson",
+    "predicate": "dödsdatum",
+    "object": "1981-01-01T00:00:00Z",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 2
+      }
+    }
+  },
+  {
+    "reference_id": "b6407af81c62687f21942c9fe3132ecd6edb0185",
+    "url": "https://sv.wikipedia.org/w/index.php?title=Lac_Asselin_(sjö_i_Kanada,_Lanaudière)&oldid=41638958",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Swedish Wikipedia->Q169514",
+      "Wikimedia import URL": "url:>https://sv.wikipedia.org/w/index.php?title=Lac_Asselin_(sjö_i_Kanada,_Lanaudière)&oldid=41638958"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q22609667-40494FBC-9BE4-40E0-BDBF-AA5D0B5DD1A2",
+    "subject": "Lac Asselin",
+    "predicate": "inom administrativt område",
+    "object": "Lanaudière",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "a78c2700bdb2717898f65a02dc1ed6be9f0a6cf8",
+    "url": "https://sv.wikipedia.org/w/index.php?title=Petit_lac_William_(sjö_i_Kanada,_Lanaudière,_lat_46,45,_long_-73,33)&oldid=41704308",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Swedish Wikipedia->Q169514",
+      "Wikimedia import URL": "url:>https://sv.wikipedia.org/w/index.php?title=Petit_lac_William_(sjö_i_Kanada,_Lanaudière,_lat_46,45,_long_-73,33)&oldid=41704308"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q22531891-EC196E0D-48D2-45F5-9DC6-CF905B045F06",
+    "subject": "Petit lac William",
+    "predicate": "inom administrativt område",
+    "object": "Lanaudière",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "16ef2278d4342407e4b55a644b920f7242940971",
+    "url": "https://sv.wikipedia.org/w/index.php?title=Himmel_över_Malmö&oldid=43887185",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Swedish Wikipedia->Q169514",
+      "Wikimedia import URL": "url:>https://sv.wikipedia.org/w/index.php?title=Himmel_över_Malmö&oldid=43887185"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q18290613-E4DCA70C-1199-46F8-83D9-437D4DF07B24",
+    "subject": "Himmel över Malmö",
+    "predicate": "distributör",
+    "object": "Triangelfilm",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "8bf8a622e9c76b965d007e35990d40ea5e3111fa",
+    "url": "https://sv.wikipedia.org/w/index.php?title=Herråkra_socken&oldid=43177855",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Swedish Wikipedia->Q169514",
+      "Wikimedia import URL": "url:>https://sv.wikipedia.org/w/index.php?title=Herråkra_socken&oldid=43177855"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q10522743-F69F152B-C0AF-4AC6-8FC8-6B3E510EFAAB",
+    "subject": "Herråkra socken",
+    "predicate": "SOFI namnregister",
+    "object": "1gx001/205210c1",
+    "g_id": {
+      "relevance": {
+        "is_present": 0,
+        "difficulty": -1,
+        "reason": 6
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "0fc8dd902f4f1d8a5cbd2b105610a9afefed352a",
+    "url": "https://sv.wikipedia.org/w/index.php?title=Lac_Landry_(sjö_i_Kanada,_Côte-Nord,_lat_51,05,_long_-66,41)&oldid=41662407",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Swedish Wikipedia->Q169514",
+      "Wikimedia import URL": "url:>https://sv.wikipedia.org/w/index.php?title=Lac_Landry_(sjö_i_Kanada,_Côte-Nord,_lat_51,05,_long_-66,41)&oldid=41662407"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q22596945-251DFD4B-5D5E-4431-9024-2AC3ECE1846D",
+    "subject": "Lac Landry",
+    "predicate": "inom administrativt område",
+    "object": "Côte-Nord",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "6d0d7cfc2a8c9ab87d3d7d52189384c3589ff6ea",
+    "url": "https://sv.wikipedia.org/w/index.php?title=Marisina&oldid=39045176",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Swedish Wikipedia->Q169514",
+      "Wikimedia import URL": "url:>https://sv.wikipedia.org/w/index.php?title=Marisina&oldid=39045176"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q21867652-D1BA0776-0D29-484D-96CB-749B398677FB",
+    "subject": "Marisina",
+    "predicate": "inom administrativt område",
+    "object": "Vitsebsks voblast",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "08e55d4810c41f627dee4f82e128cfb051660c9a",
+    "url": "https://sv.wikipedia.org/w/index.php?title=Algenubi&oldid=46042397",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Swedish Wikipedia->Q169514",
+      "Wikimedia import URL": "url:>https://sv.wikipedia.org/w/index.php?title=Algenubi&oldid=46042397"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q14205-A2B73B6B-8B08-4B5D-8DE3-4A9B3BE26C80",
+    "subject": "Algenubi",
+    "predicate": "radie",
+    "object": "21",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "36210f88e9d9bf084dff38a5e556b605dda65652",
+    "url": "https://sv.wikipedia.org/w/index.php?title=Lac_Latrie&oldid=41662614",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Swedish Wikipedia->Q169514",
+      "Wikimedia import URL": "url:>https://sv.wikipedia.org/w/index.php?title=Lac_Latrie&oldid=41662614"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q22599849-A13A1A5E-414C-4AB8-B7FC-4DF369DBF29C",
+    "subject": "Lac Latrie",
+    "predicate": "inom administrativt område",
+    "object": "Outaouais",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "4043c41a2040905a74cec6ac7f62f358a4e4a392",
+    "url": "http://kulturarvsdata.se/raa/fornvannen/html/1929_reg",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Samla->Q45095660",
+      "retrieved": "time:>+2017-12-11T00:00:00Z",
+      "reference URL": "url:>http://kulturarvsdata.se/raa/fornvannen/html/1929_reg"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q45342315-D51347B7-565B-453F-B2A0-ED18355FE128",
+    "subject": "Innehåll 1929",
+    "predicate": "utgivningsdatum",
+    "object": "1929-01-01T00:00:00Z",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 2
+      }
+    }
+  },
+  {
+    "reference_id": "c5d4aa7b604573d5252e284cf216e2e6f48d17c4",
+    "url": "http://nvpub.vic-metria.nu/naturvardsregistret/rest/omrade/2005647/Gällande",
+    "ref_node_pairs": {
+      "retrieved": "time:>+2018-07-16T00:00:00Z",
+      "reference URL": "url:>http://nvpub.vic-metria.nu/naturvardsregistret/rest/omrade/2005647/Gällande"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q55693391-00AB82A1-0C89-4E24-B399-058F7608119E",
+    "subject": "Kroksjöskogen",
+    "predicate": "operatör",
+    "object": "Länsstyrelsen i Örebro län",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "8082efcc159b239456acde55a9225231d90b1910",
+    "url": "https://www.transfermarkt.com/transfermarkt/profil/spieler/400978",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Transfermarkt->Q2449070",
+      "Transfermarkt player ID": "value:>400978",
+      "named as": "value:>Oscar Petersson",
+      "retrieved": "time:>+2017-10-09T00:00:00Z"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q42393771-D77FC22B-4635-4F5F-80E0-7FFE8E79008E",
+    "subject": "Oscar Petersson",
+    "predicate": "födelsedatum",
+    "object": "1999-02-26T00:00:00Z",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "6cc206793aae15957d8cb2b272d4a74328694882",
+    "url": "https://sv.wikipedia.org/w/index.php?title=Lac_de_la_Gourgane&oldid=41646853",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Swedish Wikipedia->Q169514",
+      "Wikimedia import URL": "url:>https://sv.wikipedia.org/w/index.php?title=Lac_de_la_Gourgane&oldid=41646853"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q22463290-8EDB1C8E-AAB2-45FE-B4BB-7284D7F6E50B",
+    "subject": "Lac de la Gourgane",
+    "predicate": "inom administrativt område",
+    "object": "Mauricie",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "0a35c27edc75aa6719cd093baf5e15b37c0a179f",
+    "url": "http://runeberg.org/vemarvem/svea64/0168.html",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>no-label->Q21586310",
+      "retrieved": "time:>+2019-12-09T00:00:00Z",
+      "named as": "value:>CEDERSTRÖM, BROR-GÖSTA",
+      "page(s)": "value:>144",
+      "reference URL": "url:>http://runeberg.org/vemarvem/svea64/0168.html"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q23989602-B01F8686-81CD-43C5-BE94-D81AFE80BA70",
+    "subject": "Bror-Gösta Cederström",
+    "predicate": "födelsedatum",
+    "object": "1900-04-28T00:00:00Z",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "32f062b9395ead53930136ab37e491400ab01f18",
+    "url": "https://sv.wikipedia.org/w/index.php?title=Lac_du_Blizzard_(sjö_i_Kanada,_Outaouais)&oldid=41652726",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Swedish Wikipedia->Q169514",
+      "Wikimedia import URL": "url:>https://sv.wikipedia.org/w/index.php?title=Lac_du_Blizzard_(sjö_i_Kanada,_Outaouais)&oldid=41652726"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q22517877-5307E346-2CA4-4115-A923-01BE0E26EF8A",
+    "subject": "Lac du Blizzard",
+    "predicate": "inom administrativt område",
+    "object": "Outaouais",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "2b9eec9e0dda23c8387bfb2b3c3c9ef92f514351",
+    "url": "https://sv.wikipedia.org/w/index.php?title=Lac_Séné_(sjö_i_Kanada,_Abitibi-Témiscamingue)&oldid=41671697",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Swedish Wikipedia->Q169514",
+      "Wikimedia import URL": "url:>https://sv.wikipedia.org/w/index.php?title=Lac_Séné_(sjö_i_Kanada,_Abitibi-Témiscamingue)&oldid=41671697"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q22482687-A7EB14F0-782F-4D3A-B607-0C855A8CB6BE",
+    "subject": "Lac Séné",
+    "predicate": "inom administrativt område",
+    "object": "Abitibi-Témiscamingue",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "37e78b0726aa2c42c3fcb85aa6e5a89253a12bc5",
+    "url": "https://sv.wikipedia.org/w/index.php?title=Lac_Quenouille_(sjö_i_Kanada,_Outaouais)&oldid=41669458",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Swedish Wikipedia->Q169514",
+      "Wikimedia import URL": "url:>https://sv.wikipedia.org/w/index.php?title=Lac_Quenouille_(sjö_i_Kanada,_Outaouais)&oldid=41669458"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q22452734-89F61D7F-DD39-4F49-B4AC-72F1AFA6A26F",
+    "subject": "Lac Quenouille",
+    "predicate": "inom administrativt område",
+    "object": "Outaouais",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "21caa1a61fd1a529da99f296a904ce9a5c394a55",
+    "url": "https://sv.wikipedia.org/w/index.php?title=Lac_du_Cordon_(sjö_i_Kanada,_Mauricie,_lat_46,63,_long_-73,40)&oldid=41653415",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Swedish Wikipedia->Q169514",
+      "Wikimedia import URL": "url:>https://sv.wikipedia.org/w/index.php?title=Lac_du_Cordon_(sjö_i_Kanada,_Mauricie,_lat_46,63,_long_-73,40)&oldid=41653415"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q22527694-DED271BC-3AC0-451F-8F96-1C70C70091E0",
+    "subject": "Lac du Cordon",
+    "predicate": "inom administrativt område",
+    "object": "Mauricie",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "258722fcd6701eec0dbaee2c7443698ffc9118ad",
+    "url": "https://www.ne.se/uppslagsverk/encyklopedi/lång/lennart-lundquist",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Nationalencyklopedin->Q1165538",
+      "NE[dot]se ID": "value:>lennart-lundquist",
+      "named as": "value:>Lennart Lundquist",
+      "retrieved": "time:>+2017-10-09T00:00:00Z"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q5967416-79FA6AB7-BB44-4BB0-B0DD-CFA20273496B",
+    "subject": "Lennart Lundquist",
+    "predicate": "dödsdatum",
+    "object": "2014-01-01T00:00:00Z",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "dbb24cbcd1db1a547507448c06be4b3b382fa243",
+    "url": "https://libris.kb.se/auth/272608",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>LIBRIS->Q1798125",
+      "SELIBR ID": "value:>272608",
+      "named as": "value:>Eva Mattsson",
+      "retrieved": "time:>+2017-10-09T00:00:00Z"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q4966419-8A6A1FF2-9C52-46E7-9143-80923A946F73",
+    "subject": "Eva Mattsson",
+    "predicate": "födelsedatum",
+    "object": "1940-01-01T00:00:00Z",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 2
+      }
+    }
+  },
+  {
+    "reference_id": "93ca13ed4f5348a196b2fcacec493ae6a8a8b570",
+    "url": "https://sok.riksarkivet.se/Sbl/Presentation.aspx?id=10481",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Dictionary of Swedish National Biography->Q379406",
+      "reference URL": "url:>https://sok.riksarkivet.se/Sbl/Presentation.aspx?id=10481",
+      "Dictionary of Swedish National Biography ID": "value:>10481",
+      "title": "value:>Erik Larsson Linde, von der"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q5954639-81ED175E-6754-44CE-BA75-17598F268FA5",
+    "subject": "Erik Larsson von der Linde",
+    "predicate": "dödsdatum",
+    "object": "1636-01-23T00:00:00Z",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "f86a7b1547b4c29e9e406f9b1c1f404a4577a3af",
+    "url": "https://sv.wikipedia.org/w/index.php?title=Lac_du_Biset_(sjö_i_Kanada,_lat_47,30,_long_-77,04)&oldid=41652744",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Swedish Wikipedia->Q169514",
+      "Wikimedia import URL": "url:>https://sv.wikipedia.org/w/index.php?title=Lac_du_Biset_(sjö_i_Kanada,_lat_47,30,_long_-77,04)&oldid=41652744"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q22517662-4D7028A6-A08B-4931-9446-E8B31C3D0FB2",
+    "subject": "Lac du Biset",
+    "predicate": "inom administrativt område",
+    "object": "Abitibi-Témiscamingue",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "a8bf25137c5d0f45d607f6b59091d2795ef50c6b",
+    "url": "http://nvpub.vic-metria.nu/naturvardsregistret/rest/omrade/2000154/G%C3%A4llande",
+    "ref_node_pairs": {
+      "retrieved": "time:>+2017-01-20T00:00:00Z",
+      "reference URL": "url:>http://nvpub.vic-metria.nu/naturvardsregistret/rest/omrade/2000154/G%C3%A4llande",
+      "publication date": "time:>+2015-12-18T00:00:00Z",
+      "stated in": "wikibase-item:>Protected Areas (Nature Reserves)->Q29580583"
+    },
+    "language_crawl": "sv",
+    "statement_node": "q10481121-7775501D-0AD4-4C27-9260-764E6EBD653D",
+    "subject": "Eldgarnsö naturreservat",
+    "predicate": "land",
+    "object": "Sverige",
+    "g_id": {
+      "relevance": {
+        "is_present": 0,
+        "difficulty": -1,
+        "reason": 6
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "f4b97c957f9416b430cd72ddce67092140f8fe0b",
+    "url": "https://sok.riksarkivet.se/Sbl/Presentation.aspx?id=14218",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Dictionary of Swedish National Biography->Q379406",
+      "reference URL": "url:>https://sok.riksarkivet.se/Sbl/Presentation.aspx?id=14218",
+      "Dictionary of Swedish National Biography ID": "value:>14218",
+      "title": "value:>Klas Fleming"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q1572141-5ac6b882-4e5b-38cb-a95f-d0ea279b3c34",
+    "subject": "Claes Fleming",
+    "predicate": "dödsort",
+    "object": "Aachen",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "4493e78069ab51680748eeb711025f7e3e218eff",
+    "url": "https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-bbr&srlanguage=sv&srid=21300000013264",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Monuments database->Q28563569",
+      "reference URL": "url:>https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-bbr&srlanguage=sv&srid=21300000013264",
+      "publication date": "time:>+2017-04-12T00:00:00Z"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q29373854-1D4CEB91-AC36-442B-A8B0-E5729EEFEDD7",
+    "subject": "Skottsila f.d. mönsterskrivarboställe",
+    "predicate": "datum för grundande eller skapande",
+    "object": "1792-01-01T00:00:00Z",
+    "g_id": {
+      "relevance": {
+        "is_present": 0,
+        "difficulty": -1,
+        "reason": 5
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "e14b463946c059b20ff3104c5e6b508c98fe5e1d",
+    "url": "https://sync.nm.delorean.se/objects?id=212705",
+    "ref_node_pairs": {
+      "reference URL": "url:>https://sync.nm.delorean.se/objects?id=212705",
+      "retrieved": "time:>+2018-11-23T00:00:00Z"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q43251540-92150608-8E7F-4E1F-86CF-E2361C4C9C15",
+    "subject": "Del av kuliss till \"Skog\", 12 delar: Kuliss för vänstra delen av scenen, träd",
+    "predicate": "IIIF manifest",
+    "object": "http://nationalmuseumse.iiifhosting.com/iiif/a3f11c51b931fafdb9cbdd0320763d64fc548aec7d8a8b568306470c8f6a0552/manifest.json",
+    "g_id": {
+      "relevance": {
+        "is_present": 0,
+        "difficulty": -1,
+        "reason": 0
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "ca397fb3ef75f95a80ae90881a08d97537e62d5a",
+    "url": "https://sv.wikipedia.org/w/index.php?title=Lac_Goyette_(sjö_i_Kanada,_Lanaudière)&oldid=38700778",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Swedish Wikipedia->Q169514",
+      "Wikimedia import URL": "url:>https://sv.wikipedia.org/w/index.php?title=Lac_Goyette_(sjö_i_Kanada,_Lanaudière)&oldid=38700778"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q22557010-3BE34838-24A2-4C15-8CCB-AD6C85445C01",
+    "subject": "Lac Goyette",
+    "predicate": "inom administrativt område",
+    "object": "Lanaudière",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "3a66e8abb8cbf29d34daff49be85f88f9ad6e31c",
+    "url": "https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-arbetsl&srlanguage=sv&srid=2481",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Monuments database->Q28563569",
+      "publication date": "time:>+2017-03-11T00:00:00Z",
+      "reference URL": "url:>https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-arbetsl&srlanguage=sv&srid=2481"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q28935483-7F89DC27-07E6-4924-A8EF-51998B886A7E",
+    "subject": "Nässjö kvarn",
+    "predicate": "plats",
+    "object": "Ramsele",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "c32c658f4dd6c8e2437c088ea0234c0cba8f9355",
+    "url": "https://sok.riksarkivet.se/Sbl/Presentation.aspx?id=16567",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Dictionary of Swedish National Biography->Q379406",
+      "reference URL": "url:>https://sok.riksarkivet.se/Sbl/Presentation.aspx?id=16567",
+      "Dictionary of Swedish National Biography ID": "value:>16567",
+      "title": "value:>Hans (Eberstein) Everstein, greve av"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q26239841-3857ddcf-4b01-029d-5b31-8df23ec74ede",
+    "subject": "Hans Ludvigsson av Everstein",
+    "predicate": "dödsdatum",
+    "object": "1446-01-01T00:00:00Z",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "239e72b7b91dacef6b460813faed84405679c5d2",
+    "url": "https://calmview.musikverk.se/CalmView/Record.aspx?src=CalmView.Catalog&id=SvT041",
+    "ref_node_pairs": {
+      "publication date": "time:>+2019-11-27T00:00:00Z",
+      "retrieved": "time:>+2019-11-29T00:00:00Z",
+      "reference URL": "url:>https://calmview.musikverk.se/CalmView/Record.aspx?src=CalmView.Catalog&id=SvT041"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q77043203-5DFB81CD-CAA2-4219-8908-7AFD9E4168D9",
+    "subject": "Monna Vanna, Svenska teatern 1903. Rollporträtt",
+    "predicate": "inventarienummer",
+    "object": "SvT041",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "ab77af6cdea4332152ec9d5753e5aa2ab36a6f20",
+    "url": "http://kulturnav.org/db8e7a52-545f-4a18-91ca-aa9f80d1555f",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Arkitekter verksamma i Sverige->Q17373699",
+      "publication date": "time:>+2015-01-09T00:00:00Z",
+      "retrieved": "time:>+2016-10-23T00:00:00Z",
+      "reference URL": "url:>http://kulturnav.org/db8e7a52-545f-4a18-91ca-aa9f80d1555f"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q16043384-9E9FD3FA-9F10-487B-B03A-90B9B81CB755",
+    "subject": "Olle Lagergren",
+    "predicate": "efternamn",
+    "object": "Lagergren",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "001c30fe5102fe7c05179190a1358b94c624ed88",
+    "url": "http://nvpub.vic-metria.nu/naturvardsregistret/rest/omrade/2001193/G%C3%A4llande",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://nvpub.vic-metria.nu/naturvardsregistret/rest/omrade/2001193/G%C3%A4llande",
+      "stated in": "wikibase-item:>Protected Areas (Nature Reserves)->Q29580583",
+      "retrieved": "time:>+2017-01-20T00:00:00Z",
+      "publication date": "time:>+2015-12-18T00:00:00Z"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q921197-3CC2E0DB-B9E7-48CB-AF16-A37F80A57C37",
+    "subject": "Korallgrottan",
+    "predicate": "area",
+    "object": "2603.92",
+    "g_id": {
+      "relevance": {
+        "is_present": 0,
+        "difficulty": -1,
+        "reason": 5
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "7b3a6d1fbf1ba5008d91bea6e294af76c54b4742",
+    "url": "http://www.svenskagravar.se/gravsatt/45677576",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://www.svenskagravar.se/gravsatt/45677576",
+      "publisher": "wikibase-item:>SvenskaGravar->Q26699962",
+      "retrieved": "time:>+2017-06-19T00:00:00Z",
+      "title": "value:>Kylberg, CARL OSKAR"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q5927817-4aa76a3b-4c32-9815-b3d9-8c911f6de751",
+    "subject": "Carl Kylberg",
+    "predicate": "gravort",
+    "object": "Norra begravningsplatsen",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "bacbe37476e28a6ddf6f000dd3194aa10ce0167f",
+    "url": "https://libris.kb.se/n5zv1ll00vjp5d2",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>LIBRIS->Q1798125",
+      "retrieved": "time:>+2019-09-11T00:00:00Z",
+      "reference URL": "url:>https://libris.kb.se/n5zv1ll00vjp5d2"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q67366486-0387796C-B543-490B-9D0C-9124525CE997",
+    "subject": "Himla många kungar: historier kring den svenska historien",
+    "predicate": "serie",
+    "object": "Fataburen",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 2
+      }
+    }
+  },
+  {
+    "reference_id": "9905fb6898d2f28f8830ff30d82e15f7b12785b4",
+    "url": "http://nvpub.vic-metria.nu/naturvardsregistret/rest/omrade/2001958/G%C3%A4llande",
+    "ref_node_pairs": {
+      "retrieved": "time:>+2017-01-20T00:00:00Z",
+      "reference URL": "url:>http://nvpub.vic-metria.nu/naturvardsregistret/rest/omrade/2001958/G%C3%A4llande",
+      "stated in": "wikibase-item:>Protected Areas (Nature Reserves)->Q29580583",
+      "publication date": "time:>+2015-12-18T00:00:00Z"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q10532594-9F53AB29-5344-4410-B9E9-CB6BA71B2BE7",
+    "subject": "Hördalens naturreservat",
+    "predicate": "instans av",
+    "object": "naturreservat",
+    "g_id": {
+      "relevance": {
+        "is_present": 0,
+        "difficulty": -1,
+        "reason": 0
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "e0006b0783ec24441d1ca04272650b17ee8e0362",
+    "url": "https://sv.wikipedia.org/w/index.php?title=Bamse_och_tjuvstaden&oldid=44062505",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Swedish Wikipedia->Q169514",
+      "Wikimedia import URL": "url:>https://sv.wikipedia.org/w/index.php?title=Bamse_och_tjuvstaden&oldid=44062505"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q10425783-E7710B7B-3D05-4758-BBF2-1AB61CF346D2",
+    "subject": "Bamse och tjuvstaden",
+    "predicate": "distributör",
+    "object": "Nordisk Film",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "d6111d7589168983472707eff527533612d4bcaf",
+    "url": "https://sv.wikipedia.org/w/index.php?title=Louise_Hoffsten&oldid=46360525",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Swedish Wikipedia->Q169514",
+      "Wikimedia import URL": "url:>https://sv.wikipedia.org/w/index.php?title=Louise_Hoffsten&oldid=46360525"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q4501788-C26FA8E0-D40D-4B9E-A6B8-4235127DB769",
+    "subject": "Louise Hoffsten",
+    "predicate": "arbetsperiod (start)",
+    "object": "1986-01-01T00:00:00Z",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "6ba8345b3dd56d7d469333480907fc2734357b7e",
+    "url": "http://calmview.musikverk.se/CalmView/Record.aspx?src=CalmView.Persons&id=DS/UK/1203",
+    "ref_node_pairs": {
+      "publication date": "time:>+2017-10-06T00:00:00Z",
+      "stated in": "wikibase-item:>Musikverkets auktoritetsdatabas->Q42160060",
+      "reference URL": "url:>http://calmview.musikverk.se/CalmView/Record.aspx?src=CalmView.Persons&id=DS/UK/1203",
+      "retrieved": "time:>+2017-10-06T00:00:00Z"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q4351832-C93BCA0C-528F-4FBD-BBA0-34D47F3F7F82",
+    "subject": "John Forsell",
+    "predicate": "efternamn",
+    "object": "Forsell",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "ec94760b0611d796ebffde8ab8aa49e7174a16ae",
+    "url": "https://sv.wikipedia.org/w/index.php?title=Melvin_Frithzell&oldid=45497542",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Swedish Wikipedia->Q169514",
+      "Wikimedia import URL": "url:>https://sv.wikipedia.org/w/index.php?title=Melvin_Frithzell&oldid=45497542"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q30064081-58EC42ED-29EE-43B2-AE4A-BBFAF5C52909",
+    "subject": "Melvin Frithzell",
+    "predicate": "Svenska Fotbollförbundet ID",
+    "object": "550015",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "a29888b86623f8e40f245d4a5cb8a8da0fe7bc6c",
+    "url": "https://sv.wikipedia.org/w/index.php?title=Slam_Creepers&oldid=39932141",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Swedish Wikipedia->Q169514",
+      "Wikimedia import URL": "url:>https://sv.wikipedia.org/w/index.php?title=Slam_Creepers&oldid=39932141"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q7538567-6E3D6EDD-8747-4CA6-AB40-0503448E1E8D",
+    "subject": "Slam Creepers",
+    "predicate": "arbetsperiod (start)",
+    "object": "1962-01-01T00:00:00Z",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "7a2a5f611cb292b765780853f9a60dd56e8c0005",
+    "url": "http://nvpub.vic-metria.nu/naturvardsregistret/rest/omrade/2001660/G%C3%A4llande",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Protected Areas (Nature Reserves)->Q29580583",
+      "retrieved": "time:>+2020-02-25T00:00:00Z",
+      "reference URL": "url:>http://nvpub.vic-metria.nu/naturvardsregistret/rest/omrade/2001660/G%C3%A4llande",
+      "publication date": "time:>+2020-02-25T00:00:00Z"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q30158123-CCCA0EBA-8C37-4F90-B520-766292EAA424",
+    "subject": "Lilla Stutvattnet",
+    "predicate": "area",
+    "object": "99.63",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "8dd56fd046453c519924a6cb757d76258f3bf9c7",
+    "url": "https://sync.nm.delorean.se/objects?id=14990",
+    "ref_node_pairs": {
+      "reference URL": "url:>https://sync.nm.delorean.se/objects?id=14990",
+      "retrieved": "time:>+2018-11-23T00:00:00Z"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q18584537-8D989A44-8EDE-4F51-8971-9C604510C6B1",
+    "subject": "Ulrika Eleonora d.ä. 1656-93, drottning av Sverige prinsessa av Danmark",
+    "predicate": "IIIF manifest",
+    "object": "http://nationalmuseumse.iiifhosting.com/iiif/d595a47c3f67c0b6bfa17816cf404555058ed1577311417955f40735e78578e1/manifest.json",
+    "g_id": {
+      "relevance": {
+        "is_present": 0,
+        "difficulty": -1,
+        "reason": 6
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "aaca0ab688064445c701c4fe4e3a941d00fe6362",
+    "url": "https://sv.wikipedia.org/w/index.php?title=Seo-myeon_(socken_i_Sydkorea,_Gangwon,_Cheorwon-gun)&oldid=41142257",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Swedish Wikipedia->Q169514",
+      "Wikimedia import URL": "url:>https://sv.wikipedia.org/w/index.php?title=Seo-myeon_(socken_i_Sydkorea,_Gangwon,_Cheorwon-gun)&oldid=41142257"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q16169876-50966524-3544-44A6-803F-09B5F5D375A4",
+    "subject": "Seo-myeon",
+    "predicate": "inom administrativt område",
+    "object": "Cheorwon-gun",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "dce5959f187e61ef0f9f6df77eac14b81572ef82",
+    "url": "https://sv.wikipedia.org/w/index.php?title=Maria_Johnson&oldid=43881577",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Swedish Wikipedia->Q169514",
+      "Wikimedia import URL": "url:>https://sv.wikipedia.org/w/index.php?title=Maria_Johnson&oldid=43881577"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q4957176-3C98397B-7E96-4346-B12C-44CCA94DE66D",
+    "subject": "Maria Johnson",
+    "predicate": "IMDb ID",
+    "object": "nm0426484",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 1,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "3a3db0b4d6ded212a654055ac8053842d68ae88f",
+    "url": "http://nvpub.vic-metria.nu/naturvardsregistret/rest/omrade/2043934/G%C3%A4llande",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://nvpub.vic-metria.nu/naturvardsregistret/rest/omrade/2043934/G%C3%A4llande",
+      "publication date": "time:>+2015-12-18T00:00:00Z",
+      "retrieved": "time:>+2017-01-20T00:00:00Z",
+      "stated in": "wikibase-item:>Protected Areas (Nature Reserves)->Q29580583"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q30170498-BC648E3D-A4D3-459C-8F88-BDDA693274A9",
+    "subject": "Rökberget",
+    "predicate": "operatör",
+    "object": "Länsstyrelsen i Jämtlands län",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "f8f06157daf8242109dbb121a67e65b0bb7fe981",
+    "url": "https://sv.wikipedia.org/w/index.php?title=Lac_Minouche&oldid=41665714",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Swedish Wikipedia->Q169514",
+      "Wikimedia import URL": "url:>https://sv.wikipedia.org/w/index.php?title=Lac_Minouche&oldid=41665714"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q22359575-D9378B7E-7EDF-4CBB-8ECB-1C791DF2E17B",
+    "subject": "Lac Minouche",
+    "predicate": "inom administrativt område",
+    "object": "Saguenay–Lac-Saint-Jean",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "1a78e1f1421d79ca8aaa2dac6ccb6ede1265699c",
+    "url": "http://nvpub.vic-metria.nu/naturvardsregistret/rest/omrade/2001394/G%C3%A4llande",
+    "ref_node_pairs": {
+      "retrieved": "time:>+2017-01-20T00:00:00Z",
+      "publication date": "time:>+2015-12-18T00:00:00Z",
+      "reference URL": "url:>http://nvpub.vic-metria.nu/naturvardsregistret/rest/omrade/2001394/G%C3%A4llande",
+      "stated in": "wikibase-item:>Protected Areas (Nature Reserves)->Q29580583"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q23929994-54d94382-4ad1-eab3-eb2f-990eda081866",
+    "subject": "Velamsunds naturreservat",
+    "predicate": "instans av",
+    "object": "naturreservat",
+    "g_id": {
+      "relevance": {
+        "is_present": 0,
+        "difficulty": -1,
+        "reason": 0
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "72eaaff02b887adc5ff09cea4d45d3468786bfc4",
+    "url": "https://sv.wikipedia.org/w/index.php?title=Lac_Laferrière_(sjö_i_Kanada,_Saguenay/Lac-Saint-Jean,_lat_48,89,_long_-70,96)&oldid=38705097",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Swedish Wikipedia->Q169514",
+      "Wikimedia import URL": "url:>https://sv.wikipedia.org/w/index.php?title=Lac_Laferrière_(sjö_i_Kanada,_Saguenay/Lac-Saint-Jean,_lat_48,89,_long_-70,96)&oldid=38705097"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q22594632-6034965E-9B4F-45BD-9DA1-E18E36C81CA2",
+    "subject": "Lac Laferrière",
+    "predicate": "inom administrativt område",
+    "object": "Saguenay–Lac-Saint-Jean",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "d1118cc7ccaaba2dc1ff584cf66bd44f795e70ad",
+    "url": "http://nvpub.vic-metria.nu/naturvardsregistret/rest/omrade/2000609/G%C3%A4llande",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Protected Areas (Nature Reserves)->Q29580583",
+      "retrieved": "time:>+2017-01-20T00:00:00Z",
+      "reference URL": "url:>http://nvpub.vic-metria.nu/naturvardsregistret/rest/omrade/2000609/G%C3%A4llande",
+      "publication date": "time:>+2015-12-18T00:00:00Z"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q18292128-1090EED6-179A-4A2E-8C77-59B1678E104A",
+    "subject": "Löjtnantsholm",
+    "predicate": "area",
+    "object": "15.33",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "c8a51af63e6812709228e616fd7b7d926cbeeb91",
+    "url": "http://nvpub.vic-metria.nu/naturvardsregistret/rest/omrade/2005093/G%C3%A4llande",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>no-label->Q86904537",
+      "retrieved": "time:>+2020-02-18T00:00:00Z",
+      "reference URL": "url:>http://nvpub.vic-metria.nu/naturvardsregistret/rest/omrade/2005093/G%C3%A4llande"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q86968680-A82B0FF8-2626-4B5A-9481-79D4378E144B",
+    "subject": "En åsgrop benämnd Fornebytratten",
+    "predicate": "geografiska koordinater",
+    "object": "Point(16.535567628 60.057656705)",
+    "g_id": {
+      "relevance": {
+        "is_present": 0,
+        "difficulty": -1,
+        "reason": 6
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "f68d2d2679cd0be9ff353816effdc72e5bb3469a",
+    "url": "http://nvpub.vic-metria.nu/naturvardsregistret/rest/omrade/2002088/G%C3%A4llande",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Protected Areas (Nature Reserves)->Q29580583",
+      "retrieved": "time:>+2017-01-20T00:00:00Z",
+      "reference URL": "url:>http://nvpub.vic-metria.nu/naturvardsregistret/rest/omrade/2002088/G%C3%A4llande",
+      "publication date": "time:>+2015-12-18T00:00:00Z"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q30166523-41617C3F-1DD5-44C9-BB0C-5BE6BD23B1DD",
+    "subject": "Stackharen",
+    "predicate": "Naturvårdsregistret-id",
+    "object": "2002088",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "1b13c2e34973745f2b088684b14a389a0e020585",
+    "url": "http://www.svenskagravar.se/gravsatt/45607885",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://www.svenskagravar.se/gravsatt/45607885",
+      "publisher": "wikibase-item:>SvenskaGravar->Q26699962",
+      "retrieved": "time:>+2017-03-21T00:00:00Z",
+      "title": "value:>Cervin, CARL GUSTAF"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q5606087-60117340-FC8E-4044-B630-7F7C893F94BF",
+    "subject": "Carl Cervin den äldre",
+    "predicate": "gravort",
+    "object": "Norra begravningsplatsen",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "b7796d5dd0e0dcab0b25d8da420823955a7aa038",
+    "url": "https://sv.wikipedia.org/w/index.php?title=Petit_lac_Groulx_(sjö_i_Kanada,_Laurentides)&oldid=38730765",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Swedish Wikipedia->Q169514",
+      "Wikimedia import URL": "url:>https://sv.wikipedia.org/w/index.php?title=Petit_lac_Groulx_(sjö_i_Kanada,_Laurentides)&oldid=38730765"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q22526705-70C35889-D62B-48A0-810A-D644B911BD22",
+    "subject": "Petit lac Groulx",
+    "predicate": "inom administrativt område",
+    "object": "Laurentides",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "a42c9540bdd4ac6576d35e575449b6cb62e61230",
+    "url": "https://sv.wikipedia.org/w/index.php?title=Lambda_Cygni&oldid=46043063",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Swedish Wikipedia->Q169514",
+      "Wikimedia import URL": "url:>https://sv.wikipedia.org/w/index.php?title=Lambda_Cygni&oldid=46043063"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q509606-D6508B11-7442-43E4-B5D2-8A4A5C5E2C1C",
+    "subject": "Lambda Cygni",
+    "predicate": "massa",
+    "object": "6.4",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "c251d68b10b2677e1374c0b263ca0c953ec1046b",
+    "url": "https://sv.wikipedia.org/w/index.php?title=Lac_en_Épée&oldid=38696681",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Swedish Wikipedia->Q169514",
+      "Wikimedia import URL": "url:>https://sv.wikipedia.org/w/index.php?title=Lac_en_Épée&oldid=38696681"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q22400956-BBD8D939-970E-4C89-9B9A-48798BCEEE9F",
+    "subject": "Lac en Épée",
+    "predicate": "inom administrativt område",
+    "object": "Saguenay–Lac-Saint-Jean",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "a211489ba5cab245c915e7b3691b009df3460d0f",
+    "url": "https://sok.riksarkivet.se/bildvisning/00196550_00387#?c=&m=&s=&cv=386&xywh=237%2C2761%2C2397%2C1724",
+    "ref_node_pairs": {
+      "retrieved": "time:>+2020-03-26T00:00:00Z",
+      "stated in": "wikibase-item:>Death record->Q10478639",
+      "reference URL": "url:>https://sok.riksarkivet.se/bildvisning/00196550_00387#?c=&m=&s=&cv=386&xywh=237%2C2761%2C2397%2C1724",
+      "title": "value:>Gävle Heliga Trefaldighets kyrkoarkiv, Död- och begravningsböcker, huvudserien, SE/HLA/1010056/F I/5 (1902-1908), bildid: 00196550_00387, sida 384"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q88576872-855e1b56-48c2-4c3a-90d2-05e4277b884e",
+    "subject": "Robert Holmstrand",
+    "predicate": "beskriven av källa",
+    "object": "död- och begravningsbok",
+    "g_id": {
+      "relevance": {
+        "is_present": 0,
+        "difficulty": -1,
+        "reason": 0
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "c881a132f75819fee89f2ff581357c2b7b60307d",
+    "url": "https://calmview.musikverk.se/CalmView/Record.aspx?src=CalmView.Catalog&id=DTM+1939-1672",
+    "ref_node_pairs": {
+      "publication date": "time:>+2019-11-05T00:00:00Z",
+      "retrieved": "time:>+2019-11-25T00:00:00Z",
+      "reference URL": "url:>https://calmview.musikverk.se/CalmView/Record.aspx?src=CalmView.Catalog&id=DTM+1939-1672"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q76604072-73A4868D-BF9B-47E2-8387-87E8EF348403",
+    "subject": "Scenografiskiss av Christian Jansson",
+    "predicate": "bredd",
+    "object": "500",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "926a34e0fd9eaf062a9c8592f2ed095d50ee8943",
+    "url": "https://sv.wikipedia.org/w/index.php?title=Lac_Chalina&oldid=41644030",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Swedish Wikipedia->Q169514",
+      "Wikimedia import URL": "url:>https://sv.wikipedia.org/w/index.php?title=Lac_Chalina&oldid=41644030"
+    },
+    "language_crawl": "sv",
+    "statement_node": "Q22389160-37BB5E64-7DC1-45E9-BA40-714C76988613",
+    "subject": "Lac Chalina",
+    "predicate": "inom administrativt område",
+    "object": "Outaouais",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
     "reference_id": "cfe0c95082e131dda17c1daa727875d66bd44f02",
     "url": "https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-fornmin&srlanguage=sv&srid=10003100090003",
     "ref_node_pairs": {
