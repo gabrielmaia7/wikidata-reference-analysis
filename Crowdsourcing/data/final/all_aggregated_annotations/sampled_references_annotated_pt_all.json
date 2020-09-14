@@ -15,14 +15,14 @@
     "object": "10.1590/S0102-76382009000500025",
     "g_id": {
       "relevance": {
-        "is_present": 0,
-        "difficulty": -1,
-        "reason": 0
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
       },
       "authorit": {
-        "author": 3,
-        "publisher": 5,
-        "sub_publisher": -1
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 0
       }
     },
     "url_type": "external_url",
@@ -294,14 +294,14 @@
     "object": "10.1590/S0004-2803.201800000-37",
     "g_id": {
       "relevance": {
-        "is_present": 0,
-        "difficulty": -1,
-        "reason": 0
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
       },
       "authorit": {
-        "author": 3,
-        "publisher": 5,
-        "sub_publisher": -1
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 0
       }
     },
     "url_type": "external_url",
@@ -857,14 +857,14 @@
     "object": "Tobacco, alcohol and dietary factors associated with the risk of oral cancer among Japanese.",
     "g_id": {
       "relevance": {
-        "is_present": 0,
-        "difficulty": -1,
-        "reason": 0
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
       },
       "authorit": {
-        "author": 3,
-        "publisher": 5,
-        "sub_publisher": -1
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 2
       }
     },
     "url_type": "external_url",
@@ -1109,7 +1109,7 @@
       "authorit": {
         "author": 1,
         "publisher": 1,
-        "sub_publisher": 2
+        "sub_publisher": 3
       }
     },
     "url_type": "internal_url",
@@ -1139,14 +1139,14 @@
     "object": "28691970",
     "g_id": {
       "relevance": {
-        "is_present": 0,
-        "difficulty": -1,
-        "reason": 0
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
       },
       "authorit": {
-        "author": 3,
-        "publisher": 5,
-        "sub_publisher": -1
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 0
       }
     },
     "url_type": "external_url",
@@ -1177,12 +1177,12 @@
       "relevance": {
         "is_present": 0,
         "difficulty": -1,
-        "reason": 0
+        "reason": 5
       },
       "authorit": {
-        "author": 3,
-        "publisher": 5,
-        "sub_publisher": -1
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 2
       }
     },
     "url_type": "external_url",
@@ -1211,14 +1211,14 @@
     "object": "Monitoring plant and soil water status: established and novel methods revisited and their relevance to studies of drought tolerance.",
     "g_id": {
       "relevance": {
-        "is_present": 0,
-        "difficulty": -1,
-        "reason": 0
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
       },
       "authorit": {
-        "author": 3,
-        "publisher": 5,
-        "sub_publisher": -1
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 2
       }
     },
     "url_type": "external_url",
@@ -1287,9 +1287,9 @@
         "reason": -1
       },
       "authorit": {
-        "author": 3,
-        "publisher": 5,
-        "sub_publisher": -1
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 2
       }
     },
     "url_type": "external_url",
@@ -1389,14 +1389,14 @@
     "object": "artigo científico",
     "g_id": {
       "relevance": {
-        "is_present": 0,
-        "difficulty": -1,
-        "reason": 0
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
       },
       "authorit": {
-        "author": 3,
-        "publisher": 5,
-        "sub_publisher": -1
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 0
       }
     },
     "url_type": "external_url",

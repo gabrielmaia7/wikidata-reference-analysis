@@ -622,9 +622,9 @@
     "object": "monument i Fornminnesregistret",
     "g_id": {
       "relevance": {
-        "is_present": 0,
-        "difficulty": -1,
-        "reason": 6
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
       },
       "authorit": {
         "author": 2,
@@ -876,9 +876,9 @@
     "object": "monument i Fornminnesregistret",
     "g_id": {
       "relevance": {
-        "is_present": 0,
-        "difficulty": -1,
-        "reason": 0
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
       },
       "authorit": {
         "author": 2,
@@ -1378,9 +1378,9 @@
     "object": "raa/fmi/10238800570001",
     "g_id": {
       "relevance": {
-        "is_present": 0,
-        "difficulty": -1,
-        "reason": 0
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
       },
       "authorit": {
         "author": 2,

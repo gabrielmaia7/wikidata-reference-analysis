@@ -91,9 +91,9 @@
         "reason": -1
       },
       "authorit": {
-        "author": 3,
-        "publisher": 5,
-        "sub_publisher": -1
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 0
       }
     },
     "url_type": "external_url",
@@ -197,9 +197,9 @@
         "reason": -1
       },
       "authorit": {
-        "author": 3,
-        "publisher": 5,
-        "sub_publisher": -1
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 0
       }
     },
     "url_type": "external_url",
@@ -409,7 +409,7 @@
       "authorit": {
         "author": 1,
         "publisher": 1,
-        "sub_publisher": 2
+        "sub_publisher": 3
       }
     },
     "url_type": "internal_url",
@@ -479,9 +479,9 @@
         "reason": -1
       },
       "authorit": {
-        "author": 3,
-        "publisher": 5,
-        "sub_publisher": -1
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 0
       }
     },
     "url_type": "external_url",
@@ -517,7 +517,7 @@
       "authorit": {
         "author": 1,
         "publisher": 1,
-        "sub_publisher": 2
+        "sub_publisher": 3
       }
     },
     "url_type": "internal_url",
@@ -905,9 +905,9 @@
         "reason": -1
       },
       "authorit": {
-        "author": 3,
-        "publisher": 5,
-        "sub_publisher": -1
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 0
       }
     },
     "url_type": "external_url",
@@ -1155,9 +1155,9 @@
         "reason": -1
       },
       "authorit": {
-        "author": 3,
-        "publisher": 5,
-        "sub_publisher": -1
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 0
       }
     },
     "url_type": "external_url",
@@ -1402,9 +1402,9 @@
         "reason": -1
       },
       "authorit": {
-        "author": 3,
-        "publisher": 5,
-        "sub_publisher": -1
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 0
       }
     },
     "url_type": "external_url",
@@ -1473,7 +1473,7 @@
       "authorit": {
         "author": 1,
         "publisher": 1,
-        "sub_publisher": 2
+        "sub_publisher": 3
       }
     },
     "url_type": "internal_url",
@@ -1507,7 +1507,7 @@
       "authorit": {
         "author": 1,
         "publisher": 1,
-        "sub_publisher": 2
+        "sub_publisher": 3
       }
     },
     "url_type": "internal_url",
@@ -1579,9 +1579,9 @@
         "reason": -1
       },
       "authorit": {
-        "author": 3,
-        "publisher": 5,
-        "sub_publisher": -1
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 0
       }
     },
     "url_type": "external_url",

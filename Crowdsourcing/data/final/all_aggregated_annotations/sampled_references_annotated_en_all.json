@@ -21,7 +21,7 @@
       "authorit": {
         "author": 1,
         "publisher": 1,
-        "sub_publisher": 2
+        "sub_publisher": 3
       }
     },
     "url_type": "internal_url",
@@ -56,9 +56,9 @@
         "reason": -1
       },
       "authorit": {
-        "author": 3,
-        "publisher": 5,
-        "sub_publisher": -1
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 0
       }
     },
     "url_type": "external_url",
@@ -348,9 +348,9 @@
         "reason": -1
       },
       "authorit": {
-        "author": 3,
-        "publisher": 5,
-        "sub_publisher": -1
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 0
       }
     },
     "url_type": "external_url",
@@ -385,9 +385,9 @@
         "reason": -1
       },
       "authorit": {
-        "author": 3,
-        "publisher": 5,
-        "sub_publisher": -1
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 0
       }
     },
     "url_type": "external_url",
@@ -604,7 +604,7 @@
       "authorit": {
         "author": 1,
         "publisher": 0,
-        "sub_publisher": 1
+        "sub_publisher": 2
       }
     },
     "url_type": "external_url",
@@ -750,9 +750,9 @@
         "reason": -1
       },
       "authorit": {
-        "author": 3,
-        "publisher": 5,
-        "sub_publisher": -1
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 0
       }
     },
     "url_type": "external_url",
@@ -817,14 +817,14 @@
     "object": "Treatment of Proximal Deep-Vein Thrombosis With the Oral Direct Factor Xa Inhibitor Rivaroxaban (BAY 59-7939): The ODIXa-DVT (Oral Direct Factor Xa Inhibitor BAY 59-7939 in Patients With Acute Symptomatic Deep-Vein Thrombosis) Study",
     "g_id": {
       "relevance": {
-        "is_present": 0,
-        "difficulty": -1,
-        "reason": 4
+        "is_present": 1,
+        "difficulty": 0,
+        "reason": -1
       },
       "authorit": {
-        "author": 3,
-        "publisher": 5,
-        "sub_publisher": -1
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 0
       }
     },
     "url_type": "external_url",
@@ -890,14 +890,14 @@
     "object": "In vivoBiodistribution of Ginkgolide B, a Constituent ofGinkgo biloba, Visualized by MicroPET",
     "g_id": {
       "relevance": {
-        "is_present": 0,
-        "difficulty": -1,
-        "reason": 6
+        "is_present": 1,
+        "difficulty": 1,
+        "reason": -1
       },
       "authorit": {
-        "author": 3,
-        "publisher": 5,
-        "sub_publisher": -1
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 2
       }
     },
     "url_type": "external_url",
@@ -1403,7 +1403,7 @@
       "authorit": {
         "author": 1,
         "publisher": 0,
-        "sub_publisher": 0
+        "sub_publisher": 2
       }
     },
     "url_type": "external_url",
@@ -1475,7 +1475,7 @@
       "authorit": {
         "author": 1,
         "publisher": 0,
-        "sub_publisher": 1
+        "sub_publisher": 0
       }
     },
     "url_type": "internal_url",
@@ -1510,9 +1510,9 @@
         "reason": -1
       },
       "authorit": {
-        "author": 3,
-        "publisher": 5,
-        "sub_publisher": -1
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 0
       }
     },
     "url_type": "external_url",
@@ -1577,14 +1577,14 @@
     "object": "Cocoa and chocolate flavonoids: Implications for cardiovascular health",
     "g_id": {
       "relevance": {
-        "is_present": 0,
-        "difficulty": -1,
-        "reason": 4
+        "is_present": 1,
+        "difficulty": 0,
+        "reason": -1
       },
       "authorit": {
-        "author": 3,
-        "publisher": 5,
-        "sub_publisher": -1
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 0
       }
     },
     "url_type": "external_url",
@@ -1619,9 +1619,9 @@
         "reason": -1
       },
       "authorit": {
-        "author": 3,
-        "publisher": 5,
-        "sub_publisher": -1
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 0
       }
     },
     "url_type": "external_url",

@@ -55,7 +55,7 @@
       "authorit": {
         "author": 1,
         "publisher": 1,
-        "sub_publisher": 2
+        "sub_publisher": 3
       }
     },
     "url_type": "internal_url",
@@ -445,7 +445,7 @@
       "authorit": {
         "author": 1,
         "publisher": 1,
-        "sub_publisher": 2
+        "sub_publisher": 3
       }
     },
     "url_type": "internal_url",
@@ -868,7 +868,7 @@
       "authorit": {
         "author": 1,
         "publisher": 1,
-        "sub_publisher": 2
+        "sub_publisher": 3
       }
     },
     "url_type": "internal_url",

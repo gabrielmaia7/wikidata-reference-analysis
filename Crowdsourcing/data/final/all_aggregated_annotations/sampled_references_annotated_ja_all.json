@@ -435,8 +435,8 @@
       },
       "authorit": {
         "author": 1,
-        "publisher": 4,
-        "sub_publisher": -1
+        "publisher": 1,
+        "sub_publisher": 3
       }
     },
     "url_type": "internal_url",
