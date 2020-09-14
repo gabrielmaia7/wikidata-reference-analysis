@@ -16,6 +16,7 @@ mongodb_credentials.json
 *.bz2
 *old_data/
 *.csv
+!final_annotation_set.csv
 
 #logs
 *.log
