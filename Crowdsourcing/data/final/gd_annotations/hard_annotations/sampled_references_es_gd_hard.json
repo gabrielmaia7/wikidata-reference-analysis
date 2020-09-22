@@ -44,8 +44,8 @@
         "reason": -1
       },
       "authorit": {
-        "author": 3,
-        "publisher": 5,
+        "author": 2,
+        "publisher": 4,
         "sub_publisher": -1
       }
     }
@@ -293,7 +293,7 @@
     "g_id": {
       "relevance": {
         "is_present": 1,
-        "difficulty": 2,
+        "difficulty": 3,
         "reason": -1
       },
       "authorit": {
@@ -371,7 +371,7 @@
     "g_id": {
       "relevance": {
         "is_present": 1,
-        "difficulty": 2,
+        "difficulty": 3,
         "reason": -1
       },
       "authorit": {
@@ -523,7 +523,7 @@
     "g_id": {
       "relevance": {
         "is_present": 1,
-        "difficulty": 2,
+        "difficulty": 3,
         "reason": -1
       },
       "authorit": {
@@ -1081,7 +1081,7 @@
     "g_id": {
       "relevance": {
         "is_present": 1,
-        "difficulty": 4,
+        "difficulty": 3,
         "reason": -1
       },
       "authorit": {
