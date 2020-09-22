@@ -1,0 +1,1148 @@
+[
+  {
+    "reference_id": "9d80ea7d57199e6184c562ba63f0c9dd704f13ee",
+    "url": "https://es.wikipedia.org/w/index.php?title=FK_Starts&oldid=118518432",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Spanish Wikipedia->Q8449",
+      "Wikimedia import URL": "url:>https://es.wikipedia.org/w/index.php?title=FK_Starts&oldid=118518432"
+    },
+    "language_crawl": "es",
+    "statement_node": "Q2613837-D15A541E-2B9D-4807-8287-BE393CC56CAB",
+    "subject": "FK Starts",
+    "predicate": "fecha de fundación o creación",
+    "object": "1961-01-01T00:00:00Z",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "fafeb5bca657086effc423234c028b0b51db56dc",
+    "url": "https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=es&srlang=es&srid=RI-51-0001804",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Monuments database->Q28563569",
+      "publication date": "time:>+2017-11-13T00:00:00Z",
+      "reference URL": "url:>https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=es&srlang=es&srid=RI-51-0001804"
+    },
+    "language_crawl": "es",
+    "statement_node": "Q43095949-4F958B7C-82FC-4C3B-8D99-60DFA5425AD1",
+    "subject": "Talayote de Son Catiu Claperot des Clot Fiol)''",
+    "predicate": "estatus patrimonial",
+    "object": "Bien de Interés Cultural",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 3,
+        "publisher": 5,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "2a169f3084d7e29ddba4f29a81bed34c49009df3",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:11900691%20AND%20SRC:MED&resulttype=core&format=json",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>11900691",
+      "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:11900691%20AND%20SRC:MED&resulttype=core&format=json",
+      "retrieved": "time:>+2019-12-08T00:00:00Z"
+    },
+    "language_crawl": "es",
+    "statement_node": "Q77784930-EA6BF164-82F8-4AEF-BE2D-7A6DF642A4D7",
+    "subject": "[Function of respiratory muscles in malnutrition and in the critically ill patient]",
+    "predicate": "título",
+    "object": "[Function of respiratory muscles in malnutrition and in the critically ill patient]",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 0
+      }
+    }
+  },
+  {
+    "reference_id": "4f563cf36255c085f625ee5467627b1700fe2b5f",
+    "url": "http://eduwp.edu.gva.es/patrimonio-cultural/ficha-inmueble.php?id=2927&lang=es",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://eduwp.edu.gva.es/patrimonio-cultural/ficha-inmueble.php?id=2927&lang=es"
+    },
+    "language_crawl": "es",
+    "statement_node": "Q9007628-5FCA830E-EAF9-4DA1-8950-FF383BD9209F",
+    "subject": "iglesia de la Asunción de la Virgen (Cervera del Maestre)",
+    "predicate": "estatus patrimonial",
+    "object": "Bien de Relevancia Local",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 2
+      }
+    }
+  },
+  {
+    "reference_id": "9e5b8399c55c9ac0e24138b2ee1899e3f91a9aa1",
+    "url": "https://indiancine.ma/MF",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Indiancine.ma->Q57313411",
+      "reference URL": "url:>https://indiancine.ma/MF"
+    },
+    "language_crawl": "es",
+    "statement_node": "Q58428983-ECF071D1-E967-40F5-A7F6-0EF6BF532E72",
+    "subject": "Vinchucha Dansh",
+    "predicate": "instancia de",
+    "object": "película",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 2
+      }
+    }
+  },
+  {
+    "reference_id": "571ee2d19a4a7fbb94a1dab5fd81eefa04d93c30",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:5989072%20AND%20SRC:MED&resulttype=core&format=json",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>5989072",
+      "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:5989072%20AND%20SRC:MED&resulttype=core&format=json",
+      "retrieved": "time:>+2019-10-30T00:00:00Z"
+    },
+    "language_crawl": "es",
+    "statement_node": "Q72958988-ED106DCF-7C8F-403E-96FB-5B6959939A94",
+    "subject": "[Treatment of mesenteric venous thrombosis]",
+    "predicate": "publicado en",
+    "object": "Cirugía y cirujanos",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 0
+      }
+    }
+  },
+  {
+    "reference_id": "df693ac8d3e26a19a27f848264c345e1a66b820a",
+    "url": "http://sedici.unlp.edu.ar/handle/10915/65654",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Institutional repository of the University of La Plata->Q6126111",
+      "reference URL": "url:>http://sedici.unlp.edu.ar/handle/10915/65654"
+    },
+    "language_crawl": "es",
+    "statement_node": "Q80713761-B9C4E20D-F81A-4305-A682-193780EEEA6D",
+    "subject": "La construcción social de políticas públicas en salud: la participación comunitaria asociada a la Atención Primaria de la Salud desde la perspectiva de los agentes de salud",
+    "predicate": "título",
+    "object": "La construcción social de políticas públicas en salud: la participación comunitaria asociada a la Atención Primaria de la Salud desde la perspectiva de los agentes de salud",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 0
+      }
+    }
+  },
+  {
+    "reference_id": "dce51e44b9fe5a79f9a500c678c06426904f5665",
+    "url": "http://sedici.unlp.edu.ar/handle/10915/50999",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Institutional repository of the University of La Plata->Q6126111",
+      "reference URL": "url:>http://sedici.unlp.edu.ar/handle/10915/50999"
+    },
+    "language_crawl": "es",
+    "statement_node": "Q80714131-58C29B1F-805A-4B57-AC71-0E0B8527EE57",
+    "subject": "Efecto del agonista de GnRH acetato de deslorelina en felinos domésticos (<i>Felis catus</i>) prepúberes",
+    "predicate": "instancia de",
+    "object": "tesis doctoral",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 0
+      }
+    }
+  },
+  {
+    "reference_id": "1c4d36577d8f1af7cba4466cf84c53d4e4248e1a",
+    "url": "http://datos.bne.es/persona/XX1600628.html",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://datos.bne.es/persona/XX1600628.html",
+      "retrieved": "time:>+2019-02-09T00:00:00Z"
+    },
+    "language_crawl": "es",
+    "statement_node": "Q21126881-F6BE74EF-1331-4BB4-99BB-074D7E164F3B",
+    "subject": "Anna Agustí",
+    "predicate": "identificador GND",
+    "object": "132669854",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 2
+      }
+    }
+  },
+  {
+    "reference_id": "81c6f32be0fe8632acc53135bfda5f13f3521858",
+    "url": "https://www.uv.es/uvweb/rectorado/es/premios-distinciones/doctores-honoris-causa/doctores-honoris-causa-siglo-xx/fecha-investidura/acto-investidura-doctor-honoris-causa-del-excm-sr-dr-miquel-batllori-munne-1285872205498/Honoris.html?id=1285878548688",
+    "ref_node_pairs": {
+      "reference URL": "url:>https://www.uv.es/uvweb/rectorado/es/premios-distinciones/doctores-honoris-causa/doctores-honoris-causa-siglo-xx/fecha-investidura/acto-investidura-doctor-honoris-causa-del-excm-sr-dr-miquel-batllori-munne-1285872205498/Honoris.html?id=1285878548688"
+    },
+    "language_crawl": "es",
+    "statement_node": "Q3572316-4e9d2b2c-4a20-7694-19f1-83b4c3f904f6",
+    "subject": "Miquel Batllori",
+    "predicate": "premio recibido",
+    "object": "doctor honoris causa por la Universidad de Valencia",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 0
+      }
+    }
+  },
+  {
+    "reference_id": "869b6d7a6c5c03c3d3a57cd896ed4ffbe318ae82",
+    "url": "https://es.wikipedia.org/w/index.php?title=Copa_de_Andalucía_de_Fútbol_Sala_2018&oldid=118575405",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Spanish Wikipedia->Q8449",
+      "Wikimedia import URL": "url:>https://es.wikipedia.org/w/index.php?title=Copa_de_Andalucía_de_Fútbol_Sala_2018&oldid=118575405"
+    },
+    "language_crawl": "es",
+    "statement_node": "Q60823639-196F536A-A294-4287-BE62-DC4B42D0D8C6",
+    "subject": "Copa de Andalucía de Fútbol Sala 2018",
+    "predicate": "número de puntos/goles marcados",
+    "object": "12",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "8a93622e779ebb1bc3b591c649274d34d52c9e33",
+    "url": "https://viaf.org/viaf/28681023",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+      "retrieved": "time:>+2018-08-26T00:00:00Z",
+      "VIAF ID": "value:>28681023"
+    },
+    "language_crawl": "es",
+    "statement_node": "Q6745016-275C2203-9432-4CA9-8A9C-E935BDEF3950",
+    "subject": "Malva Flores",
+    "predicate": "identificador NTA",
+    "object": "205409326",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "e3d8bd00a49b408aa48aa86a92e7ee6aab6edd5b",
+    "url": "https://es.wikipedia.org/w/index.php?title=Ezequiel_Videla&oldid=118654185",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Spanish Wikipedia->Q8449",
+      "Wikimedia import URL": "url:>https://es.wikipedia.org/w/index.php?title=Ezequiel_Videla&oldid=118654185"
+    },
+    "language_crawl": "es",
+    "statement_node": "Q5423246-5CE12A37-2D1A-4288-817B-91B99E9C1DBB",
+    "subject": "Ezequiel Videla",
+    "predicate": "inicio del periodo de actividad",
+    "object": "2009-01-01T00:00:00Z",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "f4cf05ad2e5cc8e54de3f998308f36aad061d7ce",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:10491904%20AND%20SRC:MED&resulttype=core&format=json",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>10491904",
+      "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:10491904%20AND%20SRC:MED&resulttype=core&format=json",
+      "retrieved": "time:>+2019-10-31T00:00:00Z"
+    },
+    "language_crawl": "es",
+    "statement_node": "Q73006151-7AFC5D63-76D7-4661-BF29-E948206C7DD7",
+    "subject": "[New outlooks in the treatment of diabetes]",
+    "predicate": "identificador PubMed",
+    "object": "10491904",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 0
+      }
+    }
+  },
+  {
+    "reference_id": "5463002e7e20b5f620cb8875c55ca98215a814f8",
+    "url": "https://viaf.org/viaf/84248519",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>84248519",
+      "stated in": "wikibase-item:>Virtual International Authority File->Q54919",
+      "retrieved": "time:>+2018-12-16T00:00:00Z"
+    },
+    "language_crawl": "es",
+    "statement_node": "Q6165545-A9B7B615-0907-4CD3-9AF1-C259103CB957",
+    "subject": "Víctor Hugo Rascón Banda",
+    "predicate": "identificador NKC",
+    "object": "js20060414016",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "dc9041bd7458f2c1a1b56fc8e7b3476681333fd8",
+    "url": "https://es.wikipedia.org/w/index.php?title=Banco_de_Tierra_del_Fuego&oldid=112597822",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Spanish Wikipedia->Q8449",
+      "Wikimedia import URL": "url:>https://es.wikipedia.org/w/index.php?title=Banco_de_Tierra_del_Fuego&oldid=112597822"
+    },
+    "language_crawl": "es",
+    "statement_node": "Q8241361-1D52037F-EB6E-4D88-96C1-F018B96D45BF",
+    "subject": "Banco de Tierra del Fuego",
+    "predicate": "página web oficial",
+    "object": "http://www.btf.com.ar/",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "5ae5e17885586aa023715d53c8ccb0a08fec250c",
+    "url": "https://id.loc.gov/authorities/n88026327",
+    "ref_node_pairs": {
+      "Library of Congress authority ID": "value:>n88026327",
+      "stated in": "wikibase-item:>Library of Congress Control Number->Q620946",
+      "retrieved": "time:>+2020-03-25T00:00:00Z"
+    },
+    "language_crawl": "es",
+    "statement_node": "Q5664711-37C82ECE-6EB0-42B2-A8FC-04A5804D89F8",
+    "subject": "Luis de Miranda de Villafaña",
+    "predicate": "identificador FAST",
+    "object": "1835190",
+    "g_id": {
+      "relevance": {
+        "is_present": 0,
+        "difficulty": -1,
+        "reason": 5
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 2,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "b2ab9efc40d73f07647833ddec5b822a04f7b065",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:20738942%20AND%20SRC:MED&resulttype=core&format=json",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>20738942",
+      "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:20738942%20AND%20SRC:MED&resulttype=core&format=json",
+      "retrieved": "time:>+2020-02-11T00:00:00Z"
+    },
+    "language_crawl": "es",
+    "statement_node": "Q84804678-73653233-20DC-4F22-AEAD-B35561752666",
+    "subject": "Isolated left ventricular apical hypoplasia",
+    "predicate": "identificador PubMed",
+    "object": "20738942",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 0
+      }
+    }
+  },
+  {
+    "reference_id": "2b1801d4759e30c1be4f3bf9ef906f1080069078",
+    "url": "https://www.valenciaport.com/nota-legal/",
+    "ref_node_pairs": {
+      "reference URL": "url:>https://www.valenciaport.com/nota-legal/",
+      "retrieved": "time:>+2017-10-18T00:00:00Z"
+    },
+    "language_crawl": "es",
+    "statement_node": "Q30593227-E06920B9-5C1F-4868-B255-2A6056F9C724",
+    "subject": "Autoridad Portuaria de Valencia",
+    "predicate": "ubicación de la sede",
+    "object": "Valencia",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 2,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "86c422ffab4ce2f61165427a0a47ed4b13605380",
+    "url": "http://resolver.smak.be/collection/work/data/3289",
+    "ref_node_pairs": {
+      "retrieved": "time:>+2016-01-25T00:00:00Z",
+      "reference URL": "url:>http://resolver.smak.be/collection/work/data/3289"
+    },
+    "language_crawl": "es",
+    "statement_node": "Q22262052-D9CBA97E-DA5C-4C93-83E0-D2E0B290DF99",
+    "subject": "Nimba",
+    "predicate": "creador",
+    "object": "Hugo Debaere",
+    "g_id": {
+      "relevance": {
+        "is_present": 0,
+        "difficulty": -1,
+        "reason": 0
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 2
+      }
+    }
+  },
+  {
+    "reference_id": "d433432e07e110ec88d3314141f2e83db09512bb",
+    "url": "https://viaf.org/viaf/107000999",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>107000999"
+    },
+    "language_crawl": "es",
+    "statement_node": "Q55687640-BF495121-C710-4A96-8125-D70BA54C01F1",
+    "subject": "Francisco Armijo de Castro",
+    "predicate": "ID WorldCat de identidades",
+    "object": "lccn-n2011015327",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "d59c5acc1f4fb3ec6c2f2a11bf67f8d268e0fd21",
+    "url": "https://es.wikipedia.org/w/index.php?title=Balneario_de_la_Alameda&oldid=119443329",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Spanish Wikipedia->Q8449",
+      "Wikimedia import URL": "url:>https://es.wikipedia.org/w/index.php?title=Balneario_de_la_Alameda&oldid=119443329"
+    },
+    "language_crawl": "es",
+    "statement_node": "Q50292549-8235901E-984C-4415-8822-4B24DA5950BE",
+    "subject": "Balneario de la Alameda",
+    "predicate": "estatus patrimonial",
+    "object": "Bien de Relevancia Local",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "3fc832fc9507f95f287e94f32a67f9cead329775",
+    "url": "http://datos.bne.es/persona/XX1130964.html",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://datos.bne.es/persona/XX1130964.html",
+      "retrieved": "time:>+2019-02-28T00:00:00Z"
+    },
+    "language_crawl": "es",
+    "statement_node": "Q47216729-F6434B06-E016-4378-BAE0-CE2168C1652B",
+    "subject": "Alfonso W. Quiroz",
+    "predicate": "identificador GND",
+    "object": "1056492996",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 2
+      }
+    }
+  },
+  {
+    "reference_id": "9f3a9016bff943d6137e871465e7ee6af558a951",
+    "url": "https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=sv&srlang=es&srid=02100012",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Monuments database->Q28563569",
+      "publication date": "time:>+2017-11-07T00:00:00Z",
+      "reference URL": "url:>https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=sv&srlang=es&srid=02100012"
+    },
+    "language_crawl": "es",
+    "statement_node": "Q42793833-62DE54E3-2F0C-4FAB-AF72-AD12E62080AF",
+    "subject": "MONUMENTO NACIONAL EL TEATRO NACIONAL DE SANTA ANA",
+    "predicate": "instancia de",
+    "object": "bien cultural",
+    "g_id": {
+      "relevance": {
+        "is_present": 0,
+        "difficulty": -1,
+        "reason": 5
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "da6f188c6f02138c66147e5cebba486755bffd72",
+    "url": "https://es.wikipedia.org/w/index.php?title=Blind_in_Texas&oldid=119437158",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Spanish Wikipedia->Q8449",
+      "Wikimedia import URL": "url:>https://es.wikipedia.org/w/index.php?title=Blind_in_Texas&oldid=119437158"
+    },
+    "language_crawl": "es",
+    "statement_node": "Q599815-801CAA3D-3FC5-4192-BE23-8C479451F28A",
+    "subject": "Blind in Texas",
+    "predicate": "forma parte de",
+    "object": "The Last Command",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "47a15251722a216d0f58a9476228c8749d5c5c6e",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:9214896%20AND%20SRC:MED&resulttype=core&format=json",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>9214896",
+      "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:9214896%20AND%20SRC:MED&resulttype=core&format=json",
+      "retrieved": "time:>+2019-11-04T00:00:00Z"
+    },
+    "language_crawl": "es",
+    "statement_node": "Q73492817-7FE80A96-2790-4566-BB44-68D564E6C815",
+    "subject": "[Calculation of the amount of specimen necessary to estimate a proportion and a medium]",
+    "predicate": "fecha de publicación",
+    "object": "1996-10-01T00:00:00Z",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 0
+      }
+    }
+  },
+  {
+    "reference_id": "2e87744fbb4b9426415b0af9ccb68667af448219",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:21983271%20AND%20SRC:MED&resulttype=core&format=json",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>21983271",
+      "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:21983271%20AND%20SRC:MED&resulttype=core&format=json",
+      "retrieved": "time:>+2020-02-14T00:00:00Z"
+    },
+    "language_crawl": "es",
+    "statement_node": "Q85064836-28463868-A51B-450C-84A5-C150ACE04AE5",
+    "subject": "[Hemoperfusion with polymyxin B in septic shock secondary to Klebsiella pneumoniae induced liver abscesses]",
+    "predicate": "identificador PubMed",
+    "object": "21983271",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 0
+      }
+    }
+  },
+  {
+    "reference_id": "166f924bcddf5ecead2598b0a020dd16f75d67ef",
+    "url": "https://es.wikipedia.org/w/index.php?title=Randall_Azofeifa&oldid=119478728",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Spanish Wikipedia->Q8449",
+      "Wikimedia import URL": "url:>https://es.wikipedia.org/w/index.php?title=Randall_Azofeifa&oldid=119478728"
+    },
+    "language_crawl": "es",
+    "statement_node": "Q706582-2ADD5491-FA13-48D4-8C55-76D0CB2A9E5B",
+    "subject": "Randall Azofeifa",
+    "predicate": "inicio del periodo de actividad",
+    "object": "2003-02-05T00:00:00Z",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "acad386b71470743b5e9d942e260bb836816770f",
+    "url": "https://es.wikipedia.org/w/index.php?title=Miguel_Ángel_Bordón&oldid=116591605",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Spanish Wikipedia->Q8449",
+      "Wikimedia import URL": "url:>https://es.wikipedia.org/w/index.php?title=Miguel_Ángel_Bordón&oldid=116591605"
+    },
+    "language_crawl": "es",
+    "statement_node": "Q3857289-A55D2086-489D-46A1-854D-535AA7E0FF16",
+    "subject": "Miguel Ángel Bordón",
+    "predicate": "inicio del periodo de actividad",
+    "object": "1971-01-01T00:00:00Z",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "1299a502b4d91a3d9812edb6638427ba2a5bbe39",
+    "url": "https://es.wikipedia.org/w/index.php?title=Takekazu_Suzuki&oldid=118496003",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Spanish Wikipedia->Q8449",
+      "Wikimedia import URL": "url:>https://es.wikipedia.org/w/index.php?title=Takekazu_Suzuki&oldid=118496003"
+    },
+    "language_crawl": "es",
+    "statement_node": "Q3304030-9569663F-1FB2-40F6-A08F-56421890BCDB",
+    "subject": "Takekazu Suzuki",
+    "predicate": "inicio del periodo de actividad",
+    "object": "1976-01-01T00:00:00Z",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "bec6c6ed1429155f6f04c4ee946d3891c6a29ef1",
+    "url": "https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=cl&srlang=es&srid=749",
+    "ref_node_pairs": {
+      "reference URL": "url:>https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=cl&srlang=es&srid=749",
+      "stated in": "wikibase-item:>Monuments database->Q28563569",
+      "publication date": "time:>+2017-11-10T00:00:00Z"
+    },
+    "language_crawl": "es",
+    "statement_node": "Q42898389-77C76643-94B9-47C4-BCC7-723DEAD49236",
+    "subject": "Casona Mardones",
+    "predicate": "ID Wiki Loves Monuments",
+    "object": "CL-749",
+    "g_id": {
+      "relevance": {
+        "is_present": 0,
+        "difficulty": -1,
+        "reason": 6
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "71e6b8db044c12fb527356bdaa832771d62b47dc",
+    "url": "http://www.congreso.es/portal/page/portal/Congreso/Congreso/Iniciativas?_piref73_2148295_73_1335437_1335437.next_page=/wc/servidorCGI&CMD=VERLST&BASE=DIPH&FMT=DIPHXD1S.fmt&DOCS=1-1&DOCORDER=FIFO&OPDEF=Y&NUM1=&DES1=&QUERY=%28110990%29.NDIP.",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://www.congreso.es/portal/page/portal/Congreso/Congreso/Iniciativas?_piref73_2148295_73_1335437_1335437.next_page=/wc/servidorCGI&CMD=VERLST&BASE=DIPH&FMT=DIPHXD1S.fmt&DOCS=1-1&DOCORDER=FIFO&OPDEF=Y&NUM1=&DES1=&QUERY=%28110990%29.NDIP.",
+      "retrieved": "time:>+2020-01-20T00:00:00Z"
+    },
+    "language_crawl": "es",
+    "statement_node": "Q86930432-3C2F1FD6-1F87-4629-8C08-FB99117C7C83",
+    "subject": "Luis Soriano Rodriguez",
+    "predicate": "lugar de trabajo",
+    "object": "Madrid",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 0,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 2,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "6f7f33892eb5f1223d2656e13e5ffa118e6a5817",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:28433257%20AND%20SRC:MED&resulttype=core&format=json",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>28433257",
+      "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:28433257%20AND%20SRC:MED&resulttype=core&format=json",
+      "retrieved": "time:>+2020-03-18T00:00:00Z"
+    },
+    "language_crawl": "es",
+    "statement_node": "Q38692034-0072E655-EBEE-4F8A-9354-1BC0E506F419",
+    "subject": "Patterns of global health financing and potential future spending on health.",
+    "predicate": "número de ejemplar",
+    "object": "10083",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 0
+      }
+    }
+  },
+  {
+    "reference_id": "da5be3f9b27fbd29a226c1a8692f05fa3c485b83",
+    "url": "https://es.wikipedia.org/w/index.php?title=Azumi_Asakura&oldid=114132230",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Spanish Wikipedia->Q8449",
+      "Wikimedia import URL": "url:>https://es.wikipedia.org/w/index.php?title=Azumi_Asakura&oldid=114132230"
+    },
+    "language_crawl": "es",
+    "statement_node": "Q8191313-EC86EBF2-2993-4679-BE59-7BBAF2B9E9DA",
+    "subject": "Azumi Asakura",
+    "predicate": "nombre de usuario en Ameblo",
+    "object": "asakura-azumi",
+    "g_id": {
+      "relevance": {
+        "is_present": 0,
+        "difficulty": -1,
+        "reason": 5
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "6f91f83baa78a8a4e7095170df16a77e95f6a578",
+    "url": "https://es.wikipedia.org/w/index.php?title=Historias_de_amor,_de_locura_y_de_muerte&oldid=119152578",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Spanish Wikipedia->Q8449",
+      "Wikimedia import URL": "url:>https://es.wikipedia.org/w/index.php?title=Historias_de_amor,_de_locura_y_de_muerte&oldid=119152578"
+    },
+    "language_crawl": "es",
+    "statement_node": "Q27703689-48C19082-D8D7-451F-A63B-9BE0847D679A",
+    "subject": "Historias de amor, de locura y de muerte",
+    "predicate": "escenógrafo",
+    "object": "María Julia Bertotto",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "a1a9124d689d742f560532133ce95387acb36109",
+    "url": "https://es.wikipedia.org/w/index.php?title=Austin_(línea_Azul)&oldid=99013812",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Spanish Wikipedia->Q8449",
+      "Wikimedia import URL": "url:>https://es.wikipedia.org/w/index.php?title=Austin_(línea_Azul)&oldid=99013812"
+    },
+    "language_crawl": "es",
+    "statement_node": "Q2872109-C7F5CFFC-FA19-4E7F-9D8A-57EB8830B0FC",
+    "subject": "Austin (línea Azul)",
+    "predicate": "número de vías con andén",
+    "object": "2",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "2ef8e530b12c4dfc48bd5a5a0b6106513d4aea2f",
+    "url": "http://www.congreso.es/portal/page/portal/Congreso/Congreso/Diputados/BusqForm?_piref73_1333155_73_1333154_1333154.next_page=/wc/fichaDiputado?idDiputado=276&idLegislatura=13",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://www.congreso.es/portal/page/portal/Congreso/Congreso/Diputados/BusqForm?_piref73_1333155_73_1333154_1333154.next_page=/wc/fichaDiputado?idDiputado=276&idLegislatura=13",
+      "retrieved": "time:>+2019-08-21T00:00:00Z"
+    },
+    "language_crawl": "es",
+    "statement_node": "Q13786674-50b3d9fc-456b-9f6a-9567-d85ba5f417fc",
+    "subject": "Inés Arrimadas",
+    "predicate": "identificador en Facebook",
+    "object": "ines.ciudadanos",
+    "g_id": {
+      "relevance": {
+        "is_present": 0,
+        "difficulty": -1,
+        "reason": 6
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 2,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "71e4b81e1561de63220ac0d9c3eaa84840ac6b88",
+    "url": "http://www.rtc.gob.mx/NuevoSitio/cine_clasif_35mm.php?cd=418",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://www.rtc.gob.mx/NuevoSitio/cine_clasif_35mm.php?cd=418"
+    },
+    "language_crawl": "es",
+    "statement_node": "Q28840386-BE1F0747-03CD-491B-B065-E9D553188495",
+    "subject": "Phantom Thread",
+    "predicate": "clasificación de RTC",
+    "object": "B",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 2,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "32a57aa2a102b8685e7b872cd378c33d0b8273b3",
+    "url": "http://datos.bne.es/persona/XX1094299.html",
+    "ref_node_pairs": {
+      "reference URL": "url:>http://datos.bne.es/persona/XX1094299.html",
+      "Biblioteca Nacional de España ID": "value:>XX1094299",
+      "retrieved": "time:>+2019-11-26T00:00:00Z"
+    },
+    "language_crawl": "es",
+    "statement_node": "Q11928948-51FBEFDE-F2F2-433C-8767-74EEBF51C479",
+    "subject": "Josep Tharrats i Vilà",
+    "predicate": "identificador VIAF",
+    "object": "65685299",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 2
+      }
+    }
+  },
+  {
+    "reference_id": "9c42aacd205f19c638b87475cfd19996d3da2378",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:2755229%20AND%20SRC:MED&resulttype=core&format=json",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>2755229",
+      "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:2755229%20AND%20SRC:MED&resulttype=core&format=json",
+      "retrieved": "time:>+2019-10-04T00:00:00Z"
+    },
+    "language_crawl": "es",
+    "statement_node": "Q69669029-AD844AC7-62A9-4985-818E-9104DE2AF9D0",
+    "subject": "[Subacute nodular thyroiditis, de Quervain's type]",
+    "predicate": "página",
+    "object": "558-559",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 0
+      }
+    }
+  },
+  {
+    "reference_id": "e5306d9479aa701f7a3ed5f298a910165ff324d2",
+    "url": "https://es.wikipedia.org/w/index.php?title=Martín_de_Soure&oldid=87749432",
+    "ref_node_pairs": {
+      "imported from Wikimedia project": "wikibase-item:>Spanish Wikipedia->Q8449",
+      "Wikimedia import URL": "url:>https://es.wikipedia.org/w/index.php?title=Martín_de_Soure&oldid=87749432"
+    },
+    "language_crawl": "es",
+    "statement_node": "Q4253474-8BBDF58C-B978-433D-8936-1C44E4563C60",
+    "subject": "Martín de Soure",
+    "predicate": "día de festividad",
+    "object": "31 de enero",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
+      }
+    }
+  },
+  {
+    "reference_id": "eb7fb12ed8e3156462d422dbd84d947d969f95ea",
+    "url": "https://viaf.org/viaf/59031134",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>59031134"
+    },
+    "language_crawl": "es",
+    "statement_node": "Q6458691-C0BFBB96-F1A7-45BF-8DEA-2FA1821190BD",
+    "subject": "Kike Turrón",
+    "predicate": "ID WorldCat de identidades",
+    "object": "lccn-nr2004005394",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "0b3f2e15c5357aa80de9a6576db38303a50e10f9",
+    "url": "https://viaf.org/viaf/169275592",
+    "ref_node_pairs": {
+      "VIAF ID": "value:>169275592"
+    },
+    "language_crawl": "es",
+    "statement_node": "Q5668781-B8F5B385-FA92-4A21-ACAD-E0A853F2FF36",
+    "subject": "Los Negativos",
+    "predicate": "ID WorldCat de identidades",
+    "object": "viaf-169275592",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
+      }
+    }
+  },
+  {
+    "reference_id": "876846427fdf3780ddf253a980ded9f319191eb5",
+    "url": "http://datos.bne.es/resource/XX839980",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Biblioteca Nacional de España->Q750403",
+      "Biblioteca Nacional de España ID": "value:>XX839980",
+      "named as": "value:>José Adriano de Carvalho",
+      "retrieved": "time:>+2017-10-09T00:00:00Z"
+    },
+    "language_crawl": "es",
+    "statement_node": "Q10308686-AA52D01E-9214-4983-A1B1-4A0B63E084B2",
+    "subject": "José Adriano Borges de Carvalho",
+    "predicate": "fecha de nacimiento",
+    "object": "1937-01-01T00:00:00Z",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 2
+      }
+    }
+  },
+  {
+    "reference_id": "eb7e1589022663fadb32a267a09708754ff058b1",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:19658110%20AND%20SRC:MED&resulttype=core&format=json",
+    "ref_node_pairs": {
+      "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",
+      "PubMed ID": "value:>19658110",
+      "reference URL": "url:>https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:19658110%20AND%20SRC:MED&resulttype=core&format=json",
+      "retrieved": "time:>+2020-02-04T00:00:00Z"
+    },
+    "language_crawl": "es",
+    "statement_node": "Q63346795-615EE940-D08F-405A-ADD9-B68ADDB23440",
+    "subject": "Noninvasive ventilation with high pressures in children with acute respiratory failure",
+    "predicate": "identificador PubMed",
+    "object": "19658110",
+    "g_id": {
+      "relevance": {
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
+      },
+      "authorit": {
+        "author": 1,
+        "publisher": 0,
+        "sub_publisher": 0
+      }
+    }
+  }
+]
