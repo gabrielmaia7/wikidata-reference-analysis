@@ -14,14 +14,14 @@
     "object": "monument i Fornminnesregistret",
     "g_id": {
       "relevance": {
-          "is_present": [0,1],
-          "difficulty": -1,
-          "reason": -1
+        "is_present": 1,
+        "difficulty": 0,
+        "reason": -1
       },
-      "authorit":{
-          "author": [1,2],
-          "publisher": [1,4],
-          "sub_publisher": -1
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
       }
     }
   },
@@ -40,14 +40,14 @@
     "object": "Sverige",
     "g_id": {
       "relevance": {
-          "is_present": [0,1],
-          "difficulty": -1,
-          "reason": -1
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
       },
-      "authorit":{
-          "author": [1,2],
-          "publisher": [1,4],
-          "sub_publisher": -1
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
       }
     }
   },
@@ -66,14 +66,14 @@
     "object": "watercolor paint",
     "g_id": {
       "relevance": {
-          "is_present": [1],
-          "difficulty": [2,3,4],
-          "reason": -1
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
       },
-      "authorit":{
-          "author": [1],
-          "publisher": [1,2],
-          "sub_publisher": -1
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
       }
     }
   },
@@ -93,14 +93,14 @@
     "object": "c9pszh1w02tgbqt",
     "g_id": {
       "relevance": {
-          "is_present": [1],
-          "difficulty": [2,3,4],
-          "reason": -1
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
       },
-      "authorit":{
-          "author": [1],
-          "publisher": [1,2],
-          "sub_publisher": -1
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 2
       }
     }
   },
@@ -119,14 +119,14 @@
     "object": "Sverige",
     "g_id": {
       "relevance": {
-          "is_present": [1],
-          "difficulty": -1,
-          "reason": -1
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
       },
-      "authorit":{
-          "author": [1],
-          "publisher": [1,2,4],
-          "sub_publisher": -1
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
       }
     }
   },
@@ -144,14 +144,14 @@
     "object": "Eskilstuna kommun",
     "g_id": {
       "relevance": {
-          "is_present": [0,1],
-          "difficulty": -1,
-          "reason": -1
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
       },
-      "authorit":{
-          "author": [1,2],
-          "publisher": [1,2,4],
-          "sub_publisher": -1
+      "authorit": {
+        "author": 1,
+        "publisher": 2,
+        "sub_publisher": -1
       }
     }
   },
@@ -170,14 +170,14 @@
     "object": "monument i Fornminnesregistret",
     "g_id": {
       "relevance": {
-          "is_present": [0,1],
-          "difficulty": -1,
-          "reason": -1
+        "is_present": 1,
+        "difficulty": 0,
+        "reason": -1
       },
-      "authorit":{
-          "author": [1,2],
-          "publisher": [1,4],
-          "sub_publisher": -1
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
       }
     }
   },
@@ -195,14 +195,14 @@
     "object": "Laurentides",
     "g_id": {
       "relevance": {
-          "is_present": [1],
-          "difficulty": [2,3,4],
-          "reason": -1
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
       },
-      "authorit":{
-          "author": [1,2],
-          "publisher": [1,4],
-          "sub_publisher": -1
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
       }
     }
   },
@@ -220,14 +220,14 @@
     "object": "Saguenay–Lac-Saint-Jean",
     "g_id": {
       "relevance": {
-          "is_present": [1],
-          "difficulty": [2,3,4],
-          "reason": -1
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
       },
-      "authorit":{
-          "author": [1,2],
-          "publisher": [1,4],
-          "sub_publisher": -1
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
       }
     }
   },
@@ -245,14 +245,14 @@
     "object": "Outaouais",
     "g_id": {
       "relevance": {
-          "is_present": [1],
-          "difficulty": [2,3,4],
-          "reason": -1
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
       },
-      "authorit":{
-          "author": [1,2],
-          "publisher": [1,4],
-          "sub_publisher": -1
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
       }
     }
   },
@@ -271,14 +271,14 @@
     "object": "monument i Fornminnesregistret",
     "g_id": {
       "relevance": {
-          "is_present": [0,1],
-          "difficulty": -1,
-          "reason": -1
+        "is_present": 1,
+        "difficulty": 0,
+        "reason": -1
       },
-      "authorit":{
-          "author": [1,2],
-          "publisher": [1,4],
-          "sub_publisher": -1
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
       }
     }
   },
@@ -296,14 +296,14 @@
     "object": "Älskande par",
     "g_id": {
       "relevance": {
-          "is_present": [1],
-          "difficulty": [2,3,4],
-          "reason": -1
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
       },
-      "authorit":{
-          "author": [1],
-          "publisher": [1,2],
-          "sub_publisher": -1
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 2
       }
     }
   },
@@ -312,7 +312,7 @@
     "url": "https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-fornmin&srlanguage=sv&srid=10038104290001",
     "ref_node_pairs": {
       "stated in": "wikibase-item:>Monuments database->Q28563569",
-      "reference URL": "url:>https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-fornmin&srlanguage=sv&srid=10038104290001",
+      "reference URL": "url:>https://tools.wmgit flabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-fornmin&srlanguage=sv&srid=10038104290001",
       "publication date": "time:>+2017-05-06T00:00:00Z"
     },
     "language_crawl": "sv",
@@ -322,13 +322,13 @@
     "object": "ristning",
     "g_id": {
       "relevance": {
-          "is_present": [0,1],
-          "difficulty": -1,
+          "is_present": 1,
+          "difficulty": 4,
           "reason": -1
       },
       "authorit":{
-          "author": [1,2],
-          "publisher": [1,4],
+          "author": 2,
+          "publisher": 4,
           "sub_publisher": -1
       }
     }
@@ -348,14 +348,14 @@
     "object": "ett ombordmagasin på Kustbussen/Norrlandskusten",
     "g_id": {
       "relevance": {
-          "is_present": [1],
-          "difficulty": [2,3,4],
-          "reason": -1
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
       },
-      "authorit":{
-          "author": [1],
-          "publisher": [1,2],
-          "sub_publisher": -1
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 2
       }
     }
   },
@@ -374,14 +374,14 @@
     "object": "urn:nbn:se:kb:sou-8209792",
     "g_id": {
       "relevance": {
-          "is_present": [1],
-          "difficulty": -1,
-          "reason": -1
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
       },
-      "authorit":{
-          "author": [1],
-          "publisher": [1,2],
-          "sub_publisher": -1
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 2
       }
     }
   },
@@ -400,14 +400,14 @@
     "object": "fxqfrg9r0f1zsbm",
     "g_id": {
       "relevance": {
-          "is_present": [1],
-          "difficulty": -1,
-          "reason": -1
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
       },
-      "authorit":{
-          "author": [1],
-          "publisher": [1,2],
-          "sub_publisher": -1
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 2
       }
     }
   },
@@ -426,14 +426,14 @@
     "object": "Statens offentliga utredningar",
     "g_id": {
       "relevance": {
-          "is_present": [1],
-          "difficulty": [2,3,4],
-          "reason": -1
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
       },
-      "authorit":{
-          "author": [1],
-          "publisher": [1,2],
-          "sub_publisher": -1
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 2
       }
     }
   },
@@ -452,14 +452,14 @@
     "object": "monument i Fornminnesregistret",
     "g_id": {
       "relevance": {
-          "is_present": [0,1],
-          "difficulty": -1,
-          "reason": -1
+        "is_present": 1,
+        "difficulty": 0,
+        "reason": -1
       },
-      "authorit":{
-          "author": [1,2],
-          "publisher": [1,4],
-          "sub_publisher": -1
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
       }
     }
   },
@@ -478,14 +478,14 @@
     "object": "raa/fmi/10229600180001",
     "g_id": {
       "relevance": {
-          "is_present": [0,1],
-          "difficulty": -1,
-          "reason": -1
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
       },
-      "authorit":{
-          "author": [1,2],
-          "publisher": [1,4],
-          "sub_publisher": -1
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
       }
     }
   },
@@ -504,14 +504,14 @@
     "object": "periodisk litteratur",
     "g_id": {
       "relevance": {
-          "is_present": [1],
-          "difficulty": -1,
-          "reason": -1
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
       },
-      "authorit":{
-          "author": [1],
-          "publisher": [1,2],
-          "sub_publisher": -1
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 2
       }
     }
   },
@@ -530,14 +530,14 @@
     "object": "Point(18.40594 57.486119)",
     "g_id": {
       "relevance": {
-          "is_present": [0,1],
-          "difficulty": -1,
-          "reason": -1
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
       },
-      "authorit":{
-          "author": [1,2],
-          "publisher": [1,4],
-          "sub_publisher": -1
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
       }
     }
   },
@@ -556,14 +556,14 @@
     "object": "raa/bbr/21300000003807",
     "g_id": {
       "relevance": {
-          "is_present": [0,1],
-          "difficulty": -1,
-          "reason": -1
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
       },
-      "authorit":{
-          "author": [1,2],
-          "publisher": [1,4],
-          "sub_publisher": -1
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
       }
     }
   },
@@ -583,14 +583,14 @@
     "object": "Hahn",
     "g_id": {
       "relevance": {
-          "is_present": [1],
-          "difficulty": [2,3,4],
-          "reason": -1
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
       },
-      "authorit":{
-          "author": [1],
-          "publisher": [1,2],
-          "sub_publisher": -1
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 2
       }
     }
   },
@@ -610,14 +610,14 @@
     "object": "Uppsala gamla kyrkogård",
     "g_id": {
       "relevance": {
-          "is_present": [1],
-          "difficulty": -1,
-          "reason": -1
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
       },
-      "authorit":{
-          "author": [1],
-          "publisher": [1,2,4],
-          "sub_publisher": -1
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 1
       }
     }
   },
@@ -636,14 +636,14 @@
     "object": "monument i Fornminnesregistret",
     "g_id": {
       "relevance": {
-          "is_present": [0,1],
-          "difficulty": -1,
-          "reason": -1
+        "is_present": 1,
+        "difficulty": 0,
+        "reason": -1
       },
-      "authorit":{
-          "author": [1,2],
-          "publisher": [1,4],
-          "sub_publisher": -1
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
       }
     }
   },
@@ -662,14 +662,14 @@
     "object": "upplaga",
     "g_id": {
       "relevance": {
-          "is_present": [0,1],
-          "difficulty": -1,
-          "reason": -1
+        "is_present": 1,
+        "difficulty": 0,
+        "reason": -1
       },
-      "authorit":{
-          "author": [1],
-          "publisher": [1,2],
-          "sub_publisher": -1
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 2
       }
     }
   },
@@ -688,14 +688,14 @@
     "object": "pm134b0740q2pg1",
     "g_id": {
       "relevance": {
-          "is_present": [1],
-          "difficulty": -1,
-          "reason": -1
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
       },
-      "authorit":{
-          "author": [1],
-          "publisher": [1,2],
-          "sub_publisher": -1
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 2
       }
     }
   },
@@ -713,14 +713,14 @@
     "object": "Saguenay–Lac-Saint-Jean",
     "g_id": {
       "relevance": {
-          "is_present": [1],
-          "difficulty": [2,3,4],
-          "reason": -1
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
       },
-      "authorit":{
-          "author": [1,2],
-          "publisher": [1,4],
-          "sub_publisher": -1
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
       }
     }
   },
@@ -738,14 +738,14 @@
     "object": "Hapcheon",
     "g_id": {
       "relevance": {
-          "is_present": [1],
-          "difficulty": [2,3,4],
-          "reason": -1
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
       },
-      "authorit":{
-          "author": [1,2],
-          "publisher": [1,4],
-          "sub_publisher": -1
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
       }
     }
   },
@@ -764,14 +764,14 @@
     "object": "stensättning",
     "g_id": {
       "relevance": {
-          "is_present": [0,1],
-          "difficulty": -1,
-          "reason": -1
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
       },
-      "authorit":{
-          "author": [1,2],
-          "publisher": [1,4],
-          "sub_publisher": -1
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
       }
     }
   },
@@ -789,14 +789,14 @@
     "object": "1962-12-08T00:00:00Z",
     "g_id": {
       "relevance": {
-          "is_present": [0,1],
-          "difficulty": -1,
-          "reason": -1
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
       },
-      "authorit":{
-          "author": [1],
-          "publisher": [1,2],
-          "sub_publisher": -1
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
       }
     }
   },
@@ -815,14 +815,14 @@
     "object": "0280-0985",
     "g_id": {
       "relevance": {
-          "is_present": [1],
-          "difficulty": [2,3,4],
-          "reason": -1
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
       },
-      "authorit":{
-          "author": [1],
-          "publisher": [1,2],
-          "sub_publisher": -1
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 2
       }
     }
   },
@@ -842,14 +842,14 @@
     "object": "hembygdsförening",
     "g_id": {
       "relevance": {
-          "is_present": [1],
-          "difficulty": [2,3,4],
-          "reason": -1
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
       },
-      "authorit":{
-          "author": [1],
-          "publisher": [1,2,4],
-          "sub_publisher": -1
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
       }
     }
   },
@@ -868,14 +868,14 @@
     "object": "Sverige",
     "g_id": {
       "relevance": {
-          "is_present": [0,1],
-          "difficulty": -1,
-          "reason": -1
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
       },
-      "authorit":{
-          "author": [1,2],
-          "publisher": [1,4],
-          "sub_publisher": -1
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
       }
     }
   },
@@ -894,13 +894,13 @@
     "object": "samling av byggnader",
     "g_id": {
       "relevance": {
-          "is_present": [0,1],
+          "is_present": 0,
           "difficulty": -1,
-          "reason": -1
+          "reason": 5
       },
       "authorit":{
-          "author": [1,2],
-          "publisher": [1,4],
+          "author": 2,
+          "publisher": 4,
           "sub_publisher": -1
       }
     }
@@ -920,14 +920,14 @@
     "object": "1923-01-01T00:00:00Z",
     "g_id": {
       "relevance": {
-          "is_present": [1],
-          "difficulty": [2,3,4],
-          "reason": -1
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
       },
-      "authorit":{
-          "author": [1],
-          "publisher": [0,1,2],
-          "sub_publisher": -1
+      "authorit": {
+        "author": 1,
+        "publisher": 2,
+        "sub_publisher": -1
       }
     }
   },
@@ -947,14 +947,14 @@
     "object": "1943-01-01T00:00:00Z",
     "g_id": {
       "relevance": {
-          "is_present": [1],
-          "difficulty": [2,3,4],
-          "reason": -1
+        "is_present": 1,
+        "difficulty": 2,
+        "reason": -1
       },
-      "authorit":{
-          "author": [1],
-          "publisher": [1,2],
-          "sub_publisher": -1
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 2
       }
     }
   },
@@ -972,14 +972,14 @@
     "object": "Abitibi-Témiscamingue",
     "g_id": {
       "relevance": {
-          "is_present": [1],
-          "difficulty": [2,3,4],
-          "reason": -1
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
       },
-      "authorit":{
-          "author": [1,2],
-          "publisher": [1,4],
-          "sub_publisher": -1
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
       }
     }
   },
@@ -998,14 +998,14 @@
     "object": "raa/fmi/10238800570001",
     "g_id": {
       "relevance": {
-          "is_present": [0,1],
-          "difficulty": -1,
-          "reason": -1
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
       },
-      "authorit":{
-          "author": [1,2],
-          "publisher": [1,4],
-          "sub_publisher": -1
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
       }
     }
   },
@@ -1022,14 +1022,14 @@
     "object": "lccn-n83194897",
     "g_id": {
       "relevance": {
-          "is_present": [1],
-          "difficulty": -1,
-          "reason": -1
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
       },
-      "authorit":{
-          "author": [1],
-          "publisher": [1,4],
-          "sub_publisher": -1
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 3
       }
     }
   },
@@ -1047,14 +1047,14 @@
     "object": "Saguenay–Lac-Saint-Jean",
     "g_id": {
       "relevance": {
-          "is_present": [1],
-          "difficulty": [2,3,4],
-          "reason": -1
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
       },
-      "authorit":{
-          "author": [1,2],
-          "publisher": [1,4],
-          "sub_publisher": -1
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
       }
     }
   },
@@ -1073,14 +1073,14 @@
     "object": "Sverige",
     "g_id": {
       "relevance": {
-          "is_present": [0,1],
-          "difficulty": -1,
-          "reason": -1
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
       },
-      "authorit":{
-          "author": [1,2],
-          "publisher": [1,4],
-          "sub_publisher": -1
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
       }
     }
   },
@@ -1098,14 +1098,14 @@
     "object": "Saguenay–Lac-Saint-Jean",
     "g_id": {
       "relevance": {
-          "is_present": [1],
-          "difficulty": [2,3,4],
-          "reason": -1
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
       },
-      "authorit":{
-          "author": [1,2],
-          "publisher": [1,4],
-          "sub_publisher": -1
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
       }
     }
   },
@@ -1124,14 +1124,14 @@
     "object": "ristning",
     "g_id": {
       "relevance": {
-          "is_present": [0,1],
-          "difficulty": -1,
-          "reason": -1
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
       },
-      "authorit":{
-          "author": [1,2],
-          "publisher": [1,4],
-          "sub_publisher": -1
+      "authorit": {
+        "author": 2,
+        "publisher": 4,
+        "sub_publisher": -1
       }
     }
   },
@@ -1151,14 +1151,14 @@
     "object": "20dgkj7l1psbg74",
     "g_id": {
       "relevance": {
-          "is_present": [1],
-          "difficulty": [2,3,4],
-          "reason": -1
+        "is_present": 1,
+        "difficulty": 4,
+        "reason": -1
       },
-      "authorit":{
-          "author": [1],
-          "publisher": [1,2],
-          "sub_publisher": -1
+      "authorit": {
+        "author": 1,
+        "publisher": 1,
+        "sub_publisher": 2
       }
     }
   }
