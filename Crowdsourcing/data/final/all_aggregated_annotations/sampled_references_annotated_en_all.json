@@ -162,7 +162,7 @@
     "g_id": {
       "relevance": {
         "is_present": 1,
-        "difficulty": 1,
+        "difficulty": 3,
         "reason": -1
       },
       "authorit": {
@@ -963,7 +963,7 @@
     "g_id": {
       "relevance": {
         "is_present": 1,
-        "difficulty": 1,
+        "difficulty": 3,
         "reason": -1
       },
       "authorit": {
@@ -1143,9 +1143,9 @@
     "object": "Mov10 like RISC complex RNA helicase 1",
     "g_id": {
       "relevance": {
-        "is_present": 0,
-        "difficulty": -1,
-        "reason": 4
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
       },
       "authorit": {
         "author": 1,
@@ -1287,9 +1287,9 @@
     "object": "acyl-CoA dehydrogenase Rv3139",
     "g_id": {
       "relevance": {
-        "is_present": 0,
-        "difficulty": -1,
-        "reason": 4
+        "is_present": 1,
+        "difficulty": 3,
+        "reason": -1
       },
       "authorit": {
         "author": 1,
@@ -1469,7 +1469,7 @@
     "g_id": {
       "relevance": {
         "is_present": 1,
-        "difficulty": 4,
+        "difficulty": 3,
         "reason": -1
       },
       "authorit": {
@@ -1542,7 +1542,7 @@
     "g_id": {
       "relevance": {
         "is_present": 1,
-        "difficulty": 1,
+        "difficulty": 3,
         "reason": -1
       },
       "authorit": {
@@ -1615,7 +1615,7 @@
     "g_id": {
       "relevance": {
         "is_present": 1,
-        "difficulty": 3,
+        "difficulty": 4,
         "reason": -1
       },
       "authorit": {

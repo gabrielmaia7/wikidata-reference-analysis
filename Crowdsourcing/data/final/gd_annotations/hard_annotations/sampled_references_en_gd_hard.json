@@ -227,7 +227,7 @@
     "g_id": {
       "relevance": {
         "is_present": 1,
-        "difficulty": 4,
+        "difficulty": 3,
         "reason": -1
       },
       "authorit": {
@@ -1054,7 +1054,7 @@
     }
   },
   {
-    "reference_id": " ",
+    "reference_id": "272369c8375b934a43d47920fbc603e992ee1bd6",
     "url": "https://pubmed.ncbi.nlm.nih.gov/9109387",
     "ref_node_pairs": {
       "stated in": "wikibase-item:>Europe PubMed Central->Q5412157",

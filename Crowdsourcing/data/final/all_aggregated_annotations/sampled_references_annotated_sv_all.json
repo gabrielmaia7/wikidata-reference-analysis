@@ -15,7 +15,7 @@
     "g_id": {
       "relevance": {
         "is_present": 1,
-        "difficulty": 3,
+        "difficulty": 0,
         "reason": -1
       },
       "authorit": {
@@ -195,7 +195,7 @@
     "g_id": {
       "relevance": {
         "is_present": 1,
-        "difficulty": 3,
+        "difficulty": 4,
         "reason": -1
       },
       "authorit": {
@@ -231,7 +231,7 @@
     "g_id": {
       "relevance": {
         "is_present": 1,
-        "difficulty": 3,
+        "difficulty": 0,
         "reason": -1
       },
       "authorit": {
@@ -372,7 +372,7 @@
     "g_id": {
       "relevance": {
         "is_present": 1,
-        "difficulty": 3,
+        "difficulty": 0,
         "reason": -1
       },
       "authorit": {
@@ -443,7 +443,7 @@
     "g_id": {
       "relevance": {
         "is_present": 1,
-        "difficulty": 3,
+        "difficulty": 4,
         "reason": -1
       },
       "authorit": {
@@ -515,7 +515,7 @@
     "g_id": {
       "relevance": {
         "is_present": 1,
-        "difficulty": 3,
+        "difficulty": 2,
         "reason": -1
       },
       "authorit": {
@@ -623,7 +623,7 @@
     "g_id": {
       "relevance": {
         "is_present": 1,
-        "difficulty": 3,
+        "difficulty": 0,
         "reason": -1
       },
       "authorit": {
@@ -731,7 +731,7 @@
     "g_id": {
       "relevance": {
         "is_present": 1,
-        "difficulty": 3,
+        "difficulty": 4,
         "reason": -1
       },
       "authorit": {
@@ -877,7 +877,7 @@
     "g_id": {
       "relevance": {
         "is_present": 1,
-        "difficulty": 3,
+        "difficulty": 0,
         "reason": -1
       },
       "authorit": {
@@ -913,7 +913,7 @@
     "g_id": {
       "relevance": {
         "is_present": 1,
-        "difficulty": 3,
+        "difficulty": 0,
         "reason": -1
       },
       "authorit": {
@@ -1055,7 +1055,7 @@
     "g_id": {
       "relevance": {
         "is_present": 1,
-        "difficulty": 3,
+        "difficulty": 4,
         "reason": -1
       },
       "authorit": {
@@ -1276,8 +1276,8 @@
       },
       "authorit": {
         "author": 1,
-        "publisher": 1,
-        "sub_publisher": 3
+        "publisher": 2,
+        "sub_publisher": -1
       }
     },
     "url_type": "external_url",
@@ -1413,7 +1413,7 @@
     "g_id": {
       "relevance": {
         "is_present": 1,
-        "difficulty": 1,
+        "difficulty": 3,
         "reason": -1
       },
       "authorit": {
@@ -1555,7 +1555,7 @@
     "g_id": {
       "relevance": {
         "is_present": 1,
-        "difficulty": 3,
+        "difficulty": 4,
         "reason": -1
       },
       "authorit": {

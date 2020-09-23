@@ -312,7 +312,7 @@
     "url": "https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-fornmin&srlanguage=sv&srid=10038104290001",
     "ref_node_pairs": {
       "stated in": "wikibase-item:>Monuments database->Q28563569",
-      "reference URL": "url:>https://tools.wmgit flabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-fornmin&srlanguage=sv&srid=10038104290001",
+      "reference URL": "url:>https://tools.wmflabs.org/heritage/api/api.php?action=search&format=json&srcountry=se-fornmin&srlanguage=sv&srid=10038104290001",
       "publication date": "time:>+2017-05-06T00:00:00Z"
     },
     "language_crawl": "sv",

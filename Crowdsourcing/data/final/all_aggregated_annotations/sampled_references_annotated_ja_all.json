@@ -82,7 +82,7 @@
     "g_id": {
       "relevance": {
         "is_present": 1,
-        "difficulty": 2,
+        "difficulty": 3,
         "reason": -1
       },
       "authorit": {
@@ -118,7 +118,7 @@
     "g_id": {
       "relevance": {
         "is_present": 1,
-        "difficulty": 2,
+        "difficulty": 4,
         "reason": -1
       },
       "authorit": {
@@ -152,7 +152,7 @@
     "g_id": {
       "relevance": {
         "is_present": 1,
-        "difficulty": 2,
+        "difficulty": 3,
         "reason": -1
       },
       "authorit": {
@@ -187,7 +187,7 @@
     "g_id": {
       "relevance": {
         "is_present": 1,
-        "difficulty": 3,
+        "difficulty": 2,
         "reason": -1
       },
       "authorit": {
@@ -325,7 +325,7 @@
     "g_id": {
       "relevance": {
         "is_present": 1,
-        "difficulty": 2,
+        "difficulty": 4,
         "reason": -1
       },
       "authorit": {
@@ -361,7 +361,7 @@
     "g_id": {
       "relevance": {
         "is_present": 1,
-        "difficulty": 2,
+        "difficulty": 3,
         "reason": -1
       },
       "authorit": {
@@ -466,7 +466,7 @@
     "g_id": {
       "relevance": {
         "is_present": 1,
-        "difficulty": 4,
+        "difficulty": 3,
         "reason": -1
       },
       "authorit": {
@@ -746,7 +746,7 @@
     "g_id": {
       "relevance": {
         "is_present": 1,
-        "difficulty": 2,
+        "difficulty": 3,
         "reason": -1
       },
       "authorit": {
@@ -852,7 +852,7 @@
     "g_id": {
       "relevance": {
         "is_present": 1,
-        "difficulty": 2,
+        "difficulty": 3,
         "reason": -1
       },
       "authorit": {
@@ -956,7 +956,7 @@
     "g_id": {
       "relevance": {
         "is_present": 1,
-        "difficulty": 2,
+        "difficulty": 3,
         "reason": -1
       },
       "authorit": {
@@ -1096,7 +1096,7 @@
     "g_id": {
       "relevance": {
         "is_present": 1,
-        "difficulty": 2,
+        "difficulty": 3,
         "reason": -1
       },
       "authorit": {
@@ -1130,7 +1130,7 @@
     "g_id": {
       "relevance": {
         "is_present": 1,
-        "difficulty": 2,
+        "difficulty": 3,
         "reason": -1
       },
       "authorit": {
@@ -1268,7 +1268,7 @@
     "g_id": {
       "relevance": {
         "is_present": 1,
-        "difficulty": 3,
+        "difficulty": 4,
         "reason": -1
       },
       "authorit": {
@@ -1304,7 +1304,7 @@
     "g_id": {
       "relevance": {
         "is_present": 1,
-        "difficulty": 2,
+        "difficulty": 4,
         "reason": -1
       },
       "authorit": {
@@ -1407,7 +1407,7 @@
     "g_id": {
       "relevance": {
         "is_present": 1,
-        "difficulty": 2,
+        "difficulty": 3,
         "reason": -1
       },
       "authorit": {
@@ -1443,7 +1443,7 @@
     "g_id": {
       "relevance": {
         "is_present": 1,
-        "difficulty": 2,
+        "difficulty": 3,
         "reason": -1
       },
       "authorit": {

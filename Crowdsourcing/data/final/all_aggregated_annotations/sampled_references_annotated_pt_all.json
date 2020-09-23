@@ -121,9 +121,9 @@
     "object": "metal",
     "g_id": {
       "relevance": {
-        "is_present": 0,
-        "difficulty": -1,
-        "reason": 5
+        "is_present": 1,
+        "difficulty": 0,
+        "reason": -1
       },
       "authorit": {
         "author": 1,
@@ -156,7 +156,7 @@
     "g_id": {
       "relevance": {
         "is_present": 1,
-        "difficulty": 4,
+        "difficulty": 3,
         "reason": -1
       },
       "authorit": {
@@ -224,7 +224,7 @@
     "g_id": {
       "relevance": {
         "is_present": 1,
-        "difficulty": 2,
+        "difficulty": 3,
         "reason": -1
       },
       "authorit": {
@@ -258,7 +258,7 @@
     "g_id": {
       "relevance": {
         "is_present": 1,
-        "difficulty": 4,
+        "difficulty": 3,
         "reason": -1
       },
       "authorit": {
@@ -400,7 +400,7 @@
     "g_id": {
       "relevance": {
         "is_present": 1,
-        "difficulty": 1,
+        "difficulty": 0,
         "reason": -1
       },
       "authorit": {
@@ -539,7 +539,7 @@
     "g_id": {
       "relevance": {
         "is_present": 1,
-        "difficulty": 4,
+        "difficulty": 3,
         "reason": -1
       },
       "authorit": {
@@ -681,7 +681,7 @@
     "g_id": {
       "relevance": {
         "is_present": 1,
-        "difficulty": 1,
+        "difficulty": 0,
         "reason": -1
       },
       "authorit": {
@@ -822,7 +822,7 @@
     "g_id": {
       "relevance": {
         "is_present": 1,
-        "difficulty": 1,
+        "difficulty": 3,
         "reason": -1
       },
       "authorit": {
@@ -1067,7 +1067,7 @@
     "g_id": {
       "relevance": {
         "is_present": 1,
-        "difficulty": 4,
+        "difficulty": 3,
         "reason": -1
       },
       "authorit": {
@@ -1175,9 +1175,9 @@
     "object": "Consensus statement on management of intersex disorders. International Consensus Conference on Intersex",
     "g_id": {
       "relevance": {
-        "is_present": 0,
-        "difficulty": -1,
-        "reason": 5
+        "is_present": 1,
+        "difficulty": 0,
+        "reason": -1
       },
       "authorit": {
         "author": 1,
@@ -1390,7 +1390,7 @@
     "g_id": {
       "relevance": {
         "is_present": 1,
-        "difficulty": 3,
+        "difficulty": 4,
         "reason": -1
       },
       "authorit": {
@@ -1424,7 +1424,7 @@
     "g_id": {
       "relevance": {
         "is_present": 1,
-        "difficulty": 2,
+        "difficulty": 3,
         "reason": -1
       },
       "authorit": {
@@ -1529,7 +1529,7 @@
     "g_id": {
       "relevance": {
         "is_present": 1,
-        "difficulty": 4,
+        "difficulty": 3,
         "reason": -1
       },
       "authorit": {
